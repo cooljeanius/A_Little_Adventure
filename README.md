@@ -7,3 +7,5 @@ not only the defense of the town, but also its economic rebirth, committing
 itself to reopening the legendary Amber Road!
 
 (Novice Level, 6 scenarios + 1 epilogue)
+
+Forum thread here: https://forums.wesnoth.org/viewtopic.php?f=8&t=47885
