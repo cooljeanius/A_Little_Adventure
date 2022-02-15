@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-02-15 01:51 UTC\n"
+"POT-Creation-Date: 2022-02-15 02:18 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,7 +17,7 @@ msgstr ""
 #. originally written by someone whose primary language is Italian.
 #. I have tried to clean up the English so that it sounds more
 #. natural, but some things may still be phrased oddly. If there is
-#. ever any English wording that you are having trouble, and you
+#. ever any English wording that you are having trouble with, and you
 #. also speak Italian, it may be worth consulting the Italian
 #. original and just translating directly from that instead of
 #. translating from the English version.
@@ -242,6 +242,7 @@ msgid "There's no one here? I'm a representative of the Wesnothian Army!"
 msgstr ""
 
 #. [message]: speaker=Divaid
+#. "I and my friend" works, too, but "Me and my friend" sounds more natural:
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:184
 msgid "There's me, here, representative of Wesnoth's busybodies! Me and my friend Ranfy. And this may also be territory of Wesnoth, but punch me if it isn't the first time I've seen its colors in at least... forty years! What are you doing here right now?"
 msgstr ""
@@ -461,6 +462,7 @@ msgid "Humansss? After all thisss time they wantsss to reconquessst this place? 
 msgstr ""
 
 #. [message]: speaker=Kssihiss
+#. probably meant "land mammal" here, but "lard mammal" makes sense, too, and is funnier:
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:393
 msgid "Ssstupid lard mammal, ssstay out of thisss ssstory or you won't be able to get out!"
 msgstr ""
@@ -671,6 +673,7 @@ msgid "Welcome, foreigners! It's been a long time since we last saw the colors o
 msgstr ""
 
 #. [message]: speaker=Glauco
+#. This is about as well as I can reword this:
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:569
 msgid "My greetings! I'm the commander Glauco, from Amoran; I came here to reopen the old Amber Road! There is someone in Wesnoth who came back from here who is mighty interested in it!"
 msgstr ""
@@ -847,6 +850,8 @@ msgid "I immediately understood that you were going there for the amber, and for
 msgstr ""
 
 #. [message]: speaker=Gan-Tarkas
+#. I thought the usage of "indemnify" here was wrong at first, but then I checked and I guess it works like this after all...
+#. it still might be worth rewording anyways, though.
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:726
 msgid "I know well they will be angry for the destruction of Amoran, but I'll retire immediately, I will make an act of contrition, I will say that I wanted to avenge Grunto and I'll indemnify Wesnoth with a little bit of gold. But in the meantime there will be nothing here, in the west, that Wesnoth may be interested to defend; and with the time I'll return, stealthily, to take all these territories, and my tribe will become the most powerful tribe of orcs on the whole continent!"
 msgstr ""
@@ -937,7 +942,8 @@ msgid "stun"
 msgstr ""
 
 #. [damage]: id=tail_stun
-#: A_Little_Adventure/utils/ALA_specials.cfg:10
+#. the "stun" ability is also in some mainline campaigns, I think; try to keep the translation string similar:
+#: A_Little_Adventure/utils/ALA_specials.cfg:11
 msgid "This attack hits so hard that the opponent is dazed and can no longer enforce a zone of control. The effect wears off on the opponent’s next turn."
 msgstr ""
 
@@ -1019,6 +1025,7 @@ msgid ""
 "Then a caravan route was established, a path which followed, more or less, the course of the Amber River through the Wild Lands, and the amber returned to arrive at Amoran, and from here into the whole kingdom of Wesnoth. Amoran experienced a long period of prosperity, becoming a town so important as to deserve the title of Capital of the wilds, until... fashion changed!"
 msgstr ""
 
+#. I don't think "dignifiedly" is an actual word, but I know what he means and can't think of any better word to use, so it can stay for now:
 #: A_Little_Adventure/utils/ALA_story.cfg:25
 msgid ""
 "Wesnoth's nobles and rich grew tired of amber, and for their own delight, the vanity of their kind consorts, and the pleasure of their keen lovers, they began to prefer the multi-colored precious stones that the dwarves pulled out of their mountains, and that were gotten more easily and with fewer vicissitudes than the amber coming into their hands.\n"
@@ -1226,30 +1233,31 @@ msgid "Merman Brawler"
 msgstr ""
 
 #. [unit_type]: id=Merman Brawler, race=merman
-#: A_Little_Adventure/units/Brawler.cfg:18
+#. Brawlers are also in Dead Water; try to keep the description similar:
+#: A_Little_Adventure/units/Brawler.cfg:19
 msgid "Exceptionally large and strong mermen are sometimes more comfortable with their own fists and tails than with other weapons."
 msgstr ""
 
 #. [attack]: type=impact
-#: A_Little_Adventure/units/Brawler.cfg:35
-#: A_Little_Adventure/units/Citizen.cfg:35
+#: A_Little_Adventure/units/Brawler.cfg:36
+#: A_Little_Adventure/units/Citizen.cfg:36
 msgid "fist"
 msgstr ""
 
 #. [attack]: type=impact
-#: A_Little_Adventure/units/Brawler.cfg:43
+#: A_Little_Adventure/units/Brawler.cfg:44
 msgid "tail"
 msgstr ""
 
 #. [set_variable]
-#: A_Little_Adventure/units/Brawler.cfg:111
-#: A_Little_Adventure/units/Brawler.cfg:173
+#: A_Little_Adventure/units/Brawler.cfg:112
+#: A_Little_Adventure/units/Brawler.cfg:174
 msgid "female^stunned"
 msgstr ""
 
 #. [set_variable]
-#: A_Little_Adventure/units/Brawler.cfg:117
-#: A_Little_Adventure/units/Brawler.cfg:179
+#: A_Little_Adventure/units/Brawler.cfg:118
+#: A_Little_Adventure/units/Brawler.cfg:180
 msgid "stunned"
 msgstr ""
 
@@ -1269,7 +1277,8 @@ msgid "Merman Citizen"
 msgstr ""
 
 #. [unit_type]: id=Merman Citizen, race=merman
-#: A_Little_Adventure/units/Citizen.cfg:18
+#. Merman Citizens are also in Dead Water; try to keep the description similar:
+#: A_Little_Adventure/units/Citizen.cfg:19
 msgid "Mermen are mostly peaceful, but will fight to defend their homes. In this situation, even mermen with no weapons or training can be dangerous."
 msgstr ""
 
@@ -1477,6 +1486,7 @@ msgid "Urca! House inhabited!"
 msgstr ""
 
 #. [message]: speaker=Mimord
+#. This is about as well as I think I can reword this:
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:395
 msgid "That's right, stupid ogre! And we were only missing you to complete my home! Well, if I break your head I will not do much damage, as you don't hold anything in there!"
 msgstr ""
