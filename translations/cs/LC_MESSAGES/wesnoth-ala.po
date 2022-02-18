@@ -99,7 +99,7 @@ msgstr ""
 #. [message]: speaker=Mimord
 #: A_Little_Adventure/utils/ALA_deaths.cfg:182
 msgid "At least... it... was... not... boring..."
-msgstr "Apoň... to... nebyla... nuda..."
+msgstr "Aspoň... to... nebyla... nuda..."
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_deaths.cfg:191
