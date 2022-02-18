@@ -2685,7 +2685,7 @@ msgid ""
 msgstr ""
 "Mladý důstojník wesnothské armády je poslán, aby velel malé posádce v "
 "bezvýznamném městečku v divočině dálného východu. Nečekaně zvládne nejen "
-"obranu města, ale i jeho ekonomické znovuzrození, zavazujíc se tak "
+"obranu města, ale i jeho ekonomické znovuzrození, zavazuje se tak "
 "znovuotevřít legendární Jantarovou stezku!"
 
 #. [campaign]: id=A_little_Adventure
