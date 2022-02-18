@@ -47,10 +47,8 @@ msgstr "Achich! To špatné!"
 #. presumably it would be something referring to whatever killed him:
 #: A_Little_Adventure/utils/ALA_deaths.cfg:74
 #: A_Little_Adventure/utils/ALA_deaths.cfg:115
-#, fuzzy
-#| msgid "I got caught... damned... "
 msgid "I got caught... damned..."
-msgstr "Dostali mě... sakra..."
+msgstr "Dostali mě... proklatci..."
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_deaths.cfg:78
@@ -84,8 +82,6 @@ msgstr ""
 
 #. [message]: speaker=Croquet
 #: A_Little_Adventure/utils/ALA_deaths.cfg:151
-#, fuzzy
-#| msgid "They will be damned! I'll avenge you, my little one!"
 msgid "Damn them! I'll avenge you, my little one!"
 msgstr "Ať jsou zatraceni! Pomstím tě, můj maličký!"
 
@@ -138,6 +134,8 @@ msgid ""
 "the east are approaching a band of armed people with a non-reassuring "
 "appearance."
 msgstr ""
+"Možná na tom nejsme tak dobře, abychom se jim ubránili, veliteli. Z východu "
+"se blíží skupina ozbrojených lidí, kteří nevypadají přívětivě."
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:32
@@ -146,6 +144,9 @@ msgid ""
 "approaching are the cutthroats of the Dadoc band. He came here to collect "
 "something, and it's definitely not the reward on his head."
 msgstr ""
+"A jejich pověst je ještě zlověstnější než jejich vzhled! Jsou to hrdlořezové "
+"z Dadokovy bandy. Přišel sem něco získat a rozhodně tím není odměna za jeho "
+"hlavu."
 
 #. [message]: speaker=Titus
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:36
@@ -531,7 +532,7 @@ msgstr ""
 #. [message]: speaker=Fangy
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:322
 msgid "GRRRRRR!"
-msgstr ""
+msgstr "GRRRRRR!"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:326
@@ -1987,7 +1988,7 @@ msgstr "luk"
 #. [unit_type]: id=EXI_Ogregreat, race=ogre
 #: A_Little_Adventure/units/Great_Ogre.cfg:5
 msgid "Giant Ogre"
-msgstr "Obrovský obr"
+msgstr "Obrovitý obr"
 
 #. [unit_type]: id=EXI_Ogregreat, race=ogre
 #: A_Little_Adventure/units/Great_Ogre.cfg:23
@@ -1997,7 +1998,7 @@ msgid ""
 "can be easily outrun or outsmarted, their strength is not to be "
 "underestimated."
 msgstr ""
-"Obrovští obři jsou veliké bytosti žijící v divočině a většinou samotářsky. "
+"Obrovití obři jsou veliké bytosti žijící v divočině a většinou samotářsky. "
 "Výrazně se podobají lidem, i když nabývají úctyhodných rozměrů a jsou "
 "deformovaní. I když jsou nemotorní a docela hloupí, jejich síla se nesmí "
 "podceňovat."
@@ -2116,7 +2117,7 @@ msgstr "Glauko zemře"
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:206
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:110
 msgid "Death of Geobard"
-msgstr ""
+msgstr "Geobard zemře"
 
 #. [objective]: condition=lose
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:50
@@ -2124,7 +2125,7 @@ msgstr ""
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:214
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:114
 msgid "Death of Glubtrub"
-msgstr ""
+msgstr "Glubtrub zemře"
 
 #. [event]
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:60
@@ -2248,12 +2249,12 @@ msgstr "Glauko dosáhne rozcestníku nad horami"
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:123
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:210
 msgid "Death of "
-msgstr ""
+msgstr "Zemře postava jménem "
 
 #. [message]: speaker=narrator
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:309
 msgid "Wesnoth Kingdom - Caravan Station n° 1"
-msgstr "království Wesnoth – přeprahací stanice č. 1"
+msgstr "království Wesnoth – přepřahací stanice č. 1"
 
 #. [message]: speaker=Mimord
 #. I'm assuming the "wrap" referred to here is an article of clothing:
@@ -2298,7 +2299,7 @@ msgstr ""
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:400
 msgid "Wait, that ogre is with us!"
-msgstr ""
+msgstr "Počkat, ten obr je s námi!"
 
 #. [message]: speaker=unit
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:406
@@ -2340,12 +2341,12 @@ msgstr "drápy"
 #. [objective]: condition=win
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:292
 msgid "Defeat of Dadoc"
-msgstr ""
+msgstr "Poraz Dadoka"
 
 #. [objective]: condition=lose
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:304
 msgid "Death of Divaid"
-msgstr ""
+msgstr "Divaid zemře"
 
 #. [objective]: condition=lose
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:308
@@ -2390,6 +2391,8 @@ msgid ""
 "Ranfy found a little bit of gold in that uninhabited house! Probably it was "
 "hidden by some bandit."
 msgstr ""
+"Ranfy našel v tom neobydleném domě trochu zlata! Nejspíš ho tam skryl nějaký "
+"bandita."
 
 #. [message]: speaker=unit
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:438
@@ -2399,7 +2402,7 @@ msgstr ""
 #. [message]: speaker=Dadoc
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:458
 msgid "End of run... for me..."
-msgstr ""
+msgstr "Skřípli... mě..."
 
 #. [message]: speaker=Divaid
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:468
@@ -2412,23 +2415,25 @@ msgid ""
 "This is the reward for your crimes, you dirty bandit Dadoc, in the name of "
 "all the people of this land!"
 msgstr ""
+"Tohle je odměna za tvoje zločiny, ty špinavý bandito Dadoku, ve jménu všech "
+"lidí této země!"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:484
 msgid ""
 "Amoran is more safe, now! This will give us the time to take care of "
 "something else!"
-msgstr ""
+msgstr "Amoran je teď bezpečnější! To nám dá čas věnovat se něčemu jinému!"
 
 #. [message]: speaker=Dadoc
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:506
 msgid "Farewell, men of Wesnoth, Dadoc will remain a free man! AH AH AH!"
-msgstr ""
+msgstr "Sbohem, wesnotští mužové, Dadok zůstane volný jako pták! HA HA HA!"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:510
 msgid "Damn, he escaped us. We must return to Amoran as failures!"
-msgstr ""
+msgstr "Sakra, utekl nám. Musíme se vrátit do Amoranu jako poražení!"
 
 #. [scenario]: id=02b_Battle_with_the_Orcs
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:5
@@ -2459,7 +2464,7 @@ msgstr ""
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:288
 msgid "Die, orc, for all of Amoran's people!"
-msgstr ""
+msgstr "Zemři, skřete! Ve jménu lidí Amoraku!"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:309
@@ -2478,7 +2483,7 @@ msgstr ""
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:148
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:264
 msgid "Defeat one enemy leader"
-msgstr ""
+msgstr "Poraz jednoho z nepřátelských vůdců"
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:286
@@ -2488,12 +2493,12 @@ msgstr ""
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:290
 msgid "Not bad, but not enough!"
-msgstr ""
+msgstr "To není špatné, ale nestačí to."
 
 #. [message]: speaker=second_unit
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:308
 msgid "Die, damned orc!"
-msgstr ""
+msgstr "Zemři, proklatý skřete!"
 
 #. [message]: speaker=Dadoc
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:312
@@ -2558,7 +2563,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:260
 msgid "Wesnoth Kingdom - Caravan Station n° 2"
-msgstr "království Wesnoth – přeprahací stanice č. 2"
+msgstr "království Wesnoth – přepřahací stanice č. 2"
 
 #. [message]: speaker=Kssihiss
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:271
@@ -2625,12 +2630,12 @@ msgstr ""
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:280
 msgid "Oh no, without the nereids' help, it was all in vain! I failed!"
-msgstr ""
+msgstr "Ach ne, bez pomoci nereid nemáme šanci! Selhal jsem!"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:291
 msgid "It's useless, and we cannot prevail! We failed!"
-msgstr ""
+msgstr "Je to zbytečné, nemůžeme zvítězit! Selhali jsme!"
 
 #. [campaign]: id=A_little_Adventure
 #: A_Little_Adventure/_main.cfg:13
@@ -2645,32 +2650,32 @@ msgstr "MD"
 #. [difficulty]
 #: A_Little_Adventure/_main.cfg:23
 msgid "Sergeant"
-msgstr ""
+msgstr "Seržant"
 
 #. [difficulty]
 #: A_Little_Adventure/_main.cfg:24
 msgid "Easy"
-msgstr ""
+msgstr "Lehká"
 
 #. [difficulty]
 #: A_Little_Adventure/_main.cfg:29
 msgid "Lieutenant"
-msgstr ""
+msgstr "Poručík"
 
 #. [difficulty]
 #: A_Little_Adventure/_main.cfg:30
 msgid "Normal"
-msgstr ""
+msgstr "Normální"
 
 #. [difficulty]
 #: A_Little_Adventure/_main.cfg:35
 msgid "General"
-msgstr ""
+msgstr "Generál"
 
 #. [difficulty]
 #: A_Little_Adventure/_main.cfg:36
 msgid "Difficult"
-msgstr ""
+msgstr "Obtížná"
 
 #. [campaign]: id=A_little_Adventure
 #: A_Little_Adventure/_main.cfg:40
@@ -2680,6 +2685,10 @@ msgid ""
 "not only the defense of the town, but also its economic rebirth, committing "
 "itself to reopening the legendary Amber Road! "
 msgstr ""
+"Mladý důstojník wesnothské armády je poslán, aby velel malé posádce v "
+"bezvýznamném městečku v divočině dálného východu. Nečekaně zvládne nejen "
+"obranu města, ale i jeho ekonomické znovuzrození, zavazuje se tak "
+"znovuotevřít legendární Jantarovou stezku!"
 
 #. [campaign]: id=A_little_Adventure
 #: A_Little_Adventure/_main.cfg:40
@@ -2688,11 +2697,14 @@ msgid ""
 "\t\n"
 "(Novice Level, 6 scenarios + 1 epilogue)"
 msgstr ""
+"\n"
+"\t\n"
+"(Úroveň nováček, 6 scénářů + epilog.)"
 
 #. [about]
 #: A_Little_Adventure/_main.cfg:51
 msgid "Campaign Design, prose and story Edits"
-msgstr ""
+msgstr "Návrh kampaně, úpravy prózy a příběhu"
 
 #. [about]
 #: A_Little_Adventure/_main.cfg:61
@@ -2702,7 +2714,7 @@ msgstr "Údržba kampaně"
 #. [about]
 #: A_Little_Adventure/_main.cfg:71
 msgid "Great Ogre character design and configuration"
-msgstr ""
+msgstr "Návrh a konfigurace jednotky obrovitého obra"
 
 #. [about]
 #: A_Little_Adventure/_main.cfg:78
@@ -2716,7 +2728,5 @@ msgstr "Italský překlad"
 
 #. [about]
 #: A_Little_Adventure/_main.cfg:98
-#, fuzzy
-#| msgid "Italian Translation"
 msgid "Czech Translation"
-msgstr "Italský překlad"
+msgstr "Český překlad"
