@@ -1475,9 +1475,9 @@ msgstr ""
 "velením kapitána Guberta Piegafetty a s pomocí Nereid vydali proti toku "
 "řeky, aby zjistili, jak daleko na západě se nachází její pramen. Následně "
 "Gozman pokračoval v cestě. Neodvažoval se, vzhledem k náladě na lodích, jimž "
-"velel, čelit nejistým situacím, které by se mohly vynořit při cestě na jih a "
-"tak se na zpáteční cestu do Elensefaru vydal již poznanou a v jistém smyslu "
-"bezpečnější severní cestou!\n"
+"velel, čelit nejistým situacím, které by se mohly vynořit při cestě na jih, "
+"a tak se na zpáteční cestu do Elensefaru vydal již poznanou a v jistém "
+"smyslu bezpečnější severní cestou!\n"
 "Admirál Abelardo Gozman se dokázal vrátit do Elensefaru, kam dorazil koncem "
 "léta roku 523 w. l. Když připlul, dostalo se mu poct a slávy, ale především "
 "se k němu dostala úžasná zpráva, že jeho poručík Guberto Piegafetta dorazil "
@@ -1487,7 +1487,7 @@ msgstr ""
 "také, že je snadno splavná až téměř k bažině, alespoň pro malý člun, jako "
 "byl ten, na kterém plul.\n"
 "Piegafetta s sebou přivezl dvě věci velké důležitosti, charakterizující "
-"divokou krajinu, kolem Jantarové řeky. První věcí bylo několik kusů zlatého "
+"divokou krajinu kolem Jantarové řeky. První věcí bylo několik kusů zlatého "
 "jantaru, které Nereidy běžně nacházely mezi oblázky na dně svého zálivu. "
 "Druhou věcí byla okolnost, že země, co prošel, jsou divoké, neobydlené a "
 "hlavně si je nikdo nenárokuje."
@@ -1525,7 +1525,7 @@ msgstr ""
 "kde Jantarová řeka přestávala být splavná, založili základnu a z ní začali "
 "posílat čluny do Nereidského zálivu. Základna se brzy stala prosperujícím "
 "městem, které bylo pojmenováno Amoran.\n"
-"Problémy začaly brzy ustavení obchodu s jantarem. Skřeti, kteří žili mezi "
+"Problémy začaly brzy po ustavení obchodu s jantarem. Skřeti, kteří žili mezi "
 "Jantarovou řekou Lintanirským lesem, se na veškerý říční provoz wesnothských "
 "člunů nedívali příznivě a chovali se tak, jak jsou skřeti v těchto případech "
 "zvyklí jednat. Na obou stranách bylo několik obětí a objevily se různé "
@@ -1578,7 +1578,7 @@ msgstr ""
 "Wesnothským šlechticům a boháčům se jantar omrzel. Pro své vlastní potěšení, "
 "ješitnost svých laskavých manželek a potěšení svých horlivých milenek začali "
 "dávat přednost pestrobarevným drahým kamenům, které trpaslíci kutali ze "
-"svých hor, a které bylo možné získat snadněji než jantar, který se jim "
+"svých hor a které bylo možné získat snadněji než jantar, který se jim "
 "dostával do rukou s mnohem většími peripetiemi.\n"
 "S poklesem a nakonec i zastavením dopravy jantaru upadal i Amoran, pomalu a "
 "důstojně jako stará dáma. Počet obyvatel postupně ubýval, živnosti končily, "
@@ -1598,7 +1598,7 @@ msgstr ""
 "nepostihla velká invaze nemrtvých roku 625 w. l., přestože nejspíš začala "
 "v nedalekých Východních vrších. To bylo štěstí, protože by Amoran v žádném "
 "případě nemohl tyto katastrofální události přežít! Obec přežila a... v jiný "
-"den, v jiném čase došlo k náhle změně poměrů!"
+"den, v jiném čase došlo k náhlé změně poměrů!"
 
 #: A_Little_Adventure/utils/ALA_story.cfg:33
 msgid ""
@@ -2242,7 +2242,7 @@ msgstr "Monstra"
 #. [objective]: condition=win
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:57
 msgid "Glauco reaches the signpost over the mountains"
-msgstr "Glauko dosáhne rozcestníku nad horami"
+msgstr "Glauko dosáhne rozcestníku na druhé straně hor"
 
 #. [objective]: condition=lose
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:69
@@ -2428,7 +2428,7 @@ msgstr "Amoran je teď bezpečnější! To nám dá čas věnovat se něčemu ji
 #. [message]: speaker=Dadoc
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:506
 msgid "Farewell, men of Wesnoth, Dadoc will remain a free man! AH AH AH!"
-msgstr "Sbohem, wesnotští mužové, Dadok zůstane volný jako pták! HA HA HA!"
+msgstr "Sbohem, wesnothští mužové, Dadok zůstane volný jako pták! HA HA HA!"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:510
