@@ -2720,7 +2720,7 @@ msgstr ""
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:220
 msgid ""
 "More monsters are coming from the north; they're like the ones from before!"
-msgstr "Ze severu přicházejí další monstra! Jsou stejná jako ty předchozí!"
+msgstr "Ze severu přicházejí další monstra! Jsou stejná jako ta předchozí!"
 
 #. [message]: speaker=Giksy
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:228
