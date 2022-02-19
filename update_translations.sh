@@ -1,0 +1,11 @@
+#!/bin/sh
+
+# This script is tailored to paths of where I have stuff installed on my own
+# machine; if other people would like to use it, too, making it more generic would
+# definitely be an option...
+
+/Users/localadmin/Library/Application\ Support/Steam/SteamApps/common/wesnoth/The\ Battle\ for\ Wesnoth.app/Contents/Resources/data/tools/wmlxgettext --directory=/Users/ericgallager/Library/Containers/org.wesnoth.Wesnoth/Data/Library/Application\ Support/Wesnoth_1.16/data/add-ons/A_Little_Adventure --recursive --domain=wesnoth-ala --warnall -o /Users/ericgallager/Library/Containers/org.wesnoth.Wesnoth/Data/Library/Application\ Support/Wesnoth_1.16/data/add-ons/A_Little_Adventure/translations/wesnoth-ala.pot
+msgmerge --previous --update --lang=it /Users/ericgallager/Library/Containers/org.wesnoth.Wesnoth/Data/Library/Application\ Support/Wesnoth_1.16/data/add-ons/A_Little_Adventure/translations/it/LC_MESSAGES/wesnoth-ala.po /Users/ericgallager/Library/Containers/org.wesnoth.Wesnoth/Data/Library/Application\ Support/Wesnoth_1.16/data/add-ons/A_Little_Adventure/translations/wesnoth-ala.pot
+msgmerge --previous --update --lang=cs /Users/ericgallager/Library/Containers/org.wesnoth.Wesnoth/Data/Library/Application\ Support/Wesnoth_1.16/data/add-ons/A_Little_Adventure/translations/cs/LC_MESSAGES/wesnoth-ala.po /Users/ericgallager/Library/Containers/org.wesnoth.Wesnoth/Data/Library/Application\ Support/Wesnoth_1.16/data/add-ons/A_Little_Adventure/translations/wesnoth-ala.pot
+msgfmt /Users/ericgallager/Library/Containers/org.wesnoth.Wesnoth/Data/Library/Application\ Support/Wesnoth_1.16/data/add-ons/A_Little_Adventure/translations/it/LC_MESSAGES/wesnoth-ala.po -o /Users/ericgallager/Library/Containers/org.wesnoth.Wesnoth/Data/Library/Application\ Support/Wesnoth_1.16/data/add-ons/A_Little_Adventure/translations/it/LC_MESSAGES/wesnoth-ala.mo
+msgfmt /Users/ericgallager/Library/Containers/org.wesnoth.Wesnoth/Data/Library/Application\ Support/Wesnoth_1.16/data/add-ons/A_Little_Adventure/translations/cs/LC_MESSAGES/wesnoth-ala.po -o /Users/ericgallager/Library/Containers/org.wesnoth.Wesnoth/Data/Library/Application\ Support/Wesnoth_1.16/data/add-ons/A_Little_Adventure/translations/cs/LC_MESSAGES/wesnoth-ala.mo

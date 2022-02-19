@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-02-18 00:59 UTC\n"
+"POT-Creation-Date: 2022-02-19 19:09 UTC\n"
 "PO-Revision-Date: 2021-02-08 20:53+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -2627,6 +2627,35 @@ msgstr "female^stordimento"
 msgid "stunned"
 msgstr "stordito"
 
+#. [unit_type]: id=She Ogre, race=ogre
+#: A_Little_Adventure/units/She_Ogre.cfg:6
+#, fuzzy
+#| msgid "Ogres"
+msgid "She Ogre"
+msgstr "Ogre"
+
+#. [unit_type]: id=She Ogre, race=ogre
+#. reworded a bit:
+#: A_Little_Adventure/units/She_Ogre.cfg:24
+msgid ""
+"A bit less stupid than their male counterparts, the ogre females spend the "
+"first part of their lives learning how use herbs and minerals to cure wound "
+"and poisons, and secondly, how to apply this knowledge to the male ogres. "
+"They don't like iron weapons, but rather, they efficently use small but hard "
+"clubs of wood, and leather slings, to defend themselves."
+msgstr ""
+
+#. [attack]: type=impact
+#: A_Little_Adventure/units/She_Ogre.cfg:44
+#: A_Little_Adventure/units/Matronly_Ogresses.cfg:44
+msgid "club"
+msgstr ""
+
+#. [attack]: type=impact
+#: A_Little_Adventure/units/She_Ogre.cfg:53
+msgid "sling"
+msgstr ""
+
 #. [unit_type]: id=Naga Sentinel, race=naga
 #: A_Little_Adventure/units/Naga_Sentinel.cfg:5
 msgid "Naga Sentinel"
@@ -2644,6 +2673,21 @@ msgstr ""
 "e più pesantemente corazzati della maggior parte dei naga e brandiscono "
 "enormi mazze che usano per schiacciare i loro nemici. Per lo più sorvegliano "
 "gli avamposti dei naga, ma occasionalmente partecipano a raid offensivi."
+
+#. [unit_type]: id=Matronly Ogresses, race=ogre
+#: A_Little_Adventure/units/Matronly_Ogresses.cfg:6
+#, fuzzy
+#| msgid "Giant Ogre"
+msgid "Matronly Ogre"
+msgstr "Ogre Gigantesco"
+
+#. [unit_type]: id=Matronly Ogresses, race=ogre
+#: A_Little_Adventure/units/Matronly_Ogresses.cfg:24
+msgid ""
+"As they grow older, she-ogres gain weight, so they lose the agility "
+"necessary to use a sling, but, in exchange, they gain the capability to use "
+"a bigger and better club."
+msgstr ""
 
 #. [unit_type]: id=Merman Citizen, race=merman
 #: A_Little_Adventure/units/Citizen.cfg:5
