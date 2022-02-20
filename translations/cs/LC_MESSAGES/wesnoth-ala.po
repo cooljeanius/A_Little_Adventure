@@ -362,7 +362,7 @@ msgid ""
 "it! Whether he be friend or foe, he will tell us something about this place, "
 "with good manners in the first case, and with bad ones in the second."
 msgstr ""
-"Podívejte, pane! Támhle je chata! Půjdu se podívat, jestli v něm někdo "
+"Podívejte, pane! Támhle je chata! Půjdu se podívat, jestli v ní někdo "
 "bydlí! Ať už je to přítel nebo nepřítel, řekne nám něco o tomto místě, buď "
 "po dobrém nebo po zlém."
 
