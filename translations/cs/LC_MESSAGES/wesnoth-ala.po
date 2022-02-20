@@ -2362,7 +2362,7 @@ msgid ""
 "I'll make a wrap out of your fur!"
 msgstr ""
 "Zatracení vlci, myslel jsem, že jsem vás naučil nechodit do mého domu! "
-"Dobře, udělám ti z tebe předložku!"
+"Dobře, udělám si z tebe předložku!"
 
 #. [message]: speaker=Croquet
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:360
