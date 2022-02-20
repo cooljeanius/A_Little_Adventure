@@ -207,7 +207,7 @@ msgid ""
 "some bandits, as you can see, and your arrival is welcome, albeit unexpected!"
 msgstr ""
 "Rád vás vidím, pane jezdče! Máme trochu problém s některými skřety a "
-"bandity, jak vidíte. I když jsme vás nečekali je váš příchod je vítán!"
+"bandity, jak vidíte. I když jsme vás nečekali, váš příchod je vítán!"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:87
