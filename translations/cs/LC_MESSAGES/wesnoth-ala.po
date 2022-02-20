@@ -273,7 +273,7 @@ msgid ""
 msgstr ""
 "Z Jantarové stezky už zbyly jen fragmenty nejistých cest, které křižují "
 "divoké oblasti. To jsou území, kde místo zákonů Wesnothu vládne zákon "
-"nejsilnější skupiny, a nejsou to vždy lidské bandy. Řeka by byla splavná od "
+"nejsilnější skupiny a nejsou to vždy lidské bandy. Řeka by byla splavná od "
 "východních břehů kontinentu až sem, ale slouží jako hranice s územím skřetů "
 "a žádným lodím po ní není povolen tranzit."
 
