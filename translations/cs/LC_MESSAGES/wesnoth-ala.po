@@ -334,7 +334,7 @@ msgid ""
 msgstr ""
 "...veliteli? Technicky vzato jsem jen seržant, ale protože jsi jen "
 "kavalerista, myslím, že tě pořád převyšuji... Každopádně, jsem pro tebe "
-"seržant Glauko, kavaleristo! Doufám, že budu hoden vaší důvěry! A teď, "
+"seržant Glauko, kavaleristo! Doufám, že budu hoden tvé důvěry! A teď, "
 "vyžeňme tu chátru!"
 
 #. [message]: id=Dadoc
