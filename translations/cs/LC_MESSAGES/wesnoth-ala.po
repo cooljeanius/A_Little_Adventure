@@ -252,7 +252,7 @@ msgid ""
 msgstr ""
 "Vystrašeni a vyčerpáni po mnoha dnech bitvy začali naverbovaní, boji "
 "nezvyklí civilisté dezertovat! Velké mezery, které se otevřely v řadách "
-"obránců, učinily ty, kteří stále vytrvali v boji, ještě zranitelnějšími, a "
+"obránců, učinily ty, kteří stále vytrvali v boji, ještě zranitelnějšími a "
 "brzy byl konec!"
 
 #. [message]: speaker=Glauco
