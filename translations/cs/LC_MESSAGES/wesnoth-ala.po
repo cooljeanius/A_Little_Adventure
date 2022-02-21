@@ -1372,7 +1372,7 @@ msgstr ""
 "má rád! Takže moji noví společníci, věci se mají takto: Dadok má určitý "
 "počet úkrytů v lese, kde se porůznu placatí členové jeho bandy, když nemají "
 "co na práci. Abychom našli Dadoka, budeme se muset prohrabat jedním úkrytem "
-"za druhým. Pokud budeme mít štěstí, najdeme Dadoka okamžitě a pokud ne, "
+"za druhým. Pokud budeme mít štěstí, najdeme Dadoka okamžitě, a pokud ne, "
 "budeme je muset prozkoumat všechny. Ale na to možná nemáme čas."
 
 #. [message]: speaker=Glauco
