@@ -2309,7 +2309,7 @@ msgstr ""
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:811
 msgid ""
 "Here's to hoping it isn't the opportunity for the nagas to get rid of us!"
-msgstr "Doufám, že to nebude příležitost pro nágy, aby se zbavili nás!"
+msgstr "Doufám, že to nebude příležitost pro nágy, aby se zbavily nás!"
 
 #. [time]: id=dawn_12h
 #: A_Little_Adventure/utils/ALA_schedules.cfg:21
