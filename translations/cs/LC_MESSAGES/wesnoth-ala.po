@@ -1314,7 +1314,7 @@ msgid ""
 "will save a little bit of work for your... nice friend."
 msgstr ""
 "Zdá se, že toto místo dobře znáš, proč nám nepomůžeš? Eliminací Dadoka "
-"ušetříš trochu práce tvému... milému kamarádovi."
+"ušetříš trochu práce svému... milému kamarádovi."
 
 #. [message]: speaker=Divaid
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:214
