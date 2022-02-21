@@ -2620,7 +2620,7 @@ msgstr ""
 "Glaukovi získat další vojáky a ponechat sedláky a dřevorubce jejich práci. "
 "Když cítil, že má dostatek vojáků, tedy když už na ně neměl k dispozici "
 "další peníze, vydal se směrem k lesu. Do toho se, jak všichni věděli, "
-"uchyloval Dadok, aby si užil plody svých nájezdů nebo jako v tomto případě "
+"uchyloval Dadok, aby si užil plody svých nájezdů nebo, jako v tomto případě, "
 "aby si olízal své rány."
 
 #: A_Little_Adventure/utils/ALA_story.cfg:43
