@@ -1336,7 +1336,7 @@ msgid ""
 "you come with us as a guide? I have a desperate need for someone who knows "
 "the wildlands, and I'll pay well."
 msgstr ""
-"Až odevzdáme Dadok soudu, půjdeme na východ, abychom se setkali s nereidami. "
+"Až odevzdáme Dadoka soudu, půjdeme na východ, abychom se setkali s nereidami. "
 "Mohl bys jít s námi jako průvodce? Zoufale potřebuji někoho, kdo zná "
 "divočinu, a dobře zaplatím."
 
