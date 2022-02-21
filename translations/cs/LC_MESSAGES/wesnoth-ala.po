@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-02-20 18:55 UTC\n"
+"POT-Creation-Date: 2022-02-21 22:55 UTC\n"
 "PO-Revision-Date: 2022-02-19 23:03+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: \n"
@@ -2570,7 +2570,8 @@ msgstr ""
 "první příležitosti ukážu svou cenu! Po několika velmi dlouhých a velmi "
 "nudných měsících se konečně naskytla příležitost. Nebyla ale vůbec přívětivá."
 
-#: A_Little_Adventure/utils/ALA_story.cfg:39
+#. yes, the third sentence here is kind of a run-on; suggestions on how to reword it are welcome:
+#: A_Little_Adventure/utils/ALA_story.cfg:40
 msgid ""
 "Having defeated Grunto the Orc, Glauco thought it was time to settle the "
 "accounts with Dadoc and his band. The arrival of Geobard with orders of "
@@ -2581,7 +2582,7 @@ msgid ""
 "case, or to enjoy the fruits of his raids."
 msgstr ""
 
-#: A_Little_Adventure/utils/ALA_story.cfg:43
+#: A_Little_Adventure/utils/ALA_story.cfg:44
 msgid ""
 "But, having departed with plenty of enthusiasm, our sergeant lost much of "
 "his boldness when he found himself on the edge of the forest; there was no "
@@ -2591,7 +2592,7 @@ msgid ""
 "night,' he told himself, 'Tomorrow we'll see what to do.'"
 msgstr ""
 
-#: A_Little_Adventure/utils/ALA_story.cfg:48
+#: A_Little_Adventure/utils/ALA_story.cfg:49
 msgid ""
 "With Dadoc's gang out of the games, and emboldened by the victory obtained "
 "and by his new commander prerogatives, Glauco decided to face at least one "
@@ -2605,7 +2606,7 @@ msgid ""
 "known numbers, was, however, risky and full of unknowns."
 msgstr ""
 
-#: A_Little_Adventure/utils/ALA_story.cfg:52
+#: A_Little_Adventure/utils/ALA_story.cfg:53
 msgid ""
 "So Glauco decided only to rely on professional soldiers, who would not fall "
 "in panic in the face of the fierce appearance of the orcs. When he finally "
@@ -2620,7 +2621,7 @@ msgid ""
 "the previous battle and watch over the town against any nasty surprises!"
 msgstr ""
 
-#: A_Little_Adventure/utils/ALA_story.cfg:56
+#: A_Little_Adventure/utils/ALA_story.cfg:57
 msgid ""
 "Grunto was the chief of a tribe smaller than his ambitions, and its "
 "territory was so small that it took only a few days for the Glauco's troops "
@@ -2629,7 +2630,7 @@ msgid ""
 "led by Glauco!"
 msgstr ""
 
-#: A_Little_Adventure/utils/ALA_story.cfg:60
+#: A_Little_Adventure/utils/ALA_story.cfg:61
 msgid ""
 "Having defeated orcs and bandits, Amoran would have a period of quiet life, "
 "at least until some orcish chiefs decided to settle on the lands of Grunto, "
@@ -2642,7 +2643,7 @@ msgid ""
 "the river."
 msgstr ""
 
-#: A_Little_Adventure/utils/ALA_story.cfg:64
+#: A_Little_Adventure/utils/ALA_story.cfg:65
 msgid ""
 "The only alternative was the old caravan track, which for most of its "
 "journey supported the course of the river; but the track was in disastrous "
@@ -2654,7 +2655,7 @@ msgid ""
 "contacts with the Eastern Nereids would be restored."
 msgstr ""
 
-#: A_Little_Adventure/utils/ALA_story.cfg:68
+#: A_Little_Adventure/utils/ALA_story.cfg:69
 msgid ""
 "The only way to contact the eastern nereids was to cross the wildlands; "
 "Glauco, with the resources he could dispose, put together a small "
@@ -2665,7 +2666,7 @@ msgid ""
 "would have been better if it had not been so."
 msgstr ""
 
-#: A_Little_Adventure/utils/ALA_story.cfg:72
+#: A_Little_Adventure/utils/ALA_story.cfg:73
 msgid ""
 "Now the only obstacle separating Glauco's company from the sea was: a chain "
 "of low hills that the river literally grazed with its southern shore; not "
@@ -2675,7 +2676,7 @@ msgid ""
 "the past those hills had been inhabited, and now they were inhabited again."
 msgstr ""
 
-#: A_Little_Adventure/utils/ALA_story.cfg:76
+#: A_Little_Adventure/utils/ALA_story.cfg:77
 msgid ""
 "Finally, the increasingly heterogeneous group of our heroes reached the end "
 "of the river, on the warm shores of the far east of the continent of Irdya. "
@@ -2685,7 +2686,7 @@ msgid ""
 "famous proverb says... it would has been better if they had been."
 msgstr ""
 
-#: A_Little_Adventure/utils/ALA_story.cfg:80
+#: A_Little_Adventure/utils/ALA_story.cfg:81
 msgid ""
 "Having defeated the Saurians and re-established the trade relations with the "
 "Nereids, Glauco could finally return to Amoran bringing with him a lot of "
@@ -2696,7 +2697,7 @@ msgid ""
 "qualities that, for Glauco, were worth more than a few pieces of gold."
 msgstr ""
 
-#: A_Little_Adventure/utils/ALA_story.cfg:84
+#: A_Little_Adventure/utils/ALA_story.cfg:85
 msgid ""
 "But, having come to the town, Glauco had to see that someone, with a lot of "
 "fighting spirit and sense of initiative, had already arrived, but had not "
@@ -2707,7 +2708,7 @@ msgid ""
 "considerable number of orcs."
 msgstr ""
 
-#: A_Little_Adventure/utils/ALA_story.cfg:89
+#: A_Little_Adventure/utils/ALA_story.cfg:90
 msgid ""
 "Suddenly, Glauco was extremely happy that the men he had with him had "
 "accumulated a good amount of combat experience; and he was as much happy "
@@ -2715,7 +2716,7 @@ msgid ""
 "human town was made, were still with him."
 msgstr ""
 
-#: A_Little_Adventure/utils/ALA_story.cfg:94
+#: A_Little_Adventure/utils/ALA_story.cfg:95
 msgid ""
 "The news of the defeat of Gan-Tarkas quickly reached before Soradoc and then "
 "Weldyn; just as quickly Glauco was summoned to the capital city, where the "
@@ -2724,7 +2725,7 @@ msgid ""
 "remember being subject to his crown."
 msgstr ""
 
-#: A_Little_Adventure/utils/ALA_story.cfg:98
+#: A_Little_Adventure/utils/ALA_story.cfg:99
 msgid ""
 "Glauco and Geobard went to the capital to report, on what had happened, to "
 "their august and a little distracted sovereign. When the mission was "
@@ -2739,7 +2740,7 @@ msgid ""
 "the large cities of the west seemed now, to him, suffocating."
 msgstr ""
 
-#: A_Little_Adventure/utils/ALA_story.cfg:103
+#: A_Little_Adventure/utils/ALA_story.cfg:104
 msgid ""
 "The renewed amber trade did not bring to the town all the benefits that "
 "Glauco had hoped, but the market that was held there twice a year, in spring "
@@ -2753,7 +2754,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/utils/ALA_story.cfg:109
+#: A_Little_Adventure/utils/ALA_story.cfg:110
 msgid ""
 "Geobard was promoted by the King himself, so he returned to Soradoc, where "
 "he became the trustworthy man of the count, as well as the same of many of "
@@ -2761,7 +2762,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Glubtrub
-#: A_Little_Adventure/utils/ALA_story.cfg:116
+#: A_Little_Adventure/utils/ALA_story.cfg:117
 msgid ""
 "To Glubtrub and the tribe of the old post station were given perpetual "
 "concession to the territory in which they lived, and only the Nereids were "
@@ -2773,7 +2774,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Glubtrub
-#: A_Little_Adventure/utils/ALA_story.cfg:120
+#: A_Little_Adventure/utils/ALA_story.cfg:121
 msgid ""
 "Because of so much prosperity, always according to an ogre judgment, "
 "Glubtrub would have been remembered, in the small history of his tribe, as "
@@ -2782,7 +2783,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Croquet
-#: A_Little_Adventure/utils/ALA_story.cfg:128
+#: A_Little_Adventure/utils/ALA_story.cfg:129
 msgid ""
 "Croquet returned to his life in the woods, along with his 'girlfriend', but "
 "returned to Amoran whenever he wanted to drink a good beer with friends and "
@@ -2790,7 +2791,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Croquet
-#: A_Little_Adventure/utils/ALA_story.cfg:135
+#: A_Little_Adventure/utils/ALA_story.cfg:136
 msgid ""
 "Croquet returned to his life in the woods, but he was sad without his "
 "'girlfriend', so he returned to Amoran whenever he wanted a good beer and "
@@ -2799,7 +2800,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Fangy
-#: A_Little_Adventure/utils/ALA_story.cfg:142
+#: A_Little_Adventure/utils/ALA_story.cfg:143
 msgid ""
 "Fangy had stayed with Glauco until the end of the battle against Gan-Tarkas, "
 "simply because that was what Croquet would do; then she disappeared, and no "
@@ -2810,7 +2811,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Divaid
-#: A_Little_Adventure/utils/ALA_story.cfg:150
+#: A_Little_Adventure/utils/ALA_story.cfg:151
 msgid ""
 "Divaid and Ranfy returned to their woods, mumbling that they had helped the "
 "Wesnothians to fill their house of westerner yahoos; but they didn't really "
@@ -2821,7 +2822,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Divaid
-#: A_Little_Adventure/utils/ALA_story.cfg:157
+#: A_Little_Adventure/utils/ALA_story.cfg:158
 msgid ""
 "Divaid returned to his life in the woods, but he was sad without his friend, "
 "so he returned to Amoran whenever he wanted a good beer and equally good "
@@ -2830,7 +2831,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Ranfy
-#: A_Little_Adventure/utils/ALA_story.cfg:164
+#: A_Little_Adventure/utils/ALA_story.cfg:165
 msgid ""
 "Ranfy disappeared immediately after the end of the battle against Gan-"
 "Tarkas. He returned two months later, with a companion, and made his nest "
@@ -2842,7 +2843,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mimord
-#: A_Little_Adventure/utils/ALA_story.cfg:171
+#: A_Little_Adventure/utils/ALA_story.cfg:172
 msgid ""
 "Mimord remained in Amoran for a short time; then began to get bored and left "
 "for the north, looking for his old companions; in the end, even he didn't "
@@ -2850,7 +2851,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_story.cfg:178
+#: A_Little_Adventure/utils/ALA_story.cfg:179
 msgid ""
 "Glauco and his friends had other adventures later, as was inevitable for "
 "those who were called to manage a territory so vast in which they still "
@@ -2858,7 +2859,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_story.cfg:182
+#: A_Little_Adventure/utils/ALA_story.cfg:183
 msgid ""
 "Glauco did not mind at all, in his serene old age, to tell his adventures to "
 "anyone asked him, sons, nephews, or great-grandchildren that they were; but "

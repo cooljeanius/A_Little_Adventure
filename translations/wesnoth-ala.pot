@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-02-20 18:55 UTC\n"
+"POT-Creation-Date: 2022-02-21 22:55 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1793,129 +1793,130 @@ msgid ""
 "He departed full of enthusiasm and arrived at his destination full of ideas, all unworkable, matured in two weeks of travel. As soon as he arrived, and after the initial discouragement that gave him the resigned appearance of the town and the miserable composition of the garrison placed under his command, he rolled up his sleeves and said to himself: I will show my worth, at the first occasion! After a few very long and very boring months, the opportunity finally presented itself, but it didn't have a beautiful face at all."
 msgstr ""
 
-#: A_Little_Adventure/utils/ALA_story.cfg:39
+#. yes, the third sentence here is kind of a run-on; suggestions on how to reword it are welcome:
+#: A_Little_Adventure/utils/ALA_story.cfg:40
 msgid "Having defeated Grunto the Orc, Glauco thought it was time to settle the accounts with Dadoc and his band. The arrival of Geobard with orders of Wesnoth allowed Glauco to leave peasants and woodcutters to their jobs and to enlist other soldiers. When he felt he had enough soldiers, that is, when he didn't have any more money available, he set off towards the forest in which, as everyone knew, Dadoc took refuge to lick his wounds, as in this case, or to enjoy the fruits of his raids."
 msgstr ""
 
-#: A_Little_Adventure/utils/ALA_story.cfg:43
+#: A_Little_Adventure/utils/ALA_story.cfg:44
 msgid "But, having departed with plenty of enthusiasm, our sergeant lost much of his boldness when he found himself on the edge of the forest; there was no trace of paths anywhere, and the trunks of the trees were so thick as to look like the walls of a fortress, so the question arose of how to find someone in a similar green jumble. 'Meanwhile, let's mount a camp for the night,' he told himself, 'Tomorrow we'll see what to do.'"
 msgstr ""
 
-#: A_Little_Adventure/utils/ALA_story.cfg:48
+#: A_Little_Adventure/utils/ALA_story.cfg:49
 msgid "With Dadoc's gang out of the games, and emboldened by the victory obtained and by his new commander prerogatives, Glauco decided to face at least one of others Amoran's problems, that's to say Grunto the orc; as Grunto was not a member of the tribes associated with the Northern Alliance, it would be unlikely that other orcish chiefs would help him, especially now that he had already been defeated in the previous battle, and therefore he saw his reputation finish, as it's called among the orcs, in a troll latrine. However, emboldening had not meant that he had become stupid, for the young sergeant. A campaign in hostile territory, against forces with only partly-known numbers, was, however, risky and full of unknowns."
 msgstr ""
 
-#: A_Little_Adventure/utils/ALA_story.cfg:52
+#: A_Little_Adventure/utils/ALA_story.cfg:53
 msgid "So Glauco decided only to rely on professional soldiers, who would not fall in panic in the face of the fierce appearance of the orcs. When he finally crossed the ford of Amoran, he not only had reliable troops (though not too experienced ones), but he had also completely emptied the garrison's coffers, like his pockets. On the other hand, having claimed the reward on the head of Dadoc, the bold young man preferred to invest in lances, war archers, and armor, rather than spend that gold in ways more pleasant but, given the venture in which he had slipped, also less useful for keeping his head on his neck. For the sake of prudence, what remained of the original garrison was left to Amoran, so that it would recover from the fatigue of the previous battle and watch over the town against any nasty surprises!"
 msgstr ""
 
-#: A_Little_Adventure/utils/ALA_story.cfg:56
+#: A_Little_Adventure/utils/ALA_story.cfg:57
 msgid "Grunto was the chief of a tribe smaller than his ambitions, and its territory was so small that it took only a few days for the Glauco's troops to arrive in sight of the orcish fort. The battle could start, but even though the orcish tribe was small, it might have been too big for the men led by Glauco!"
 msgstr ""
 
-#: A_Little_Adventure/utils/ALA_story.cfg:60
+#: A_Little_Adventure/utils/ALA_story.cfg:61
 msgid "Having defeated orcs and bandits, Amoran would have a period of quiet life, at least until some orcish chiefs decided to settle on the lands of Grunto, or until a new bandit boss rose. Glauco thought that this was the right time to make an attempt to re-establish the amber way. The questions was: how to do so! The Amber River was deep and navigable from the east coast of the continent to Amoran, but it also served as a border with the territories of the orcs, and the treaties stipulated with the Northern Alliance provided, to guarantee the security of the borders, that no boat could go up or down the river."
 msgstr ""
 
-#: A_Little_Adventure/utils/ALA_story.cfg:64
+#: A_Little_Adventure/utils/ALA_story.cfg:65
 msgid "The only alternative was the old caravan track, which for most of its journey supported the course of the river; but the track was in disastrous conditions, the stations were abandoned for decades and nothing was known about their state, although it was easily understood that it would not be a good state; in short, re-establishing the caravan route would have cost a fortune that the Wesnoth government would not have allocated. But Glauco had an idea to get around all these problems, only that this idea required that contacts with the Eastern Nereids would be restored."
 msgstr ""
 
-#: A_Little_Adventure/utils/ALA_story.cfg:68
+#: A_Little_Adventure/utils/ALA_story.cfg:69
 msgid "The only way to contact the eastern nereids was to cross the wildlands; Glauco, with the resources he could dispose, put together a small expedition, recruited $trapper_name as a guide, and entered the lands of the east following the remnants of traces that survived the degradation of the Amber Road; a few days later they came in sight of one of the most important station, and they discovered that the station was still inhabited, but it would have been better if it had not been so."
 msgstr ""
 
-#: A_Little_Adventure/utils/ALA_story.cfg:72
+#: A_Little_Adventure/utils/ALA_story.cfg:73
 msgid "Now the only obstacle separating Glauco's company from the sea was: a chain of low hills that the river literally grazed with its southern shore; not being able to overcome the river, and being too long to wander from the south, Glauco decided that they were going through the hills, looking for those steps that the ancient Amber Road used to travel in the past. But in the past those hills had been inhabited, and now they were inhabited again."
 msgstr ""
 
-#: A_Little_Adventure/utils/ALA_story.cfg:76
+#: A_Little_Adventure/utils/ALA_story.cfg:77
 msgid "Finally, the increasingly heterogeneous group of our heroes reached the end of the river, on the warm shores of the far east of the continent of Irdya. As it was in the expectations, and in the hopes, of the young commander, the eastern nereids still inhabited the lagoon just south of the mouth of the river; the problem was, for a change, that they were not alone, and as the famous proverb says... it would has been better if they had been."
 msgstr ""
 
-#: A_Little_Adventure/utils/ALA_story.cfg:80
+#: A_Little_Adventure/utils/ALA_story.cfg:81
 msgid "Having defeated the Saurians and re-established the trade relations with the Nereids, Glauco could finally return to Amoran bringing with him a lot of good news. To think that the town could relive its past splendor was not yet possible, but, besides the renewed traffic of amber, the wild lands were a little less savage than before, and this could attract settlers from the west; could attract people endowed with courage and spirit of initiative, qualities that, for Glauco, were worth more than a few pieces of gold."
 msgstr ""
 
-#: A_Little_Adventure/utils/ALA_story.cfg:84
+#: A_Little_Adventure/utils/ALA_story.cfg:85
 msgid "But, having come to the town, Glauco had to see that someone, with a lot of fighting spirit and sense of initiative, had already arrived, but had not brought anything that the good and peaceful people of Amoran could really appreciate. Where the small field camp of Grunto's tribe had arisen for the short space of a few days previously, there was now a solid Orcish fortress, and the number of huts surrounding it announced the presence of a considerable number of orcs."
 msgstr ""
 
-#: A_Little_Adventure/utils/ALA_story.cfg:89
+#: A_Little_Adventure/utils/ALA_story.cfg:90
 msgid "Suddenly, Glauco was extremely happy that the men he had with him had accumulated a good amount of combat experience; and he was as much happy that Glubtrub and his ogres, struck by the sudden curiosity to see how a human town was made, were still with him."
 msgstr ""
 
-#: A_Little_Adventure/utils/ALA_story.cfg:94
+#: A_Little_Adventure/utils/ALA_story.cfg:95
 msgid "The news of the defeat of Gan-Tarkas quickly reached before Soradoc and then Weldyn; just as quickly Glauco was summoned to the capital city, where the king wanted to know, by word and by sign, because events so resounding were happening, without his knowledge, in lands that, often, even he didn't remember being subject to his crown."
 msgstr ""
 
-#: A_Little_Adventure/utils/ALA_story.cfg:98
+#: A_Little_Adventure/utils/ALA_story.cfg:99
 msgid ""
 "Glauco and Geobard went to the capital to report, on what had happened, to their august and a little distracted sovereign. When the mission was accomplished, the sergeant Glauco found himself promoted to general without having been an officer before. When the king asked him what garrison he wanted to be assigned to, he replied, after a brief reflection - Amoran will be fine, there is a lot of work to do, again, and I don't like to leave things in half -\n"
 "And there were many things to do in Amoran, but Glauco, who was also appointed civil governor of the town and of all the wild lands to the east of it, did it with enthusiasm, because he had grown fond of the place, and the large cities of the west seemed now, to him, suffocating."
 msgstr ""
 
-#: A_Little_Adventure/utils/ALA_story.cfg:103
+#: A_Little_Adventure/utils/ALA_story.cfg:104
 msgid "The renewed amber trade did not bring to the town all the benefits that Glauco had hoped, but the market that was held there twice a year, in spring and autumn, when the Nereids went up the river, slowly spread the notoriety of the place in all the kingdom and in the lands of the northern alliance, thus ending up attracting settlers eager for new spaces and willing to spend effort and sweat to build something; the wild lands became a little less savage and a little more inhabited; nothing that, for heaven's sake, the land was so great and the colonists were still few, but it was enough because the decadence of Amoran would undergo a quiet but constant rebirth."
 msgstr ""
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/utils/ALA_story.cfg:109
+#: A_Little_Adventure/utils/ALA_story.cfg:110
 msgid "Geobard was promoted by the King himself, so he returned to Soradoc, where he became the trustworthy man of the count, as well as the same of many of the ladies of the court."
 msgstr ""
 
 #. [message]: speaker=Glubtrub
-#: A_Little_Adventure/utils/ALA_story.cfg:116
+#: A_Little_Adventure/utils/ALA_story.cfg:117
 msgid "To Glubtrub and the tribe of the old post station were given perpetual concession to the territory in which they lived, and only the Nereids were given permission to cross that territory without the explicit consent of the Ogre; moreover, because it was known that who attacked the ogres would have to deal with the dreaded exterminator of Orcs named Glauco, the life of the tribe was, in the following years, extraordinarily peaceful, for a tribe of Ogre at least."
 msgstr ""
 
 #. [message]: speaker=Glubtrub
-#: A_Little_Adventure/utils/ALA_story.cfg:120
+#: A_Little_Adventure/utils/ALA_story.cfg:121
 msgid "Because of so much prosperity, always according to an ogre judgment, Glubtrub would have been remembered, in the small history of his tribe, as Glubtrub the Great, but the progressive expansion of his waistline finally earned him the name of the Glubtrub the Enormous."
 msgstr ""
 
 #. [message]: speaker=Croquet
-#: A_Little_Adventure/utils/ALA_story.cfg:128
+#: A_Little_Adventure/utils/ALA_story.cfg:129
 msgid "Croquet returned to his life in the woods, along with his 'girlfriend', but returned to Amoran whenever he wanted to drink a good beer with friends and to tell some strange facts that he thought Glauco might be interested in."
 msgstr ""
 
 #. [message]: speaker=Croquet
-#: A_Little_Adventure/utils/ALA_story.cfg:135
+#: A_Little_Adventure/utils/ALA_story.cfg:136
 msgid "Croquet returned to his life in the woods, but he was sad without his 'girlfriend', so he returned to Amoran whenever he wanted a good beer and equally good company, and Glauco, every time he saw him coming, was careful not to let him never miss one or the other."
 msgstr ""
 
 #. [message]: speaker=Fangy
-#: A_Little_Adventure/utils/ALA_story.cfg:142
+#: A_Little_Adventure/utils/ALA_story.cfg:143
 msgid "Fangy had stayed with Glauco until the end of the battle against Gan-Tarkas, simply because that was what Croquet would do; then she disappeared, and no one ever saw her again! Glauco, having just become civil governor of all the territories of the east, in memory of the old trapper, decreed the absolute prohibition of killing wolves in the territories subject to him, if not for personal defense, under penalty of expulsion from the territory."
 msgstr ""
 
 #. [message]: speaker=Divaid
-#: A_Little_Adventure/utils/ALA_story.cfg:150
+#: A_Little_Adventure/utils/ALA_story.cfg:151
 msgid "Divaid and Ranfy returned to their woods, mumbling that they had helped the Wesnothians to fill their house of westerner yahoos; but they didn't really have to give them those nosecrops, since when they lost something or someone, or lost themselves in those unknown territories, Ranfy was always ready to hover in the sky and put his very sharp sight at disposal to find what or who had been missing."
 msgstr ""
 
 #. [message]: speaker=Divaid
-#: A_Little_Adventure/utils/ALA_story.cfg:157
+#: A_Little_Adventure/utils/ALA_story.cfg:158
 msgid "Divaid returned to his life in the woods, but he was sad without his friend, so he returned to Amoran whenever he wanted a good beer and equally good company, and Glauco, every time he saw him coming, was careful not to let him never miss one or the other."
 msgstr ""
 
 #. [message]: speaker=Ranfy
-#: A_Little_Adventure/utils/ALA_story.cfg:164
+#: A_Little_Adventure/utils/ALA_story.cfg:165
 msgid "Ranfy disappeared immediately after the end of the battle against Gan-Tarkas. He returned two months later, with a companion, and made his nest over the only tower left of the old walls of Amoran. The citizens were initially frightened, moreover many of them had never seen a gryphon before, but Glauco reassured them by explaining that the gryphons were not a danger, but rather the best sentries that Amoran could have, and soon the gryphons were considered citizens of Amoran like everyone else."
 msgstr ""
 
 #. [message]: speaker=Mimord
-#: A_Little_Adventure/utils/ALA_story.cfg:171
+#: A_Little_Adventure/utils/ALA_story.cfg:172
 msgid "Mimord remained in Amoran for a short time; then began to get bored and left for the north, looking for his old companions; in the end, even he didn't like being alone; with whom could you brawl if you are alone?"
 msgstr ""
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_story.cfg:178
+#: A_Little_Adventure/utils/ALA_story.cfg:179
 msgid "Glauco and his friends had other adventures later, as was inevitable for those who were called to manage a territory so vast in which they still lived many strange, wonderful and horrible creatures."
 msgstr ""
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_story.cfg:182
+#: A_Little_Adventure/utils/ALA_story.cfg:183
 msgid "Glauco did not mind at all, in his serene old age, to tell his adventures to anyone asked him, sons, nephews, or great-grandchildren that they were; but to those who asked him how he managed to become an important man, he always began by saying - Oh, that time was just a little adventure -"
 msgstr ""
 

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-02-20 18:55 UTC\n"
+"POT-Creation-Date: 2022-02-21 22:55 UTC\n"
 "PO-Revision-Date: 2021-02-08 20:53+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -2939,7 +2939,8 @@ msgstr ""
 "occasione! Dopo alcuni mesi molto lunghi e molto noiosi, finalmente "
 "l'opportunità si presentò, ma non aveva per niente un bell'aspetto."
 
-#: A_Little_Adventure/utils/ALA_story.cfg:39
+#. yes, the third sentence here is kind of a run-on; suggestions on how to reword it are welcome:
+#: A_Little_Adventure/utils/ALA_story.cfg:40
 msgid ""
 "Having defeated Grunto the Orc, Glauco thought it was time to settle the "
 "accounts with Dadoc and his band. The arrival of Geobard with orders of "
@@ -2957,7 +2958,7 @@ msgstr ""
 "cui, come tutti sapevano, Dadoc era uso rifugiarsi per leccarsi le ferite, "
 "come in questo caso, oppure per godersi i frutti delle sue incursioni."
 
-#: A_Little_Adventure/utils/ALA_story.cfg:43
+#: A_Little_Adventure/utils/ALA_story.cfg:44
 msgid ""
 "But, having departed with plenty of enthusiasm, our sergeant lost much of "
 "his boldness when he found himself on the edge of the forest; there was no "
@@ -2973,7 +2974,7 @@ msgstr ""
 "qualcuno in un simile guazzabuglio verde; \"Intanto montiamo un campo per la "
 "notte\", si disse \"Domani vedremo cosa fare\"."
 
-#: A_Little_Adventure/utils/ALA_story.cfg:48
+#: A_Little_Adventure/utils/ALA_story.cfg:49
 msgid ""
 "With Dadoc's gang out of the games, and emboldened by the victory obtained "
 "and by his new commander prerogatives, Glauco decided to face at least one "
@@ -2997,7 +2998,7 @@ msgstr ""
 "sergente; una campagna in territorio ostile, contro forze di entità solo in "
 "parte nota, era comunque rischiosa e piena di incognite."
 
-#: A_Little_Adventure/utils/ALA_story.cfg:52
+#: A_Little_Adventure/utils/ALA_story.cfg:53
 msgid ""
 "So Glauco decided only to rely on professional soldiers, who would not fall "
 "in panic in the face of the fierce appearance of the orcs. When he finally "
@@ -3024,7 +3025,7 @@ msgstr ""
 "si riprendesse dalle fatiche della battaglia precedente e vigilasse sulla "
 "città da eventuali brutte sorprese!"
 
-#: A_Little_Adventure/utils/ALA_story.cfg:56
+#: A_Little_Adventure/utils/ALA_story.cfg:57
 msgid ""
 "Grunto was the chief of a tribe smaller than his ambitions, and its "
 "territory was so small that it took only a few days for the Glauco's troops "
@@ -3038,7 +3039,7 @@ msgstr ""
 "poteva iniziare, ma anche se la tribù degli orchi era piccola, poteva essere "
 "troppo grande per gli uomini guidati da Glauco!"
 
-#: A_Little_Adventure/utils/ALA_story.cfg:60
+#: A_Little_Adventure/utils/ALA_story.cfg:61
 msgid ""
 "Having defeated orcs and bandits, Amoran would have a period of quiet life, "
 "at least until some orcish chiefs decided to settle on the lands of Grunto, "
@@ -3061,7 +3062,7 @@ msgstr ""
 "sicurezza dei confini, che nessuna barca potesse risalire o discendere il "
 "fiume."
 
-#: A_Little_Adventure/utils/ALA_story.cfg:64
+#: A_Little_Adventure/utils/ALA_story.cfg:65
 msgid ""
 "The only alternative was the old caravan track, which for most of its "
 "journey supported the course of the river; but the track was in disastrous "
@@ -3081,7 +3082,7 @@ msgstr ""
 "Glauco aveva un'idea per aggirare tutti questi problemi, solo che questa "
 "idea richiedeva che fossero ripristinati i contatti con i Nereidi orientali."
 
-#: A_Little_Adventure/utils/ALA_story.cfg:68
+#: A_Little_Adventure/utils/ALA_story.cfg:69
 msgid ""
 "The only way to contact the eastern nereids was to cross the wildlands; "
 "Glauco, with the resources he could dispose, put together a small "
@@ -3099,7 +3100,7 @@ msgstr ""
 "importanti, e scoprirono che la stazione era ancora abitata, ma sarebbe "
 "stato meglio se non fosse stato così."
 
-#: A_Little_Adventure/utils/ALA_story.cfg:72
+#: A_Little_Adventure/utils/ALA_story.cfg:73
 msgid ""
 "Now the only obstacle separating Glauco's company from the sea was: a chain "
 "of low hills that the river literally grazed with its southern shore; not "
@@ -3115,7 +3116,7 @@ msgstr ""
 "uella che in passato era l'antica Strada dell'Ambra. Ma in passato quelle "
 "colline erano state abitate, e ora erano abitate di nuovo."
 
-#: A_Little_Adventure/utils/ALA_story.cfg:76
+#: A_Little_Adventure/utils/ALA_story.cfg:77
 msgid ""
 "Finally, the increasingly heterogeneous group of our heroes reached the end "
 "of the river, on the warm shores of the far east of the continent of Irdya. "
@@ -3131,7 +3132,7 @@ msgstr ""
 "problema era, tanto per cambiare, che non erano soli, e come dice il famoso "
 "proverbio ... sarebbe stato meglio se lo fossero stati."
 
-#: A_Little_Adventure/utils/ALA_story.cfg:80
+#: A_Little_Adventure/utils/ALA_story.cfg:81
 msgid ""
 "Having defeated the Saurians and re-established the trade relations with the "
 "Nereids, Glauco could finally return to Amoran bringing with him a lot of "
@@ -3150,7 +3151,7 @@ msgstr ""
 "coraggio e spirito di iniziativa, qualità che, per Glauco, valevano più di "
 "poche monete d'oro."
 
-#: A_Little_Adventure/utils/ALA_story.cfg:84
+#: A_Little_Adventure/utils/ALA_story.cfg:85
 msgid ""
 "But, having come to the town, Glauco had to see that someone, with a lot of "
 "fighting spirit and sense of initiative, had already arrived, but had not "
@@ -3167,7 +3168,7 @@ msgstr ""
 "prima, ora c'era una solida fortezza orchesca, e il numero di capanne che la "
 "circondavano annunciava la presenza di un numero considerevole di orchi."
 
-#: A_Little_Adventure/utils/ALA_story.cfg:89
+#: A_Little_Adventure/utils/ALA_story.cfg:90
 msgid ""
 "Suddenly, Glauco was extremely happy that the men he had with him had "
 "accumulated a good amount of combat experience; and he was as much happy "
@@ -3179,7 +3180,7 @@ msgstr ""
 "era altrettanto felice che Glubtrub e i suoi ogre, colti dall'improvvisa "
 "curiosità di vedere come fosse fatta una città umana, fossero ancora con lui."
 
-#: A_Little_Adventure/utils/ALA_story.cfg:94
+#: A_Little_Adventure/utils/ALA_story.cfg:95
 msgid ""
 "The news of the defeat of Gan-Tarkas quickly reached before Soradoc and then "
 "Weldyn; just as quickly Glauco was summoned to the capital city, where the "
@@ -3193,7 +3194,7 @@ msgstr ""
 "clamorosi stavano accadendo, a sua insaputa, in terre che, spesso, nemmeno "
 "lui ricordava che fossero soggette alla sua corona."
 
-#: A_Little_Adventure/utils/ALA_story.cfg:98
+#: A_Little_Adventure/utils/ALA_story.cfg:99
 msgid ""
 "Glauco and Geobard went to the capital to report, on what had happened, to "
 "their august and a little distracted sovereign. When the mission was "
@@ -3219,7 +3220,7 @@ msgstr ""
 "con entusiasmo, perché si era affezionato a quel luogo, e le grandi città "
 "dell'ovest ora gli sembravano soffocanti."
 
-#: A_Little_Adventure/utils/ALA_story.cfg:103
+#: A_Little_Adventure/utils/ALA_story.cfg:104
 msgid ""
 "The renewed amber trade did not bring to the town all the benefits that "
 "Glauco had hoped, but the market that was held there twice a year, in spring "
@@ -3243,7 +3244,7 @@ msgstr ""
 "costante."
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/utils/ALA_story.cfg:109
+#: A_Little_Adventure/utils/ALA_story.cfg:110
 msgid ""
 "Geobard was promoted by the King himself, so he returned to Soradoc, where "
 "he became the trustworthy man of the count, as well as the same of many of "
@@ -3253,7 +3254,7 @@ msgstr ""
 "l'uomo di fiducia del conte, così come di molte delle dame di corte."
 
 #. [message]: speaker=Glubtrub
-#: A_Little_Adventure/utils/ALA_story.cfg:116
+#: A_Little_Adventure/utils/ALA_story.cfg:117
 msgid ""
 "To Glubtrub and the tribe of the old post station were given perpetual "
 "concession to the territory in which they lived, and only the Nereids were "
@@ -3272,7 +3273,7 @@ msgstr ""
 "pacifica, almeno per una tribù di Ogre."
 
 #. [message]: speaker=Glubtrub
-#: A_Little_Adventure/utils/ALA_story.cfg:120
+#: A_Little_Adventure/utils/ALA_story.cfg:121
 msgid ""
 "Because of so much prosperity, always according to an ogre judgment, "
 "Glubtrub would have been remembered, in the small history of his tribe, as "
@@ -3285,7 +3286,7 @@ msgstr ""
 "fine il nome di Glubtrub l'Enorme."
 
 #. [message]: speaker=Croquet
-#: A_Little_Adventure/utils/ALA_story.cfg:128
+#: A_Little_Adventure/utils/ALA_story.cfg:129
 msgid ""
 "Croquet returned to his life in the woods, along with his 'girlfriend', but "
 "returned to Amoran whenever he wanted to drink a good beer with friends and "
@@ -3297,7 +3298,7 @@ msgstr ""
 "trovare interessanti."
 
 #. [message]: speaker=Croquet
-#: A_Little_Adventure/utils/ALA_story.cfg:135
+#: A_Little_Adventure/utils/ALA_story.cfg:136
 msgid ""
 "Croquet returned to his life in the woods, but he was sad without his "
 "'girlfriend', so he returned to Amoran whenever he wanted a good beer and "
@@ -3310,7 +3311,7 @@ msgstr ""
 "faceva attenzione che non gli mancasse né l'una né l'altra."
 
 #. [message]: speaker=Fangy
-#: A_Little_Adventure/utils/ALA_story.cfg:142
+#: A_Little_Adventure/utils/ALA_story.cfg:143
 msgid ""
 "Fangy had stayed with Glauco until the end of the battle against Gan-Tarkas, "
 "simply because that was what Croquet would do; then she disappeared, and no "
@@ -3327,7 +3328,7 @@ msgstr ""
 "soggetti, se non per difesa personale, pena l'espulsione dal territorio."
 
 #. [message]: speaker=Divaid
-#: A_Little_Adventure/utils/ALA_story.cfg:150
+#: A_Little_Adventure/utils/ALA_story.cfg:151
 msgid ""
 "Divaid and Ranfy returned to their woods, mumbling that they had helped the "
 "Wesnothians to fill their house of westerner yahoos; but they didn't really "
@@ -3344,7 +3345,7 @@ msgstr ""
 "scomparso."
 
 #. [message]: speaker=Divaid
-#: A_Little_Adventure/utils/ALA_story.cfg:157
+#: A_Little_Adventure/utils/ALA_story.cfg:158
 msgid ""
 "Divaid returned to his life in the woods, but he was sad without his friend, "
 "so he returned to Amoran whenever he wanted a good beer and equally good "
@@ -3357,7 +3358,7 @@ msgstr ""
 "attenzione che non gli mancasse né l'una né l'altra."
 
 #. [message]: speaker=Ranfy
-#: A_Little_Adventure/utils/ALA_story.cfg:164
+#: A_Little_Adventure/utils/ALA_story.cfg:165
 msgid ""
 "Ranfy disappeared immediately after the end of the battle against Gan-"
 "Tarkas. He returned two months later, with a companion, and made his nest "
@@ -3376,7 +3377,7 @@ msgstr ""
 "grifoni furono considerati cittadini di Amoran come tutti gli altri."
 
 #. [message]: speaker=Mimord
-#: A_Little_Adventure/utils/ALA_story.cfg:171
+#: A_Little_Adventure/utils/ALA_story.cfg:172
 msgid ""
 "Mimord remained in Amoran for a short time; then began to get bored and left "
 "for the north, looking for his old companions; in the end, even he didn't "
@@ -3387,7 +3388,7 @@ msgstr ""
 "lui non piaceva stare da solo; con chi puoi litigare quando sei da solo?"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_story.cfg:178
+#: A_Little_Adventure/utils/ALA_story.cfg:179
 msgid ""
 "Glauco and his friends had other adventures later, as was inevitable for "
 "those who were called to manage a territory so vast in which they still "
@@ -3398,7 +3399,7 @@ msgstr ""
 "vivevano ancora tante creature strane, meravigliose e orribili."
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_story.cfg:182
+#: A_Little_Adventure/utils/ALA_story.cfg:183
 msgid ""
 "Glauco did not mind at all, in his serene old age, to tell his adventures to "
 "anyone asked him, sons, nephews, or great-grandchildren that they were; but "
