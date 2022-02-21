@@ -1407,7 +1407,7 @@ msgid ""
 "orcs, but from here to the orc fortress, the plain does not offer any "
 "protection or hiding places; we have to attack from here."
 msgstr ""
-"Veliteli, zdá se, že se nám sem podařilo dostat, aniž by nás skřeti "
+"Veliteli, zdá se, že se nám sem podařilo dostat, aniž nás skřeti "
 "spatřili. Ale odtud až do skřetí pevnosti nenabízí planina žádnou ochranu "
 "ani úkryt. Musíme zaútočit z tohoto místa."
 
