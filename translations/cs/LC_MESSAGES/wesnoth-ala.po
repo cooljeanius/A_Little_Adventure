@@ -1305,7 +1305,7 @@ msgstr ""
 "jsem ho, když byl ještě vajíčkem! Od té doby mi pomáhá lovit a držet myši a "
 "bandity daleko od našeho domova. Bandity jako tvůj přítel Dadok, kterého, "
 "jak se obávám, budeš muset hledat v lese. No, hodně štěstí, protože toho "
-"budete potřebovat hodně!"
+"budete potřebovat moc!"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:210
