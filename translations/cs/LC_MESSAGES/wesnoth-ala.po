@@ -1,11 +1,11 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-02-20 18:55 UTC\n"
-"PO-Revision-Date: 2022-02-19 23:03+0100\n"
+"PO-Revision-Date: 2022-02-20 23:03+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
-"Language-Team: \n"
+"Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -60,12 +60,6 @@ msgstr "Obtížná"
 #. [campaign]: id=A_little_Adventure
 #. the "young Wesnothian army officer" is Glauco (male); the "he" refers to him:
 #: A_Little_Adventure/_main.cfg:45
-#, fuzzy
-#| msgid ""
-#| "A young Wesnothian army officer is sent to command a tiny garrison in an "
-#| "insignificant town in the wilds of the far east; unexpectedly it will "
-#| "manage not only the defense of the town, but also its economic rebirth, "
-#| "committing itself to reopening the legendary Amber Road! "
 msgid ""
 "A young Wesnothian army officer is sent to command a tiny garrison in an "
 "insignificant town in the wilds of the far east; unexpectedly he will manage "
@@ -121,7 +115,7 @@ msgstr "Český překlad"
 #. [scenario]: id=01_The_Attack_to_Amoran
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:6
 msgid "The Attack to Amoran"
-msgstr ""
+msgstr "Amoran pod útokem"
 
 #. [side]: type=Sergeant, id=Glauco
 #. [side]: id=Glauco, type=General
@@ -237,7 +231,7 @@ msgstr ""
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:330
 msgid "The right fate for a wrong man!"
-msgstr ""
+msgstr "Správný osud pro špatného chlapa!"
 
 #. [message]: speaker=Grunto
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:334
@@ -245,6 +239,8 @@ msgid ""
 "Here's what happens to humans who are too weak! Let's go, guys, we have "
 "nothing more to do here, for today at least!"
 msgstr ""
+"A to je to, co se stane lidem, kteří jsou příliš slabí! Jdeme, skřeti, už tu "
+"nemáme co dělat, aspoň pro dnešek!"
 
 #. [message]: speaker=narrator
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:352
@@ -254,6 +250,10 @@ msgid ""
 "the lines of the defenders made those who still insisted on fighting even "
 "more vulnerable, and soon it was the end!"
 msgstr ""
+"Vystrašeni a vyčerpáni po mnoha dnech bitvy začali naverbovaní, boji "
+"nezvyklí civilisté dezertovat! Velké mezery, které se otevřely v řadách "
+"obránců, učinily ty, kteří stále vytrvali v boji, ještě zranitelnějšími a "
+"brzy byl konec!"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:358
@@ -294,32 +294,33 @@ msgstr "Vyprší počet kol"
 #. [message]: speaker=Ranfy
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:345
 msgid "Kreeee!"
-msgstr ""
+msgstr "Kráááá!"
 
 #. [message]: speaker=Divaid
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:349
 msgid "Ranfy found somebody!"
-msgstr ""
+msgstr "Ranfy někoho našel!"
 
 #. [message]: speaker=unit
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:355
 msgid "There's someone here!"
-msgstr ""
+msgstr "Někdo tu je!"
 
+# Originál je trochu divný.
 #. [message]: id=Glauco
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:403
 msgid "There he is! Don't lose sight of it another time!"
-msgstr ""
+msgstr "Tady je! Neztraťte ho z očí!"
 
 #. [message]: id=Dadoc
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:407
 msgid "Find me don't mean catch me!"
-msgstr ""
+msgstr "Najít mě neznamená chytit mě!"
 
 #. [message]: speaker=Ranfy
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:428
 msgid "Kraii?"
-msgstr ""
+msgstr "Kráá?"
 
 #. [message]: speaker=Divaid
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:432
@@ -333,7 +334,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:438
 msgid "There's some gold hidden here! Not much, but better than nothing."
-msgstr ""
+msgstr "Je tu schované nějaké zlato! Ne mnoho, ale lepší než nic."
 
 #. [message]: speaker=Dadoc
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:458
@@ -380,7 +381,7 @@ msgstr "Bitva se skřety"
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:71
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:242
 msgid "Defeat Grunto"
-msgstr ""
+msgstr "Poraz Grunta"
 
 #. [attack]: type=blade
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:222
@@ -390,12 +391,12 @@ msgstr "tesáky"
 #. [objective]: condition=lose
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:254
 msgid "Death of Croquet"
-msgstr ""
+msgstr "Kroket zemře"
 
 #. [message]: speaker=Grunto
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:281
 msgid "Aaaaah!"
-msgstr ""
+msgstr "Aáách!"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:288
@@ -439,7 +440,7 @@ msgstr "Obři"
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:111
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:198
 msgid "Defeat Kssihiss"
-msgstr ""
+msgstr "Poraz Kssihisse"
 
 #. [objective]: condition=lose
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:123
@@ -455,6 +456,8 @@ msgid ""
 "What this confusion? Men colored like wetspot and snake to fight? Ogres to "
 "come too, good chance to squash all!"
 msgstr ""
+"Co to být za zmatek? Muži s wesnotíma barvama mít velkou pračku s "
+"hadovitýma? Obři, jít sem taky. Dobrá šance podrtit ty i ty!"
 
 #. [objective]: condition=lose
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:214
@@ -507,7 +510,7 @@ msgstr ""
 #. [message]: speaker=Croquet
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:360
 msgid "Hey you! Get your hands off my little Fangy!"
-msgstr "Hej ty! Ruce pryč od mého malého Fangyho!"
+msgstr "Hej ty! Ruce pryč od mé malé Fangy!"
 
 #. [message]: speaker=Mimord
 #. a "capon" is a rooster that has been castrated or neutered:
@@ -601,6 +604,8 @@ msgid ""
 "Thingsss are not going well! Ssshamansss, sssummon other sssnakesss from the "
 "sssea!"
 msgstr ""
+"Věccci ssse sstáčejí ššpatně! Ššamané, sssvolejte dalššší mořřsské "
+"ssserpenty!"
 
 #. [message]: speaker=Joralda
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:220
@@ -771,14 +776,8 @@ msgstr ""
 msgid "Matronly Ogre"
 msgstr "Obří matróna"
 
-# Zbraně uvedeny v množném čísle, protože to víc dává smysl.
 #. [unit_type]: id=Matronly Ogresses, race=ogre
 #: A_Little_Adventure/units/Matronly_Ogresses.cfg:24
-#, fuzzy
-#| msgid ""
-#| "As they grow older, she-ogres gain weight, so they lose the agility "
-#| "necessary to use a sling, but, in exchange, they gain the capability to "
-#| "use a bigger and better club."
 msgid ""
 "As they grow older, she-ogres gain weight, so they lose the agility "
 "necessary to use slings, but, in exchange, they gain the capability to use "
@@ -993,15 +992,11 @@ msgstr "Podle mě... Byl roztomilý, ale taky bláznivý!"
 
 #. [message]: speaker=Titus
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:18
-#, fuzzy
-#| msgid ""
-#| "Commander, look at the hills in the north, during last night a group of "
-#| "orcs camped over the river!"
 msgid ""
 "Commander, look at the hills in the north! Last night a group of orcs camped "
 "over on the other side of the river!"
 msgstr ""
-"Veliteli, podívejte se do kopců na severu. Během včerejší noci se nad řekou "
+"Veliteli, podívejte se do kopců na severu! Během včerejší noci se nad řekou "
 "utábořila skupina skřetů!"
 
 #. [message]: speaker=Glauco
@@ -1271,6 +1266,11 @@ msgid ""
 "the first time I've seen its colors in at least... forty years! What are you "
 "doing here right now?"
 msgstr ""
+"Jsem tu já, zástupče wesnothských velmi zaneprázdněných úřadů! Já a můj "
+"přítel Ranfy. A může být, že tohle je území Wesnothu. Ale i kdyby mi někdo "
+"jednu ubalil, nevzpomenu si, jestli jsem tu vůbec kdy viděl někoho pod "
+"wesnothskou vlajkou. Možná před... čtyřiceti lety? Tak co tady právě teď "
+"děláte?"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:191
@@ -1279,16 +1279,18 @@ msgid ""
 "and I are searching for Dadoc the bandit, because we need to give him what "
 "he deserves! But who is Ranfy?"
 msgstr ""
+"Jsem seržant Glauko, velitel posádky Amoranu! Já a moji společníci hledáme "
+"Dadoka, banditu, protože mu musíme dát, co si zaslouží! Ale kdo je Ranfy?"
 
 #. [message]: speaker=Ranfy
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:198
 msgid "Kreeeeee!"
-msgstr ""
+msgstr "Kráááááá!"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:202
 msgid "Watch out! A monster!"
-msgstr "Pozor! Monstrum!"
+msgstr "Pozor! Obluda!"
 
 #. [message]: speaker=Divaid
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:206
@@ -1299,6 +1301,11 @@ msgid ""
 "friend Dadoc, who, I fear, you'll have to look for in the forest. Well, good "
 "luck, because you'll need a lot of it!"
 msgstr ""
+"Jediná „obludná“ věc, wesnoťané, je vaše ignorance! To je Ranfy. Adoptoval "
+"jsem ho, když byl ještě vajíčkem! Od té doby mi pomáhá lovit a držet myši a "
+"bandity daleko od našeho domova. Bandity jako tvůj přítel Dadok, kterého, "
+"jak se obávám, budeš muset hledat v lese. No, hodně štěstí, protože toho "
+"budete potřebovat moc!"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:210
@@ -1306,6 +1313,8 @@ msgid ""
 "You seem to know this place well, why don't you help us? Eliminating Dadoc "
 "will save a little bit of work for your... nice friend."
 msgstr ""
+"Zdá se, že toto místo dobře znáš, proč nám nepomůžeš? Eliminací Dadoka "
+"ušetříš trochu práce svému... milému kamarádovi."
 
 #. [message]: speaker=Divaid
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:214
@@ -1314,6 +1323,9 @@ msgid ""
 "Divaid, who would be me, and I believe that I will help you westerners, "
 "since you have been kind to Ranfy!"
 msgstr ""
+"Chlape, žádná lidská bytost nezná divočinu odsud až k moři lépe než já, "
+"Divaid. A začínám být přesvědčen, že vám, zápaďákům, pomůžu, protože jste "
+"byli laskaví k Ranfymu!"
 
 #. [message]: speaker=Glauco
 #. "nereids" are the Italian name for merfolk in general, but I felt like keeping it in English just under the idea that here it would refer to the specific group of merfolk
@@ -1324,6 +1336,9 @@ msgid ""
 "you come with us as a guide? I have a desperate need for someone who knows "
 "the wildlands, and I'll pay well."
 msgstr ""
+"Až odevzdáme Dadoka soudu, půjdeme na východ, abychom se setkali s nereidami. "
+"Mohl bys jít s námi jako průvodce? Zoufale potřebuji někoho, kdo zná "
+"divočinu, a dobře zaplatím."
 
 #. [message]: speaker=Divaid
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:224
@@ -1333,11 +1348,14 @@ msgid ""
 "show him the sea... what do you say Ranfy, shall we give a hand to these "
 "yahoos from the town?"
 msgstr ""
+"Na pobřeží? No, ať se propadnu, je už to nějaký čas, co jsem naposledy viděl "
+"moře, a Ranfy ho neviděl <i>nikdy</i>... Možná je to dobrá příležitost mu "
+"moře ukázat... Co ty, Ranfy, řekni, pomůžeme těm nabubřelým městským floutkům?"
 
 #. [message]: speaker=Ranfy
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:232
 msgid "Kraaaaaa... Kruu Kruu... Fiiii"
-msgstr ""
+msgstr "Kráááááá... Ráád ráád... Jóóóó"
 
 #. [message]: speaker=Divaid
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:236
@@ -1350,6 +1368,12 @@ msgid ""
 "have misfortune we will have to explore them all; but we may not have the "
 "time to do so."
 msgstr ""
+"Jsi šťastný muž, pane veliteli posádky Amoranu! Můj přítel tady říká, že tě "
+"má rád! Takže moji noví společníci, věci se mají takto: Dadok má určitý "
+"počet úkrytů v lese, kde se porůznu placatí členové jeho bandy, když nemají "
+"co na práci. Abychom našli Dadoka, budeme se muset prohrabat jedním úkrytem "
+"za druhým. Pokud budeme mít štěstí, najdeme Dadoka okamžitě, a pokud ne, "
+"budeme je muset prozkoumat všechny. Ale na to možná nemáme čas."
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:240
@@ -1363,6 +1387,9 @@ msgid ""
 "short time; he's a very cautious guy. We have to find him quickly, otherwise "
 "we can also say him good-bye forever."
 msgstr ""
+"Protože Dadok uteče, když uvidí, že nás jeho souputníci v krátké době "
+"nezastaví. Je to velmi opatrný chlap. Musíme ho rychle najít, jinak se s ním "
+"také můžeme navždy rozloučit."
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:248
@@ -1370,6 +1397,8 @@ msgid ""
 "Then let's not waste any more time! Come on, men! We can't let that rascal's "
 "wrongdoings remain unpunished!"
 msgstr ""
+"Pak už neztrácejme čas! Pojďte, muži! Nemůžeme dovolit, aby prohřešky toho "
+"darebáka zůstaly nepotrestány!"
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:255
@@ -1378,6 +1407,9 @@ msgid ""
 "orcs, but from here to the orc fortress, the plain does not offer any "
 "protection or hiding places; we have to attack from here."
 msgstr ""
+"Veliteli, zdá se, že se nám sem podařilo dostat, aniž nás skřeti "
+"spatřili. Ale odtud až do skřetí pevnosti nenabízí planina žádnou ochranu "
+"ani úkryt. Musíme zaútočit z tohoto místa."
 
 #. [message]: speaker=Glauco
 #. a "corvee" is when laborers do unpaid work for one specific task:
@@ -2257,12 +2289,12 @@ msgstr ""
 msgid ""
 "I assure you that I'll make a good use of it, and your brother will be "
 "avenged!"
-msgstr ""
+msgstr "Ujišťuju tě, že toho dobře využiju a tvůj bratr bude pomstěn!"
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:803
 msgid "Woe coming from the river, commander!"
-msgstr ""
+msgstr "Běda, přicházejí od řeky, veliteli."
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:807
@@ -2270,12 +2302,14 @@ msgid ""
 "I saw them! But we can only fight against them; at least it will be an "
 "opportunity to get rid of the Nagas once and for all!"
 msgstr ""
+"Vím o nich! Ale jediné, co můžeme dělat, je s nimi bojovat. Alespoň to bude "
+"příležitost zbavit se nág jednou provždy!"
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:811
 msgid ""
 "Here's to hoping it isn't the opportunity for the nagas to get rid of us!"
-msgstr ""
+msgstr "Doufám, že to nebude příležitost pro nágy, aby se zbavily nás!"
 
 #. [time]: id=dawn_12h
 #: A_Little_Adventure/utils/ALA_schedules.cfg:21
@@ -2570,6 +2604,7 @@ msgstr ""
 "první příležitosti ukážu svou cenu! Po několika velmi dlouhých a velmi "
 "nudných měsících se konečně naskytla příležitost. Nebyla ale vůbec přívětivá."
 
+# Třetí věta je hrozně šroubovaná.
 #: A_Little_Adventure/utils/ALA_story.cfg:39
 msgid ""
 "Having defeated Grunto the Orc, Glauco thought it was time to settle the "
@@ -2580,6 +2615,13 @@ msgid ""
 "which, as everyone knew, Dadoc took refuge to lick his wounds, as in this "
 "case, or to enjoy the fruits of his raids."
 msgstr ""
+"Poté, co porazil skřeta Grunta, si Glauko usmyslel, že je čas vyrovnat účty "
+"s Dadokem a jeho bandou. Příchod Geobarda s rozkazy z Wesnothu umožnil "
+"Glaukovi získat další vojáky a ponechat sedláky a dřevorubce jejich práci. "
+"Když cítil, že má dostatek vojáků, tedy když už na ně neměl k dispozici "
+"další peníze, vydal se směrem k lesu. Do toho se, jak všichni věděli, "
+"uchyloval Dadok, aby si užil plody svých nájezdů nebo, jako v tomto případě, "
+"aby si olízal své rány."
 
 #: A_Little_Adventure/utils/ALA_story.cfg:43
 msgid ""
@@ -2590,6 +2632,11 @@ msgid ""
 "someone in a similar green jumble. 'Meanwhile, let's mount a camp for the "
 "night,' he told himself, 'Tomorrow we'll see what to do.'"
 msgstr ""
+"Ačkoli náš seržant vyrazil s velkým nadšením, ztratil mnoho ze své smělosti, "
+"když se ocitl na kraji lesa. Po cestičkách nebylo nikde ani stopy a kmeny "
+"stromů byly tak tlusté, že vypadaly jako hradby pevnosti. Takže vyvstala "
+"otázka, jak někoho v podobné zelené změti najít. „Zatím postavíme tábor na "
+"noc,“ řekl si, „a zítra uvidíme, co dělat.“"
 
 #: A_Little_Adventure/utils/ALA_story.cfg:48
 msgid ""
