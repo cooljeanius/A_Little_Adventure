@@ -1350,7 +1350,7 @@ msgid ""
 msgstr ""
 "Na pobřeží? No, ať se propadnu, je už to nějaký čas, co jsem naposledy viděl "
 "moře, a Ranfy ho neviděl <i>nikdy</i>... Možná je to dobrá příležitost mu "
-"moře ukázat... Co ty,Ranfy, řekni, pomůžeme těm nabubřelým městským floutkům?"
+"moře ukázat... Co ty, Ranfy, řekni, pomůžeme těm nabubřelým městským floutkům?"
 
 #. [message]: speaker=Ranfy
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:232
