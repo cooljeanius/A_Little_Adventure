@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-02-21 22:56 UTC\n"
-"PO-Revision-Date: 2022-02-20 23:03+0100\n"
+"PO-Revision-Date: 2022-02-25 22:14+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -624,6 +624,7 @@ msgid ""
 "I hope these are the last ones! They make me feel seasick with all their "
 "contortions!"
 msgstr ""
+"Doufám, že tohle jsou poslední! Mám z těch všech vlnitých těl mořskou nemoc!"
 
 #. [message]: speaker=Giksy
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:247
@@ -1420,6 +1421,9 @@ msgid ""
 "the forest to our right! Organize a corvee that takes logs from it to build "
 "a fence here."
 msgstr ""
+"Máš pravdu, Geobarde, tahle pláň je úplně holá. Ale podívej se na ten les "
+"napravo od nás! Uspořádej pracovní četu, která tam bude těžit klády, aby tu "
+"znich postavila valy."
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:264
@@ -1427,6 +1431,8 @@ msgid ""
 "But we'll lose almost half a day, and we will allow the orcs to organize and "
 "attack us."
 msgstr ""
+"Ale tím ztratíme téměř půl dne a umožníme skřetům, aby se zorganizovali a "
+"napadli nás."
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:268
@@ -1436,6 +1442,10 @@ msgid ""
 "orcish camp before twilight anyways. It's better to have something on which "
 "to break their initial wave."
 msgstr ""
+"Pokud použijeme všechny naše muže, podaří se nám mít přes noc místo, kde se "
+"lze bránit. V každém případě bychom se stejně nebyli schopni dostat do "
+"blízkosti skřetího tábora před soumrakem. Je lepší mít něco, na čem zlomíme "
+"jejich počáteční vlnu."
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:272
@@ -1444,16 +1454,19 @@ msgid ""
 "the fence they can't do anything else! Better get to work right away, then! "
 "I will also erect tents in which to treat the wounded."
 msgstr ""
+"Doufám, že máš pravdu veliteli, protože dokud jsou muži zaneprázdněni "
+"stavbou valů, nemohou dělat nic jiného! Takže se raději hned pusťme do "
+"práce! Vztyčíme také stany, ve kterých se budou ošetřovat ranění."
 
 #. [message]: speaker=Grunto
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:279
 msgid "What are those humans doing there?"
-msgstr ""
+msgstr "Co tu dělaj ti lidi?"
 
 #. [message]: speaker=Olly
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:283
 msgid "It seems they are building fences, boss!"
-msgstr ""
+msgstr "Zdá se, že staví valy, šéfe!"
 
 #. [message]: speaker=Grunto
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:287
@@ -1461,11 +1474,13 @@ msgid ""
 "I didn't mean that, you idiot! I wanted to say: why you haven't yet "
 "slaughtered them?"
 msgstr ""
+"Tak jsem to nemyslel, ty idiote! Chtěl jsem říct: „Proč jste je ještě "
+"nezabili?“"
 
 #. [message]: speaker=Olly
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:291
 msgid "Gulp... We'll do it immediately, chief, the time to gather the boys!"
-msgstr ""
+msgstr "(<i>Polk...</i>) Hned jdem na to, šéfe! Všichni shromáždit!"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:298
@@ -1473,6 +1488,8 @@ msgid ""
 "Just in time, men; here they come! Let your heart be no less firm than the "
 "palisade that your arms have built!"
 msgstr ""
+"Právě včas, muži! Už přicházejí! Ať jsou vaše srdce stejně pevná jako "
+"palisády, co vybudovaly vaše paže!"
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:302
@@ -1481,12 +1498,14 @@ msgid ""
 "It'd be a good idea to check if it is inhabited by friends or by enemies, "
 "since we have it behind us."
 msgstr ""
+"Pane, muži, kteří byli v lese, zahlédli mezi stromy dům. Bylo by dobré "
+"zkontrolovat, zda je obýván přáteli nebo nepřáteli, protože je za naší linií."
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:307
 msgid ""
 "A cottage right in the middle of the orcish territory? Who can live here?"
-msgstr ""
+msgstr "Chata přímo uprostřed skřetího území? Kdo tu může žít?"
 
 #. [message]: speaker=Croquet
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:314
@@ -1495,6 +1514,9 @@ msgid ""
 "hand... what business does a soldier of Wesnoth have in the territory of "
 "that orcish thief, Grunto?"
 msgstr ""
+"Tohle je můj domov, pane důležitý, můj a Fangy, samozřejmě! Na druhou stranu "
+"ty... co za prácičku má voják z Wesnothu na území toho skřetího zloděje "
+"Grunta?"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:318
@@ -1502,6 +1524,8 @@ msgid ""
 "That orc attacked Amoran some days ago, and we have come to even the "
 "accounts! But who is Fangy?"
 msgstr ""
+"Ten skřet před několika dny zaútočil na Amoran a my jsme přišli vyrovnat "
+"účty! Ale kdo je Fangy?"
 
 #. [message]: speaker=Fangy
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:325
@@ -1511,7 +1535,7 @@ msgstr "GRRRRRR!"
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:329
 msgid "Beware, men! A fierce beast!"
-msgstr ""
+msgstr "Pozor, muži, na to divoké zvíře!"
 
 #. [message]: speaker=Croquet
 #. a more literal translation might use "housewife" instead of "home lady" but since "lady" is also used to refer to Fangy later, it can stay here as well:
@@ -1525,6 +1549,13 @@ msgid ""
 "about these lands, I'm afraid you'll need someone who knows them better than "
 "you!"
 msgstr ""
+"Hej, jediní, kdo se tu chová jako zvěř jste vy, wesnoťani! Tohle je Fangy, "
+"moje malá domácí fenka. Drží krysy a skřety daleko od našeho krásného lesa. "
+"Hm, ach! Protože jste se sem přišli se vypořádat s Gruntem, budu vám muset "
+"pomoct. Furt mě žere, jak ukradl Fangy její poslední vrh, aby měl jezdecká "
+"zvířata pro svoje gobliny. A protože zápaďáci z města jako vy toho o těhle "
+"zemích moc vědět nemůžou, obávám se, že budete potřebovat někoho, kdo je zná "
+"líp než vy!"
 
 #. [message]: speaker=Glauco
 #. Glauco is about to say "beast" but catches himself before he can finish the word:
@@ -1532,7 +1563,7 @@ msgstr ""
 msgid ""
 "All help will be well accepted, both yours and that of the beas... that of "
 "the beautiful lady."
-msgstr ""
+msgstr "Veškerá pomoc bude vítána, jak tvoje, tak té bes... té milé fenky."
 
 #. [message]: speaker=Croquet
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:344
@@ -1540,21 +1571,23 @@ msgid ""
 "Have you listened, my dear? This Wesnothian lout is not so loutish, finally! "
 "Come on then, it will be fun!"
 msgstr ""
+"Slyšela jsi, miláčku? Tenhle wesnothský klacek nakonec není takový brutián! "
+"Tak pojďte, bude sranda!"
 
 #. [message]: speaker=Fangy
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:352
 msgid "Grauur... Grr... woof!"
-msgstr ""
+msgstr "Grrrrr... Grr... vaf!"
 
 #. [message]: speaker=Croquet
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:356
 msgid "You can say it strong, my dear!"
-msgstr ""
+msgstr "Můžeš to říct pořádně nahlas, drahá!"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:368
 msgid "What's the situation, "
-msgstr ""
+msgstr "Jaká je situace?"
 
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:370
 msgid ""
@@ -1562,13 +1595,19 @@ msgid ""
 "partially swallowed up by the river, and it seems that a group of Nagas have "
 "nestled there."
 msgstr ""
+"Rád bych řekl, že je špatná, ale obávám se, že je spíš hrozná. Starou "
+"stanici pro karavany částečně pohltila řeka a zdá se, že se tam usídlila "
+"skupina nág."
 
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:372
 msgid ""
 "Also, on the hills just to the south there are small buildings, and from the "
 "stench that comes out I would say they are Ogre huts."
 msgstr ""
+"A na kopcích na jihu jsou malé budovy a podle toho smradu, co z nich "
+"vychází, bych řekl, že jsou to chatrče obrů."
 
+# Varianta na jedna paní povídala.
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:376
 msgid ""
@@ -1579,6 +1618,11 @@ msgid ""
 "precious metals in exchange for their help, and this excludes the ogres, who "
 "never possess precious objects."
 msgstr ""
+"Mohli bychom je obejít, ale můj projekt nové Jantarové stezky vyžaduje, aby "
+"byla řeka volná! Hmmm... A není to takové divné, že jsou obři spojenci nág? "
+"O obou rasách toho vím málo, to je pravda, ale ptáčkové mi štěbetali, že "
+"nágy se spojují pouze s ještěry. Nabízejí jim vzácné kovy výměnou za jejich "
+"pomoc. Což vylučuje obry, kteří drahocenné předměty nikdy nevlastní."
 
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:378
 msgid ""
@@ -1590,11 +1634,17 @@ msgid ""
 "the ogres here; because they occupy different spaces they have not given too "
 "much discomfort to each other."
 msgstr ""
+"A kdo řekl, že jsou spojenci? Neříká se, že holubice hnízdí u sokolího "
+"hnízda? Znám dobře všechny bytosti žijící ve východní divočině a mohu tě "
+"ujistit, že obr by přizval nágu na večeři pouze ve formě prvního chodu. "
+"Pokud žijí tak blízko, musí to být takový případ. Nágy sem pravděpodobně "
+"přišly z oblasti níže po toku řeky a narazily zde na obry. Protože ale "
+"obývají různé prostory, příliš si nevadí."
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:381
 msgid "So is it possible that we should face only the Nagas?"
-msgstr ""
+msgstr "Takže je možné, že bychom měli čelit pouze nágám?"
 
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:383
 msgid ""
@@ -1604,12 +1654,16 @@ msgid ""
 "after we have defeated the nagas, though... it would be a plan too "
 "complicated for their brains."
 msgstr ""
+"Obři nehnou ani prstem, aby pomohli nágám, na to vsadím svůj poslední šíp. "
+"Ale nemůžu vyloučit, že je napadne využít našeho vzájemného boje aby "
+"zneškodnili obě strany, nebo že na nás zaútočí poté, co porazíme nágy. I "
+"když..., to by byl plán pro jejich mozkovny příliš komplikovaný."
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:386
 msgid ""
 "We'll have to take the risk. Let us prepare, men; it will be a tough fight!"
-msgstr ""
+msgstr "Budeme muset zariskovat. Připravme se, muži, bude to těžký boj!"
 
 #. [message]: speaker=Kssihiss
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:390
@@ -1632,6 +1686,8 @@ msgid ""
 "Wait, ogre, we didn't come here to fight with you, but only to fight the "
 "nagas occupying our ancient station!"
 msgstr ""
+"Počkej, obře, nepřišli jsme sem bojovat s vámi, ale jen s těmi nágami "
+"okupujícími naši prastarou stanici!"
 
 #. [message]: speaker=Glubtrub
 #. "Wetspot" is ogre-speak for "Wesnoth"
@@ -1641,6 +1697,9 @@ msgid ""
 "when they to play near ruins! But soldier with colors of Wetspot never to be "
 "friends ogres... I believe... I don't remember well!"
 msgstr ""
+"Glubtrub nemít rád hady! Málo tuku k jídlu a ne moc dobré! Chtít zabít naše "
+"malé, když si hrát poblíž ruin! Ale voják Wesnoth barvy nikdy nebýt přítel "
+"obrů... Já věřit... Nepamatovat si moc!"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:411
@@ -1650,13 +1709,16 @@ msgid ""
 "have to go east for a mission that, if successful, could allow me to grant "
 "these lands to ogres!"
 msgstr ""
+"No, slibuji vám, že vojáci Wesnothu nebudou bojovat proti obrům z "
+"Glubtrubova kmene, pokud nám pomůžete porazit nágy. Dokonce teď mířím na "
+"východ kvůli misi, která mi v případě úspěchu umožní udělit tyto země obrům!"
 
 #. [message]: speaker=Glubtrub
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:415
 msgid ""
 "Understand little, but... meanwhile to squash snakes, to understand well "
 "after!"
-msgstr ""
+msgstr "Rozumět málo, ale... teď hady mačkat, dobře rozumět potom!"
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:419
@@ -1664,6 +1726,8 @@ msgid ""
 "(To Glauco) I don't understand, Weren't we supposed to free the amber way? "
 "With the ogres settled here, how are we going to do this?"
 msgstr ""
+"(<i>Mluví ke Glaukovi:</i>) Nechápu, neměli jsme uvolnit Jantarovou stezku? "
+"Jak to uděláme, když tu budou usazení obři?"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:423
@@ -1673,6 +1737,9 @@ msgid ""
 "invaders like the Naga; for the completion of my project, meanwhile, it's "
 "essential to liberate the river."
 msgstr ""
+"Pokud se kmen obrů stane naším spojencem, nejen že nebude překážkou, ale "
+"bude dokonce přínosem, protože ochrání toto území před vetřelci, jako jsou "
+"nágy. Pro dokončení mého projektu je mezitím nezbytné osvobodit řeku."
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:427
@@ -1681,11 +1748,14 @@ msgid ""
 "Ogres, today, is necessary! In that nest there are more Naga than we "
 "expected, and they are also experts as well as armed!"
 msgstr ""
+"Vedl jsi nás dobře a já ti budu věřit i dál. I proto, že pomoc obrů je dnes "
+"nezbytná! V tomhle doupěti je víc nág, než jsme čekali, a jsou to zkušení a "
+"dobře ozbrojení protivníci!"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:434
 msgid "The station is free, and the river, too! Good work, my soldiers!"
-msgstr ""
+msgstr "Stanice je volná a řeka také! Dobrá práce, mí vojáci!"
 
 #. [message]: speaker=Glubtrub
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:438
