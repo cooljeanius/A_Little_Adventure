@@ -1461,7 +1461,7 @@ msgstr ""
 #. [message]: speaker=Grunto
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:279
 msgid "What are those humans doing there?"
-msgstr "Co tu dělaj ti lidi?"
+msgstr "Co tu dělaj ty lidi?"
 
 #. [message]: speaker=Olly
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:283
