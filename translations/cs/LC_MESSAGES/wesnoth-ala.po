@@ -1445,7 +1445,7 @@ msgstr ""
 "Pokud použijeme všechny naše muže, podaří se nám mít přes noc místo, kde se "
 "lze bránit. V každém případě bychom se stejně nebyli schopni dostat do "
 "blízkosti skřetího tábora před soumrakem. Je lepší mít něco, na čem zlomíme "
-"jejich počáteční vlnu."
+"jejich počáteční nápor."
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:272
