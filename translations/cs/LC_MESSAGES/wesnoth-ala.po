@@ -1697,7 +1697,7 @@ msgid ""
 "when they to play near ruins! But soldier with colors of Wetspot never to be "
 "friends ogres... I believe... I don't remember well!"
 msgstr ""
-"Glubtrub nemít rád hady! Málo tuku k jídlu a ne moc dobré! Chtít zabít naše "
+"Glubtrub nemít rád hady! Málo tuku k jídlu, a ne moc dobré! Chtít zabít naše "
 "malé, když si hrát poblíž ruin! Ale voják Wesnoth barvy nikdy nebýt přítel "
 "obrů... Já věřit... Nepamatovat si moc!"
 
