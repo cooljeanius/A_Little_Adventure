@@ -1423,7 +1423,7 @@ msgid ""
 msgstr ""
 "Máš pravdu, Geobarde, tahle pláň je úplně holá. Ale podívej se na ten les "
 "napravo od nás! Uspořádej pracovní četu, která tam bude těžit klády, aby tu "
-"znich postavila valy."
+"z nich postavila valy."
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:264
