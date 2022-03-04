@@ -1571,7 +1571,7 @@ msgid ""
 "Have you listened, my dear? This Wesnothian lout is not so loutish, finally! "
 "Come on then, it will be fun!"
 msgstr ""
-"Slyšela jsi, miláčku? Tenhle wesnothský klacek nakonec není takový brutián! "
+"Slyšelas, miláčku? Tenhle wesnothský klacek nakonec není takový hrubián! "
 "Tak pojďte, bude sranda!"
 
 #. [message]: speaker=Fangy
