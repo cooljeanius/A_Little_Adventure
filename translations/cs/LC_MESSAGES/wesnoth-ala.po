@@ -1833,7 +1833,7 @@ msgstr ""
 "Takže, pánové, protože nechcete strávit pár týdnů lezením po horách, co jsou "
 "dále na jihu (což je podle mě dobrý nápad, protože divočina je tam ještě "
 "divočejší), musíme najít cestu, která nás dovede na druhou stranu tohoto "
-"území, a to přes krvavé kopce."
+"území, a to přes Krvavé kopce."
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:466
