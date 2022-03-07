@@ -2818,7 +2818,7 @@ msgstr ""
 "utratil příjemnějšími způsoby. Ty by ovšem také přinášely menší prospěch pro "
 "zachování jeho života vzhledem k podniku, do kterého se vrhnul. Z opatrnosti "
 "byla sestava, co zbyla z původní posádky, ponechána v Amoranu, aby se "
-"vzpamatovala z únavy předchozí bitvy a hlídala město před případnými "
+"vzpamatovala z únavy z předchozí bitvy a hlídala město před případnými "
 "nepříjemnými překvapeními!"
 
 #: A_Little_Adventure/utils/ALA_story.cfg:57
