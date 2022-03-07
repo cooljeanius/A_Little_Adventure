@@ -1677,7 +1677,7 @@ msgid ""
 "Humansss? After all thisss time they wantsss to reconquessst this place? "
 "They'll find only their deathsss!"
 msgstr ""
-"Lidsský? To vššem to ččassse chtějí zznovu obssadit tohle míssto? Najdou jen "
+"Lidsský? Po vššem tom ččassse chtějí zznovu obssadit tohle míssto? Najdou jen "
 "sssvou ssmrt!"
 
 #. [message]: speaker=Kssihiss
