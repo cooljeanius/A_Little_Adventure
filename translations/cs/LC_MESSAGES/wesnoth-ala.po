@@ -1804,7 +1804,7 @@ msgid ""
 "More better! To like more to eat and to sleep than to fight! But... how to "
 "be enemies of Wetspot? Be edible?"
 msgstr ""
-"Ještě lepší! Mít rád více jíst a spát než bojovat! Ale... jak se to být s "
+"Ještě lepší! Mít rád více jíst a spát než bojovat! Ale... jak to být s "
 "nepříteli Wetspot? Být k jídlu?"
 
 #. [message]: speaker=Glauco
