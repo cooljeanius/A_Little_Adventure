@@ -1827,7 +1827,7 @@ msgid ""
 "things, OH OH OH! We to do so, you to say me who is enemy of Wetspot, and I "
 "to squash him!"
 msgstr ""
-"...chápat... nic nechápat! Ale to být dobře, nezvyknout věcem rozumět, hó hó "
+"... chápat... nic nechápat! Ale to být dobře, nezvyknout věcem rozumět, hó hó "
 "hó! Abychom to udělat dobře, ty řeknout mi, kdo nepřítel Wetspot, a já "
 "rozmáčknout!"
 
