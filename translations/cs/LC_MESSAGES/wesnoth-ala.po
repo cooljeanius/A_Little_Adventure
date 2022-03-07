@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-03-06 21:03 UTC\n"
-"PO-Revision-Date: 2022-02-25 22:14+0100\n"
+"PO-Revision-Date: 2022-03-06 20:43+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -460,8 +460,8 @@ msgid ""
 "What this confusion? Men colored like Wetspot and snake to fight? Ogres to "
 "come too, good chance to squash all!"
 msgstr ""
-"Co to být za zmatek? Muži s wesnotíma barvama mít velkou pračku s "
-"hadovitýma? Obři, jít sem taky. Dobrá šance podrtit ty i ty!"
+"Co to být za zmatek? Muži s wetspot barvama mít velká pračka s hadama? Obři, "
+"jít sem taky. Dobrá šance podrtit ty i ty!"
 
 #. [objective]: condition=lose
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:214
@@ -479,7 +479,7 @@ msgstr "království Wesnoth – přepřahací stanice č. 2"
 #. [message]: speaker=Kssihiss
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:271
 msgid "Damned humansss... Hiss!"
-msgstr ""
+msgstr "Zzatraccený lidsský... Ass!"
 
 #. [scenario]: id=04_The_Bloody_Hills
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:5
@@ -594,7 +594,7 @@ msgstr "Nereidy"
 #. The inclusion of "Squash" as a synonym for "Defeat" in this objective is for the benefit of Glubtrub:
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:103
 msgid "Squash... or... Defeat the Saurian Chief"
-msgstr ""
+msgstr "Vytlač nebo poraz ještěráckého vůdce"
 
 #. [message]: speaker=Giksy
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:202
@@ -634,7 +634,7 @@ msgstr ""
 #. [message]: speaker=Giksy
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:248
 msgid "Aaah... I'll... never... sssee... my... treasssure... again..."
-msgstr ""
+msgstr "Aaah... Užžž... nikdy... nezzzřím... zzzasss... sssvůj... poklad..."
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:281
@@ -674,7 +674,7 @@ msgstr "Ti zatracenci jsou všichni mrtví nebo uprchli! Konečně jsme hotovi!"
 #. [message]: speaker=Gan-Tarkas
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:489
 msgid "Impossible!"
-msgstr ""
+msgstr "Nemožný!"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:493
@@ -684,22 +684,22 @@ msgstr "S tvým koncem, skřete, může a bude mít Amoran novou budoucnost!"
 #. [message]: speaker=Glubtrub
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:508
 msgid "To remain only to squash big snake!"
-msgstr ""
+msgstr "Jen velký had zbývat rozmáčknout!"
 
 #. [message]: speaker=Hisskss
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:524
 msgid "Hissss!"
-msgstr ""
+msgstr "Assss!"
 
 #. [message]: speaker=Glubtrub
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:532
 msgid "Other snake make flat-flat! Oh! Oh! Oh!"
-msgstr ""
+msgstr "Další had ležet jak kláda! Hó! Hó! Hó!"
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:541
 msgid "And now let's finish taking care of his friend, Gan-Tarkas!"
-msgstr ""
+msgstr "A teď to pojďme dokončit s jeho kámošem Gan-Tarkasem!"
 
 #. [scenario]: id=07_Epilogue
 #: A_Little_Adventure/scenarios/07_Epilogue.cfg:5
@@ -1677,6 +1677,8 @@ msgid ""
 "Humansss? After all thisss time they wantsss to reconquessst this place? "
 "They'll find only their deathsss!"
 msgstr ""
+"Lidsský? Po vššem tom ččassse chtějí zznovu obssadit tohle míssto? Najdou jen "
+"sssvou ssmrt!"
 
 #. [message]: speaker=Kssihiss
 #. The original author probably meant "land mammal" here, but "lard mammal" makes sense, too, and is funnier.
@@ -1686,6 +1688,8 @@ msgid ""
 "Ssstupid lard mammal, ssstay out of thisss ssstory or you won't be able to "
 "get out!"
 msgstr ""
+"Sstupidní ssavčí ssádelňácci, držžte ssse mimo tuhle zzáležžitosst, nebo "
+"ssse z ní nevyssoukáte ven!"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:404
@@ -1705,7 +1709,7 @@ msgid ""
 "friends ogres... I believe... I don't remember well!"
 msgstr ""
 "Glubtrub nemít rád hady! Málo tuku k jídlu, a ne moc dobré! Chtít zabít naše "
-"malé, když si hrát poblíž ruin! Ale voják Wesnoth barvy nikdy nebýt přítel "
+"malé, když si hrát poblíž ruin! Ale voják Wetspot barvy nikdy nebýt přítel "
 "obrů... Já věřit... Nepamatovat si moc!"
 
 #. [message]: speaker=Glauco
@@ -1772,6 +1776,7 @@ msgstr ""
 msgid "The station is free, and the river, too! Good work, my soldiers!"
 msgstr "Stanice je volná a řeka také! Dobrá práce, mí vojáci!"
 
+# Úplně cítím, jak se mi snižuje inteligence, když to překládám.
 #. [message]: speaker=Glubtrub
 #. I'm assuming he means "sole" as in "the sole of a shoe" here?
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:445
@@ -1779,6 +1784,8 @@ msgid ""
 "Nice! Snakes make flat like sole into the river, flat-flat! You like me, man "
 "of Wetspot! I to come with you, and together to come to squash world!"
 msgstr ""
+"Pěkný! Hadi pleskat o zem, jak když šlápnout do řeka, ležet tuhý jak kláda! "
+"My mít se rádi s muž z Wetspot! Jít s vámi, spolu jít a mačkat svět!"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:449
@@ -1787,6 +1794,9 @@ msgid ""
 "around... to squash; I'm on a mission with a specific purpose... in general, "
 "we only fight the enemies of Wesnoth!"
 msgstr ""
+"Err... jasně, také se mi líbíš, Glubtrube. Ale já se nechystám... něco "
+"mačkat. Jsem na misi s konkrétním účelem... Obecně, my bojujeme pouze s "
+"nepřáteli Wesnothu!"
 
 #. [message]: speaker=Glubtrub
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:453
@@ -1794,6 +1804,8 @@ msgid ""
 "More better! To like more to eat and to sleep than to fight! But... how to "
 "be enemies of Wetspot? Be edible?"
 msgstr ""
+"Ještě lepší! Mít rád více jíst a spát než bojovat! Ale... jak to být s "
+"nepříteli Wetspot? Být k jídlu?"
 
 #. [message]: speaker=Glauco
 #. The ogre's speech patterns are starting to rub off on Glauco:
@@ -1804,6 +1816,9 @@ msgid ""
 "and don't respect its laws, or those who want to take possession of the "
 "goods or of the life of the inhabitants of Wesnoth."
 msgstr ""
+"Nu... tedy... obvykle ne... předpokládám. Nicméně, nepřáteli Wetspotu... eh "
+"Wesnothu by mohli být ti, kteří žijí na území Wesnothu a nerespektují jeho "
+"zákony, nebo ti, kteří se chtějí zmocnit zboží nebo života obyvatel Wesnothu."
 
 #. [message]: speaker=Glubtrub
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:462
@@ -1812,6 +1827,9 @@ msgid ""
 "things, OH OH OH! We to do so, you to say me who is enemy of Wetspot, and I "
 "to squash him!"
 msgstr ""
+"... chápat... nic nechápat! Ale to být dobře, nezvyknout věcem rozumět, hó hó "
+"hó! Abychom to udělat dobře, ty řeknout mi, kdo nepřítel Wetspot, a já "
+"rozmáčknout!"
 
 #. [message]: speaker=Glauco
 #. "Beh" is just a sound, but I suppose it could also be a portmanteau of
@@ -1821,6 +1839,8 @@ msgid ""
 "Beh, I suppose that can be acceptable in this way! Glad to have you with us, "
 "Glubtrub, your strength will be useful to us!"
 msgstr ""
+"Nu, připouštím, že to takto může být přijatelné. Jsme rádi, že jsi s námi, "
+"Glubtrube, tvoje síla se nám bude hodit!"
 
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:473
 msgid ""
@@ -1829,6 +1849,10 @@ msgid ""
 "even more wild in those mountains), we have just to find a road that leads "
 "us on the other side of this territorry, through the bloody hills."
 msgstr ""
+"Takže, pánové, protože nechcete strávit pár týdnů lezením po horách, co jsou "
+"dále na jihu (což je podle mě dobrý nápad, protože divočina je tam ještě "
+"divočejší), musíme najít cestu, která nás dovede na druhou stranu tohoto "
+"území, a to přes Krvavé kopce."
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:476
@@ -1836,6 +1860,8 @@ msgid ""
 "What's the problem? The season is good, the weather is beautiful, and these "
 "hills were safe when the amber caravans passed through them!"
 msgstr ""
+"A co je za problém? Roční doba je příznivá, počasí krásné a ty kopce byly "
+"bezpečné, když jimi projížděly karavany s jantarem!"
 
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:478
 msgid ""
@@ -1846,11 +1872,16 @@ msgid ""
 "with the caravan workers; when the caravans ceased, the dwarves raised their "
 "heels and left!"
 msgstr ""
+"Škoda, že ty časy skončily dříve, než jste se narodil, veliteli! V minulosti "
+"byla cesta klidná, protože těch pár zbývajících trpaslíků žilo v dolech, "
+"ve kterých těžili po staletí. Ty doly byly už nějakou dobu vyčerpané, ale někteří "
+"trpaslíci stále dokázali vytěžit něco, co jim umožnilo obchodovat "
+"s karavanami. Když přestaly karavany chodit, zvedli trpaslíci zadky a odešli!"
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:481
 msgid "Better, so they will not try to charge us any toll!"
-msgstr ""
+msgstr "To je ještě lepší, nebudou se nám snažit účtovat žádné mýtné!"
 
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:483
 msgid ""
@@ -1861,12 +1892,17 @@ msgid ""
 "there, and those have become the home of bats of all kinds, including the "
 "worst types of course!"
 msgstr ""
+"Chtěl jsi říct horší! Opuštěné doly se staly doupaty vlků, včetně pravlků, a "
+"ti během dne vycházejí útočit na vetřelce, tedy takové, jako jsme my. A "
+"k tomu ještě zřícení nějakého komplexu tunelů, které již trpaslíci "
+"neudržují, sem tam otevřelo propasti, jež se staly domovem netopýrů všech "
+"druhů, samozřejmě včetně těch nejhorších!"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:486
 msgid ""
 "Of course! At least now we know why these place is called the Bloody Hills!"
-msgstr ""
+msgstr "No samozřejmě! Teď alespoň víme, proč se těm místům říká Krvavé kopce!"
 
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:488
 msgid ""
@@ -1876,16 +1912,21 @@ msgid ""
 "wind dispersed those rusty powders all the hills took on a blood tinge, "
 "until it rained! Anyway, my proposal is to cross them as fast as possible!"
 msgstr ""
+"Ale vůbec ne! Jméno pochází z doby před staletími, kdy trpaslíci začali "
+"těžit ložiska železa pod kopci. Hlušina, kterou trpaslíci nashromáždili "
+"venku, je plná železného prachu, a když vítr rozptýlil ty rezavé prášky, "
+"chytly všechny kopce krvavý nádech, dokud neopršely! Každopádně můj návrh je "
+"překročit je co nejrychleji!"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:491
 msgid "It seems like a great idea to me!"
-msgstr ""
+msgstr "To mi přijde jako výtečný nápad!"
 
 #. [message]: speaker=Glubtrub
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:495
 msgid "Glubtrub to think the same!"
-msgstr ""
+msgstr "Glubtrub myslet to samé!"
 
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:497
 msgid ""
@@ -2743,6 +2784,16 @@ msgid ""
 "sergeant. A campaign in hostile territory, against forces with only partly-"
 "known numbers, was, however, risky and full of unknowns."
 msgstr ""
+"Poté, co se Dadokova banda ocitla mimo hru, se Glauko, povzbuzen dosaženým "
+"vítězstvím a svými novými velitelskými výsadami, rozhodl čelit alespoň "
+"jednomu z dalších problémů Amoranu, a to skřetovi Gruntovi. Protože Grunto "
+"nebyl členem kmenů spojených se Severní aliancí, bylo nepravděpodobné, že by "
+"mu jiní skřetí náčelníci pomohli. A zvláště teď, když už byl poražen v "
+"předchozí bitvě, a tak mohl vidět, jak jeho pověst mezi skřety padá jak to "
+"lejno do trollí latríny. Toto povzbuzení však pro mladého seržanta "
+"neznamenalo, že by přestal být obezřetným. Neboť tažení na nepřátelském "
+"území proti neznámému počtu sil protivníka bylo stále riskantní a plné "
+"nejistot."
 
 #: A_Little_Adventure/utils/ALA_story.cfg:53
 msgid ""
@@ -2758,6 +2809,17 @@ msgid ""
 "garrison was left to Amoran, so that it would recover from the fatigue of "
 "the previous battle and watch over the town against any nasty surprises!"
 msgstr ""
+"Glauko se tedy rozhodl spoléhat pouze na profesionální vojáky, kteří tváří v "
+"tvář divokému zjevu skřetů nepropadnou panice. Když konečně překročil brod u "
+"Amoranu, měl nejen spolehlivé vojáky (i když ne příliš zkušené), ale také "
+"úplně vyprázdněnou posádkovou kasu, stejně jako své kapsy. Na druhou stranu "
+"je třeba uvést, že když si odvážný mladík vyžádal odměnu za Dadokovu hlavu, "
+"raději investoval do kopí, válečných lučištníků a zbroje, než aby to zlato "
+"utratil příjemnějšími způsoby. Ty by ovšem také přinášely menší prospěch pro "
+"zachování jeho života vzhledem k podniku, do kterého se vrhnul. Z opatrnosti "
+"byla sestava, co zbyla z původní posádky, ponechána v Amoranu, aby se "
+"vzpamatovala z únavy z předchozí bitvy a hlídala město před případnými "
+"nepříjemnými překvapeními!"
 
 #: A_Little_Adventure/utils/ALA_story.cfg:57
 msgid ""
