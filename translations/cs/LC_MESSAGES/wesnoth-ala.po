@@ -1895,7 +1895,7 @@ msgstr ""
 "Chtěl jsi říct horší! Opuštěné doly se staly doupaty vlků, včetně pravlků, a "
 "ti během dne vycházejí útočit na vetřelce, tedy takové, jako jsme my. A "
 "k tomu ještě zřícení nějakého komplexu tunelů, které již trpaslíci "
-"neudržují, sem tam otevřelo propasti, které se staly domovem netopýrů všech "
+"neudržují, sem tam otevřelo propasti, jež se staly domovem netopýrů všech "
 "druhů, samozřejmě včetně těch nejhorších!"
 
 #. [message]: speaker=Glauco
