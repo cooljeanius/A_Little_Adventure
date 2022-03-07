@@ -1875,7 +1875,7 @@ msgstr ""
 "Škoda, že ty časy skončily dříve, než jste se narodil, veliteli! V minulosti "
 "byla cesta klidná, protože těch pár zbývajících trpaslíků žilo v dolech, "
 "ve kterých těžili po staletí. Ty doly byly už nějakou dobu vyčerpané, ale někteří "
-"trpaslíci stále byli schopni vytěžit něco, co jim umožnilo obchodovat "
+"trpaslíci stále dokázali vytěžit něco, co jim umožnilo obchodovat "
 "s karavanami. Když přestaly karavany chodit, zvedli trpaslíci zadky a odešli!"
 
 #. [message]: speaker=Geobard
