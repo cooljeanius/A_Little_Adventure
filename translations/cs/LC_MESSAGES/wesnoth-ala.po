@@ -2171,7 +2171,7 @@ msgstr ""
 #. [message]: speaker=Joralda
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:641
 msgid "Look to north, friends, those big green snakes are poisonous!"
-msgstr "Podívejte k severu, přátele, ti velcí zelení hadi jsou jedovatí!"
+msgstr "Podívejte k severu, přátelé, ti velcí zelení hadi jsou jedovatí!"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:646
