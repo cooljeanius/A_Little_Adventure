@@ -2949,7 +2949,7 @@ msgstr ""
 "Nemohl si ještě pomyslet na to, že by město mohlo znovu dojít svého bývalého "
 "lesku. Ale kromě obnovené dopravy jantaru se mu podařilo dosáhnout toho, že "
 "divoká krajina byla o něco méně divoká než dříve, což mohlo přilákat "
-"osadníky ze západu, lidi, obdařené odvahou a duchem iniciativy, vlastnostmi, "
+"osadníky ze západu, lidi obdařené odvahou a duchem iniciativy, vlastnostmi, "
 "které pro Glauka měly větší cenu než zlaté kamení."
 
 #: A_Little_Adventure/utils/ALA_story.cfg:85
