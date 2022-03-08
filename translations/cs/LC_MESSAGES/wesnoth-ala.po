@@ -2863,7 +2863,7 @@ msgstr ""
 "se obnovit Jantarovou cestu. Otázkou bylo, jak na to? Jantarová řeka byla "
 "hluboká a splavná od východního pobřeží kontinentu po Amoran. Ale sloužila "
 "také jako hranice se skřetími teritorii, smlouvy uzavřené se Severní aliancí "
-"zaručovaly bezpečnost hranic a žádná loď nemohla plout ani proti ani po "
+"zaručovaly bezpečnost hranic a žádná loď nemohla plout ani proti, ani po "
 "jejím proudu."
 
 #: A_Little_Adventure/utils/ALA_story.cfg:65
