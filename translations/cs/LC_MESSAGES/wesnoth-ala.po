@@ -979,7 +979,7 @@ msgstr "Ať jsou zatraceni! Pomstím tě, má maličká!"
 #. "damned" would lack a noun to modify, and it needs one:
 #: A_Little_Adventure/utils/ALA_deaths.cfg:167
 msgid "Damned $second_unit.race|s! I'll avenge you, my friend!"
-msgstr "Prokletí bastardi! Pomstím tě, můj příteli."
+msgstr "Prokletí bastardi! Pomstím tě, můj příteli!"
 
 #. [message]: speaker=Mimord
 #: A_Little_Adventure/utils/ALA_deaths.cfg:182
