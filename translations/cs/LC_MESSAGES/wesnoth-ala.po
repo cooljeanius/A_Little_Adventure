@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-03-06 21:03 UTC\n"
-"PO-Revision-Date: 2022-03-07 23:47+0100\n"
+"PO-Revision-Date: 2022-03-12 22:39+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -599,6 +599,8 @@ msgid ""
 "Let's ssshow them the little sssurprissse that we had prepared for the "
 "fisssh if they had decided to recover the issland!"
 msgstr ""
+"Ukažžme jim to malé přřekvapení, cco jsssme přřipravili pro ryboušše, kdyby "
+"ssse chtěli zznovu zzmoccnit osstrova!"
 
 #. [message]: speaker=Giksy
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:214
@@ -618,7 +620,7 @@ msgstr "Ze severu přicházejí další monstra! Jsou stejná jako ta předchoz�
 #. [message]: speaker=Giksy
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:229
 msgid "We need of ohtersss sssea companionsss, sssummon all them!"
-msgstr ""
+msgstr "Potřřebujeme dalšší mořřsské ssspoleččníky, sssvolejte je vššechny!"
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:237
@@ -1969,6 +1971,9 @@ msgid ""
 "already have our troubles and we don't want to have other troubles with you! "
 "So, excuse us again, and have a good stay."
 msgstr ""
+"Ehm... Eh... Promiň, že jsme tě obtěžovali. Ale jak vidíš, své trable už "
+"máme a další s tebou mít nechceme! Takže nás ještě jednou omluv a měj se "
+"hezky."
 
 #. [message]: speaker=Mimord
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:519
@@ -1983,7 +1988,7 @@ msgstr ""
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:523
 msgid "In truth... we try to avoid problems when possible."
-msgstr ""
+msgstr "Po pravdě... snažíme se problémům vyhýbat, když je to možné."
 
 #. [message]: speaker=Mimord
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:527
@@ -1993,6 +1998,9 @@ msgid ""
 "you know what I tell you? You have won, I'll come with you for free; I am "
 "bored to death here."
 msgstr ""
+"U kníru mé sestry, to je skutečně bláhové prohlášení, veliteli Glauko, z úst "
+"někoho, kdo chce přejít tato území! Víš, co ti nabízím? Vyhrál jsi, půjdu s "
+"vámi zadarmo. Jsem tu k smrti znuděný."
 
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:529
 msgid ""
@@ -2000,6 +2008,9 @@ msgid ""
 "he comes with us! Although we should almost be near at the sea, we don't "
 "know what we'll find again, and then... there is always the return to Amoran."
 msgstr ""
+"Ten trpaslík není úplně špatný. Když půjde s námi, udělá podle mého názoru "
+"víc užitku než zla! I když už bychom měli být skoro u moře, nevíme, co zase "
+"najdeme. A pak... vždy je tu návrat do Amoranu."
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:532
@@ -2007,6 +2018,8 @@ msgid ""
 "Then you can come with us, Mimord, but I will decide who to... attack, "
 "understood?"
 msgstr ""
+"Pak můžeš jít s námi, Mimorde, ale já budu rozhodovat... na koho zaútočíš, "
+"rozumíš?"
 
 #. [message]: speaker=Mimord
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:536
@@ -2015,34 +2028,38 @@ msgid ""
 "hammer, you're one tough merchant, to get my services for nothing... my "
 "compliments, really."
 msgstr ""
+"Rozumím! Uzavřel jste skvělou dohodu, veliteli Glauko! Ale u kladiva mého "
+"bratrance..., jste tvrdý obchodník. Získat moje služby za nic... před tím se "
+"skláním, opravdu."
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:540
 msgid ""
 "Actually I don't... oh well, forget it and let's reach that monolith beyond "
 "the hills."
-msgstr ""
+msgstr "Vlastně já nic... no, zapomeň na to a pojďme k tomu monolitu za kopci."
 
 #. [message]: speaker=Glubtrub
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:547
 msgid "Urca! Bats ugly, Glubtrub to hate bats!"
-msgstr ""
+msgstr "Né! Netopýři oškliví, Glubtrub nenávidět netopýry!"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:551
 msgid ""
 "How you can have fear of a pet that's so much smaller than you, Glubtrub?"
 msgstr ""
+"Jak se můžeš bát takového zvířátka, které je o tolik menší než ty, Glubtrube?"
 
 #. [message]: speaker=Glubtrub
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:556
 msgid "No to have fear, but bats to have ugly taste! Bleah!"
-msgstr ""
+msgstr "Nemít strach, ale netopýři mít ošklivou chuť! Bléé!"
 
 #. [message]: speaker=Divaid
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:563
 msgid "And just so we won't miss anything, here are the wolves!"
-msgstr ""
+msgstr "A abychom o nic nepřišli, jsou tu vlci!"
 
 #. [message]: speaker=Croquet
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:567
@@ -2050,11 +2067,13 @@ msgid ""
 "And just so we won't miss anything, here are the wolves! Beh, maybe Fangy "
 "could find a cute one and enlarge the family!"
 msgstr ""
+"A abychom o nic nepřišli, jsou tu vlci! Eh, možná by si Fangy mohla najít "
+"nějakého roztomilého a rozšířit rodinu!"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:571
 msgid "Well, hey! I'm not complaining about what is lacking!"
-msgstr ""
+msgstr "No nazdar! Nestěžuji si na to, že by mi něco chybělo!"
 
 #. [message]: speaker=Joralda
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:579
@@ -2149,12 +2168,12 @@ msgstr ""
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:622
 msgid "Then, there is only one thing left to do!"
-msgstr ""
+msgstr "Pak už zbývá udělat jen jednu věc!"
 
 #. [message]: speaker=Glubtrub
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:626
 msgid "To squash lizards, Oh Oh Oh! Even Glubtrub understand!"
-msgstr ""
+msgstr "Rozmačkat ještěrky, hó, hó, hó! Dokonce i Glubtrub pochopit!"
 
 #. [message]: speaker=Mimord
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:630
@@ -2880,10 +2899,10 @@ msgstr ""
 "Jedinou alternativou byla stará karavanní stezka, která po většinu své cesty "
 "kopírovala tok řeky. Ale stezka byla v katastrofálním stavu, stanice byly "
 "desítky let opuštěné a o jejich stavu se nic nevědělo, i když se dalo lehce "
-"předpokládat, že dobrý nebude. Zkrátka obnovení karavanní stezky "
-"by stálo jmění, které by wesnothská vláda nepřidělila. Ale Glauco měl nápad, "
-"jak obejít všechny tyto problémy, jen ten nápad vyžadoval obnovení kontaktů "
-"s východními Nereidami."
+"předpokládat, že dobrý nebude. Zkrátka obnovení karavanní stezky by stálo "
+"jmění, které by wesnothská vláda nepřidělila. Ale Glauco měl nápad, jak "
+"obejít všechny tyto problémy, jen ten nápad vyžadoval obnovení kontaktů s "
+"východními nereidami."
 
 #: A_Little_Adventure/utils/ALA_story.cfg:69
 msgid ""
