@@ -3224,7 +3224,7 @@ msgstr ""
 "by to Kroket udělal. Pak zmizela a už ji nikdo nikdy neviděl! Glauko, který se "
 "právě stal civilním guvernérem všech území na východě, na památku starého "
 "lovce nařídil pod trestem vyhnání z území absolutní zákaz zabíjení vlků na "
-"územích, která mu podléhala, s vyjímkou vlastní obrany."
+"územích, která mu podléhala, s výjimkou vlastní obrany."
 
 #. [message]: speaker=Divaid
 #: A_Little_Adventure/utils/ALA_story.cfg:151
