@@ -3207,7 +3207,7 @@ msgid ""
 msgstr ""
 "Kroket se vrátil ke svému životu v lesích, ale bez jeho „přítelkyně“ mu bylo "
 "smutno. A tak se vracel do Amoranu, kdykoli měl chuť na dobré pivo a dobrou "
-"společnost. Glauko, kdykoli ho viděl přicházet, dával pozor, aby nikdy mu "
+"společnost. Glauko pokaždé, když ho viděl přicházet, dával pozor, aby mu nikdy "
 "nechybělo ani jedno, ani druhé."
 
 #. [message]: speaker=Fangy
