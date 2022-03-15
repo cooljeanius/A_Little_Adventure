@@ -3194,7 +3194,7 @@ msgid ""
 "to tell some strange facts that he thought Glauco might be interested in."
 msgstr ""
 "Kroket se vrátil ke svému životu v lesích spolu se svou „přítelkyní“. Do "
-"Amoranu se ale vracel kdykoli si chtěl s přáteli vypít dobré pivo a "
+"Amoranu se ale vracel, kdykoli si chtěl s přáteli vypít dobré pivo a "
 "poklábosit o nějakých nezvyklostech, která by podle něj mohly Glauka zajímat."
 
 #. [message]: speaker=Croquet
