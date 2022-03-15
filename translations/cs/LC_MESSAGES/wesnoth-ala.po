@@ -2137,7 +2137,7 @@ msgid ""
 "coast."
 msgstr ""
 "Ložiska jantaru, na ostrově naproti ústí řeky, už neovládáme my, ale "
-"ještěráci! A ty nám ztěžují život, i když hledáme jantarové oblázky v "
+"ještěráci! A ti nám ztěžují život, i když hledáme jantarové oblázky v "
 "hlubinách podél pobřeží."
 
 #. [message]: speaker=Glubtrub
