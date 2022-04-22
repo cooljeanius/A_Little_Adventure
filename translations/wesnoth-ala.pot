@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-03-17 10:53 UTC\n"
+"POT-Creation-Date: 2022-04-22 18:44 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -827,24 +827,22 @@ msgid "Damn them! I'll avenge you, my little one!"
 msgstr ""
 
 #. [message]: speaker=Divaid
-#. sorry, localizers, I know plurals make translation difficult, but otherwise
-#. "damned" would lack a noun to modify, and it needs one:
-#: A_Little_Adventure/utils/ALA_deaths.cfg:167
-msgid "Damned $second_unit.race|s! I'll avenge you, my friend!"
+#: A_Little_Adventure/utils/ALA_deaths.cfg:164
+msgid "Damn bastards! I'll avenge you, my friend!"
 msgstr ""
 
 #. [message]: speaker=Mimord
-#: A_Little_Adventure/utils/ALA_deaths.cfg:182
+#: A_Little_Adventure/utils/ALA_deaths.cfg:179
 msgid "At least... it... was... not... boring..."
 msgstr ""
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_deaths.cfg:191
+#: A_Little_Adventure/utils/ALA_deaths.cfg:188
 msgid "Poor dwarf! He was crazy, but he was also nice!"
 msgstr ""
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/utils/ALA_deaths.cfg:195
+#: A_Little_Adventure/utils/ALA_deaths.cfg:192
 msgid "In my opinion... He was nice, but he was also crazy!"
 msgstr ""
 
