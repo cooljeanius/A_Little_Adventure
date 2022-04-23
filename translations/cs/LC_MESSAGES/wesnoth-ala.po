@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-04-22 18:46 UTC\n"
+"POT-Creation-Date: 2022-04-23 19:53 UTC\n"
 "PO-Revision-Date: 2022-03-13 22:05+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
@@ -3261,7 +3261,9 @@ msgstr ""
 "územích, která mu podléhala, s výjimkou vlastní obrany."
 
 #. [message]: speaker=Divaid
-#: A_Little_Adventure/utils/ALA_story.cfg:158
+#. I'm not sure if "yahoos" is meant in the sense of "yokels/bumpkins/goofballs" (i.e. a person) or "shouts of glee" (i.e. a noise);
+#. I'm not sure what is meant by "nosecrops" either:
+#: A_Little_Adventure/utils/ALA_story.cfg:160
 msgid ""
 "Divaid and Ranfy returned to their woods, mumbling that they had helped the "
 "Wesnothians to fill their house of westerner yahoos; but they didn't really "
@@ -3272,7 +3274,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Divaid
-#: A_Little_Adventure/utils/ALA_story.cfg:165
+#: A_Little_Adventure/utils/ALA_story.cfg:167
 msgid ""
 "Divaid returned to his life in the woods, but he was sad without his friend, "
 "so he returned to Amoran whenever he wanted a good beer and equally good "
@@ -3281,7 +3283,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Ranfy
-#: A_Little_Adventure/utils/ALA_story.cfg:172
+#: A_Little_Adventure/utils/ALA_story.cfg:174
 msgid ""
 "Ranfy disappeared immediately after the end of the battle against Gan-"
 "Tarkas. He returned two months later, with a companion, and made his nest "
@@ -3293,7 +3295,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mimord
-#: A_Little_Adventure/utils/ALA_story.cfg:179
+#: A_Little_Adventure/utils/ALA_story.cfg:181
 msgid ""
 "Mimord remained in Amoran for a short time; then began to get bored and left "
 "for the north, looking for his old companions; in the end, even he didn't "
@@ -3301,7 +3303,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_story.cfg:186
+#: A_Little_Adventure/utils/ALA_story.cfg:188
 msgid ""
 "Glauco and his friends had other adventures later, as was inevitable for "
 "those who were called to manage a territory so vast in which they still "
@@ -3309,7 +3311,8 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_story.cfg:190
+#. https://tvtropes.org/pmwiki/pmwiki.php/Main/FinaleTitleDrop
+#: A_Little_Adventure/utils/ALA_story.cfg:193
 msgid ""
 "Glauco did not mind at all, in his serene old age, to tell his adventures to "
 "anyone asked him, sons, nephews, or great-grandchildren that they were; but "
