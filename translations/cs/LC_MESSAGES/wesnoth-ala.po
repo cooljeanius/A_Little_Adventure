@@ -2354,9 +2354,9 @@ msgid ""
 "swollen goblin Grunto in that list; he was so weak and stupid, a disgrace to "
 "his race.)</span> In what way can I reply to such an honor?"
 msgstr ""
-"Jaká čest, veliteli Glauko! Předchází tě sláva hubiče hadů, a jak někdo "
-"říká, i sláva hubiče ještěrů. <span size='small'>(Nezahrnuji do toho seznamu "
-"onoho otylého Grunta, protože byl tak slabý a hloupý, ostuda své rasy.)</"
+"Jaká čest, veliteli Glauko! Předchází tě sláva hubitele hadů, a jak někdo "
+"říká, i sláva hubitele ještěrů. <span size='small'>(Nezahrnuji do tohoto seznamu "
+"toho otylého Grunta, protože byl tak slabý a hloupý, ostuda své rasy.)</"
 "span> Čemu vděčím za takovou poctu?"
 
 #. [message]: speaker=Glauco
