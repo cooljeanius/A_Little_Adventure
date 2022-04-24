@@ -2423,7 +2423,7 @@ msgid ""
 "Grunto and his human ally Dadoc, and then you started to go to the east."
 msgstr ""
 "Ale dvakrát jsi mi vrazil klacek mezi kola. Nejdřív, když jsi porazil Grunta "
-"a jeho lidského spojence Dadoka, a pak, když si se vydal na východ."
+"a jeho lidského spojence Dadoka, a pak, když ses vydal na východ."
 
 #. [message]: speaker=Gan-Tarkas
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:738
