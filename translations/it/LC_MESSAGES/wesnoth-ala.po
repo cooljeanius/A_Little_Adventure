@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-04-23 19:53 UTC\n"
+"POT-Creation-Date: 2022-04-24 18:46 UTC\n"
 "PO-Revision-Date: 2021-02-08 20:53+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -3206,7 +3206,9 @@ msgstr ""
 "coraggio e spirito di iniziativa, qualità che, per Glauco, valevano più di "
 "poche monete d'oro."
 
-#: A_Little_Adventure/utils/ALA_story.cfg:90
+#. the "short space of a few days previously" is a reference back to the first scenario,
+#. not the length of the more-recent journey to the coast and back (which took longer):
+#: A_Little_Adventure/utils/ALA_story.cfg:92
 msgid ""
 "But, having come to the town, Glauco had to see that someone, with a lot of "
 "fighting spirit and sense of initiative, had already arrived, but had not "
@@ -3223,7 +3225,7 @@ msgstr ""
 "prima, ora c'era una solida fortezza orchesca, e il numero di capanne che la "
 "circondavano annunciava la presenza di un numero considerevole di orchi."
 
-#: A_Little_Adventure/utils/ALA_story.cfg:95
+#: A_Little_Adventure/utils/ALA_story.cfg:97
 msgid ""
 "Suddenly, Glauco was extremely happy that the men he had with him had "
 "accumulated a good amount of combat experience; and he was as much happy "
@@ -3235,7 +3237,7 @@ msgstr ""
 "era altrettanto felice che Glubtrub e i suoi ogre, colti dall'improvvisa "
 "curiosità di vedere come fosse fatta una città umana, fossero ancora con lui."
 
-#: A_Little_Adventure/utils/ALA_story.cfg:100
+#: A_Little_Adventure/utils/ALA_story.cfg:102
 msgid ""
 "The news of the defeat of Gan-Tarkas quickly reached before Soradoc and then "
 "Weldyn; just as quickly Glauco was summoned to the capital city, where the "
@@ -3250,7 +3252,7 @@ msgstr ""
 "lui ricordava che fossero soggette alla sua corona."
 
 #. FIXME: Glauco has probably advanced past "sergeant" by now...
-#: A_Little_Adventure/utils/ALA_story.cfg:105
+#: A_Little_Adventure/utils/ALA_story.cfg:107
 msgid ""
 "Glauco and Geobard went to the capital to report, on what had happened, to "
 "their august and a little distracted sovereign. When the mission was "
@@ -3277,7 +3279,7 @@ msgstr ""
 "dell'ovest ora gli sembravano soffocanti."
 
 #. FIXME: run-on:
-#: A_Little_Adventure/utils/ALA_story.cfg:111
+#: A_Little_Adventure/utils/ALA_story.cfg:113
 msgid ""
 "The renewed amber trade did not bring to the town all the benefits that "
 "Glauco had hoped, but the market that was held there twice a year, in spring "
@@ -3301,7 +3303,7 @@ msgstr ""
 "costante."
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/utils/ALA_story.cfg:117
+#: A_Little_Adventure/utils/ALA_story.cfg:119
 msgid ""
 "Geobard was promoted by the King himself, so he returned to Soradoc, where "
 "he became the trustworthy man of the count, as well as the same of many of "
@@ -3311,7 +3313,7 @@ msgstr ""
 "l'uomo di fiducia del conte, così come di molte delle dame di corte."
 
 #. [message]: speaker=Glubtrub
-#: A_Little_Adventure/utils/ALA_story.cfg:124
+#: A_Little_Adventure/utils/ALA_story.cfg:126
 msgid ""
 "To Glubtrub and the tribe of the old post station were given perpetual "
 "concession to the territory in which they lived, and only the Nereids were "
@@ -3330,7 +3332,7 @@ msgstr ""
 "pacifica, almeno per una tribù di Ogre."
 
 #. [message]: speaker=Glubtrub
-#: A_Little_Adventure/utils/ALA_story.cfg:128
+#: A_Little_Adventure/utils/ALA_story.cfg:130
 msgid ""
 "Because of so much prosperity, always according to an ogre judgment, "
 "Glubtrub would have been remembered, in the small history of his tribe, as "
@@ -3343,7 +3345,7 @@ msgstr ""
 "fine il nome di Glubtrub l'Enorme."
 
 #. [message]: speaker=Croquet
-#: A_Little_Adventure/utils/ALA_story.cfg:136
+#: A_Little_Adventure/utils/ALA_story.cfg:138
 msgid ""
 "Croquet returned to his life in the woods, along with his 'girlfriend', but "
 "returned to Amoran whenever he wanted to drink a good beer with friends and "
@@ -3355,7 +3357,7 @@ msgstr ""
 "trovare interessanti."
 
 #. [message]: speaker=Croquet
-#: A_Little_Adventure/utils/ALA_story.cfg:143
+#: A_Little_Adventure/utils/ALA_story.cfg:145
 msgid ""
 "Croquet returned to his life in the woods, but he was sad without his "
 "'girlfriend', so he returned to Amoran whenever he wanted a good beer and "
@@ -3368,7 +3370,7 @@ msgstr ""
 "faceva attenzione che non gli mancasse né l'una né l'altra."
 
 #. [message]: speaker=Fangy
-#: A_Little_Adventure/utils/ALA_story.cfg:150
+#: A_Little_Adventure/utils/ALA_story.cfg:152
 msgid ""
 "Fangy had stayed with Glauco until the end of the battle against Gan-Tarkas, "
 "simply because that was what Croquet would do; then she disappeared, and no "
@@ -3387,7 +3389,7 @@ msgstr ""
 #. [message]: speaker=Divaid
 #. I'm not sure if "yahoos" is meant in the sense of "yokels/bumpkins/goofballs" (i.e. a person) or "shouts of glee" (i.e. a noise);
 #. I'm not sure what is meant by "nosecrops" either:
-#: A_Little_Adventure/utils/ALA_story.cfg:160
+#: A_Little_Adventure/utils/ALA_story.cfg:162
 msgid ""
 "Divaid and Ranfy returned to their woods, mumbling that they had helped the "
 "Wesnothians to fill their house of westerner yahoos; but they didn't really "
@@ -3404,7 +3406,7 @@ msgstr ""
 "scomparso."
 
 #. [message]: speaker=Divaid
-#: A_Little_Adventure/utils/ALA_story.cfg:167
+#: A_Little_Adventure/utils/ALA_story.cfg:169
 msgid ""
 "Divaid returned to his life in the woods, but he was sad without his friend, "
 "so he returned to Amoran whenever he wanted a good beer and equally good "
@@ -3417,7 +3419,7 @@ msgstr ""
 "attenzione che non gli mancasse né l'una né l'altra."
 
 #. [message]: speaker=Ranfy
-#: A_Little_Adventure/utils/ALA_story.cfg:174
+#: A_Little_Adventure/utils/ALA_story.cfg:176
 msgid ""
 "Ranfy disappeared immediately after the end of the battle against Gan-"
 "Tarkas. He returned two months later, with a companion, and made his nest "
@@ -3436,7 +3438,7 @@ msgstr ""
 "grifoni furono considerati cittadini di Amoran come tutti gli altri."
 
 #. [message]: speaker=Mimord
-#: A_Little_Adventure/utils/ALA_story.cfg:181
+#: A_Little_Adventure/utils/ALA_story.cfg:183
 msgid ""
 "Mimord remained in Amoran for a short time; then began to get bored and left "
 "for the north, looking for his old companions; in the end, even he didn't "
@@ -3447,7 +3449,7 @@ msgstr ""
 "lui non piaceva stare da solo; con chi puoi litigare quando sei da solo?"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_story.cfg:188
+#: A_Little_Adventure/utils/ALA_story.cfg:190
 msgid ""
 "Glauco and his friends had other adventures later, as was inevitable for "
 "those who were called to manage a territory so vast in which they still "
@@ -3459,7 +3461,7 @@ msgstr ""
 
 #. [message]: speaker=Glauco
 #. https://tvtropes.org/pmwiki/pmwiki.php/Main/FinaleTitleDrop
-#: A_Little_Adventure/utils/ALA_story.cfg:193
+#: A_Little_Adventure/utils/ALA_story.cfg:195
 msgid ""
 "Glauco did not mind at all, in his serene old age, to tell his adventures to "
 "anyone asked him, sons, nephews, or great-grandchildren that they were; but "

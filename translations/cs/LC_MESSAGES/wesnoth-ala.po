@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-04-23 19:53 UTC\n"
+"POT-Creation-Date: 2022-04-24 18:46 UTC\n"
 "PO-Revision-Date: 2022-04-23 19:47+0200\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
@@ -2355,9 +2355,9 @@ msgid ""
 "his race.)</span> In what way can I reply to such an honor?"
 msgstr ""
 "Jaká čest, veliteli Glauko! Předchází tě sláva hubitele hadů, a jak někdo "
-"říká, i sláva hubitele ještěrů. <span size='small'>(Nezahrnuji do tohoto seznamu "
-"toho otylého Grunta, protože byl tak slabý a hloupý, ostuda své rasy.)</"
-"span> Čemu vděčím za takovou poctu?"
+"říká, i sláva hubitele ještěrů. <span size='small'>(Nezahrnuji do tohoto "
+"seznamu toho otylého Grunta, protože byl tak slabý a hloupý, ostuda své "
+"rasy.)</span> Čemu vděčím za takovou poctu?"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:714
@@ -3083,7 +3083,9 @@ msgstr ""
 "osadníky ze západu, lidi obdařené odvahou a duchem iniciativy, vlastnostmi, "
 "které pro Glauka měly větší cenu než zlaté kamení."
 
-#: A_Little_Adventure/utils/ALA_story.cfg:90
+#. the "short space of a few days previously" is a reference back to the first scenario,
+#. not the length of the more-recent journey to the coast and back (which took longer):
+#: A_Little_Adventure/utils/ALA_story.cfg:92
 msgid ""
 "But, having come to the town, Glauco had to see that someone, with a lot of "
 "fighting spirit and sense of initiative, had already arrived, but had not "
@@ -3100,7 +3102,7 @@ msgstr ""
 "skřetí pevnost a množství chatrčí kolem ní oznamovalo přítomnost značného "
 "počtu skřetů."
 
-#: A_Little_Adventure/utils/ALA_story.cfg:95
+#: A_Little_Adventure/utils/ALA_story.cfg:97
 msgid ""
 "Suddenly, Glauco was extremely happy that the men he had with him had "
 "accumulated a good amount of combat experience; and he was as much happy "
@@ -3111,7 +3113,7 @@ msgstr ""
 "značné množství bojových zkušeností. Stejně byl štastný z toho, že Glubtrub "
 "a jeho obři, zasaženi náhlou zvědavostí vidět lidské město, jsou stále s ním."
 
-#: A_Little_Adventure/utils/ALA_story.cfg:100
+#: A_Little_Adventure/utils/ALA_story.cfg:102
 msgid ""
 "The news of the defeat of Gan-Tarkas quickly reached before Soradoc and then "
 "Weldyn; just as quickly Glauco was summoned to the capital city, where the "
@@ -3127,7 +3129,7 @@ msgstr ""
 
 # Seržant vynechán, neboť v té době už bude tak jako tak na vyšší úrovni.
 #. FIXME: Glauco has probably advanced past "sergeant" by now...
-#: A_Little_Adventure/utils/ALA_story.cfg:105
+#: A_Little_Adventure/utils/ALA_story.cfg:107
 msgid ""
 "Glauco and Geobard went to the capital to report, on what had happened, to "
 "their august and a little distracted sovereign. When the mission was "
@@ -3154,7 +3156,7 @@ msgstr ""
 
 # Rozděleno na více vět.
 #. FIXME: run-on:
-#: A_Little_Adventure/utils/ALA_story.cfg:111
+#: A_Little_Adventure/utils/ALA_story.cfg:113
 msgid ""
 "The renewed amber trade did not bring to the town all the benefits that "
 "Glauco had hoped, but the market that was held there twice a year, in spring "
@@ -3177,7 +3179,7 @@ msgstr ""
 "tichým, ale neustávajícím znovuzrozením."
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/utils/ALA_story.cfg:117
+#: A_Little_Adventure/utils/ALA_story.cfg:119
 msgid ""
 "Geobard was promoted by the King himself, so he returned to Soradoc, where "
 "he became the trustworthy man of the count, as well as the same of many of "
@@ -3187,7 +3189,7 @@ msgstr ""
 "hraběte, stejně jako mnoha dvorních dam."
 
 #. [message]: speaker=Glubtrub
-#: A_Little_Adventure/utils/ALA_story.cfg:124
+#: A_Little_Adventure/utils/ALA_story.cfg:126
 msgid ""
 "To Glubtrub and the tribe of the old post station were given perpetual "
 "concession to the territory in which they lived, and only the Nereids were "
@@ -3205,7 +3207,7 @@ msgstr ""
 "mimořádně poklidný. Tedy alespoň na kmen obrů."
 
 #. [message]: speaker=Glubtrub
-#: A_Little_Adventure/utils/ALA_story.cfg:128
+#: A_Little_Adventure/utils/ALA_story.cfg:130
 msgid ""
 "Because of so much prosperity, always according to an ogre judgment, "
 "Glubtrub would have been remembered, in the small history of his tribe, as "
@@ -3217,7 +3219,7 @@ msgstr ""
 "postupné vypasenosti, jako Glubtrub Obrovský."
 
 #. [message]: speaker=Croquet
-#: A_Little_Adventure/utils/ALA_story.cfg:136
+#: A_Little_Adventure/utils/ALA_story.cfg:138
 msgid ""
 "Croquet returned to his life in the woods, along with his 'girlfriend', but "
 "returned to Amoran whenever he wanted to drink a good beer with friends and "
@@ -3228,7 +3230,7 @@ msgstr ""
 "poklábosit o nějakých nezvyklostech, které by podle něj mohly Glauka zajímat."
 
 #. [message]: speaker=Croquet
-#: A_Little_Adventure/utils/ALA_story.cfg:143
+#: A_Little_Adventure/utils/ALA_story.cfg:145
 msgid ""
 "Croquet returned to his life in the woods, but he was sad without his "
 "'girlfriend', so he returned to Amoran whenever he wanted a good beer and "
@@ -3241,7 +3243,7 @@ msgstr ""
 "nikdy nechybělo ani jedno, ani druhé."
 
 #. [message]: speaker=Fangy
-#: A_Little_Adventure/utils/ALA_story.cfg:150
+#: A_Little_Adventure/utils/ALA_story.cfg:152
 msgid ""
 "Fangy had stayed with Glauco until the end of the battle against Gan-Tarkas, "
 "simply because that was what Croquet would do; then she disappeared, and no "
@@ -3260,7 +3262,7 @@ msgstr ""
 #. [message]: speaker=Divaid
 #. I'm not sure if "yahoos" is meant in the sense of "yokels/bumpkins/goofballs" (i.e. a person) or "shouts of glee" (i.e. a noise);
 #. I'm not sure what is meant by "nosecrops" either:
-#: A_Little_Adventure/utils/ALA_story.cfg:160
+#: A_Little_Adventure/utils/ALA_story.cfg:162
 msgid ""
 "Divaid and Ranfy returned to their woods, mumbling that they had helped the "
 "Wesnothians to fill their house of westerner yahoos; but they didn't really "
@@ -3277,7 +3279,7 @@ msgstr ""
 "našel to, co bylo ztraceno, nebo toho, kdo byl nezvěstný."
 
 #. [message]: speaker=Divaid
-#: A_Little_Adventure/utils/ALA_story.cfg:167
+#: A_Little_Adventure/utils/ALA_story.cfg:169
 msgid ""
 "Divaid returned to his life in the woods, but he was sad without his friend, "
 "so he returned to Amoran whenever he wanted a good beer and equally good "
@@ -3290,7 +3292,7 @@ msgstr ""
 "nikdy nechybělo ani jedno, ani druhé."
 
 #. [message]: speaker=Ranfy
-#: A_Little_Adventure/utils/ALA_story.cfg:174
+#: A_Little_Adventure/utils/ALA_story.cfg:176
 msgid ""
 "Ranfy disappeared immediately after the end of the battle against Gan-"
 "Tarkas. He returned two months later, with a companion, and made his nest "
@@ -3308,7 +3310,7 @@ msgstr ""
 "mít. Brzy byli gryfové považováni za občany Amoranu jako každý jiný."
 
 #. [message]: speaker=Mimord
-#: A_Little_Adventure/utils/ALA_story.cfg:181
+#: A_Little_Adventure/utils/ALA_story.cfg:183
 msgid ""
 "Mimord remained in Amoran for a short time; then began to get bored and left "
 "for the north, looking for his old companions; in the end, even he didn't "
@@ -3319,7 +3321,7 @@ msgstr ""
 "když k tomu nikoho nemáš?"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_story.cfg:188
+#: A_Little_Adventure/utils/ALA_story.cfg:190
 msgid ""
 "Glauco and his friends had other adventures later, as was inevitable for "
 "those who were called to manage a territory so vast in which they still "
@@ -3332,7 +3334,7 @@ msgstr ""
 # The original should need to be improved.
 #. [message]: speaker=Glauco
 #. https://tvtropes.org/pmwiki/pmwiki.php/Main/FinaleTitleDrop
-#: A_Little_Adventure/utils/ALA_story.cfg:193
+#: A_Little_Adventure/utils/ALA_story.cfg:195
 msgid ""
 "Glauco did not mind at all, in his serene old age, to tell his adventures to "
 "anyone asked him, sons, nephews, or great-grandchildren that they were; but "
