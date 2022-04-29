@@ -1,4 +1,4 @@
-# Septim, 2022
+# Petr Šlejhar (Septim), 2022
 # Michal Žejdl <lachim@emer.cz>, 2022
 #
 msgid ""
