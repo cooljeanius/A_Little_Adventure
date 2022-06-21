@@ -1,38 +1,78 @@
 This document is this campaign's version of the following wiki page:
 https://wiki.wesnoth.org/CharactersStorys
 
-Glauco:
+Glauco: Main character of the campaign. Wesnothian human. Starts the campaign as a
+Sergeant, but will probably advance a few ranks over the course of it. Sent out
+to the eastern territories of Wesnoth and the lands beyond from a more central
+location, so he is kind of an outsider; think of a city-dweller transplanted into
+a rural area. A "bold young man" eager to set out to make a name for himself,
+although his portrait looks a bit older than the text describes him as.
 
-Geobard:
+Geobard: A mounted unit; whether he is a Cavalier, Dragoon, or Cavalryman depends
+on difficulty. A messenger sent from Soradoc to assist Glauco at Amoran. His
+portrait is the same as Deoran's from The South Guard (so he's young-looking).
 
-Glubtrub:
+Glubtrub: An ogre met along the Amber Road. Stupid; speaks in mangled ogre-style
+syntax, where, instead of conjugating his verbs, he just uses the infinitives.
+Joins Glauco and Geobard in their fight against some Nagas that they encountered,
+and then on the rest of their journey, too.
 
-Croquet:
+Croquet: One of two possible trappers that the player can encounter; joins Glauco
+and Geobard in the branch of the campaign where Grunto's orcs are the enemy in the
+second scenario. Has a pet wolf named Fangy. The trappers are basically
+interchangeable besides their names and choice of pets, and either will continue
+with the player throughout the rest of the campaign as a scout.
 
-Divaid:
+Divaid: The other possible trapper that the player can encounter; joins Glauco and
+Geobard in the branch of the campaign where Dadoc's bandits are the enemy in the
+second scenario. Has a pet gryphon named Ranfy. Basically interchangeable with
+Croquet besides his name and choice of pet; continues with the player throughout
+the rest of the campaign as a scout.
 
-Fangy:
+Fangy: A wolf; pet of Croquet. Mostly just growls like a dog might.
 
-Ranfy:
+Ranfy: A gryphon; pet of Divaid. Mostly just makes gryphon noises.
 
-Mimord:
+Mimord: A crazy Dwarvish Berserker encountered in the Bloody Hills. Joins Glauco's
+party because he is bored. Nicely offers his services for free. Likes fighting a
+lot. Uses some unique dwarvish idioms to start some sentences.
 
-Titus:
+Titus: A loyal spearman introduced in the first scenario in Amoran. Was previously
+the highest-ranking officer in Amoran (even though he was only a private) before
+Glauco arrived.
 
-Caius:
+Caius: A loyal bowman introduced in the first scenario in Amoran. Only has one line
+so far; not too important.
 
-Grunto:
+Grunto: An enemy Orcish Warrior leader fought in the first scenario, and in the
+second one, too, if he's not defeated in the first one. Referred to as a "thief" by
+Croquet, and as an "over-swollen goblin" by Gan-Tarkas. Allied with Dadoc.
 
-Dadoc:
+Dadoc: An enemy Bandit leader fought in the first scenario, and in the second one,
+too, if he's not defeated in the first one. Leads a band of cutthroats. Kind of
+cowardly; referred to as a "very cautious guy" by Divaid. Speaks tauntingly.
 
-Olly:
+Olly: An enemy loyal Goblin Spearman fought in the orcish variant of the second
+scenario. An advisor to Grunto. Speaks like a servant.
 
-Kssihiss:
+Kssihiss: An enemy Naga Myrmidon leader fought in the third scenario. Has the usual
+sort of Naga-like speech pattern where he speaks sibilantly like a snake might,
+with emphasis on the letter "s".
 
-Joralda:
+Joralda: An allied Merman Triton leader who Glauco assists in the fifth scenario.
+In charge of the group of "Nereids" (merfolk) who Glauco was trying to reestablish
+trade relations with in the first place. Agrees to start shipping amber up the
+Amber Road to Wesnoth after Glauco helps him reclaim the amber deposits from some
+saurians. Speaks intelligently and eloquently, like nobility might speak.
 
-Giksy:
+Giksy: An enemy Saurian Flanker leader fought in the fifth scenario. Capable of
+summoning sea monsters. Has a snake-like speech pattern like the nagas do.
 
-Gan-Tarkas:
+Gan-Tarkas: An enemy Orcish Warlord leader fought in the sixth scenario. The
+overarching villain of the entire campaign. Had originally ordered Grunto to
+perform his attack of the first scenario sometime beforehand. Attempting to control
+the whole eastern territory from Amoran to the eastern coast. Has an evil laugh.
 
-Hisskss:
+Hisskss: An enemy Naga Myrmidon fought in the sixth scenario. Shows up to avenge
+the death of his brother at the request of Gan-Tarkas. Has a similar Naga-like
+speech pattern to his brother, Kssihiss.
