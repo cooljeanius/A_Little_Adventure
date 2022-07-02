@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-07-02 02:44 UTC\n"
-"PO-Revision-Date: 2022-07-01 22:50-0400\n"
+"POT-Creation-Date: 2022-07-02 02:46 UTC\n"
+"PO-Revision-Date: 2022-07-01 22:48-0400\n"
 "Last-Translator: Eric Gallager <egall@gwmail.gwu.edu>\n"
 "Language-Team: \n"
-"Language: it\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Poedit 3.1\n"
 
 #. [campaign]: id=A_little_Adventure
@@ -20,63 +20,55 @@ msgstr ""
 #. as a whole.
 #: A_Little_Adventure/_main.cfg:17
 msgid "A Little Adventure"
-msgstr "Una Piccola Avventura"
+msgstr "ちょっとした冒険"
 
 #. [campaign]: id=A_little_Adventure
 #: A_Little_Adventure/_main.cfg:18
 msgid "ALA"
-msgstr "UPA"
+msgstr "ALA"
 
 #. [difficulty]
 #: A_Little_Adventure/_main.cfg:27
 msgid "Sergeant"
-msgstr "Sergente"
+msgstr "軍曹"
 
 #. [difficulty]
 #: A_Little_Adventure/_main.cfg:28
 msgid "Easy"
-msgstr "Facile"
+msgstr "易しい"
 
 #. [difficulty]
 #: A_Little_Adventure/_main.cfg:33
 msgid "Lieutenant"
-msgstr "Tenente"
+msgstr "副官"
 
 #. [difficulty]
 #: A_Little_Adventure/_main.cfg:34
 msgid "Normal"
-msgstr "Normale"
+msgstr "普通"
 
 #. [difficulty]
 #: A_Little_Adventure/_main.cfg:39
 msgid "General"
-msgstr "Generale"
+msgstr "将軍"
 
 #. [difficulty]
 #: A_Little_Adventure/_main.cfg:40
 msgid "Difficult"
-msgstr "Difficile"
+msgstr "難しい"
 
 #. [campaign]: id=A_little_Adventure
 #. the "young Wesnothian army officer" is Glauco (male); the "he" refers to him:
 #: A_Little_Adventure/_main.cfg:45
-#, fuzzy
-#| msgid ""
-#| "A young Wesnothian army officer is sent to command a tiny garrison in an "
-#| "insignificant town in the wilds of the far east; unexpectedly it will "
-#| "manage not only the defense of the town, but also its economic rebirth, "
-#| "committing itself to reopening the legendary Amber Road! "
 msgid ""
 "A young Wesnothian army officer is sent to command a tiny garrison in an "
 "insignificant town in the wilds of the far east; unexpectedly he will manage "
 "not only the defense of the town, but also its economic rebirth, committing "
 "itself to reopening the legendary Amber Road! "
 msgstr ""
-"Un giovane ufficiale dell'esercito wesnothiano viene inviato a comandare una "
-"minuscola guarnigione in una città insignificante nelle terre selvagge "
-"dell'estremo oriente; inaspettatamente gestirà non solo la difesa della "
-"città, ma anche la sua rinascita economica, impegnandosi a riaprire la "
-"mitica Strada dell'Ambra! "
+"Wesnoth の若き陸軍士官が、極東の原野にある小さな町の小さな守備隊の指揮官とし"
+"て配属された。意外にも彼は町の防衛のみならず伝説の”琥珀街道”の再開にも尽力"
+"し、やがて、町の経済再生に取り組むことになるのだった！ "
 
 #. [campaign]: id=A_little_Adventure
 #: A_Little_Adventure/_main.cfg:45
@@ -87,47 +79,47 @@ msgid ""
 msgstr ""
 "\n"
 "\t\n"
-"(Per novizi, 6 scenari + 1 epilogo)"
+"(初心者レベル、6シナリオ+1エピローグ)"
 
 #. [about]
 #: A_Little_Adventure/_main.cfg:56
 msgid "Campaign Design, prose and story Edits"
-msgstr "Progetto, manutenzione, prosa e storia"
+msgstr "キャンペーン・デザイン、散文、ストーリー編集"
 
 #. [about]
 #: A_Little_Adventure/_main.cfg:66
 msgid "Campaign Maintenance"
-msgstr "Manutenzione della Campagna"
+msgstr "キャンペーン・メンテナンス"
 
 #. [about]
 #: A_Little_Adventure/_main.cfg:76
 msgid "Great Ogre character design and configuration"
-msgstr "Grande Ogre progetto e configurazione"
+msgstr "素晴らしいオーガキャラクターのデザインと構成"
 
 #. [about]
 #: A_Little_Adventure/_main.cfg:83
 msgid "Special thanks for tips and help"
-msgstr "Ringraziamenti speciali"
+msgstr "戴いた助言や支援に特に感謝いたします"
 
 #. [about]
 #: A_Little_Adventure/_main.cfg:96
 msgid "Italian Translation"
-msgstr "Traduzione in Italiano"
+msgstr "イタリア語翻訳"
 
 #. [about]
 #: A_Little_Adventure/_main.cfg:103
 msgid "Czech Translation"
-msgstr "Traduzione ceca"
+msgstr "チェコ語翻訳"
 
 #. [about]
 #: A_Little_Adventure/_main.cfg:111
 msgid "Japanese Translation"
-msgstr "Traduzione in giapponese"
+msgstr "日本語翻訳"
 
 #. [scenario]: id=01_The_Attack_to_Amoran
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:6
 msgid "The Attack to Amoran"
-msgstr "L'Attacco ad Amoran"
+msgstr "Amoran への攻撃"
 
 #. [side]: type=Sergeant, id=Glauco
 #. [side]: id=Glauco, type=General
@@ -140,7 +132,7 @@ msgstr "L'Attacco ad Amoran"
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:87
 #: A_Little_Adventure/scenarios/07_Epilogue.cfg:24
 msgid "Wesnothians"
-msgstr "Wesnothiani"
+msgstr "Wesnoth 人"
 
 #. [side]: type=Orcish Warrior, id=Grunto
 #. [side]: type=Orcish Warlord, id=Gan-Tarkas
@@ -148,19 +140,19 @@ msgstr "Wesnothiani"
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:60
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:110
 msgid "Orcs"
-msgstr "Orchi"
+msgstr "オーク"
 
 #. [side]: type=Bandit, id=Dadoc
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:122
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:57
 msgid "Bandits"
-msgstr "Banditi"
+msgstr "山賊"
 
 #. [objective]: condition=win
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:148
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:264
 msgid "Defeat one enemy leader"
-msgstr "Sconfiggi un comandante nemico"
+msgstr "敵のリーダーを１人倒す"
 
 #. [objective]: condition=lose
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:152
@@ -175,13 +167,13 @@ msgstr "Sconfiggi un comandante nemico"
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:42
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:452
 msgid "Death of Glauco"
-msgstr "Morte di Glauco"
+msgstr "Glauco の死"
 
 #. [event]
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:198
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:60
 msgid "The Ford of Amoran"
-msgstr "Il Guado di Amoran"
+msgstr "Amoran の浅瀬"
 
 #. [event]
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:199
@@ -193,13 +185,13 @@ msgstr "Amoran"
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:200
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:62
 msgid "The Estdoor bridge"
-msgstr "Il ponte di Porta dell'est"
+msgstr "Eastdoor 橋"
 
 #. [message]: speaker=narrator
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:228
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:249
 msgid "Welcome to Amoran, the last town toward Est"
-msgstr "Benvenuti ad Amoran, l'ultima città prima dell'Est"
+msgstr "国の最東端の街、Amoran へようこそ"
 
 #. [objective]: condition=lose
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:272
@@ -213,24 +205,22 @@ msgstr "Benvenuti ad Amoran, l'ultima città prima dell'Est"
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:46
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:456
 msgid "Death of Geobard"
-msgstr "Morte di Geobard"
+msgstr "Geobard の死"
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:286
 msgid "Both orcs and bandits have fled! Looks like we won this battle!"
-msgstr ""
-"Sia gliorchi che i banditi sono scappati! Sembra che abbiamo vinto questa "
-"battaglia!"
+msgstr "オークも山賊も逃げ出したぞ！我々はこの戦いに勝ったようです!"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:290
 msgid "Not bad, but not enough!"
-msgstr "Non male, ma non abbastanza!"
+msgstr "悪くはないが、物足りないな！"
 
 #. [message]: speaker=second_unit
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:308
 msgid "Die, damned orc!"
-msgstr "Muori, dannato orco!"
+msgstr "死ね、忌々しいオークめ！"
 
 #. [message]: speaker=Dadoc
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:312
@@ -239,13 +229,13 @@ msgid ""
 "him. Let's retire, guys, we'll be back on another occasion, with stronger "
 "allies!"
 msgstr ""
-"Quello stupido orco si è fatto ammazzare, io non farò la sua stessa fine. "
-"Ritiriamoci, ragazzi, torneremo in un'altra occasione, con alleati più forti!"
+"あのバカなオークは自分で死んじまった、同じ死に様は晒したくない。おい、引き上"
+"げようぜ、またにしよう、もっとツエーのを連れてきてやる！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:330
 msgid "The right fate for a wrong man!"
-msgstr "Il giusto destino per in uomo sbagliato!"
+msgstr "悪い奴らの、悪くない結末だな！"
 
 #. [message]: speaker=Grunto
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:334
@@ -253,8 +243,8 @@ msgid ""
 "Here's what happens to humans who are too weak! Let's go, guys, we have "
 "nothing more to do here, for today at least!"
 msgstr ""
-"Ecco cosa accade agli umani che sono troppo deboli! Andiamocene, ragazzi, "
-"non abbiamo più nulla da fare qui, almeno per oggi!"
+"これが、弱すぎる人間がどうなるかの答だよ！さぁ行こうぜ、今日のところは、もう"
+"何もすることがないからな！"
 
 #. [message]: speaker=narrator
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:352
@@ -264,10 +254,9 @@ msgid ""
 "the lines of the defenders made those who still insisted on fighting even "
 "more vulnerable, and soon it was the end!"
 msgstr ""
-"Dopo molti giorni di battaglia, i civili arruolati, non abituati a "
-"combattere, iniziarono a disertare, spaventati ed esausti! I grandi vuoti "
-"che si aprirono nelle linee dei difensori resero ancora più vulnerabili "
-"coloro che ancora insistevano a combattere, e presto fu la fine!"
+"戦闘が長びいた結果、戦闘に不慣れな市民兵は離脱し始めたり、怯え、疲れ始めたの"
+"です！防衛戦線に空いたこの大きな空洞は、戦闘に拘る者たちの戦闘力を更に落ち込"
+"ませ、遂には終焉を迎えたのでした！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:358
@@ -275,89 +264,87 @@ msgid ""
 "I failed my first command! Better to die here than return to Wesnoth like a "
 "loser!"
 msgstr ""
-"Ho fallito il mio primo comando! Meglio morire che ritornare a Wesnoth come "
-"un perdente!"
+"人生で初めての指揮だったのに、しくじってしまった！敗者として Wesnoth に戻るよ"
+"り、ここで死ぬほうがましだ！"
 
 #. [scenario]: id=02a_Battle_with_the_Bandits
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:4
 msgid "Battle with the Bandits"
-msgstr "Battaglia con i Banditi"
+msgstr "山賊との戦い"
 
 #. [attack]: type=blade
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:276
 msgid "claws"
-msgstr "artigli"
+msgstr "爪"
 
 #. [objective]: condition=win
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:292
 msgid "Defeat of Dadoc"
-msgstr "Sconfitta di Dadoc"
+msgstr "Dadoc を倒す"
 
 #. [objective]: condition=lose
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:304
 msgid "Death of Divaid"
-msgstr "Morte di Divaid"
+msgstr "Divaid の死"
 
 #. [objective]: condition=lose
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:308
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:83
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:258
 msgid "End of turns"
-msgstr "Fine dei turni"
+msgstr "時間切れ"
 
 #. [message]: speaker=Ranfy
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:345
 msgid "Kreeee!"
-msgstr "Kreeee!"
+msgstr "キーーッ！"
 
 #. [message]: speaker=Divaid
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:349
 msgid "Ranfy found somebody!"
-msgstr "Ranfy ha trovato qualcuno!"
+msgstr "Ranfy が誰かを見つけた！"
 
 #. [message]: speaker=unit
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:355
 msgid "There's someone here!"
-msgstr "C'è qualcuno qui!"
+msgstr "誰かいる！"
 
 #. [message]: id=Glauco
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:403
 msgid "There he is! Don't lose sight of it another time!"
-msgstr "Ecco dov'é! Non perdetelo di vista un'altra volta!"
+msgstr "奴がいるぞ！今度は見失うなよ！"
 
 #. [message]: id=Dadoc
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:407
 msgid "Find me don't mean catch me!"
-msgstr "Trovarmi non significa prendermi!"
+msgstr "見つかっても捕まりゃしないぜ！"
 
 #. [message]: speaker=Ranfy
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:428
 msgid "Kraii?"
-msgstr "Kraii?"
+msgstr "クラィー？"
 
 #. [message]: speaker=Divaid
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:432
 msgid ""
 "Ranfy found a little bit of gold in that uninhabited house! Probably it was "
 "hidden by some bandit."
-msgstr ""
-"Ranfy ha trovato un po 'd'oro in quella casa disabitata! Probabilmente è "
-"stato nascosto da qualche bandito."
+msgstr "Ranfy があの無人の家で少量の gold を見つけたぞ。"
 
 #. [message]: speaker=unit
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:438
 msgid "There's some gold hidden here! Not much, but better than nothing."
-msgstr "C'è dell'oro nascosto qui! Non molto ma sempre meglio di niente."
+msgstr "ここに gold が隠してあるんだ！少量だけど無いよりマシだ。"
 
 #. [message]: speaker=Dadoc
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:458
 msgid "End of run... for me..."
-msgstr "Fine della corsa … per me ..."
+msgstr "こんな結末なのか、俺様は..."
 
 #. [message]: speaker=Divaid
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:468
 msgid "Good work, Ranfy!"
-msgstr "Bel lavoro, Ranfy!"
+msgstr "やるじゃねえか、Ranfy！"
 
 #. [message]: speaker=second_unit
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:474
@@ -365,59 +352,56 @@ msgid ""
 "This is the reward for your crimes, you dirty bandit Dadoc, in the name of "
 "all the people of this land!"
 msgstr ""
-"Questa è la ricompensa per i tuoi crimini, lurido bandito Dadoc, nel nome di "
-"tutta la gente di questo territorio!"
+"これは、お前の犯した罪の報いだ、汚い盗っ人 Dadoc め、この土地の全市民の名にお"
+"いて！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:484
 msgid ""
 "Amoran is more safe, now! This will give us the time to take care of "
 "something else!"
-msgstr ""
-"Amoran è più sicura, adesso! Questo ci darà il tempo di occuparci di "
-"qualcos'altro!"
+msgstr "Amoran はもっと安全だ。さあ、これで他のことに時間が回せるぞ!"
 
 #. [message]: speaker=Dadoc
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:506
 msgid "Farewell, men of Wesnoth, Dadoc will remain a free man! AH AH AH!"
-msgstr "Addio, uomini di Wesnoth, Dadoc rimarrà un uomo libero! AH! AH! AH!"
+msgstr "あばよ、 Wesnoth の野郎ども、Dadoc 様は自由に生きてやる！ガッハッハ！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:510
 msgid "Damn, he escaped us. We must return to Amoran as failures!"
-msgstr ""
-"Dannato, ci è sfuggito. Dobbiamo ritornare ad Amoran con un fallimento!"
+msgstr "クッソー、逃げられた。失敗したまま Amoran に戻らねばならんとは！"
 
 #. [scenario]: id=02b_Battle_with_the_Orcs
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:5
 msgid "Battle with the Orcs"
-msgstr "Battaglia con gli orchi"
+msgstr "オークとの戦い"
 
 #. [objective]: condition=win
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:71
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:242
 msgid "Defeat Grunto"
-msgstr "Sconfiggi Grunto"
+msgstr "Grunto を倒す"
 
 #. [attack]: type=blade
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:222
 msgid "fangs"
-msgstr "fauci"
+msgstr "牙"
 
 #. [objective]: condition=lose
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:254
 msgid "Death of Croquet"
-msgstr "Morte di Croquet"
+msgstr "Croquet の死"
 
 #. [message]: speaker=Grunto
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:281
 msgid "Aaaaah!"
-msgstr "Aaaaah!"
+msgstr "アアアウ!!!"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:288
 msgid "Die, orc, for all of Amoran's people!"
-msgstr "Muori orco, per tutta la gente di Amoran!"
+msgstr "死ね、オーク、Amoran の民のために！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:309
@@ -426,58 +410,54 @@ msgid ""
 "Damn! This battle is dragging on too long, the men are exhausted! We must "
 "retreat, the mission failed!"
 msgstr ""
-"Dannazione! Questa battaglia sta durando troppo a lungo, e gli uomini sono "
-"sfiniti! Dobbiamo ritirarci, la missione è fallita!"
+"まったく！この戦いは長すぎたせいで、部下が消耗し切った！退却せねば。この任務"
+"は失敗した!"
 
 #. [scenario]: id=03_The_Nagas_Nest
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:5
 msgid "The Naga's Nest"
-msgstr "Il Nido dei Naga"
+msgstr "ナーガの巣窟"
 
 #. [side]: type=Naga Myrmidon, id=Kssihiss
 #. [side]: type=Naga Myrmidon
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:66
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:122
 msgid "Nagas"
-msgstr "Naga"
+msgstr "ナーガ"
 
 #. [attack]: type=blade
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:87
 #: A_Little_Adventure/units/Great_Ogre.cfg:39
 msgid "cleaver"
-msgstr "mannaia"
+msgstr "肉切り庖丁"
 
 #. [side]: type=EXI_Ogregreat, id=Glubtrub
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:94
 msgid "Ogres"
-msgstr "Ogre"
+msgstr "オーガ"
 
 #. [objective]: condition=win
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:110
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:202
 msgid "Defeat Kssihiss"
-msgstr "Sconfiggi KssHiss"
+msgstr "Kssihiss を倒す"
 
 #. [objective]: condition=lose
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:122
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:214
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:69
 msgid "Death of "
-msgstr "Morte di "
+msgstr "以下の人物の死亡: "
 
 #. [message]: speaker=Glubtrub
 #. "Wetspot" is ogre-speak for "Wesnoth"; I will try to ensure it's capitalized consistently:
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:181
-#, fuzzy
-#| msgid ""
-#| "What this confusion? Men colored like wetspot and snake to fight? Ogres "
-#| "to come too, good chance to squash all!"
 msgid ""
 "What this confusion? Men colored like Wetspot and snake to fight? Ogres to "
 "come too, good chance to squash all!"
 msgstr ""
-"Cosa essere questa confusione? Uomini colorati come Wetspot e serpenti "
-"combattere? Anche ogre andare, buona occasione di spiaccicare tutti!"
+"この混乱、何？ Wetspot の男たちとヘビみたいな色の男、戦う？オーガも行く、全部"
+"つぶす、チャンス！"
 
 #. [objective]: condition=lose
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:218
@@ -485,37 +465,37 @@ msgstr ""
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:50
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:460
 msgid "Death of Glubtrub"
-msgstr "Morte di Glubtrub"
+msgstr "Glubtrub の死"
 
 #. [message]: speaker=narrator
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:264
 msgid "Wesnoth Kingdom - Caravan Station n° 2"
-msgstr "Reame di Wesnoth - Stazione Carovaniera n°2"
+msgstr "Wesnoth 王国 キャラバン駅 No.2"
 
 #. [message]: speaker=Kssihiss
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:275
 msgid "Damned humansss... Hiss!"
-msgstr "Dannati umani … Hiss!"
+msgstr "忌々しい人間ども... シャーッ！"
 
 #. [scenario]: id=04_The_Bloody_Hills
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:5
 msgid "The Bloody Hills"
-msgstr "Le Colline Sanguinolenti"
+msgstr "流血の丘"
 
 #. [side]
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:47
 msgid "Monsters"
-msgstr "Mostri"
+msgstr "モンスター"
 
 #. [objective]: condition=win
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:57
 msgid "Glauco reaches the signpost over the mountains"
-msgstr "Glauco raggiunge il segnavia oltre le montagne"
+msgstr "Glauco が山越えの標識に到達する"
 
 #. [message]: speaker=narrator
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:314
 msgid "Wesnoth Kingdom - Caravan Station n° 1"
-msgstr "Reame di Wesnoth - Stazione Carovaniera n°1"
+msgstr "Wesnoth 王国 キャラバン駅 No.1"
 
 #. [message]: speaker=Mimord
 #. I'm assuming the "wrap" referred to here is an article of clothing:
@@ -523,14 +503,12 @@ msgstr "Reame di Wesnoth - Stazione Carovaniera n°1"
 msgid ""
 "Damned wolves, I thought I had taught you not to come into my house! Well, "
 "I'll make a wrap out of your fur!"
-msgstr ""
-"Maledetti lupi, pensavo di avervi insegnato a non entrare in casa mia! Bene, "
-"farò un vestito con la tua pelliccia!"
+msgstr "くそ狼め、俺の家に入るなと教えたはずだ！お前の毛皮で包んでやる！"
 
 #. [message]: speaker=Croquet
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:365
 msgid "Hey you! Get your hands off my little Fangy!"
-msgstr "Hey you! Tieni le tue mani lontane dalla mia piccola Fangy!"
+msgstr "おい、お前！俺の Fangy ちゃんに触るな！"
 
 #. [message]: speaker=Mimord
 #. a "capon" is a rooster that has been castrated or neutered:
@@ -539,18 +517,18 @@ msgid ""
 "Ugly bird! Wolves and bats were not enough around here? I'll wring your neck "
 "like a capon!"
 msgstr ""
-"Orrendo uccellaccio! Lupi e pipistrelli non erano abbastanza qui intorno? Ti "
-"torcerò il collo come un cappone!"
+"不格好な鳥だな！狼とコウモリだけじゃ飽き足りねえか？ capon（去勢された雄鶏）"
+"みたいに首を絞めてやる！"
 
 #. [message]: speaker=Divaid
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:383
 msgid "Don't you dare to touch my friend Ranfy, tattooed midget!"
-msgstr "Non osare toccare il mio amico Ranfy, nanerottolo tatuato!"
+msgstr "俺の友達の Ranfy に触るんじゃねえよ、刺青の小人め！"
 
 #. [message]: speaker=unit
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:395
 msgid "Urca! House inhabited!"
-msgstr "Urca! Casa abitata!"
+msgstr "うわっ！　誰か住んでる！"
 
 #. [message]: speaker=Mimord
 #. This is about as well as I think I can reword this; I'm not quite sure what he meant by completing his home, but the final sentence is supposed to be a clever way to call the ogre "brainless":
@@ -560,27 +538,26 @@ msgid ""
 "Well, if I break your head I will not do much damage, as you don't hold "
 "anything in there!"
 msgstr ""
-"Esatto, stupido orco! E ci sei mancato solo per completare la mia casa! "
-"Bene, se ti spacco la testa non farò molti danni, perché non tieni niente lì "
-"dentro!"
+"その通り、馬鹿なオーガだ！でよ、この家を完成させるにゃ、お前さんが要るんだ"
+"よ！ま、お前の頭をカチ割ったところで、ダメージは大して無いだろうさ、中身は"
+"空っぽだからな！"
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:405
 msgid "Wait, that ogre is with us!"
-msgstr "Aspettate, quell'ogre è insieme a noi!"
+msgstr "待て、仲間の中にはオーガも居るんだぞ！"
 
 #. [message]: speaker=unit
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:411
 msgid "Hey! There's somebody here!"
-msgstr "Ehi! C'è qualcuno qui!"
+msgstr "おい！誰かここにいるぞ！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:434
 msgid ""
 "We passed those hills, finally! We can continue on to reach the nereids now!"
 msgstr ""
-"Abbiamo oltrepassato quelle colline, finalmente! Adesso possiamo raggiungere "
-"i nereidi!"
+"やっと丘を越えられた！ これで nereids（ merfolk の一集団）のところへ行けるな!"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:460
@@ -588,29 +565,28 @@ msgid ""
 "All these attacks are exhausting us; we won't be able to cross the hills! We "
 "must retreat; the mission failed!"
 msgstr ""
-"Tutti questi attacchi ci stanno sfinendo, non saremo in grado di passare le "
-"colline! Dobbiamo ritirarci, la missione è fallita!"
+"攻撃を受けたせいで疲弊して、丘を越えられない！撤退しかない、任務失敗だ！"
 
 #. [scenario]: id=05_The_Lizards_Islands
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:5
 msgid "The Lizard's Islands"
-msgstr "L'Isola delle Lucertole"
+msgstr "トカゲの島"
 
 #. [side]: type=Saurian Flanker, id=Giksy
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:60
 msgid "Saurian"
-msgstr "Sauri"
+msgstr "トカゲ族"
 
 #. [side]: type=Merman Triton, id=Joralda
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:80
 msgid "Nereids"
-msgstr "Nereidi"
+msgstr "Nereids（ Merkfolk ）"
 
 #. [objective]: condition=win
 #. The inclusion of "Squash" as a synonym for "Defeat" in this objective is for the benefit of Glubtrub:
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:102
 msgid "Squash... or... Defeat the Saurian Chief"
-msgstr "Spiaccica … oppure … Sconfiggi il Capo dei Sauri"
+msgstr "トカゲの首領を倒す"
 
 #. [message]: speaker=Giksy
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:212
@@ -618,8 +594,8 @@ msgid ""
 "Let's ssshow them the little sssurprissse that we had prepared for the "
 "fisssh if they had decided to recover the issland!"
 msgstr ""
-"Mostriamo loro la piccola ssorpresssa che avevamo preparato per i pesssci se "
-"avesssero decissso di riconquissstare l'isssola!"
+"もし、魚たちが、シー島を取り戻すことに決めたら、俺たちが用意シーた小さなサー"
+"プライズを見セーてやろうぜ！"
 
 #. [message]: speaker=Giksy
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:224
@@ -627,19 +603,19 @@ msgid ""
 "Thingsss are not going well! Ssshamansss, sssummon other sssnakesss from the "
 "sssea!"
 msgstr ""
-"Le cossse non sstanno andando bene! Ssciamani, evocate altri sserpenti dal "
-"mare!"
+"世の中は、ソそう順調にはいかないぞ！呪術師たちよ、海からもっとヘビを呼び出"
+"セー、シャー！"
 
 #. [message]: speaker=Joralda
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:231
 msgid ""
 "More monsters are coming from the north; they're like the ones from before!"
-msgstr "Altri mostri in arrivo dal nord; sono come quelli di prima!"
+msgstr "北からもっとモンスターがやってきてる、似たような奴らばかりだ！"
 
 #. [message]: speaker=Giksy
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:239
 msgid "We need of ohtersss sssea companionsss, sssummon all them!"
-msgstr "Abbiamo bisssogno di altri compagni marini, richiamateli tutti!"
+msgstr "他の海の仲間も必要だ、全員を、ショー喚シーろ、シャー！"
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:247
@@ -647,89 +623,87 @@ msgid ""
 "I hope these are the last ones! They make me feel seasick with all their "
 "contortions!"
 msgstr ""
-"Spero che questi siano gli ultimi! Mi stanno facendo venire il mal di mare "
-"con tutti i loro contorsionismi!"
+"こいつらで最後だといいんだが！クネクネねじ曲がって、船酔いしそうな気分だ！"
 
 #. [message]: speaker=Giksy
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:258
 msgid "Aaah... I'll... never... sssee... my... treasssure... again..."
-msgstr "Aaaah… non … rivedrò… mai più… il mio… tesoro..."
+msgstr "アァ... もう... 二度とないのか... 俺様の宝物を... 見ることは..."
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:291
 msgid "Oh no, without the nereids' help, it was all in vain! I failed!"
-msgstr "Oh no, senza l'aiuto dei nereidi è stato tutto vano! Ho fallito!"
+msgstr "ダ、ダメだ、nereid の助けなしには、すべて水泡に帰してしまう。負けた！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:302
 msgid "It's useless, and we cannot prevail! We failed!"
-msgstr "E' inutile, e non possiamo prevalere! Abbiamo fallito!"
+msgstr "無駄だ、勝てるわけがない！負けた！"
 
 #. [scenario]: id=06_The_Last_Battle
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:5
 msgid "The Last Battle"
-msgstr "L'Ultima Battaglia"
+msgstr "最後の戦い"
 
 #. [objective]: condition=win
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:38
 msgid "Defeat Gan-Tarkas"
-msgstr "Sconfiggi Gan-Tarkas"
+msgstr "Gan-Tarkas を倒す"
 
 #. [message]: speaker=Gan-Tarkas
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:308
 msgid "Widen the path across the river again, and then everyone attack!"
-msgstr "Allargate ancora il ponte attraverso il fiume e poi tutti all'attacco!"
+msgstr "川を渡る道をもう一度広げるんだ、そうして全員攻撃だ！"
 
 #. [objective]: condition=win
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:448
 msgid "Defeat all enemy leaders"
-msgstr "Sconfiggi tutti i comandanti nemici"
+msgstr "敵のリーダーをすべて倒す"
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:480
 msgid "Those damned are all dead or escaped! Finally we finished!"
-msgstr ""
-"Quei maledetti sono tutti morti oppure fuggiti! Finalmente abbiamo finito!"
+msgstr "あの忌々しい奴らは、全滅したか逃げ出したかだ！　遂に終わった！"
 
 #. [message]: speaker=Gan-Tarkas
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:496
 msgid "Impossible!"
-msgstr "Impossibile!"
+msgstr "あり得ん！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:500
 msgid "With your end, orc, Amoran can and will have a new start!"
-msgstr "Con la tua fine, orco, Amoran potrà avere un nuovo inizio!"
+msgstr "オークさんよ、お前らが消えて、Amoran は新しいスタートを切れるんだよ！"
 
 #. [message]: speaker=Glubtrub
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:515
 msgid "To remain only to squash big snake!"
-msgstr "Rimane solo da spiaccicare grosso serpente!"
+msgstr "大きなヘビ潰すためだけに、オレ、残る！"
 
 #. [message]: speaker=Hisskss
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:531
 msgid "Hissss!"
-msgstr "Hissss!"
+msgstr "シャーーーッ！"
 
 #. [message]: speaker=Glubtrub
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:539
 msgid "Other snake make flat-flat! Oh! Oh! Oh!"
-msgstr "Altro serpente fatto piatto piatto Oh! Oh! Oh!"
+msgstr "他のヘビ、みんな静かにしてるでしょ、こら！オゥオゥオゥ！"
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:548
 msgid "And now let's finish taking care of his friend, Gan-Tarkas!"
-msgstr "Ed adesso prendiamoci cura del suo amico, Gan-Tarkas!"
+msgstr "さて、それじゃ、彼のご友人、 Gan-Tarkas を始末する番だ！"
 
 #. [scenario]: id=07_Epilogue
 #: A_Little_Adventure/scenarios/07_Epilogue.cfg:5
 msgid "Epilogue"
-msgstr "Epilogo"
+msgstr "エピローグ"
 
 #. [unit_type]: id=Merman Brawler, race=merman
 #: A_Little_Adventure/units/Brawler.cfg:5
 msgid "Merman Brawler"
-msgstr "Nereide Azzuffatore"
+msgstr "Merman Brawler"
 
 #. [unit_type]: id=Merman Brawler, race=merman
 #. Brawlers are also in Dead Water; try to keep the description similar:
@@ -738,36 +712,36 @@ msgid ""
 "Exceptionally large and strong mermen are sometimes more comfortable with "
 "their own fists and tails than with other weapons."
 msgstr ""
-"I tritoni eccezionalmente grandi e forti a volte sono più a loro agio con i "
-"propri pugni e la coda che con altre armi."
+"並外れた大きさと強さを持つマーマンは、時に他の武器よりも、自分の拳や尻尾を気"
+"持ちよく使いこなします。"
 
 #. [attack]: type=impact
 #: A_Little_Adventure/units/Brawler.cfg:36
 #: A_Little_Adventure/units/Citizen.cfg:36
 msgid "fist"
-msgstr "pugno"
+msgstr "拳"
 
 #. [attack]: type=impact
 #: A_Little_Adventure/units/Brawler.cfg:44
 msgid "tail"
-msgstr "coda"
+msgstr "尾びれ"
 
 #. [set_variable]
 #: A_Little_Adventure/units/Brawler.cfg:112
 #: A_Little_Adventure/units/Brawler.cfg:174
 msgid "female^stunned"
-msgstr "female^stordimento"
+msgstr "アッ"
 
 #. [set_variable]
 #: A_Little_Adventure/units/Brawler.cfg:118
 #: A_Little_Adventure/units/Brawler.cfg:180
 msgid "stunned"
-msgstr "stordito"
+msgstr "ウッ"
 
 #. [unit_type]: id=Merman Citizen, race=merman
 #: A_Little_Adventure/units/Citizen.cfg:5
 msgid "Merman Citizen"
-msgstr "Cittadino Nereide"
+msgstr "マーマンの民"
 
 #. [unit_type]: id=Merman Citizen, race=merman
 #. Merman Citizens are also in Dead Water; try to keep the description similar:
@@ -776,14 +750,16 @@ msgid ""
 "Mermen are mostly peaceful, but will fight to defend their homes. In this "
 "situation, even mermen with no weapons or training can be dangerous."
 msgstr ""
-"I Nereidi sono per lo più pacifici, ma combatteranno per difendere le loro "
-"case. In questa situazione, anche i tritoni senza armi o addestramento "
-"possono essere pericolosi."
+"マーマンの民（Merman Citizen）\n"
+"\n"
+"マーマンはとても平和を指向する種族ですが、家・家族を守るために戦うこともあり"
+"ます。そうした状況では、武器を持たない、もしくは訓練を受けていないマーマンで"
+"あっても危険な存在になります。"
 
 #. [unit_type]: id=EXI_Ogregreat, race=ogre
 #: A_Little_Adventure/units/Great_Ogre.cfg:5
 msgid "Giant Ogre"
-msgstr "Ogre Gigantesco"
+msgstr "ジャイアントオーガ"
 
 #. [unit_type]: id=EXI_Ogregreat, race=ogre
 #: A_Little_Adventure/units/Great_Ogre.cfg:23
@@ -793,17 +769,16 @@ msgid ""
 "can be easily outrun or outsmarted, their strength is not to be "
 "underestimated."
 msgstr ""
-"Gli Ogre Giganti sono creature che abitualmente vivono da sole nelle zone "
-"selvagge, notevolmente simili agli umani nella forma, sebbene grandi e "
-"deformi. Sebbene possano essere facilmente superati in velocità ed astuzia, "
-"la loro forza non deve essere sottovalutata."
+"ジャイアントオーガ（Giant Ogres）\n"
+"\n"
+"ジャイアントオーガは、通常、原野に単独で生息する生物で、体型は人間に非常に似"
+"ていますが、巨大で不格好です。彼らから逃げたり、出し抜いたりすることは簡単で"
+"すが、その強さを過小評価してはいけません。"
 
 #. [unit_type]: id=Matronly Ogresses, race=ogre
 #: A_Little_Adventure/units/Matronly_Ogresses.cfg:6
-#, fuzzy
-#| msgid "Giant Ogre"
 msgid "Matronly Ogre"
-msgstr "Ogre Gigantesco"
+msgstr "肥熟オーガ"
 
 #. [unit_type]: id=Matronly Ogresses, race=ogre
 #: A_Little_Adventure/units/Matronly_Ogresses.cfg:24
@@ -812,17 +787,22 @@ msgid ""
 "necessary to use slings, but, in exchange, they gain the capability to use "
 "bigger and better clubs."
 msgstr ""
+"肥熟オーガ（Matronly Ogre）\n"
+"\n"
+"成長するにつれて女オーガは体重が増えていき、スリングを使うのに必要な敏捷性は"
+"失われますが、その代わりに、より大きく優れた棍棒を使うことができるようになり"
+"ます。"
 
 #. [attack]: type=impact
 #: A_Little_Adventure/units/Matronly_Ogresses.cfg:44
 #: A_Little_Adventure/units/She_Ogre.cfg:44
 msgid "club"
-msgstr ""
+msgstr "棍棒"
 
 #. [unit_type]: id=Naga Guardian, race=naga
 #: A_Little_Adventure/units/Naga_Guardian.cfg:5
 msgid "Naga Guardian"
-msgstr "Naga Guardiano"
+msgstr "ナーガの警護兵"
 
 #. [unit_type]: id=Naga Guardian, race=naga
 #. [unit_type]: id=Naga Warden, race=naga
@@ -834,22 +814,21 @@ msgid ""
 "crush their enemies. They mostly guard naga outposts, but occasionally "
 "participate in offensive raids."
 msgstr ""
-"Questi combattenti pesanti sono le guardie d'élite dei naga. Sono più lenti "
-"e più pesantemente corazzati della maggior parte dei naga e brandiscono "
-"enormi mazze che usano per schiacciare i loro nemici. Per lo più sorvegliano "
-"gli avamposti dei naga, ma occasionalmente partecipano a raid offensivi."
+"重装備のこの戦士たちはナーガの精鋭衛兵です。他のナーガよりも重武装で動作は緩"
+"慢ですが頑強で、敵を粉砕するために巨大なメイスを振り回します。主にナーガの前"
+"哨基地を警護しますが、ときには攻撃的な襲撃戦にも参加します。"
 
 #. [attack]: type=impact
 #: A_Little_Adventure/units/Naga_Guardian.cfg:39
 #: A_Little_Adventure/units/Naga_Sentinel.cfg:28
 #: A_Little_Adventure/units/Naga_Warden.cfg:27
 msgid "mace"
-msgstr "mazza"
+msgstr "メイス"
 
 #. [unit_type]: id=Naga Hunter, race=naga
 #: A_Little_Adventure/units/Naga_Hunter.cfg:5
 msgid "Naga Hunter"
-msgstr "Naga Cacciatore"
+msgstr "ナーガの狩人"
 
 #. [unit_type]: id=Naga Hunter, race=naga
 #: A_Little_Adventure/units/Naga_Hunter.cfg:19
@@ -859,25 +838,26 @@ msgid ""
 "poisoned arrows. These two foot long shafts, tipped with a potent poison, "
 "have been known to slay many kinds of prey."
 msgstr ""
-"I Naga Cacciatori sono Naga che hanno l'abilità di cacciare con l'arco. "
-"Poiché i Naga sono naturalmente resistenti al veleno, non hanno remore a "
-"cacciare con frecce avvelenate. Questi dardi lunghi due piedi, imbevuti con "
-"un potente veleno, possono uccidere molti tipi di prede."
+"ナーガの狩人（Naga Hunter）\n"
+"\n"
+"ナーガの狩人は弓の扱いに習熟しています。ナーガは生来、毒への耐性があるので、"
+"毒矢を使うことに躊躇いなどありません。彼らの扱う 60 cm の矢には強力な毒が塗ら"
+"れており、多くの獲物を仕留めてきたことで知られています。"
 
 #. [attack]: type=blade
 #: A_Little_Adventure/units/Naga_Hunter.cfg:30
 msgid "sword"
-msgstr "spada"
+msgstr "剣"
 
 #. [attack]: type=pierce
 #: A_Little_Adventure/units/Naga_Hunter.cfg:39
 msgid "bow"
-msgstr "arco"
+msgstr "弓"
 
 #. [unit_type]: id=Naga Sentinel, race=naga
 #: A_Little_Adventure/units/Naga_Sentinel.cfg:5
 msgid "Naga Sentinel"
-msgstr "Naga Sentinella"
+msgstr "ナーガの歩哨"
 
 #. [unit_type]: id=Naga Sentinel, race=naga
 #: A_Little_Adventure/units/Naga_Sentinel.cfg:23
@@ -887,26 +867,32 @@ msgid ""
 "crush their enemies. They mostly guard naga outposts, but occasionally "
 "participate in offensive raids."
 msgstr ""
-"Questi combattenti pesanti sono le guardie d'élite dei naga. Sono più lenti "
-"e più pesantemente corazzati della maggior parte dei naga e brandiscono "
-"enormi mazze che usano per schiacciare i loro nemici. Per lo più sorvegliano "
-"gli avamposti dei naga, ma occasionalmente partecipano a raid offensivi."
+"ナーガの歩哨（Naga Sentinel）\n"
+"\n"
+"重装備のこの戦士たちはナーガの精鋭衛兵です。他のナーガよりも重武装で動作は緩"
+"慢ですが頑強で、敵を粉砕するために巨大なメイスを振り回します。主にナーガの前"
+"哨基地を警護しますが、ときには攻撃的な襲撃戦にも参加します。"
 
 #. [unit_type]: id=Naga Warden, race=naga
 #: A_Little_Adventure/units/Naga_Warden.cfg:5
 msgid "Naga Warden"
-msgstr "Naga Custode"
+msgstr "ナーガの巡視兵"
 
 #. [unit_type]: id=She Ogre, race=ogre
 #: A_Little_Adventure/units/She_Ogre.cfg:6
-#, fuzzy
-#| msgid "Ogres"
 msgid "She Ogre"
-msgstr "Ogre"
+msgstr "女オーガ"
 
 #. [unit_type]: id=She Ogre, race=ogre
 #. reworded a bit:
 #: A_Little_Adventure/units/She_Ogre.cfg:24
+#, fuzzy
+#| msgid ""
+#| "A bit less stupid than their male counterparts, the ogre females spend "
+#| "the first part of their lives learning how use herbs and minerals to cure "
+#| "wound and poisons, and secondly, how to apply this knowledge to the male "
+#| "ogres. They don't like iron weapons, but rather, they efficently use "
+#| "small but hard clubs of wood, and leather slings, to defend themselves."
 msgid ""
 "A bit less stupid than their male counterparts, the ogre females spend the "
 "first part of their lives learning how use herbs and minerals to cure wound "
@@ -914,11 +900,17 @@ msgid ""
 "They don't like iron weapons, but rather, they efficiently use small but "
 "hard clubs of wood, and leather slings, to defend themselves."
 msgstr ""
+"女オーガ（She Ogre）\n"
+"\n"
+"女性のオーガは男性のオーガより少し知性に欠けていて、生涯の前半は薬草や鉱物を"
+"使って傷や毒を治す方法を学び、後半はその知識を男のオーガに役立てる方法を学ぶ"
+"ことに費やします。鉄の武器は好まず、むしろ、小さくても硬い木製の棍棒や革製の"
+"スリングで自分の身を守ります。"
 
 #. [attack]: type=impact
 #: A_Little_Adventure/units/She_Ogre.cfg:53
 msgid "sling"
-msgstr ""
+msgstr "スリング"
 
 #. [message]: speaker=Glauco
 #. Since this is (or at least was, at one point) the first message
@@ -933,13 +925,13 @@ msgstr ""
 #. translating from the English version.
 #: A_Little_Adventure/utils/ALA_deaths.cfg:21
 msgid "All is lost, now that I die..."
-msgstr "Tutto è perduto, adesso che muoio..."
+msgstr "全て失ってしまった、もう死ぬしかない......"
 
 #. [message]: speaker=Geobard
 #. "di" is short for "die"
 #: A_Little_Adventure/utils/ALA_deaths.cfg:37
 msgid "Aah! I've come so... far... only... to di..."
-msgstr "Aah! Sono giunto così … lontano … solo … per mori..."
+msgstr "アァー！ここまで来たのに、こんなに遠くまで... ただ死ぬだけなんて..."
 
 #. [message]: speaker=Glubtrub
 #. I think I mention this elsewhere, but this is an ogre speaking,
@@ -947,42 +939,36 @@ msgstr "Aah! Sono giunto così … lontano … solo … per mori..."
 #. in order to keep it sounding ogre-like:
 #: A_Little_Adventure/utils/ALA_deaths.cfg:55
 msgid "Aiah! To do bad!"
-msgstr "Aiah! Fare male!"
+msgstr "アイャー!　悪さしてるゾ！"
 
 #. [message]: speaker=Croquet
 #. "damned" is an adjective modifying a noun that Croquet never gets around to saying;
 #. presumably it would be something referring to whatever killed him:
 #: A_Little_Adventure/utils/ALA_deaths.cfg:74
 #: A_Little_Adventure/utils/ALA_deaths.cfg:115
-#, fuzzy
-#| msgid "I got caught... damned... "
 msgid "I got caught... damned..."
-msgstr "Ti ho preso… dannato… "
+msgstr "やられちまったぜ... この野郎..."
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_deaths.cfg:78
 msgid "Oh no, without Croquet, who will lead us through the wild lands?"
-msgstr "Oh no, senza Croquet, chi ci guiderà attraverso queste lande selvagge?"
+msgstr "オー、ノー！ Croquet なしで、他の誰が原野を案内してくれるんだ？"
 
 #. [message]: speaker=Divaid
 #: A_Little_Adventure/utils/ALA_deaths.cfg:93
 #: A_Little_Adventure/utils/ALA_deaths.cfg:132
-#, fuzzy
-#| msgid "I got caught... the hunter... was be... hunted..."
 msgid "I got caught... the hunter... has been... hunted..."
-msgstr "Mi hanno preso… il cacciatore… è stato… cacciato..."
+msgstr "捕まっちまった... 狩人が... 狩られちまった..."
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_deaths.cfg:97
-#, fuzzy
-#| msgid "Oh no, without Croquet, who will lead us through the wild lands?"
 msgid "Oh no, without Divaid, who will lead us through the wild lands?"
-msgstr "Oh no, senza Croquet, chi ci guiderà attraverso queste lande selvagge?"
+msgstr "オー、ノー！ Divaid なしで、他の誰が原野を先導してくれるんだ？"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_deaths.cfg:119
 msgid "You've been helpful to us, Croquet, and we'll remember you as a friend!"
-msgstr "Ci sei stato di aiuto, Croquet, e noi ti ricorderemo come un amico!"
+msgstr "お前には世話になったよな、Croquet 。友として、忘れることはないからな！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_deaths.cfg:136
@@ -990,50 +976,43 @@ msgid ""
 "You led us where you promised, hunter, and we'll make sure your end was not "
 "in vain!"
 msgstr ""
-"Ci hai condotto dove avevi promessi, cacciatore, e noi ci assicureremo che "
-"tu non sia morto invano!"
+"約束した場所に案内してくれたな、狩人よ、君の最期を決して無駄にはしない！"
 
 #. [message]: speaker=Croquet
 #: A_Little_Adventure/utils/ALA_deaths.cfg:151
-#, fuzzy
-#| msgid "They will be damned! I'll avenge you, my little one!"
 msgid "Damn them! I'll avenge you, my little one!"
-msgstr "Che siano dannati! Ti vendicherò, piccola mia!"
+msgstr "くそっ！仇をとってやるかなら、俺の Fangy ！"
 
 #. [message]: speaker=Divaid
 #: A_Little_Adventure/utils/ALA_deaths.cfg:164
 #, fuzzy
 #| msgid "Damned $second_unit.race|s! I'll avenge you, my friend!"
 msgid "Damn bastards! I'll avenge you, my friend!"
-msgstr "Maledetti $second_unit.race! Ti vendicherò, amico mio!"
+msgstr "クソ $second_unit.race|s め！仇を取ってやるからな、友よ!"
 
 #. [message]: speaker=Mimord
 #: A_Little_Adventure/utils/ALA_deaths.cfg:179
 msgid "At least... it... was... not... boring..."
-msgstr "Almeno … non … è … stato … noioso..."
+msgstr "少なくとも... 退屈じゃぁ... なかったぜ......"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_deaths.cfg:188
 msgid "Poor dwarf! He was crazy, but he was also nice!"
-msgstr "Povero nano! Era pazzo, ma era anche simpatico!"
+msgstr "気の毒なドワーフ！彼はクレージーだったが、いい奴だった！"
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/utils/ALA_deaths.cfg:192
 msgid "In my opinion... He was nice, but he was also crazy!"
-msgstr "Secondo me... Era simpatico, ma era anche pazzo!"
+msgstr "私に言わせれば... 彼はいい奴だったけど、クレイジーだったよ！"
 
 #. [message]: speaker=Titus
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:18
-#, fuzzy
-#| msgid ""
-#| "Commander, look at the hills in the north, during last night a group of "
-#| "orcs camped over the river!"
 msgid ""
 "Commander, look at the hills in the north! Last night a group of orcs camped "
 "over on the other side of the river!"
 msgstr ""
-"Comandante, guardate le colline a nord, durante la notte scorsa un gruppo di "
-"orchi si è accampato oltre il fiume!"
+"司令官殿、北方の丘をご覧ください！昨夜、オークの一団が川の反対側で野営してお"
+"りました！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:23
@@ -1042,10 +1021,9 @@ msgid ""
 "still must keep our eyes open; luckily they can only cross the river at the "
 "ford, and there are more than enough of us to defend it."
 msgstr ""
-"Purtroppo possono farlo liberamente; oltre il fiume è territorio loro. "
-"Dobbiamo comuqnue tenere gli occhi aperti; fortunatamente possono "
-"attraversare il fiume solo al guado, e siamo in numero più che sufficiente "
-"per difenderlo."
+"残念ながら、奴らは自由に行動できる。川の向こうは彼らの領土だからな。まだしっ"
+"かり警戒しなきゃならんが、幸いなことに、奴らは川の浅瀬部分しか渡れないし、浅"
+"瀬を守るための十分な人員がこちらにはある。"
 
 #. [message]: speaker=Caius
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:27
@@ -1054,9 +1032,8 @@ msgid ""
 "the east are approaching a band of armed people with a non-reassuring "
 "appearance."
 msgstr ""
-"Potremmo non essere abbastanza equipaggiati per difenderci da loro, "
-"comandante; da est si sta avvicinando una banda di armati dall'aspetto non "
-"rassicurante."
+"我々に、身を守るに十分な装備があるかどうか。司令官、東の方から心許ない風貌の"
+"武装した一団が近づいてきます。"
 
 #. [message]: speaker=Glauco
 #. "reputation" might actually work better than "fame" here:
@@ -1066,33 +1043,27 @@ msgid ""
 "approaching are the cutthroats of the Dadoc band. He came here to collect "
 "something, and it's definitely not the reward on his head."
 msgstr ""
-"E la loro fama è ancora meno rassicurante del loro aspetto! Quelli che si "
-"avvicinano sono i tagliagole della banda di Dadoc. È venuto qui per "
-"raccogliere qualcosa, e sicuramente non è la ricompensa sulla sua testa."
+"それに、彼らの名声は見た目以上にパッとしない！ やってくるのは、Dadoc 一団の殺"
+"し屋たちだ。何かを集めに来たようだが、頭に載せてるのが褒賞品でないのは間違い"
+"ないな。"
 
 #. [message]: speaker=Titus
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:37
 msgid ""
 "What do we do, Sergeant, if the orcs and bandits attack us at the same time?"
-msgstr ""
-"Cosa facciamo, sergente, se orchi e banditi ci attaccano nello stesso "
-"momento?"
+msgstr "軍曹、どうしましょう？ オークと山賊が同時に襲ってきたら...？"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:41
-#, fuzzy
-#| msgid "If necessary we'll call the peasants and the woodmen to help us."
 msgid "If necessary we'll call the peasants and the woodsmen to help us."
-msgstr "Se necessario chiameremo i contadini e i boscaioli per aiutarci."
+msgstr "必要なら農民や木こりたちを招集するまでだ。"
 
 #. [message]: speaker=Grunto
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:45
 msgid ""
 "You're finally here, Dadoc! If we take out the garrison then the city will "
 "be ours!"
-msgstr ""
-"Finalmente sei qui, Dadoc! Se eliminiamo la guarnigione, la città sarà "
-"nostra!"
+msgstr "やっと来やがったな、Dadoc！守備隊をやっつけりゃ、街は俺たちのものだ！"
 
 #. [message]: speaker=Dadoc
 #. speaking to Grunto, so both "orc" and "you" refer to him. There don't currently exist any "slaves" yet;
@@ -1102,13 +1073,13 @@ msgid ""
 "Remember the pacts, orc; I take the food and all the valuables, you take all "
 "the slaves!"
 msgstr ""
-"Ricorda i patti, orco; Io prendo il cibo e tutti gli oggetti di valore, tu "
-"prendi tutti gli schiavi!"
+"契約を忘れたか、オーク。俺は食料と貴重品をすべて頂戴して、お前には奴隷を全部"
+"やるってな！"
 
 #. [message]: speaker=Grunto
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:55
 msgid "Those are the pacts, and now let's do it!"
-msgstr "Questi sono i patti, e adesso facciamolo!"
+msgstr "そう決めたさ、さあ、その契約を実行しようぜ！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:59
@@ -1118,15 +1089,15 @@ msgid ""
 "together to attack us; if we eliminate one of the two enemy commanders, the "
 "other will probably withdraw!"
 msgstr ""
-"Un attacco su due fronti, proprio quello che non volevamo! Ma, almeno, non "
-"abbiamo dubbi sulle loro intenzioni e sappiamo cosa fare! Hanno aspettato di "
-"essere insieme per attaccarci; se eliminiamo uno dei due comandanti nemici, "
-"probabilmente l'altro si ritirerà!"
+"なんと、二方向からの攻撃か、望んでいなかった事態だ！ だが少なくとも、彼らの目"
+"的は明確だし、我々が何をすべきかは言うまでもない！\n"
+"奴らは、我々を攻撃するアタマ数が揃うのを待っていたのだ。つまり、どちらかの司"
+"令官を倒せば、もう一人はおそらく撤退するはず！"
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:73
 msgid "What's happening here? There is a fight!"
-msgstr "Cosa sta accadendo qui? C'è un combattimento!"
+msgstr "ここで何が？　戦闘が起きてる！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:82
@@ -1134,9 +1105,8 @@ msgid ""
 "Glad to see you, sir cavalier! We have a little problem with some orcs and "
 "some bandits, as you can see, and your arrival is welcome, albeit unexpected!"
 msgstr ""
-"Felice di vederti, signor  cavalleggero! Abbiamo un piccolo problema con "
-"alcuni orchi e alcuni banditi, come puoi vedere, e il tuo arrivo è gradito, "
-"anche se inaspettato!"
+"お会いできて光栄です、精鋭竜騎士殿！オークと盗賊が徒党を組んでいて、ご覧の通"
+"り少し問題が起きているのです。貴殿の到着は予想外ですが、歓迎いたします！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:90
@@ -1144,9 +1114,8 @@ msgid ""
 "Glad to see you, sir dragoon! We have a little problem with some orcs and "
 "some bandits, as you can see, and your arrival is welcome, albeit unexpected!"
 msgstr ""
-"Felice di vederti, signor dragone! Abbiamo un piccolo problema con alcuni "
-"orchi e alcuni banditi, come puoi vedere, e il tuo arrivo è gradito, anche "
-"se inaspettato!"
+"会えて光栄です、熟練竜騎士殿！オークと盗賊が徒党を組んでいて、見ての通り少し"
+"問題が起きているのです。あなたの到着は予想外だけれど、歓迎します！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:97
@@ -1154,9 +1123,8 @@ msgid ""
 "Glad to see you, cavalryman! We have a little problem with some orcs and "
 "some bandits, as you can see, and your arrival is welcome, albeit unexpected!"
 msgstr ""
-"Felice di vederti, signor cavaliere! Abbiamo un piccolo problema con alcuni "
-"orchi e alcuni banditi, come puoi vedere, e il tuo arrivo è gradito, anche "
-"se inaspettato!"
+"会えて嬉しいよ、竜騎兵！オークと盗賊が徒党を組んでいて、見ての通り少し問題が"
+"起きているんだ。君の到着は予想外だけれど、歓迎するよ！"
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:103
@@ -1165,9 +1133,8 @@ msgid ""
 "of the Northern Alliance, so they sent messengers to all the eastern "
 "villages, and I have been sent here!"
 msgstr ""
-"A Soradoc hanno avuto un vago sentore di strani movimenti di orchi non "
-"facenti parte dell'Alleanza del Nord, quindi hanno inviato messaggeri a "
-"tutti i villaggi orientali, e io sono stato mandato qui!"
+"Soradoc では、北部同盟に属さないオークの動きがおかしいと感じ、東の村々に使者"
+"を送ったのです。それで私もここに来たのです！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:107
@@ -1175,8 +1142,7 @@ msgid ""
 "Hm, I am surprised that they took this place into consideration, after "
 "ignoring it for so long."
 msgstr ""
-"Hm, sono sorpreso che abbiano preso in considerazione questo posto, dopo "
-"averlo ignorato per così tanto tempo."
+"なるほど、この町は長い間無視されてたのに、気に留めてもらえるなんて驚きです。"
 
 #. [message]: speaker=Geobard
 #. "Weldyn" is used as metonymy here:
@@ -1187,10 +1153,10 @@ msgid ""
 "took the opportunity to see what the situation is here. It seems that I will "
 "have to report about a problematic situation."
 msgstr ""
-"Queste non sono cose di cui i superiori discutono con me, ovviamente, ma le "
-"voci trapelate parlano di un rinnovato interesse, in Wesnoth, per l'ambra, "
-"quindi Weldyn ha colto l'occasione per vedere qual è la situazione qui. "
-"Sembra che dovrò riferire su una situazione problematica."
+"もちろん、上層部が私に相談するようなことではないけれど、漏れ伝わってくる噂に"
+"よれば、Wesnoth では琥珀への関心が再燃しているらしく、それで、この機会に "
+"Weldyn はここの状況を確認することにしたのです。どうやら、悪い事態になっている"
+"ことを報告しなければならないようだ...。"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:116
@@ -1202,12 +1168,10 @@ msgid ""
 "serves as a border with the orcish territories, and no transit is granted to "
 "any kind of ships."
 msgstr ""
-"La Strada dell'Ambra è ormai ridotta a frammenti di sentieri incerti che "
-"attraversano aree selvagge; territori in cui le leggi di Wesnoth sono "
-"sopraffatte dalla legge della banda più forte, e non sono sempre bande di "
-"umani. Il fiume sarebbe navigabile dalle rive orientali del continente fino "
-"a qui, ma funge da confine con i territori degli orchi e nessun transito è "
-"concesso a nessun tipo di nave."
+"琥珀街道は現在、原野を横切る不確かな道の断片と化しています。そこでは、"
+"Wesnoth の法律は最強集団の法律に圧倒されていますが、それは必ずしも人間の悪党"
+"集団とは限らない。川は大陸の東岸からここまで航行可能ですが、オークの領土との"
+"境界となっていて、どんな種類の船にも通過は許可されません。"
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:120
@@ -1215,8 +1179,8 @@ msgid ""
 "This state of affairs must change! That's why I was ordered to be available "
 "to the officer who serves here as the local commander."
 msgstr ""
-"Questo stato di cose deve cambiare! Ecco perché mi è stato ordinato di "
-"mettermi al servizio dell'ufficiale che serve qui come comandante locale."
+"現状を変えなければいけません！そのために、私はこの地の司令官たる将校の補佐を"
+"命じられたのです。"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:124
@@ -1225,9 +1189,9 @@ msgid ""
 "the highest grade, and when I got here, less than a year ago, the commander "
 "of the... local garrison was... the private Titus."
 msgstr ""
-"Temo che non ci sia nessun ufficiale qui ad Amoran, da molto tempo ormai; il "
-"mio è il grado più alto, e quando sono arrivato qui, meno di un anno fa, il "
-"comandante della ... guarnigione locale era ... il soldato Titus."
+"申し訳ない話ですが、ここ Amoran には長い間、将校がいません。私の階級が最上位"
+"で、私がここに来たとき、来てまだ一年足らずですが、地元の守備隊の司令官は... "
+"Titus 一等兵だったのです。"
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:128
@@ -1235,8 +1199,8 @@ msgid ""
 "Incredible! Anyway, I don't think I'm wrong by putting me on your orders, "
 "commander...?"
 msgstr ""
-"Incredibile! Comunque, non credo di sbagliarmi affidandomi ai vostri ordini, "
-"comandante ...?"
+"信じられない！　とにかく、私を指揮下に置くことは間違っていないと思います、司"
+"令官... とお呼び... すればよいですか？"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:137
@@ -1244,8 +1208,8 @@ msgid ""
 "Sergeant Glauco at your service, sir cavalier, and I hope to be worthy of "
 "your confidence! And now let's rid out this rabble!"
 msgstr ""
-"Il sergente Glauco al vostro servizio, signore cavaliere, e spero di essere "
-"degno della vostra fiducia! E ora sbarazziamoci di questa marmaglia!"
+"Glauco 軍曹です。 お任せください、精鋭竜騎兵殿！貴殿の信頼に応えたいと存じま"
+"す。さあ、この悪党どもを一掃しましょう！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:145
@@ -1253,8 +1217,8 @@ msgid ""
 "That'd be Sergeant Glauco, sir dragoon, and I hope to be worthy of your "
 "confidence! And now let's rid out this rabble!"
 msgstr ""
-"That'd be Sergeant Glauco, signor dragone, and I hope to be worthy of your "
-"confidence! And now let's rid out this rabble!"
+"Glauco 軍曹です。 お任せください、熟練竜騎兵殿！貴殿の信頼に応えたいと存じま"
+"す。さあ、この悪党どもを一掃しましょう！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:152
@@ -1264,10 +1228,9 @@ msgid ""
 "to you, cavalryman, and I hope to be worthy of your confidence! And now "
 "let's rid out this rabble!"
 msgstr ""
-"...comandante? Beh, tecnicamente sono solo un sergente, ma dato che sei solo "
-"un cavaliere, credo di essere un tuo superiore ... Comunque, questo è il "
-"sergente Glauco per te, cavaliere, e spero di essere degno della tua "
-"fiducia! E ora sbarazziamoci di questa marmaglia!"
+"...司令官？正確には軍曹だが...、君はまだ竜騎兵だから、私の方が階級は上だろう"
+"な...。とにかく、Glauco 軍曹から君、竜騎兵へ。君の信頼に応えたいと思う。さ"
+"あ、この悪党どもを一掃しよう！"
 
 #. [message]: id=Dadoc
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:162
@@ -1275,8 +1238,8 @@ msgid ""
 "Good morning, men of Wesnoth, let's try to catch the great Dadoc in his "
 "home, if you can!"
 msgstr ""
-"Buon mattino, uomini di Wesnoth, venite a prendere il grande Dadoc nella sua "
-"casa, se potete!"
+"おはよう、Wesnoth の諸君。偉大なる Dadoc を、Dadoc 様の故郷で捕まえてみなよ、"
+"できるものならな、ハッ！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:169
@@ -1284,9 +1247,8 @@ msgid ""
 "And he even annoys us, that damned bandit! But now what do we do? We know "
 "absolutely nothing about this forest, and I won't lead my men into a trap."
 msgstr ""
-"Ed anche ci prende in giro, quel maledetto bandito! Ma adesso cosa facciamo? "
-"Non sappiamo assolutamente nulla di questa foresta e non guiderò i miei "
-"uomini in una trappola."
+"それから、我々を苛つかせる、あの憎き盗賊も！　しかし、どうすればよいのだ？こ"
+"の森のことは全く分からないし、部下を罠に嵌めたくはない。"
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:173
@@ -1295,14 +1257,14 @@ msgid ""
 "it! Whether he be friend or foe, he will tell us something about this place, "
 "with good manners in the first case, and with bad ones in the second."
 msgstr ""
-"Guarda, signore! C'è un cottage laggiù! Vado a vedere se ci vive qualcuno! "
-"Che sia amico o nemico, ci racconterà qualcosa di questo posto, con le buone "
-"maniere nel primo caso e con le cattive maniere nel secondo."
+"見てください！ あそこに小屋が！ 住人がいるかどうか見てきます！ 敵か味方か分か"
+"りませんが、この地に関して何か教えてくれるでしょう、前者なら行儀よく、後者な"
+"ら、お行儀悪く。"
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:179
 msgid "There's no one here? I'm a representative of the Wesnothian Army!"
-msgstr "C'è nessuno qui? Sono un rappresentante dell'Esercito di Wesnoth!"
+msgstr "誰かいないのか？私は Wesnoth 軍の代表の者だ！"
 
 #. [message]: speaker=Divaid
 #. "I and my friend" works, too, but "Me and my friend" sounds more natural. Also "punch me" might be a typo for "pinch me", but "hit me" or "slap me" would also work.
@@ -1314,10 +1276,9 @@ msgid ""
 "the first time I've seen its colors in at least... forty years! What are you "
 "doing here right now?"
 msgstr ""
-"Ci sono io, qui, rappresentante dei ficcanaso di Wesnoth! Io e il mio amico "
-"Ranfy. E questo potrebbe anche essere il territorio di Wesnoth, ma mi venga "
-"un colpo se non è la prima volta che vedo i suoi colori in almeno ... "
-"quarant'anni! Cosa ci fai qui adesso?"
+"居るぞ、Wesnoth の多忙人代表が！ 俺と友人の Ranfy だ。ここも Wesnoth 領だろう"
+"がな、その色を見るのは少なくとも.....40年振りだ。夢じゃねえのか、おい。俺の"
+"ほっぺを殴ってくれ！　こんな所で何やってんだ？"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:192
@@ -1326,19 +1287,18 @@ msgid ""
 "and I are searching for Dadoc the bandit, because we need to give him what "
 "he deserves! But who is Ranfy?"
 msgstr ""
-"Sono il sergente Glauco, comandante della guarnigione di Amoran! I miei "
-"compagni ed io stiamo cercando Dadoc il bandito, perché dobbiamo dargli "
-"quello che si merita! Ma chi è Ranfy?"
+"私は Glauco 軍曹、Amoran 守備隊の隊長だ！私と隊員は盗賊 Dadoc を探している！"
+"あいつには相応の処罰が必要なのだ。で、Ranfy とは誰のことだ？"
 
 #. [message]: speaker=Ranfy
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:199
 msgid "Kreeeeee!"
-msgstr "Kreeeeee!"
+msgstr "クリーーー！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:203
 msgid "Watch out! A monster!"
-msgstr "Attenzione! Un mostro!"
+msgstr "気をつけろ！怪物だ！"
 
 #. [message]: speaker=Divaid
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:207
@@ -1349,6 +1309,10 @@ msgid ""
 "friend Dadoc, who, I fear, you'll have to look for in the forest. Well, good "
 "luck, because you'll need a lot of it!"
 msgstr ""
+"ここで唯一”モンスター的”なのは、あんたらの”無知”だよ、 Wesnoth 人。彼は "
+"Ranfy だ、卵の時にオレが保護したんだ。それ以来、狩りを手伝ってくれて、ネズミ"
+"や盗賊から家を守ってくれてる。アンタの友人 Dadoc みたいな盗賊は、残念だが森で"
+"探すしかない。まあ、幸運を祈るよ。なんたって、山ほど幸運が必要だからな！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:211
@@ -1356,8 +1320,8 @@ msgid ""
 "You seem to know this place well, why don't you help us? Eliminating Dadoc "
 "will save a little bit of work for your... nice friend."
 msgstr ""
-"Sembra che tu conosca bene questo posto, perché non ci aiuti? Eliminare "
-"Dadoc risparmierà un po 'di lavoro per il tuo ... simpatico amico."
+"ここをよく知ってるみたいだし、手伝ってくれないか？ Dadoc を退治すれば、あなた"
+"の... 素敵なお友達の仕事の手間も、少しは減らせるだろう。"
 
 #. [message]: speaker=Divaid
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:215
@@ -1366,27 +1330,21 @@ msgid ""
 "Divaid, who would be me, and I believe that I will help you westerners, "
 "since you have been kind to Ranfy!"
 msgstr ""
-"Guy, nessun essere umano conosce la natura selvaggia da qui al mare meglio "
-"di Divaid, che sarei io, e credo che vi aiuterò, stranieri, dato che sei "
-"stato gentile con Ranfy!"
+"アンタらよォ、どんな人間より、ここから海に続く原野を一番よく知っているのは、"
+"この Divaid さ！Ranfy に親切にしてくれたから、アンタら西の人間の助けになって"
+"やるよ！"
 
 #. [message]: speaker=Glauco
 #. "nereids" are the Italian name for merfolk in general, but I felt like keeping it in English just under the idea that here it would refer to the specific group of merfolk
 #. who live to the east of Wesnoth.
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:221
-#, fuzzy
-#| msgid ""
-#| "After we bring Dadoc to justice, we'll go to east to meet the nereids; "
-#| "could you come with us as a guide? I have a desperate need someone who "
-#| "knows the wildlands, and I'll pay well."
 msgid ""
 "After we bring Dadoc to justice, we'll go east to meet the nereids; could "
 "you come with us as a guide? I have a desperate need for someone who knows "
 "the wildlands, and I'll pay well."
 msgstr ""
-"Dopo aver assicurato Dadoc alla giustizia, andremo a est per incontrare i "
-"nereidi; potresti venire con noi come guida? Ho un disperato bisogno di "
-"qualcuno che conosca le terre selvagge e pagherò bene."
+"Dadoc に正義の鉄槌を下した後、東部の Nereids に会いに行くんだが、案内人として"
+"一緒に来てくれないか？原野に詳しい者が是非とも必要なんだ、報酬も弾むよ。"
 
 #. [message]: speaker=Divaid
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:225
@@ -1396,15 +1354,14 @@ msgid ""
 "show him the sea... what do you say Ranfy, shall we give a hand to these "
 "yahoos from the town?"
 msgstr ""
-"Alla costa? Be ', che io sia dannato, è passato un po' di tempo dall'ultima "
-"volta che ho visto il mare, e Ranfy non lo ha <i> mai </i> visto ... "
-"potrebbe essere una buona occasione per mostrargli il mare ... cosa ne dici "
-"tu Ranfy, possiamo dare una mano a questi zoticoni di città?"
+"海岸に行くのか？どうするかな、オレもこのところ海を見てないし、Ranfy は <i> 見"
+"たことすらない </i>しな... 海を見せるにはいい機会かもしれんな... よう "
+"Ranfy 、どうする？この、町の無作法者たちに手を貸してみるか？"
 
 #. [message]: speaker=Ranfy
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:233
 msgid "Kraaaaaa... Kruu Kruu... Fiiii"
-msgstr "Kraaaaaa... Kruu Kruu... Fiiii"
+msgstr "クラーー... クルゥクルゥ... フィー"
 
 #. [message]: speaker=Divaid
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:237
@@ -1417,17 +1374,17 @@ msgid ""
 "have misfortune we will have to explore them all; but we may not have the "
 "time to do so."
 msgstr ""
-"Sei un uomo fortunato, signor comandante della guarnigione di Amoran! Il mio "
-"amico, qui, dice che gli piaci! Allora, miei nuovi compagni, le cose stanno "
-"così: Dadoc ha un certo numero di rifugi, nella foresta, dove disperde la "
-"sua banda quando non devono agire. Per trovare Dadoc dovremo controllarli "
-"uno per uno, e se saremo fortunati troveremo Dadoc immediatamente; se avremo "
-"sfortuna dovremo esplorarli tutti; ma potremmo non avere il tempo per farlo."
+"あんたついてるよ、Amoran の守備隊の司令官さん。この友達が、アンタのことを好き"
+"だと言ってるよ！よっしゃ、新しい仲間たちよ。状況はこんな感じだ、Dadoc は確か"
+"な数の避難場所を持ってる、森の中にな。奴の一団が暇なときは、そこに散らばって"
+"るんだ。Dadoc を見つけるにはその一つ一つを探し回らにゃならんな。運がよけれ"
+"ば、すぐに Dadoc は見つかるが、運が悪けりゃ、その全部を探すことになる。でも、"
+"そんな時間があるかどうかだな。"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:241
 msgid "Why?"
-msgstr "Perché?"
+msgstr "なぜだ？"
 
 #. [message]: speaker=Divaid
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:245
@@ -1436,9 +1393,8 @@ msgid ""
 "short time; he's a very cautious guy. We have to find him quickly, otherwise "
 "we can also say him good-bye forever."
 msgstr ""
-"Perché Dadoc scapperà quando vedrà che suoi scagnozzi non riusciranno a "
-"fermarci in breve tempo; è un tipo molto cauto. Dobbiamo trovarlo in fretta, "
-"altrimenti possiamo anche salutarlo per sempre."
+"だってよ、Dadoc は、もし手下どもが俺たちに手こずってるのを見たら逃げ出すし、"
+"えらく慎重な奴なんだ。さっさと見つけないと、見つけずじまいになりかねないぞ。"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:249
@@ -1446,8 +1402,8 @@ msgid ""
 "Then let's not waste any more time! Come on, men! We can't let that rascal's "
 "wrongdoings remain unpunished!"
 msgstr ""
-"Allora non perdiamo altro tempo! Avanti, uomini! Non possiamo lasciare che "
-"le malefatte di quel mascalzone rimangano impunite!"
+"では、こうしては居られない！さあ、みんな！あの悪党たちの悪行を見過ごしたまま"
+"にはできないぞ！"
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:256
@@ -1456,9 +1412,9 @@ msgid ""
 "orcs, but from here to the orc fortress, the plain does not offer any "
 "protection or hiding places; we have to attack from here."
 msgstr ""
-"Comandante, sembra che siamo riusciti ad arrivare qui senza essere avvistati "
-"dagli orchi, ma da qua alla fortezza degli orchi, la pianura non offre né "
-"protezione né nascondigli; dobbiamo attaccare da qui."
+"司令官、オークに見つからずにここにはやってきましたが、ここから先のオークの砦"
+"までは、何の守りも隠れ場所もない平原です。こっちから攻撃を仕掛けるしかありま"
+"せん。"
 
 #. [message]: speaker=Glauco
 #. a "corvee" is when laborers do unpaid work for one specific task:
@@ -1468,9 +1424,8 @@ msgid ""
 "the forest to our right! Organize a corvee that takes logs from it to build "
 "a fence here."
 msgstr ""
-"Hai ragione, Geobard, questa pianura è completamente spoglia; ma guarda la "
-"foresta alla nostra destra! Organizza una corvée che prenda dei tronchi da "
-"essa per costruire una recinzione qui."
+"そのとおりだ Geobard 、この平原は丸裸同然だ。だが、右手の森をよく見ろ！荷役人"
+"を組織して、ここに柵を作る丸太を運び込むんだ。"
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:265
@@ -1478,8 +1433,8 @@ msgid ""
 "But we'll lose almost half a day, and we will allow the orcs to organize and "
 "attack us."
 msgstr ""
-"Ma perderemo quasi mezza giornata e permetteremo agli orchi di organizzarsi "
-"e attaccarci."
+"しかし、それでは半日程度かかるし、オークが一団を集めて攻撃してくるのを許して"
+"しまう。"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:269
@@ -1489,10 +1444,9 @@ msgid ""
 "orcish camp before twilight anyways. It's better to have something on which "
 "to break their initial wave."
 msgstr ""
-"Se usiamo tutti i nostri uomini, riusciremo ad avere un posto dove "
-"difenderci durante la notte; in ogni caso non saremmo comunque in grado di "
-"avvicinarci all'accampamento degli orchi prima del crepuscolo. È meglio "
-"avere qualcosa su cui rompere la loro ondata iniziale."
+"全人員を導入すれば今夜中に防衛用の場所をなんとか確保できるだろう、いずれにし"
+"ても、辺りが暗くなる前にオークの野営地まで接近することは不可能だろう。奴らの"
+"最初の攻撃を打ち破るために、何らかの拠り所はあった方がいい。"
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:273
@@ -1501,20 +1455,19 @@ msgid ""
 "the fence they can't do anything else! Better get to work right away, then! "
 "I will also erect tents in which to treat the wounded."
 msgstr ""
-"Spero che tu abbia ragione, comandante, perché finché gli uomini sono "
-"impegnati a costruire la recinzione non possono fare nient'altro! Meglio "
-"mettersi subito al lavoro, allora! Inoltre erigerò tende in cui curare i "
-"feriti."
+"そうだとよいのですが司令官、兵たちは柵を構築している間、他のことに手を回せま"
+"せんよ！それなら、すぐに作業に取り掛かかりましょう！私は早速、負傷者に備えて"
+"テントを立てます。"
 
 #. [message]: speaker=Grunto
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:280
 msgid "What are those humans doing there?"
-msgstr "Cosa stanno facendo quegli umani laggiù?"
+msgstr "あそこの人間どもは、何をしてやがるんだ？"
 
 #. [message]: speaker=Olly
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:284
 msgid "It seems they are building fences, boss!"
-msgstr "Sembra che stiano costruendo una palizzata, capo!"
+msgstr "柵を作ってるようですぜ、ボス！"
 
 #. [message]: speaker=Grunto
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:288
@@ -1522,13 +1475,13 @@ msgid ""
 "I didn't mean that, you idiot! I wanted to say: why you haven't yet "
 "slaughtered them?"
 msgstr ""
-"Non intendevo questo, idiota! Volevo dire: perché non li avete ancora "
-"massacrati?"
+"そんなこと言ってるんじゃない、このトンマ！オレが言いたいのな、<b>どうして、お"
+"前たちは、奴らを、殺さないんだ</b> ってことだ。分かったか？"
 
 #. [message]: speaker=Olly
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:292
 msgid "Gulp... We'll do it immediately, chief, the time to gather the boys!"
-msgstr "Gulp ... Lo faremo subito, capo, il tempo di radunare i ragazzi!"
+msgstr "ウググ... すぐやりますよ、首領！さあ、数を集めないと！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:299
@@ -1536,8 +1489,8 @@ msgid ""
 "Just in time, men; here they come! Let your heart be no less firm than the "
 "palisade that your arms have built!"
 msgstr ""
-"Giusto in tempo, uomini; arrivano! Lasciate che il vostro cuore non sia meno "
-"saldo della palizzata che le vostre braccia hanno costruito!"
+"間に合ったな兵たちよ、奴らが来るぞ！　君らの心は、その腕で築いた柵に劣らず堅"
+"固であってくれ！"
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:303
@@ -1546,16 +1499,14 @@ msgid ""
 "It'd be a good idea to check if it is inhabited by friends or by enemies, "
 "since we have it behind us."
 msgstr ""
-"Signore, gli uomini che sono stati nella foresta hanno intravisto una casa "
-"tra gli alberi. Sarebbe una buona idea controllare se è abitata da amici o "
-"da nemici, visto che ce l'abbiamo alle spalle."
+"上長殿、森に入った者の話では、木々の合間にチラリと家が見えたそうです。味方の"
+"家か敵の家か確認したほうがよいでしょう。我々の背後にいるのですから。"
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:308
 msgid ""
 "A cottage right in the middle of the orcish territory? Who can live here?"
-msgstr ""
-"Un cottage proprio nel mezzo del territorio degli orchi? Chi può vivere qui?"
+msgstr "オークの領土の ど真ん中なのに住める者とは、誰なんだ？"
 
 #. [message]: speaker=Croquet
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:315
@@ -1564,9 +1515,8 @@ msgid ""
 "hand... what business does a soldier of Wesnoth have in the territory of "
 "that orcish thief, Grunto?"
 msgstr ""
-"Questa è casa mia, ficcanaso, mia e di Fangy, ovviamente! Tu, d'altra "
-"parte ... che affari ha un soldato di Wesnoth nel territorio di quel ladro "
-"di un orco, Grunto?"
+"こいつはオレ様の家だよ、暇人ども。もちろんオレと Fangy のな！で、お前ら... "
+"Wesnoth の兵士が、オークの縄張りにいる泥棒オーク Grunto に何の用だ？"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:319
@@ -1574,18 +1524,18 @@ msgid ""
 "That orc attacked Amoran some days ago, and we have come to even the "
 "accounts! But who is Fangy?"
 msgstr ""
-"Quell'orco ha attaccato Amoran alcuni giorni fa, e siamo venuti a pareggiare "
-"i conti! Ma chi è Fangy?"
+"あのオークが数日前に Amoran を襲撃したから、その報復にきたのだ！ しかし、"
+"Fangy とは誰だ？"
 
 #. [message]: speaker=Fangy
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:326
 msgid "GRRRRRR!"
-msgstr "GRRRRRR!"
+msgstr "グルルル.......！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:330
 msgid "Beware, men! A fierce beast!"
-msgstr "Attenti, uomini! Una bestia feroce!"
+msgstr "気をつけろ！獰猛なケダモノだ！"
 
 #. [message]: speaker=Croquet
 #. a more literal translation might use "housewife" instead of "home lady" but since "lady" is also used to refer to Fangy later, it can stay here as well:
@@ -1599,13 +1549,12 @@ msgid ""
 "about these lands, I'm afraid you'll need someone who knows them better than "
 "you!"
 msgstr ""
-"Qui, le uniche bestie siete voi, Wesnothiani! Lei è Fangy, la mia piccola "
-"padrona di casa. Tiene ratti e orchi lontani dalla nostra bellissima "
-"foresta. Bah! Dato che sei venuto qui per fare la festa a Grunto, dovrò "
-"aiutarti. Non l'ho perdonato per aver rubato l'ultima cucciolata di Fangy, "
-"per avere cavalcature per i suoi Goblin. E poi, dato che gli occidentali di "
-"città come te non sanno molto di queste terre, temo che avrai bisogno di "
-"qualcuno che le conosca meglio di te!"
+"ここにいるケダモノはお前たちだけだ、Wesnoth 人！彼女は Fangy 、我が家の可愛い"
+"貴婦人だ。彼女はな、美しい森をネズミやオークから守ってくれるんだ、バーン！　"
+"Grunto の縄張りでパーティをしに来たんだから、アンタらを手伝わなければならん"
+"な。あの野郎が自分のゴブリンに乗せるために、Fangy の最後の子を盗んだことは、"
+"まだ許せないんだ。それに、アンタみたいに町から来た西の人は、この土地をあまり"
+"知らんだろうから、詳しく知ってる奴がいないといかんよな！"
 
 #. [message]: speaker=Glauco
 #. Glauco is about to say "beast" but catches himself before he can finish the word:
@@ -1613,9 +1562,7 @@ msgstr ""
 msgid ""
 "All help will be well accepted, both yours and that of the beas... that of "
 "the beautiful lady."
-msgstr ""
-"Tutti gli aiuti saranno ben accetti, sia il tuo che quello delle best ... "
-"quello della bella signora."
+msgstr "どんな協力でも歓迎するよ、君と、そのケダモ... 美しいレディも。"
 
 #. [message]: speaker=Croquet
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:345
@@ -1623,25 +1570,25 @@ msgid ""
 "Have you listened, my dear? This Wesnothian lout is not so loutish, finally! "
 "Come on then, it will be fun!"
 msgstr ""
-"Hai ascoltato, mia cara? Questo zoticone wesnothiano non è poi così sciocco, "
-"alla fine! Dai allora, sarà divertente!"
+"可愛いおまえ、聞いてたかい？この Wesnoth 男性は、それほど無作法じゃない、最終"
+"的にはな。さあ行こう、楽しいぞー！"
 
 #. [message]: speaker=Fangy
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:353
 msgid "Grauur... Grr... woof!"
-msgstr "Grauur... Grr... woof!"
+msgstr "グラウゥ... グ... ウーフ！"
 
 #. [message]: speaker=Croquet
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:357
 msgid "You can say it strong, my dear!"
-msgstr "Puoi dirlo forte, mia cara!"
+msgstr "強く言っていいんだよ、可愛いなぁ！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:369
 #, fuzzy
 #| msgid "What's the situation, "
 msgid "What's the situation?"
-msgstr "Com'è la situazione, "
+msgstr "どういう状況だ、 "
 
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:371
 #, fuzzy
@@ -1654,9 +1601,8 @@ msgid ""
 "partially swallowed up by the river, and it seems that a group of Nagas have "
 "nestled there."
 msgstr ""
-"Direi che è brutta, ma ho paura che sia terribile; La vecchia stazione delle "
-"carovane è stata parzialmente inghiottita dal fiume e sembra che un gruppo "
-"di Naga vi si sia annidato."
+"悪いと言いますか、酷い状況です。昔のキャラバンの駅の一部が川に飲み込まれて、"
+"そこにナーガの一団が巣食っているようです。"
 
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:373
 #, fuzzy
@@ -1667,8 +1613,8 @@ msgid ""
 "Also, on the hills just to the south, there are small buildings, and from "
 "the stench that comes out I would say they are Ogre huts."
 msgstr ""
-"Inoltre, sulle colline appena a sud ci sono piccoli costruzioni, e dal puzzo "
-"che ne esce direi che sono capanne degli Ogre."
+"それから、すぐ南側の丘に小さな建物があり、出てくる悪臭から察するに、オーガの"
+"小屋と思われます。"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:377
@@ -1680,12 +1626,11 @@ msgid ""
 "precious metals in exchange for their help, and this excludes the ogres, who "
 "never possess precious objects."
 msgstr ""
-"Potremmo aggirarli, ma il mio progetto per la nuova Via dell'Ambra richiede "
-"che il fiume sia libero! Mmmh ... Piuttosto, non è strano che gli Ogre siano "
-"alleati con Naga? So poco di entrambe le razze, è vero, ma da quel poco che "
-"so i Naga si alleano solo con coloro che gli offrono metalli preziosi in "
-"cambio del loro aiuto, e questo esclude gli ogre, che non possiedono mai "
-"oggetti preziosi."
+"迂回も可能だが、新たな琥珀街道のために私が取り組む事業には、川の開放が必要な"
+"んだ。うーむ... むしろ、オーガとナーガが同盟を結んでいるとは不思議な話だ。私"
+"は両種族についてほとんど知らないが、耳に挟んだ話では、こうだ。ナーガは爬虫類"
+"としか同盟を結ばず、支援する場合は貴金属を要求する。だから、決して貴金属を持"
+"たないオーガは対象外らしい。"
 
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:379
 msgid ""
@@ -1697,18 +1642,17 @@ msgid ""
 "the ogres here; because they occupy different spaces they have not given too "
 "much discomfort to each other."
 msgstr ""
-"E chi ha detto che sono alleati? Non si dice che la colomba faccia il nido "
-"vicino a quello del del falco? Conosco bene tutti gli esseri che vivono "
-"nelle terre selvagge dell'est, e posso assicurarti che un Ogre inviterebbe a "
-"cena un Naga solo per farne il suo primo piatto. Se vivono così vicini, deve "
-"essere così; probabilmente i Naga sono arrivati risalendo il fiume e hanno "
-"trovato qui gli ogre; poiché occupano spazi diversi non si sono dati troppo "
-"fastidio a vicenda."
+"それに、同盟を組んでると言ったのは誰だ？小さな鳩は鷹の巣の近くに巣を作るって"
+"いうだろ？オレは東方の原野に棲む生き物をよく知ってるが、これだけは断言でき"
+"る... オーガがナーガをディナーに招待するときは、奴らを食卓の最初の皿に乗せる"
+"ときだ。こんなに近くに住んでるとすれば、そのケースに違いない。おそらく、ナー"
+"ガは川を遡上して、ここのオーガを見つけたのさ。違う場所を占拠してるから、お互"
+"い不快感を持たずに済むんだろうな。"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:382
 msgid "So is it possible that we should face only the Nagas?"
-msgstr "Quindi è possibile che dovremo affrontare solo i Naga?"
+msgstr "ならば、ナーガと対決するだけで済むということか？"
 
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:384
 msgid ""
@@ -1718,11 +1662,9 @@ msgid ""
 "after we have defeated the nagas, though... it would be a plan too "
 "complicated for their brains."
 msgstr ""
-"Gli ogre non muoveranno un dito per aiutare i Naga, su questo scommetterei "
-"la mia ultima freccia, ma non posso escludere che penseranno di approfittare "
-"della nostra battaglia con i Naga per eliminare entrambe le parti, oppure "
-"che ci attaccheranno dopo che abbiamo sconfitto i naga, però ... sarebbe un "
-"piano troppo complicato per i loro cervelli."
+"オーガはナーガを助けねえから指一本も動かさん。そこに最後の矢を放つんだ。た"
+"だ、状況に乗じてオーガが双方を倒しに来たり、オレたちがナーガを倒したあとに攻"
+"撃してくる可能性も否定できんが... あの脳ミソで複雑な計画は立てられねえよ。"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:387
@@ -1731,7 +1673,8 @@ msgstr ""
 #| "We'll have to take the risk. Let us prepare, men; it will be a tough "
 #| "fight!"
 msgid "We'll have to take the risk. Get ready, men, it will be a tough fight!"
-msgstr "Dovremo correre il rischio. Prepariamoci, uomini; sarà una dura lotta!"
+msgstr ""
+"リスクはあるが、やるしかない。準備するぞ、男たちよ。きつい戦いになるぞ！"
 
 #. [message]: speaker=Kssihiss
 #. see https://tvtropes.org/pmwiki/pmwiki.php/Main/SssssnakeTalk ("reconquessst" = "reconquer"):
@@ -1740,8 +1683,8 @@ msgid ""
 "Humansss? After all thisss time they wantsss to reconquessst this place? "
 "They'll find only their deathsss!"
 msgstr ""
-"Umani? Dopo tutto quesssto tempo vogliono riprendersssi quesssto posssto? "
-"Troveranno ssolo la loro morte!"
+"人間か？結局あいつらは、ここをセー服したいんだな？お前ら、自分のシー体をみる"
+"ことになるがな、シャーッ！"
 
 #. [message]: speaker=Kssihiss
 #. The original author probably meant "land mammal" here, but "lard mammal" makes sense, too, and is funnier.
@@ -1751,8 +1694,8 @@ msgid ""
 "Ssstupid lard mammal, ssstay out of thisss ssstory or you won't be able to "
 "get out!"
 msgstr ""
-"Sstupido mammifero lardossso, sstai fuori da quessssta sstoria oppute non "
-"ssarai più in grado di ussscirne!"
+"バーカな陸上哺乳類め、いや、\"まな板の上\"哺乳類ってか、この歴シーから居なく"
+"なっちまえ、でないと、ショー涯、出られなくなるぞ、シャーッ！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:411
@@ -1760,8 +1703,8 @@ msgid ""
 "Wait, ogre, we didn't come here to fight with you, but only to fight the "
 "nagas occupying our ancient station!"
 msgstr ""
-"Aspetta, ogre, non siamo venuti qui per combattere con te, ma solo per "
-"combattere i naga che occupano la nostra antica stazione!"
+"待ってくれオーガ、我々は君と戦うためにここへ来たのではない、ナーガを倒した"
+"い。あいつが我々の古い駅を占領しているのだ！"
 
 #. [message]: speaker=Glubtrub
 #. "Wetspot" is ogre-speak for "Wesnoth"; I will try to ensure it's capitalized consistently:
@@ -1771,9 +1714,9 @@ msgid ""
 "when they to play near ruins! But soldier with colors of Wetspot never to be "
 "friends ogres... I believe... I don't remember well!"
 msgstr ""
-"Glubtrub odiare serpenti! Poco grasso da mangiare e cattivo! Essi anche "
-"uccidono nostri cuccioli quando giocano vicino alle rovine! Ma soldati di "
-"Wetspot mai essere amici di ogre… credo … non ricordare bene!"
+"オレ Glubtrub 、ヘビ、大嫌い！太ってないから、食べてもお腹すく、美味しくな"
+"い！あいつらは廃墟の近くで遊ぶオレたちの子供たちヲ殺す！だけど、Wetspot 色の"
+"兵隊 、オーガと昔、友達ちがう... きっと... よく覚えてない！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:420
@@ -1783,10 +1726,9 @@ msgid ""
 "have to go east for a mission that, if successful, could allow me to grant "
 "these lands to ogres!"
 msgstr ""
-"Bene, ti prometto che i soldati di Wesnoth non combatteranno contro gli ogre "
-"della tribù Glubtrub se ci aiuterai a sconfiggere i Naga; infatti, ora devo "
-"andare a est per una missione che, in caso di successo, potrebbe permettermi "
-"di concedere queste terre agli ogre!"
+"なぁ、約束するよ、Wesnoth の兵士は Glubtrub 一族のオーガとは戦わない、ナーガ"
+"退治を手伝ってくれたらね。実は、我々は任務のために東に行かねばならないのだ"
+"が、それが成功したら、ここの大地をオーガに譲渡できるかもしれない！"
 
 #. [message]: speaker=Glubtrub
 #. Normally the way of making ogres sound stupid in English is pretty similar in terms of failing to conjugate verbs,
@@ -1797,20 +1739,16 @@ msgstr ""
 msgid ""
 "Understand little, but... meanwhile to squash snakes, to understand well "
 "after!"
-msgstr "Capito poco, ma... intanto spiaccicare serpenti, capire bene dopo!"
+msgstr "少し分かる、だけど... 今は、ヘビ潰す。あとで、よく分かる！"
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:432
-#, fuzzy
-#| msgid ""
-#| "(To Glauco) I don't understand, Weren't we supposed to free the amber "
-#| "way? With the ogres settled here, how are we going to do this?"
 msgid ""
 "(<i>To Glauco</i>) I don't understand! Weren't we supposed to free the amber "
 "way? With the ogres settled here, how are we going to do this?"
 msgstr ""
-"(A Glauco) Non capisco, non dovevamo liberare la via dell'ambra? Con gli "
-"ogre sistemati qui, come lo faremo?"
+"（<i>Glauco に向かって </i>）理解できません！琥珀街道を開放するのではなかった"
+"のですか？ここにオーガが住んでる状況で、計画をどう進めるんです？"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:436
@@ -1820,10 +1758,9 @@ msgid ""
 "invaders like the Naga; for the completion of my project, meanwhile, it's "
 "essential to liberate the river."
 msgstr ""
-"Se la tribù degli ogre diventa nostra alleata, non solo non sarà un "
-"ostacolo, ma sarà anche un vantaggio, perché proteggerà questo territorio da "
-"invasori come i Naga; per il completamento del mio progetto, nel frattempo, "
-"è essenziale liberare il fiume."
+"オーガ族が味方なら、奴らが障害にならないどころか恩恵まで付いてくる。ナーガの"
+"ような侵入者からこの領土を守ってくれるし、片や、私の計画の完遂には、川の開放"
+"が不可欠だ。"
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:440
@@ -1832,14 +1769,14 @@ msgid ""
 "Ogres, today, is necessary! In that nest there are more Naga than we "
 "expected, and they are also experts as well as armed!"
 msgstr ""
-"Ci hai condotto bene, e mi fiderò di te anche adesso, anche perché l'aiuto "
-"degli Ogre, oggi, è necessario! In quel nido ci sono più Naga di quanto ci "
-"aspettassimo, e sono anche esperti oltre che armati!"
+"私たちはあなたのお陰でここまで来られました。今もあなたを信じます。それに、"
+"オーガの支援が今日、必要だからです！あの巣には予想以上のナーガがいますし、武"
+"装している上に経験豊富ですから！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:447
 msgid "The station is free, and the river, too! Good work, my soldiers!"
-msgstr "La stazione è libera, ed anche il fiume! Bel lavoro, miei soldati!"
+msgstr "駅は綺麗だし、川も澄んでいる！よく頑張ったな、我が兵士たちよ！"
 
 #. [message]: speaker=Glubtrub
 #. I'm assuming he means "sole" as in "the sole of a shoe" here?
@@ -1848,8 +1785,9 @@ msgid ""
 "Nice! Snakes make flat like sole into the river, flat-flat! You like me, man "
 "of Wetspot! I to come with you, and together to come to squash world!"
 msgstr ""
-"Bello! I serpenti fatti piatti la sogliola nel fiume, piatto-piatto! Tu "
-"piacere me, uomo di Wetspot! Venire con te e insieme spiaccicare mondo!"
+"キレイね！ヘビたち、足の裏みたいにペチャンコで川の中、ペチャンコ、ペチャン"
+"コ！おまえたちは、私に似てるね、Westspot の男たち！一緒に行くよ、世界をペチャ"
+"ンコにする、一緒に行く！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:456
@@ -1858,9 +1796,9 @@ msgid ""
 "around... to squash; I'm on a mission with a specific purpose... in general, "
 "we only fight the enemies of Wesnoth!"
 msgstr ""
-"Ehm ... sì, anche tu piacere me, molto, Glubtrub, ma non vado in giro ... a "
-"spiaccicare; sono in missione con uno scopo preciso... in generale, "
-"combattiamo solo i nemici di Wesnoth!"
+"えーと... そうだね、君も私に似てるね、とても、Glubtrub 、でも私はあちこち"
+"に... 潰しに行くのではないのだ、ある目的を持った任務についていて... 通常は、"
+"Wesnoth の敵としか戦わないんだ！"
 
 #. [message]: speaker=Glubtrub
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:460
@@ -1868,8 +1806,8 @@ msgid ""
 "More better! To like more to eat and to sleep than to fight! But... how to "
 "be enemies of Wetspot? Be edible?"
 msgstr ""
-"Ancora meglio! Piacere più mangiare e dormire che combattere! Ma... come "
-"essere nemici di Wetspot? Essere mangiabili?"
+"もっとヨイよ！戦うより、もっと食べる、もっと眠る、でも... Wetspot の敵、どん"
+"な感じか？それ、食べられる？"
 
 #. [message]: speaker=Glauco
 #. The ogre's speech patterns are starting to rub off on Glauco:
@@ -1880,10 +1818,9 @@ msgid ""
 "and don't respect its laws, or those who want to take possession of the "
 "goods or of the life of the inhabitants of Wesnoth."
 msgstr ""
-"Ecco… ebbene… non di solito… io credo. Comunque, i nemici di Wetspot… volevo "
-"dire Wesnoth, sono coloro che vivono nel territorio di Wesnoth e non "
-"rispettano le sue leggi, oppure coloro che vorrebbero impossessarsi dei beni "
-"o della vita degli abitanti di Wesnoth."
+"それは... まぁ... 普通は... 違うかな... と思うよ。とにかく、Wetspot... "
+"あっ、 Wesnoth の敵は、Wesnoth 領土に住んでいるのにその法律を守らない者、ある"
+"いは Wesnoth の住人の財産や生命を危うくする者、ということだね。"
 
 #. [message]: speaker=Glubtrub
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:469
@@ -1892,8 +1829,9 @@ msgid ""
 "things, OH OH OH! We to do so, you to say me who is enemy of Wetspot, and I "
 "to squash him!"
 msgstr ""
-"... capire... nulla! Ma più meglio così, io non abituato capire cose, OH OH "
-"OH! Noi fare così, tu dire me chi nemico di Wetspot, ed io spiaccicare lui!"
+"分からない... 全然！でも、分かるようになってきた、昔はあまり分からなかった"
+"よ、オゥオゥオゥ！　俺たち、そうする。おまえ、オレに Wetspot の敵、誰か言う、"
+"そうしたら、オレ、そいつ潰す！"
 
 #. [message]: speaker=Glauco
 #. "Beh" is just a sound, but I suppose it could also be a portmanteau of
@@ -1903,8 +1841,8 @@ msgid ""
 "Beh, I suppose that can be acceptable in this way! Glad to have you with us, "
 "Glubtrub, your strength will be useful to us!"
 msgstr ""
-"Beh, suppongo che possa essere accettabile in questo modo! Felice di averti "
-"con noi, Glubtrub, la tua forza ci sarà utile!"
+"まぁ、そういう感じでいいと思うよ！仲間になれてうれしいよ、 Glubtrub 、君の剛"
+"腕さは、きっと役に立つ！"
 
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:480
 msgid ""
@@ -1913,11 +1851,9 @@ msgid ""
 "even more wild in those mountains), we have just to find a road that leads "
 "us on the other side of this territorry, through the bloody hills."
 msgstr ""
-"Bene, signori, dato che non volete passare qualche settimana a scalare le "
-"montagne più a sud (cosa che penso sia una buona idea visto che le terre "
-"selvagge diventano ancora più selvagge in quelle montagne), dobbiamo solo "
-"trovare una strada che ci porti dall'altra parte di questo territorio, "
-"attraverso le colline insanguinate."
+"さて、皆さん、何週間もかけて更に南の山を登るのは嫌だろ、（あの山ではもっと"
+"荒々しい原野が待ってるから、いい考えだと思うぞ、）流血の丘を抜けて、この領地"
+"の反対側に行ける道を探さねばならん。"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:483
@@ -1925,8 +1861,8 @@ msgid ""
 "What's the problem? The season is good, the weather is beautiful, and these "
 "hills were safe when the amber caravans passed through them!"
 msgstr ""
-"Qual è il problema? La stagione è bella, il tempo è bello e queste colline "
-"erano al sicuro quando le attraversavano le carovane dell'ambra!"
+"何か問題があるのか？季節は良いし天気も良い。それに、琥珀のキャラバンが通って"
+"いた頃は、ここらの丘は安全だったぞ！"
 
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:485
 msgid ""
@@ -1937,17 +1873,16 @@ msgid ""
 "with the caravan workers; when the caravans ceased, the dwarves raised their "
 "heels and left!"
 msgstr ""
-"Peccato che quei tempi siano finiti prima che tu nascessi, comandante! In "
-"passato la strada era tranquilla perché i pochi nani rimasti vivevano nelle "
-"miniere che hanno sfruttato per secoli; queste miniere sono state esaurite "
-"per un po ', ma alcuni nani hanno ancora estratto qualcosa che ha permesso "
-"loro di commerciare con i lavoratori della carovana; quando le carovane "
-"cessarono, i nani alzarono i talloni e se ne andarono!"
+"残念だが、そいつはアンタが生まれる前の時代の話だ、司令官！昔は静かなもんだっ"
+"たけど、そりゃ、ここに残った少数のドワーフが何世紀も鉱山に住んでたからだ。こ"
+"こらの鉱山は少ししてから空っぽになったが、いくらかのドワーフがキャラバンと取"
+"引するために、まだ何かしら掘り出してたんだ。キャラバンが来なくなって、ドワー"
+"フも踵を返していなくなったってわけさ！"
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:488
 msgid "Better, so they will not try to charge us any toll!"
-msgstr "Meglio, quindi non cercheranno di farci pagare alcun pedaggio!"
+msgstr "その方がいい、ドワーフたちは我々に通行料を請求しようとしないでしょう！"
 
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:490
 msgid ""
@@ -1958,20 +1893,18 @@ msgid ""
 "there, and those have become the home of bats of all kinds, including the "
 "worst types of course!"
 msgstr ""
-"Peggio, vorrai dire! Le miniere abbandonate sono diventate la tana dei lupi, "
-"compresi i Lupi Terribili, e durante il giorno escono per attaccare gli "
-"intrusi, cioè quelli come noi; e infine, il crollo di qualche complesso di "
-"gallerie, non più manutenute dai nani, ha aperto voragini qua e là, e quelle "
-"sono diventate la dimora di pipistrelli di ogni tipo, compresi i tipi "
-"peggiori ovviamente!"
+"その方が悪い、とアンタは言いたくなるはずだ！　廃坑は狼の住処になっちまった、"
+"ダイアウルフもいる。それに日中は侵入者を襲いに来る。つまり、オレたちみたいな"
+"のをな。最後には坑道の構造が崩壊して、もうドワーフは面倒を見てないから、あち"
+"こちで割れ目ができちまった。そうすると、そこはコウモリの全種族の住処になった"
+"のさ、もちろん、コウモリで最悪の種類も含めてな！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:493
 msgid ""
 "Of course! At least now we know why these place is called the Bloody Hills!"
 msgstr ""
-"Ovviamente! Almeno ora sappiamo perché questo posto si chiama Colline "
-"Sanguinose!"
+"なるほどな！少なくとも今、ここがなぜ”流血の丘”と呼ばれるのか分かったな！"
 
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:495
 msgid ""
@@ -1981,30 +1914,28 @@ msgid ""
 "wind dispersed those rusty powders all the hills took on a blood tinge, "
 "until it rained! Anyway, my proposal is to cross them as fast as possible!"
 msgstr ""
-"Affatto! Il nome risale a secoli fa, quando i nani iniziarono a sfruttare i "
-"depositi di ferro sotto le colline; gli scarti dei loro scavi che avevano "
-"accumulato all'esterno sono pieni di polvere di ferro, e quando il vento "
-"disperde quelle polveri arrugginite tutte le colline prendono una sfumatura "
-"di sangue, finché non piove! Comunque, la mia proposta è di attraversarle il "
-"più velocemente possibile!"
+"全くの見当違いだよ！名前の由来は、数世紀前に遡るんだぜ。丘の下からドワーフが"
+"鉄の鉱床を掘り始めた頃だ。ドワーフが掘り出した鉱物のカスは鉄粉だらけで、風が"
+"吹くと巻き上がって丘中を血色に染めるんだ、雨が降るまでな！とにかく、できるだ"
+"け早く突っ切ったほうがいいと思うぜ！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:498
 msgid "It seems like a great idea to me!"
-msgstr "Mi sembra una grande idea!"
+msgstr "それが一番よさそうだな！"
 
 #. [message]: speaker=Glubtrub
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:502
 msgid "Glubtrub to think the same!"
-msgstr "Glubtrub pensare stesso!"
+msgstr "Glubtrub 、同じ、考える！"
 
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:504
 msgid ""
 "Well then! There is a monolith, beyond these hills, that should show us "
 "where the old Amber Road takes up again! We just have to get there!"
 msgstr ""
-"Bene allora! C'è un monolite, oltre queste colline, che dovrebbe indicarci "
-"dove riprende la vecchia Strada dell'Ambra! Dobbiamo solo arrivarci!"
+"よし、そうしよう！石碑がこの丘の向こうにある。旧琥珀街道が再開する場所を示し"
+"てくれるに違いない！そこに行くしかない！"
 
 #. [message]: speaker=Mimord
 #. "By my grandfather's beard!" is a humorous dwarvish idiom meant to signify the swearing of an oath:
@@ -2013,8 +1944,8 @@ msgid ""
 "By my grandfather's beard! Some humans, and even... Wesnothian soldiers? "
 "What the hell are you doing here?"
 msgstr ""
-"Per la barba di mio nonno! Alcuni umani e persino ... soldati Wesnothiani? "
-"Cosa diavolo state facendo qui?"
+"間違いねえ！！　人間数人と、それに... Wesnoth 人兵士？一体全体ここで何をやっ"
+"てんだ？"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:515
@@ -2023,9 +1954,9 @@ msgid ""
 "trying to reach the nereid's bay at the mouth of the Amber River! And who "
 "would you be? I thought all the dwarves had left these hills."
 msgstr ""
-"Il mio nome è Glauco! Sono il comandante della guarnigione di Amoran e sto "
-"cercando di raggiungere la baia dei nereidi alla foce del fiume Amber! E tu "
-"chi saresti? Pensavo che tutti i nani avessero lasciato queste colline."
+"私の名前は Glauco だ！ Amoran の守備隊の司令官だが、琥珀川の河口にある "
+"nereid の湾へ行こうとしているところだ！それで、君は誰だ？ドワーフは全員この丘"
+"から立ち去ったと思っていたが。"
 
 #. [message]: speaker=Mimord
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:519
@@ -2035,11 +1966,11 @@ msgid ""
 "alone no one will call me a brawler,' and so... here I am, with nobody to "
 "fight against... apart wolves and bats! Ah, the boredom..."
 msgstr ""
-"Lo hanno fatto, infatti! Ci sono solo io, Mimord, qui! Sono rimasto qui "
-"perché gli altri dicevano che ero un piantagrane, quindi quando se ne sono "
-"andati ho detto: 'Se rimango da solo nessuno mi chiamerà attaccabrighe', e "
-"quindi ... eccomi qui, senza nessuno contro cui combattere ... a parte lupi "
-"e pipistrelli! Ah, la noia ..."
+"皆そうしたさ、嘘じゃねえ！今ここには、オレ Mimord だけよ！オレがここに残った"
+"のは、皆にトラブルメーカーだと言われたからだ。で、オレは言ってやったよ、アイ"
+"ツらがいなくなる時に。「オレだけ一人残ったら、誰もオレのことを喧嘩屋って呼ば"
+"ないだろう」ってな、それで... 残ったのよ。戦う相手もいない... 狼とコウモリを"
+"除いてな！あー、退屈だぜ..."
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:523
@@ -2048,9 +1979,9 @@ msgid ""
 "already have our troubles and we don't want to have other troubles with you! "
 "So, excuse us again, and have a good stay."
 msgstr ""
-"Ehm ... Beh ... Ci dispiace averti disturbato, ma come vedi, abbiamo già i "
-"nostri guai e non vogliamo avere altri guai con te! Quindi, scusaci ancora e "
-"ti auguro un buon soggiorno."
+"あー.. んー... 邪魔してすまない。が、ご覧のとおり、私たちは既に、ある面倒を抱"
+"えていて、君とのいざこざは避けたいんだ！だから、私たちも失礼するよ、まあ、元"
+"気でな。"
 
 #. [message]: speaker=Mimord
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:527
@@ -2061,16 +1992,16 @@ msgid ""
 "undersigned will be happy to take some axes with you! Enlist me for, let's "
 "say... 50 pieces of gold!"
 msgstr ""
-"Un momento ... posso venire con te? Non ho mai visto il mare prima, e "
-"poi ... sono stufo di avere sempre solo le bestie con cui combattere qui "
-"intorno! Forse troverai nuovi nemici con cui combattere nel tuo viaggio e il "
-"sottoscritto sarà felice di usare per te le sue asce! Arruolami per, "
-"diciamo ... 50 pezzi d'oro!"
+"ちょっと待てよ... 連れてってくれないのか？海を見たことがないんだ、それに... "
+"いつもいつも、この辺をうろつくケダモノと戦ってるだけの暮らしにはもう飽き飽き"
+"してるんだ！アンタたちだって、旅の途中で見たこともねえ敵に出くわすかもしれん"
+"だろ、そうしたら、雇用契約書に署名した誰かは、アンタに新しい斧を提供できて喜"
+"ぶぞ！なあ、オレを雇ってくれ、おい... 50 gold でどうだ！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:531
 msgid "In truth... we try to avoid problems when possible."
-msgstr "In verità ... cerchiamo di evitare problemi quando possibile."
+msgstr "本音を言うと... なるべくトラブルは避けたい。"
 
 #. [message]: speaker=Mimord
 #. "By my sister's moustache" is another humorous dwarvish idiom meant to signify the swearing of an oath:
@@ -2081,10 +2012,9 @@ msgid ""
 "you know what I tell you? You have won, I'll come with you for free; I am "
 "bored to death here."
 msgstr ""
-"Per i baffi di mia sorella, questa è un'affermazione davvero ridicola, "
-"comandante Glauco, dalla bocca di chi vuole attraversare questi territori! "
-"Sai cosa ti dico? Hai vinto, verrò con te gratuitamente; Sono annoiato a "
-"morte qui."
+"姉ちゃんの口髭に誓って言うが、全くバカげた話だよ、Glauco 司令官、この領土を横"
+"切りたい誰かさんの口から出た話はよ！なあ、オレの言ってること、分かってるだ"
+"ろ？　あーあ、アンタの勝ちだ、タダで付いてくよ、死ぬほど暇なんだよ。"
 
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:538
 msgid ""
@@ -2092,9 +2022,9 @@ msgid ""
 "he comes with us! Although we should almost be near at the sea, we don't "
 "know what we'll find again, and then... there is always the return to Amoran."
 msgstr ""
-"Il nano non ha completamente torto! Secondo me farà più bene che male se "
-"viene con noi! Anche se dovremmo essere quasi vicini al mare, non sappiamo "
-"cosa troveremo di nuovo, e poi ... c'è sempre il ritorno ad Amoran."
+"あのドワーフは間違ってないな！思うに、あいつが一緒なら悪いことより良いことの"
+"ほうが多いぜ！海の近くまで行くにしても、また何に出くわすか分かんねえし、それ"
+"に... いざとなれば Amoran に帰ることもあるし。"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:541
@@ -2102,7 +2032,8 @@ msgid ""
 "Then you can come with us, Mimord, but I will decide who to... attack, "
 "understood?"
 msgstr ""
-"Allora puoi venire con noi, Mimord, ma deciderò io chi ... attaccare, capito?"
+"それじゃ、一緒に来たまえよ、君、Mimord 。だが、攻撃する相手は私が決める。... "
+"了解したか？"
 
 #. [message]: speaker=Mimord
 #. "By my cousin's hammer" is one more humorous dwarvish idiom meant to signify the swearing of an oath:
@@ -2112,9 +2043,9 @@ msgid ""
 "hammer, you're one tough merchant, to get my services for nothing... my "
 "compliments, really."
 msgstr ""
-"Inteso! Hai fatto un ottimo affare, comandante Glauco! Ma, per il martello "
-"di mio cugino, sei un commerciante coi fiocchi, per ottenere i miei servizi "
-"per niente ... i miei complimenti, davvero."
+"了解した！アンタ、大した腕前だ、Glauco 隊長さんよ！しっかし、いとこの斧に誓っ"
+"て言うが、まるで手強い商人だな。元手を使わずにオレという人材を手に入れちまっ"
+"た... 褒めてるんだぜ、ほんとに。"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:550
@@ -2122,13 +2053,12 @@ msgid ""
 "Actually I don't... oh well, forget it and let's reach that monolith beyond "
 "the hills."
 msgstr ""
-"In realtà non ... vabbè, lascia perdere e raggiungiamo quel monolite oltre "
-"le colline."
+"実はそうでもない... まあ、それは忘れてもらって、丘の向こうの石碑へ急ぐぞ。"
 
 #. [message]: speaker=Glubtrub
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:557
 msgid "Urca! Bats ugly, Glubtrub to hate bats!"
-msgstr "Urca! Pipistrelli orribili, Glubtrub odiare pipistrelli!"
+msgstr "うわっ！コウモリ、醜い。 Glubtrub は、コウモリきらい！"
 
 #. [message]: speaker=Glauco
 #. this said "pet" originally, but... I don't think the bats are actually pets though?
@@ -2138,18 +2068,17 @@ msgstr "Urca! Pipistrelli orribili, Glubtrub odiare pipistrelli!"
 #| "How you can have fear of a pet that's so much smaller than you, Glubtrub?"
 msgid ""
 "How are you afraid of an animal that's so much smaller than you, Glubtrub?"
-msgstr ""
-"Come puoi avere paura di un animaletto tanto più piccolo di te, Glubtrub?"
+msgstr "こんなに小さい動物を怖がるなんて、Glubtrub 、どういうことなんだ？"
 
 #. [message]: speaker=Glubtrub
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:567
 msgid "No to have fear, but bats to have ugly taste! Bleah!"
-msgstr "No avere paura, ma pipistrelli avere pessimo sapore! Bleah!"
+msgstr "怖い、無い。でも、コウモリ醜い、気味悪い！ブーー！"
 
 #. [message]: speaker=Divaid
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:574
 msgid "And just so we won't miss anything, here are the wolves!"
-msgstr "E per non farci mancare niente, ecco i lupi!"
+msgstr "それと、見落とさないよう紹介しておくぞ、さあ、オオカミちゃんたちだ！"
 
 #. [message]: speaker=Croquet
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:578
@@ -2157,13 +2086,13 @@ msgid ""
 "And just so we won't miss anything, here are the wolves! Beh, maybe Fangy "
 "could find a cute one and enlarge the family!"
 msgstr ""
-"E per non farci mancare qualcosa, ecco i lupi! Beh, forse Fangy ne troverà "
-"uno simpatico con cui allargare la famiglia!"
+"それと、見落とさないよう紹介しておくぞ、さあ、オオカミちゃんたちだ！ へへ、"
+"Fangy が可愛い子ちゃんを見つけて、家族を増やすかもな！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:582
 msgid "Well, hey! I'm not complaining about what is lacking!"
-msgstr "Bene, hey! io non mi sto lamentando di quello che manca!"
+msgstr "なあ、おい！足りてないものに不満は言わんぞ！"
 
 #. [message]: speaker=Joralda
 #. The colors refer to the flags that flutter.
@@ -2177,9 +2106,9 @@ msgid ""
 "Welcome, foreigners! It's been a long time since we last saw the colors of "
 "Wesnoth around here! We wonder why you came back to us right now."
 msgstr ""
-"Benvenuti, stranieri! È passato molto tempo dall'ultima volta che abbiamo "
-"visto i colori di Wesnoth da queste parti! Joralda è curiosa di sapere "
-"perché torna a vederli proprio ora."
+"よくぞいらした、異邦の方々！この辺りで Wesnoth の色は久しくお目にかかりません"
+"でしたよ！なぜ、私 Joralda が彼らに会いに戻って来るのか、私自身がすぐにも知り"
+"たいのです。"
 
 #. [message]: speaker=Glauco
 #. This is about as well as I can reword this:
@@ -2194,9 +2123,9 @@ msgid ""
 "the old Amber Road! There is someone in Wesnoth who came back from here who "
 "is mighty interested in it!"
 msgstr ""
-"I miei saluti! Sono il comandante Glauco, di Amoran; Sono venuto qui per "
-"riaprire la vecchia Via dell'ambra! C'è qualcuno a Wesnoth che è tornato da "
-"qui e che è molto interessato!"
+"ご挨拶を申し上げます。私は司令官の Glauco という者で、Amoran から来ました。旧"
+"琥珀街道を再開するためにやって来ました！ Wesnoth には、この地から戻った人の中"
+"に、この道にとても関心をお持ちの方がおいでなんですね！"
 
 #. [message]: speaker=Joralda
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:606
@@ -2206,10 +2135,10 @@ msgid ""
 "also makes me infer that you have already solved any problems with other "
 "wild creatures; but I fear that you'll find here your biggest problem."
 msgstr ""
-"Dato che sei qui, deduco che ti sei già sbarazzato dei Naga che avevano "
-"risalito il fiume anni fa: e la presenza di un ogre nelle tue fila mi fa "
-"dedurre che hai già risolto anche eventuali problemi con altre creature "
-"selvagge; ma temo che troverai qui il tuo maggiore ostacolo."
+"あなたがここにいるということは、何年も前に川を遡上してきたナーガを既に追い"
+"払ったと推察します。それに、隊列にオーガもいるということから、その他の野生生"
+"物との問題も既に解決したと推察できます。しかし、この地で最大の問題に気付くの"
+"ではないかと、それを心配しています。"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:610
@@ -2217,8 +2146,8 @@ msgid ""
 "Oh, for that, we are already used to facing problems of any kind! What's the "
 "ones here?"
 msgstr ""
-"Oh, per questo siamo già abituati ad affrontare problemi di ogni genere! "
-"Quali sono quelli di qui?"
+"あぁ、それなら、既にいろいろな困難に遭遇してきましたよ！ここの問題とは何です"
+"か？"
 
 #. [message]: speaker=Joralda
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:620
@@ -2228,9 +2157,9 @@ msgid ""
 "life difficult even if we search for amber pebbles in the depths along the "
 "coast."
 msgstr ""
-"I depositi di ambra, sull'isola di fronte alla foce del fiume, non sono più "
-"controllati dalle Nereidi, ma dai sauri! E ci rendono la vita difficile "
-"anche se cerchiamo ciottoli di ambra nelle profondità lungo la costa."
+"琥珀の鉱床は河口の反対側の島にあるのですが、もはや Nereids ではなく、トカゲ族"
+"が支配しているのです！それに、海岸沿いの深みにある琥珀の小石を探すことさえ、"
+"彼らは私たちに命の危険を感じさせるのです。"
 
 #. [message]: speaker=Glubtrub
 #. "leatherish" was originally "coriaceous" but that doesn't seem like a word that an ogre would know:
@@ -2240,9 +2169,8 @@ msgid ""
 "squash them, small, fast, sting with lance and makes strange things with "
 "cold light!"
 msgstr ""
-"Urca! Lucertole più pessimo pasticcio, più coriacee di serpenti da "
-"masticare, più dure da schiacciarle, piccole, veloci, pungono con la lancia "
-"e fanno cose strane con la luce fredda!"
+"ウワァ！トカゲ、もっと悪い、ごたごた。ヘビみたいな革で、もっと噛めない。潰す"
+"のはもっと大変、小さくて、速くて、ランスで刺す。冷たい光で変なもの作る！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:630
@@ -2250,8 +2178,9 @@ msgid ""
 "Yet, without the possibility of having amber, all the efforts made to get "
 "here have been in vain! But how did they settle on your islands?"
 msgstr ""
-"Eppure, senza la possibilità di avere l'ambra, tutti gli sforzi fatti per "
-"arrivare qui sono stati vani! Ma come si sono stabiliti sulle tue isole?"
+"それでも、琥珀が取れる可能性がなければ、ここまで来るための努力は無に帰してし"
+"まいます！それにしても、あなたのいる島々まで、奴らはどうやって来たのでしょう"
+"か？"
 
 #. [message]: speaker=Joralda
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:634
@@ -2265,14 +2194,13 @@ msgid ""
 "outcome; our community is the smallest of all those present along the coasts "
 "of this continent."
 msgstr ""
-"Durante le stagioni più fredde, a volte, ci spostiamo in una baia più a sud "
-"per un mese o due, quando l'acqua qui diventa troppo fredda, proprio come lo "
-"scorso inverno! Quando siamo tornati qui, all'inizio della primavera, "
-"abbiamo trovato i sauri già sulle isole; volevamo scacciarli, perché quelle "
-"isole sono nostre da quando i nostri padri sono arrivati in questo "
-"continente, ma non desideravo gettare la mia gente in una guerra dall'esito "
-"troppo incerto; la nostra comunità è la più piccola tra tutte quelle "
-"presenti lungo le coste di questo continente."
+"寒い季節の間、私たちは時々、南方にある湾に1,2ヶ月間ですが移動しています。ここ"
+"の水がとても冷たくなることがあるのです。ちょうど昨年の冬がそうでした！春先に"
+"なってここに戻ってくると、トカゲ族が既に島々にいるのが分かりました。追い払い"
+"たかったのですが... というのも、あの島々は父がこの大陸にたどり着いた時から"
+"ずっと当家が所有していたからです。しかし、勝敗が不確かな戦いに民衆を投入する"
+"ことなど、できようはずがありません。私たちの集落は、この大陸の海岸沿いにある"
+"中で一番小さな集落なのです。"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:638
@@ -2284,12 +2212,11 @@ msgid ""
 "burden of rebuilding the road; the ogres will guarantee the security of some "
 "landing points between here and Amoran."
 msgstr ""
-"Se ti aiutiamo a riconquistare l'isola, sei disposta a risalire il fiume, "
-"diciamo una o due volte l'anno, per portare l'ambra ad Amoran? Puoi farlo "
-"senza usare delle imbarcazioni, e quindi non violerai i trattati con gli "
-"orchi, e poiché la tua strada è il fiume stesso, Wesnoth non dovrà "
-"sopportare il peso di ricostruire la strada; gli ogre garantiranno la "
-"sicurezza di alcuni punti di approdo tra qui e Amoran."
+"もしも私たちがお手伝いして島を取り返せたら、あなたは年に1,2回、川を遡上して "
+"Amoran に琥珀を運んできてもらえませんか？あなた方ならボート無しで行き来できる"
+"ので、オークとの条約に抵触しません。また、その経路は川そのものですから "
+"Wesnoth は道を再建する負担すら無いのです。ここから Amoran との間にいくつか上"
+"陸地点を設けても、オーガが安全を保証してくれることでしょう。"
 
 #. [message]: speaker=Joralda
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:642
@@ -2298,26 +2225,26 @@ msgid ""
 "being interested in amber, decades ago, but it has been always a good "
 "business for us to sell the amber to the people of the west!"
 msgstr ""
-"Certamente, tu stai sfondando una porta aperta. È stato Wesnoth a smettere "
-"di interessarsi all'ambra, decenni fa, ma è sempre stato un buon affare per "
-"noi vendere l'ambra alla gente dell'ovest!"
+"ええ、もちろんですとも。あなたは今、開いた扉を突破しようとしていますね。"
+"Wesnoth が琥珀に関心を持たなくなったのは、数十年前のことでした。ですが、西方"
+"の人々へ琥珀をもたらすことは、私たちにとって、今も有益な事業なんです！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:646
 msgid "Then, there is only one thing left to do!"
-msgstr "Allora, c'è solo una cosa da fare!"
+msgstr "じゃあ、残る問題は、一点だけですね！"
 
 #. [message]: speaker=Glubtrub
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:656
 msgid "To squash lizards, Oh Oh Oh! Even Glubtrub understand!"
-msgstr "Spiaccicare lucertole, Oh Oh Oh! Perfino Glubtrub capire!"
+msgstr "トカゲを潰す、オゥオゥオゥ！　Glubtrub も分かるよ！"
 
 #. [message]: speaker=Mimord
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:660
 #, fuzzy
 #| msgid "Finally, a bit of movement for my ax!"
 msgid "Finally, a bit of exercise for my axe!"
-msgstr "Finalmente un poco di movimento per la mia ascia!"
+msgstr "やっと、オレの斧に出番が回ってきそうだな！"
 
 #. [message]: speaker=Giksy
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:670
@@ -2325,23 +2252,24 @@ msgid ""
 "Fisssh and mammalsss together, to take our treasssure, I bet! The only metal "
 "that they will have will be the iron of our ssspearsss!"
 msgstr ""
-"Pesssci e mammiferi asssieme, per prendere il nosstro tesssoro, sscommetto! "
-"L'unico metallo che avranno ssarà il ferro delle nosssstre lance!"
+"人間どもとサーカナが集まって、俺たちの宝を奪い取りにくるぞ、間違いなシーだ！"
+"アイツらが持ってる唯一の金属は、俺たちの槍の鉄と化スだろう、シャー！"
 
 #. [message]: speaker=Joralda
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:677
 msgid "Look to north, friends, those big green snakes are poisonous!"
-msgstr "Guardate a nord, amici, quei grandi serpenti verdi sono velenosi!"
+msgstr ""
+"北を見てください、お友達の皆さん。あの大きな緑色の蛇は毒を持っているんです！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:682
 msgid "And the thing that is big but gray, is poisonous too?"
-msgstr "E anche la cosa grande ma grigia, è velenosa pure quella?"
+msgstr "それと、大きいけれど灰色の物、ヤツも毒を持っているのでしょうか？"
 
 #. [message]: speaker=Joralda
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:686
 msgid "No, those gray ones don't need to use poison!"
-msgstr "No, quelli grigi non hanno bisogno di usare il veleno!"
+msgstr "いいえ、あの灰色のは毒を使う必要がないのです！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:690
@@ -2349,13 +2277,13 @@ msgid ""
 "Understood! Guys, pay attention to all three of the big snakes; they are "
 "much worse than the nagas!"
 msgstr ""
-"Inteso! Ragazzi, fate attenzione a tutti e tre i grandi serpenti; sono molto "
-"peggio dei naga!"
+"分かりました！お前たち、３匹の蛇、全部に注意を払え。奴らはナーガより更に凶暴"
+"だぞ！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:698
 msgid "Finally we won, and finally we can go back to Amoran!"
-msgstr "Finalmente abbiamo vinto, e finalmente possiamo tornare ad Amoran!"
+msgstr "遂に勝利した、そして遂に、Amoran に戻れる！"
 
 #. [message]: speaker=Joralda
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:702
@@ -2365,28 +2293,28 @@ msgid ""
 "also need to develop details on amber shipments, which could start this "
 "autumn."
 msgstr ""
-"Non prima di aver celebrato a dovere questa vittoria! Il tuo aiuto ha "
-"risparmiato molto dolore al mio popolo e per questo dobbiamo dimostrarti la "
-"nostra gratitudine; dobbiamo anche concordare i dettagli delle spedizioni di "
-"ambra, che potrebbero iniziare questo autunno."
+"その前に、この勝利を盛大にお祝いいたしましょう。あなた方のおかげで、我が民は"
+"惨劇を見ずにすみました。この感謝の気持ちをお伝えしたいのです。それに、私たち"
+"は琥珀の出荷について詳細を練らなければなりません。この秋にも始められればと考"
+"えています。"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:706
 msgid "With great pleasure, and not only mine, right Glubtrub?"
-msgstr "Con grande piacere, e non solo mio, vero Glubtrub?"
+msgstr "なんと喜ばしいことでしょう。私だけでなく Glubtrub も、だよな？"
 
 #. [message]: speaker=Glubtrub
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:710
 msgid ""
 "Very much true! Stop to work with arms! Now to work with belly! Oh! Oh! Oh!"
 msgstr ""
-"Molto tanto vero! Basta lavorare con braccia! Adesso lavorare con pancia! "
-"Oh! Oh! Oh!"
+"ほんとに、とっても、そう！　腕使う仕事、終わり！お腹使う仕事、始める！ オゥ！"
+"オゥ！オゥ！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:717
 msgid "What happened here? Where did all those orcs come from?"
-msgstr "Cos'è successo qua? Da dove vengono tutti quegli orchi?"
+msgstr "ここで何があったのだ？あのオーク達は一体どこから？"
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:721
@@ -2398,12 +2326,11 @@ msgid ""
 "those we have crossed to reach the Nereids. If he has come here, he must "
 "have a specific purpose, and I don't think that it's to make a holiday."
 msgstr ""
-"Un momento, conosco quelle insegne blu e gialle! Questa è la tribù di Gan-"
-"Tarkas! A Weldyn quel nome è ben noto! È uno dei signori della guerra più "
-"potenti e autorevoli e, sebbene faccia ufficialmente parte dell'Alleanza del "
-"Nord, non ha mai rinunciato a rivendicare queste terre di confine, comprese "
-"quelle che abbiamo attraversato per raggiungere i Nereidi. Se è venuto qui, "
-"deve avere uno scopo preciso, e non credo che sia per fare una vacanza."
+"ちょっと待ってください、知ってますよ、あの青と黄の旗！　あれは Gan-Tarkas 一"
+"族です！ Weldyn ではよく知られています！最も強力で権威ある将軍の一人で、公式"
+"には北部同盟の一員ですが、この国境地帯の領有権を決して手放しません。私たちが "
+"Nereids へ向かうときに横断した土地も、その一つです。もし彼がここに来たのな"
+"ら、何か特別な目的があるはずで、休暇のためではないでしょう。"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:725
@@ -2412,9 +2339,8 @@ msgid ""
 "put such an intent into practice? He has a huge army with him and he would "
 "have won easily."
 msgstr ""
-"Ma se aveva intenti bellicosi, perché non ha approfittato della nostra "
-"assenza per mettere in pratica un simile intento? Ha un enorme esercito con "
-"lui e avrebbe vinto facilmente."
+"しかし、もし戦闘の意志があれば、我々の不在を好機と捉え、戦いを起こしたはずだ"
+"が。奴には大規模な軍隊があるから、容易に勝利できるだろうに。"
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:729
@@ -2425,17 +2351,16 @@ msgid ""
 "many! A victory won at a high price against an army of peasants would not "
 "have helped much to his prestige as a warlord."
 msgstr ""
-"Se è così, con l'esercito che sembra avere, potrebbe facilmente vincere "
-"anche adesso. Gan-Tarkas non è il solito capo tribù ... e forse ho capito! "
-"Può attraversare il fiume solo al guado, dove pochi possono facilmente "
-"combattere contro molti! Una vittoria ottenuta a caro prezzo contro un "
-"esercito di contadini non avrebbe giovato molto al suo prestigio di signore "
-"della guerra."
+"だとすれば、従えている軍隊を動かせば今でも容易に勝利できるはずです。Gan-"
+"Tarkas は普通の族長ではありません... ああ、こうかもしれません！奴らは浅瀬でな"
+"ければ川を渡れません。浅瀬なら、少数部隊でも大部隊と容易に対戦できます！高い"
+"金をかけて農民の軍に勝利しても、将軍としての彼には大した戦功にはならないので"
+"すよ。"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:733
 msgid "Let's try to talk to him, and hear what he wants."
-msgstr "Proviamo a parlargli e sentiamo cosa vuole."
+msgstr "奴と話をしてみよう、望みが何か尋ねてみる。"
 
 #. [message]: speaker=Glauco
 #. TODO: use Glauco's actual rank; he's probably advanced past "sergeant" by now:
@@ -2444,8 +2369,8 @@ msgid ""
 "I'm the sergeant Glauco, military commander of the city of Amoran! I ask to "
 "speak with the warlord called Gan-Tarkas."
 msgstr ""
-"Sono il sergente Glauco, comandante militare della città di Amoran! Chiedo "
-"di parlare con il signore della guerra chiamato Gan-Tarkas."
+"私は Glauco 軍曹、Amoran の町の軍司令官だ！ Gan-Tarkas という将軍と話がした"
+"い。尋ねたいことがある。"
 
 #. [message]: speaker=Gan-Tarkas
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:744
@@ -2456,11 +2381,10 @@ msgid ""
 "swollen goblin Grunto in that list; he was so weak and stupid, a disgrace to "
 "his race.)</span> In what way can I reply to such an honor?"
 msgstr ""
-"Che onore, comandante Glauco! La tua fama di sterminatore di serpenti ti "
-"precede e, come qualcuno mi dice, anche la tua fama di sterminatore di "
-"lucertole. <span size = 'small'> (Non includo quel goblin troppo gonfio di "
-"Grunto in quella lista; era così debole e stupido, una vergogna per la sua "
-"razza.) </span> In che modo posso rispondere a tale onore?"
+"光栄ですな、Glauco 司令官！誰からか聞いている、ヘビ駆除隊としての名声もさるこ"
+"とながら、トカゲ駆除隊としての名声もまた大したものだ。<span size='small'>（あ"
+"のぶよぶよ膨れた子鬼の Grunto の件はナシだ。あれはひ弱で愚かで、種族の恥だっ"
+"た）</span>そのような栄誉に、私はどう応えればよいかな？"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:748
@@ -2468,8 +2392,8 @@ msgid ""
 "Well, your fame, Gan-Tarkas, is much older than mine, and it's such that it "
 "makes me wonder what may have brought such a warlord down here."
 msgstr ""
-"Ebbene, la tua fama, Gan-Tarkas, è molto più vecchia della mia, ed è tale "
-"che mi chiedo cosa possa aver portato un tale signore della guerra quaggiù."
+"まあ、あなたの名声のほうが、Gan-Tarkas 、私などよりもっと昔からのものですか"
+"ら。そんな武将が、またどうしてこんなところにいるのか謎ですな。"
 
 #. [message]: speaker=Gan-Tarkas
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:752
@@ -2479,10 +2403,10 @@ msgid ""
 "last few decades, until someone from Amoran destroyed a tribe of orcs! They "
 "were spineless, sure, but they were still orcs."
 msgstr ""
-"La risposta è semplice: Amoran mi ha portato qui. Oh, non che negli ultimi "
-"decenni ci sia mai stato qualcosa che meritasse il mio interesse per quelle "
-"quattro case in rovina, finché qualcuno di Amoran non ha distrutto una tribù "
-"di orchi! Erano senza spina dorsale, certo, ma erano pur sempre orchi."
+"答えは簡単だよ。Amoran が私を連れてきたのだ。そう、あの壊れそうな４軒の小屋に"
+"は、この数十年間、何らかの関心を抱かす価値は無かったのだが、 Amoran からの誰"
+"かにオーク族を壊滅させられたもので！まあアイツらは確かに軟弱だったが、それで"
+"もオーク族には違いない。"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:756
@@ -2490,8 +2414,8 @@ msgid ""
 "We had the right to do what we did! Grunto attacked us first, and without "
 "any provocation on our part."
 msgstr ""
-"Avevamo il diritto di fare quello che abbiamo fatto! Grunto ci ha attaccati "
-"per primo e senza alcuna provocazione da parte nostra."
+"我々は、そうする権利があったのだ！ Grunto が先に攻撃を仕掛けてきた、しかも、"
+"こちらが挑発したわけでもないのに。"
 
 #. [message]: speaker=Gan-Tarkas
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:760
@@ -2500,9 +2424,8 @@ msgid ""
 "open your ears very well, little man, because my words could be the last you "
 "hear in your life!"
 msgstr ""
-"Certo che l'ha fatto. Ah! Ah! Ah! Gli ho ordinato io di farlo! E ora "
-"dovresti aprire molto bene le orecchie, piccolo uomo, perché le mie parole "
-"potrebbero essere le ultime che sentirai nella tua vita!"
+"確かに、アイツだ。アッハッハ！私が命じた！だから、よく聞くがよい、若造よ。私"
+"の言葉は、おまえが人生最後に聞くものになるかもしれんぞ！"
 
 #. [message]: speaker=Gan-Tarkas
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:764
@@ -2513,11 +2436,11 @@ msgid ""
 "Amoran, then I would have arrived, slowly, and I would have settled here "
 "saying that there was no Wesnothian banner here anyway."
 msgstr ""
-"Non mi interessa Amoran, mi interessa tutto il territorio orientale, da qui "
-"alla costa! Ma non posso prenderlo finché Wesnoth pensa che ci sia qualcosa "
-"che vale la pena proteggere qui; così ho detto a Grunto di distruggere "
-"Amoran, poi sarei arrivato, lentamente, e mi sarei stabilito qui dicendo che "
-"comunque non c'era alcun vessillo wesnothiano."
+"私は、Amoran に興味があるのではない。東方の領地全域、ここから海岸までの全域に"
+"興味があるのだ！しかし、Wesnoth がここを守るに値する何かがこの地にあると考え"
+"ている以上、それは難しい。それで Grunto に命じた、Amoran を破壊するようにと。"
+"そうすれば、私はここまで来たことだろう、ゆったりと。そしてここに居を構えてい"
+"たはずだ、ここに Wesnoth 人の旗はどこにもないぞ、と言ってな。"
 
 #. [message]: speaker=Gan-Tarkas
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:768
@@ -2525,9 +2448,9 @@ msgid ""
 "But you put the sticks between my wheels twice, first when you defeated "
 "Grunto and his human ally Dadoc, and then you started to go to the east."
 msgstr ""
-"Ma tu hai messo i bastoni tra le mie ruote due volte, prima quando hai "
-"sconfitto Grunto e il suo alleato umano Dadoc, e poi quando hai iniziato ad "
-"andare verso est."
+"だが、お前が私の馬車の車輪に２回も棒切を突っ込んで邪魔した。最初は、Grunto と"
+"人間 Dadoc の同盟をお前が倒したとき、二度目は、お前が進路を東方に向けたとき"
+"だ。"
 
 #. [message]: speaker=Gan-Tarkas
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:772
@@ -2537,10 +2460,10 @@ msgid ""
 "will have to die, here and today, and Wesnoth will never know anything about "
 "the amber and the possibility to resume its trade!"
 msgstr ""
-"Ho capito subito che stavi andando lì per l'ambra, e per questo ti ho "
-"aspettato qui; Mi dispiace, ma tu e tutti i tuoi amici dovrete morire, qui e "
-"oggi, e Wesnoth non saprà mai nulla dell'ambra e della possibilità di "
-"riprendere il suo commercio!"
+"私はすぐに分かったよ。お前が琥珀を取りに行こうとしていると。それで、ここでお"
+"前が来るのを待っていたのだよ。すまないが、君と君の仲間は死なねばならない、今"
+"日、ここで。そして、Wesnoth は琥珀に関して、その交易再開の可能性に関して、決"
+"して知ることは無いのだ！"
 
 #. [message]: speaker=Gan-Tarkas
 #. I thought the usage of "indemnify" here was wrong at first, but then I checked and I guess it works like this after all...
@@ -2555,12 +2478,12 @@ msgid ""
 "stealthily, to take all these territories, and my tribe will become the most "
 "powerful tribe of orcs on the whole continent!"
 msgstr ""
-"So bene che si arrabbieranno per la distruzione di Amoran, ma mi ritirerò "
-"immediatamente, farò un atto di contrizione, dirò che volevo vendicare "
-"Grunto e indennizzerò Wesnoth con un poco d'oro. Ma nel frattempo non ci "
-"sarà nulla qui, a ovest, che Wesnoth possa essere interessato a difendere; e "
-"con il tempo tornerò, furtivamente, a prendere tutti questi territori, e la "
-"mia tribù diventerà la più potente tribù di orchi dell'intero continente!"
+"Amoran の破壊は Wesnoth を怒らせるだろうことは、よく承知している。しかし、私"
+"はすぐに引き揚げるつもりだ。改悛の意を表し、Grunto の仇を取りたかったのだと"
+"言って、僅かな賠償金を Wesnoth に支払うのだ。ところが、そうしてる間に、ここ西"
+"側には、何もなくなっていることだろう、Wesnoth が守りたいほどに関心を持つもの"
+"はな。そして、やがて私はこっそりと戻ってくるのだ、この周辺の領土全てを手に入"
+"れるために。こうして我が一族は大陸一の、オークで最も強力な一族となるのだ！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:782
@@ -2568,8 +2491,9 @@ msgid ""
 "But I'll put my stick between your wheels for the third time, you damned "
 "orc, because I won't allow you to cross the ford and destroy my town!"
 msgstr ""
-"Ma io ti metterò il mio bastone tra le ruote una terza volta, dannato orco, "
-"perché non ti permetterò di attraversare il guado e distruggere la mia città!"
+"しかし、私はお前の車輪に、三度目の棒きれを突っ込むだろう、この忌々しいオーク"
+"よ。なぜなら、私は許せないからだ。お前たちが浅瀬を越えて、我が町を破壊するの"
+"をな！"
 
 #. [message]: speaker=Gan-Tarkas
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:786
@@ -2579,15 +2503,15 @@ msgid ""
 "now I'm ready! Goodbye, little man, you've been good, but not enough to face "
 "me! Ah! Ah! Ah!"
 msgstr ""
-"Ah! Ah! Ah! Folle umano! Pensi davvero che il grande Gan-Tarkas abbia "
-"bisogno del tuo guado per superare un fiume? Mi sto preparando da mesi e ora "
-"sono pronto! Addio, piccolo uomo, sei stato bravo, ma non abbastanza per "
-"affrontarmi! Ah! Ah! Ah!"
+"アッハッハッハ！むかつく人間だ！偉大な Gan-Tarkas 様が川を渡るために、お前た"
+"ちの浅瀬が必要だと本当に思っているのか？数ヶ月かけて準備してきたのだ。そして"
+"今、整った！　あばよ、小僧。よくやったがここまでだ。俺様を相手にするには力不"
+"足だったな。アッハッハッハ！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:793
 msgid "Let's get some extra fortifications set up, men!"
-msgstr ""
+msgstr "よし、もっと堅固に防備を固めるぞ、男ども！"
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:806
@@ -2598,12 +2522,11 @@ msgid ""
 "demand that Wesnoth respect the pacts on the fluvial navigation, while they "
 "were already willing to elude them at the first opportunity!"
 msgstr ""
-"Guarda! Ha preparato delle barche cariche di massi da affondare nel fiume "
-"per creare un passaggio! Devono essere occorsi mesi per pianificare e "
-"preparare questa battaglia; un piano degno della sua fama! Ed è degno della "
-"doppiezza degli orchi esigere che Wesnoth rispettasse i patti sulla "
-"navigazione fluviale, mentre erano già disposti ad eluderli alla prima "
-"occasione!"
+"見てください！巨岩を積んだ舟をいくつか用意していますが、川に沈めて通路を作る"
+"ようです！ この戦闘を計画し備えるために数ヶ月はかけたに違いありません。奴の名"
+"声どおりの計画です！それに、オークの二枚舌にふさわしく、Wesnoth には河川運行"
+"の協定を尊重するように要求しておきながらも、自分たちは既に最初から協定を受け"
+"流すことさえ企んでいたのです！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:810
@@ -2612,14 +2535,14 @@ msgid ""
 "ogre, let us show the great Gan-Tarkas that this time he did his accounts "
 "poorly!"
 msgstr ""
-"E noi saremo altrettanto degni, ma con il nostro valore e le nostre armi! "
-"Uomini e ogre, mostriamo al grande Gan-Tarkas che questa volta ha fatto male "
-"i suoi conti!"
+"そうさ、我々こそ、まさしく名声どおり価値ある存在となるだろう、但し、我々の真"
+"価と武器でな。人間たちよ、オーガよ、偉大な Gan-Tarkas に見せてやろう、今回、"
+"奴が計算を間違ったということを！"
 
 #. [message]: speaker=Glubtrub
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:814
 msgid "Wait! Big problem! Glubtrub to know not to make accounts!"
-msgstr "Aspettare! Grosso Problema! Glubtrub non sapere fare conti!"
+msgstr "待って！ 問題ある、とっても！ Glubtrub、計算の仕方、知らないよ！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:818
@@ -2627,19 +2550,19 @@ msgid ""
 "No problem, my friend! You simply have to squash more orcs that you can see! "
 "Today we count so!"
 msgstr ""
-"Nessun problema, amico mio! Devi semplicemente spiaccicare più orchi che "
-"puoi! Oggi contiamo così!"
+"いいんだ、我が友よ！君は、目に入るオークをたくさん潰してくれるだけでいいん"
+"だ。今日はそういう計算でいくよ！"
 
 #. [message]: speaker=Glubtrub
 #. Glubtrub is an ogre so he can make up words like that; an "accounter" is one who "accounts"
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:824
 msgid "Yes... big nice... Glubtrub great accounter of squash!"
-msgstr "Si... grande bello... Glubtrub grande contatore di spiaccicamenti!"
+msgstr "分かった... 大きくいい... Glubtrub は、たくさん潰す計算係だぞ！"
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:831
 msgid "Beware! They are doing the same thing on the other side!"
-msgstr "Attenti! Stanno facendo la stessa cosa dall'altra parte!"
+msgstr "注意してください！奴ら、別のところでも同じ作業をしています！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:835
@@ -2647,8 +2570,8 @@ msgid ""
 "So he forced us to divide our forces; he's really giving us a tactical "
 "lesson; let him see that we learn quickly!"
 msgstr ""
-"Così ci costringerà a dividere le nostre forze; ci sta davvero dando una "
-"lezione tattica; facciamogli vedere che impariamo velocemente!"
+"つまり、奴はこちらの戦力を分割しようとしているわけだ。彼は、まさに我々を戦術"
+"的に試そうとしている。我々の対応の早さを見せてやろうじゃないか！"
 
 #. [message]: speaker=Hisskss
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:848
@@ -2657,23 +2580,25 @@ msgid ""
 "brother Ksshiss, killed by thisss mammalsss! And I alssso put my gold at "
 "your disposssal!"
 msgstr ""
-"Eccomi qui, Gan-Tarkass, ssono venuto ad aiutarti, come ti ho promessso, per "
-"vendicare mio fratello Ksshiss, uccissso da quesssti mammiferi! E metto "
-"anche il mio oro a tua disposizione!"
+"来てやったぞ、Gan-Tarkas 、たスーけてやるぞ、約ソーくどおり、復シューしに来"
+"た。兄貴の Ksshiss がコイツら哺乳類に殺サーれたからな！それから、オレの gold "
+"をスーきに使っていいぞ！ シャー！！"
 
 #. [message]: speaker=Gan-Tarkas
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:852
 msgid ""
 "I assure you that I'll make a good use of it, and your brother will be "
 "avenged!"
-msgstr "Ti assicuro che ne farò un buon uso, e tuo fratello sarà vendicato!"
+msgstr ""
+"お前の gold は大切に使わせてもらうぞ。それと、お前の兄貴の仇討ちも、必ず果た"
+"してやる！きっとな！"
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:856
 #, fuzzy
 #| msgid "Woe coming from the river, commander!"
 msgid "There's woe coming to us from the river, commander!"
-msgstr "Nemici in arrivo dal fiume, comandante!"
+msgstr "川から頭痛の種がやってきました、司令官！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:860
@@ -2681,86 +2606,84 @@ msgid ""
 "I saw them! But we can only fight against them; at least it will be an "
 "opportunity to get rid of the Nagas once and for all!"
 msgstr ""
-"Li ho visti! Ma possiamo solamente combattere anche contro di loro; almeno "
-"avremo l'opportunità di sbarazzarci dei Naga una volta per tutte!"
+"確認した！だが、我々のできることは、奴らと戦うことだけだ、少なくとも、ナーガ"
+"を一旦追い払うきっかけになるだろう！"
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:864
 msgid ""
 "Here's to hoping it isn't the opportunity for the nagas to get rid of us!"
-msgstr "Sperando che non sia l'opportunità per i Naga di sbarazzarsi di noi!"
+msgstr "我々がナーガに追い払われるきっかけにならないことを祈りましょう！"
 
 #. [time]: id=dawn_12h
 #: A_Little_Adventure/utils/ALA_schedules.cfg:21
 msgid "Dawn"
-msgstr "Alba"
+msgstr "夜明け"
 
 #. [time]: id=early_morning_12h
 #: A_Little_Adventure/utils/ALA_schedules.cfg:32
 msgid "Early Morning"
-msgstr "Prima Mattina"
+msgstr "早朝"
 
 #. [time]: id=late_morning_12h
 #: A_Little_Adventure/utils/ALA_schedules.cfg:41
 msgid "Late Morning"
-msgstr "Tarda Mattinata"
+msgstr "午前"
 
 #. [time]: id=midday_12h
 #: A_Little_Adventure/utils/ALA_schedules.cfg:50
 msgid "Midday"
-msgstr "Mezzogiorno"
+msgstr "真昼"
 
 #. [time]: id=early_afternoon_12h
 #: A_Little_Adventure/utils/ALA_schedules.cfg:59
 msgid "Early Afternoon"
-msgstr "Primo Pomeriggio"
+msgstr "昼過ぎ"
 
 #. [time]: id=late_afternoon_12h
 #: A_Little_Adventure/utils/ALA_schedules.cfg:68
 msgid "Late Afternoon"
-msgstr "Tardo Pomeriggio"
+msgstr "昼下がり"
 
 #. [time]: id=dusk_12h
 #: A_Little_Adventure/utils/ALA_schedules.cfg:77
 msgid "Dusk"
-msgstr "Tramonto"
+msgstr "夕暮れ"
 
 #. [time]: id=first_watch_12h
 #: A_Little_Adventure/utils/ALA_schedules.cfg:88
 msgid "First Watch"
-msgstr "Prima Guardia"
+msgstr "薄暮"
 
 #. [time]: id=second_watch_12h
 #: A_Little_Adventure/utils/ALA_schedules.cfg:100
 msgid "Second Watch"
-msgstr "Seconda Guardia"
+msgstr "夜"
 
 #. [time]: id=midnight_12h
 #: A_Little_Adventure/utils/ALA_schedules.cfg:112
 msgid "Midnight"
-msgstr "Mezzanotte"
+msgstr "深夜 12 時"
 
 #. [time]: id=third_watch_12h
 #: A_Little_Adventure/utils/ALA_schedules.cfg:124
 msgid "Third Watch"
-msgstr "Terza Guardia"
+msgstr "真夜中過ぎ"
 
 #. [time]: id=fourth_watch_12h
 #: A_Little_Adventure/utils/ALA_schedules.cfg:136
 msgid "Fourth Watch"
-msgstr "Quarta Guardia"
+msgstr "薄明"
 
 #: A_Little_Adventure/utils/ALA_specials.cfg:4
 msgid ""
 " This unit is able to stun its enemies, disrupting their zones of control."
-msgstr ""
-" Questa unità è in grado di stordire i suoi nemici, interrompendo le loro "
-"zone di controllo."
+msgstr " このユニットは敵を気絶させ、ZOC を無効にすることができます。"
 
 #. [damage]: id=tail_stun
 #: A_Little_Adventure/utils/ALA_specials.cfg:9
 msgid "stun"
-msgstr "stordire"
+msgstr "stun"
 
 #. [damage]: id=tail_stun
 #. the "stun" ability is also in some mainline campaigns, I think; try to keep the translation string similar:
@@ -2769,9 +2692,8 @@ msgid ""
 "This attack hits so hard that the opponent is dazed and can no longer "
 "enforce a zone of control. The effect wears off on the opponent’s next turn."
 msgstr ""
-"Questo attacco colpisce così forte che l'avversario è stordito e non può più "
-"applicare una zona di controllo. L'effetto svanisce nel prossimo turno "
-"dell'avversario."
+"この攻撃の威力は大きく、相手は意識が朦朧として ZOC を維持できなくなります。効"
+"果は相手の次のターンで消滅します。"
 
 #: A_Little_Adventure/utils/ALA_story.cfg:8
 msgid ""
@@ -2812,42 +2734,33 @@ msgid ""
 "lands he had crossed were wild, uninhabited and, above all, not claimed by "
 "anyone."
 msgstr ""
-"Pochi, anche tra i più grandi dignitari del regno, sanno che i confini "
-"orientali di Wesnoth si estendono ben oltre le Eastmark Hills!\n"
-"Tutto iniziò quando la regina Li'sar, appena insediata sul trono, organizzò "
-"una serie di spedizioni che circumnavigarono il Grande Continente per "
-"determinarne l'estensione e stabilire la conformazione delle sue coste. Una "
-"di queste spedizioni, comandata dall'ammiraglio Abelardo Gozman, lasciò "
-"Elensefar nella primavera del 520 YW, diretta a nord. Dopo un viaggio di "
-"quasi 2 anni, quasi tutti trascorsi a fare rilievi e ricerche nei freddi "
-"mari del nord, Gozman raggiunse le coste orientali del continente, e poi una "
-"piccola baia, alla foce di un fiume, abitata da una piccola comunità di "
-"nereidi.\n"
-"I calcoli fatti da Gozman gli fecero sospettare che la Palude Amara, che "
-"all'epoca rappresentava il limite orientale della conoscenza umana del "
-"Grande Continente, dovesse trovarsi, più o meno, a metà strada tra la costa "
-"orientale e quella occidentale dello stesso continente. Quindi scelse un "
-"piccolo gruppo di uomini che, al comando del Capitano Guberto Piegafetta e "
-"con l'aiuto dei Nereidi, risalì il fiume per stabilire quanto fosse, ad "
-"ovest, la sua sorgente. Gozman, da parte sua, considerando la situazione "
-"delle navi a sua disposizione troppo compromessa per affrontare chissà quali "
-"difficoltà proseguendo il viaggio verso sud, riprese la rotta verso nord, "
-"per tornare ad Elensefar ripercorrendo lo stesso percorso fatto all'andata, "
-"una rotta già nota e quindi, in un certo senso, più sicura!\n"
-"L'ammiraglio Abelardo Gozman riuscì a tornare a Elensefar, dove arrivò alla "
-"fine dell'estate del 523 YW, e quando arrivò trovò onori e gloria, ma "
-"soprattutto trovò la sorprendente notizia che il suo luogotenente Guberto "
-"Piegafetta era arrivato a Weldyn un paio di mesi prima.\n"
-"Piegafetta, infatti, risalendo il fiume dell'Ambra (che vedremo più avanti "
-"perché venne chiamato così), aveva scoperto non solo che il fiume nasceva "
-"dalla Palude Amara, ma era anche facilmente navigabile fin quasi alla "
-"palude, almeno per una piccola barca come quella con cui l'aveva risalito.\n"
-"Piegafetta portò con sé due cose che divennero di grande importanza per le "
-"terre selvagge attraversate dal fiume dell'Ambra: la prima era un certo "
-"numero di pezzi di ambra dorata che i nereidi erano soliti trovare tra i "
-"ciottoli in fondo alla loro baia; la seconda cosa era la notizia che le "
-"terre che aveva attraversato erano selvagge, disabitate e, soprattutto, non "
-"reclamate da nessuno."
+"王国の高官でさえほとんど知らないこと、それは、\\Wesnoth の東方の境界線が、 "
+"Eastmark Hills を遥かに越えて広がっていることです。\n"
+"すべての始まりは、新たに王位に就いた女王 Li'sar が Irdya 大陸を一周する遠征隊"
+"を組織し、領土の拡大を決定したことと海岸線の形を確定したことが発端でした。遠"
+"征隊の一つは Abelardo Gozman 提督が率いていましたが、Wesnoth 暦 520年の春に "
+"Elensefar を出発し、北へと向かいました。ほぼ 2 年の旅の末に、そのほとんどを北"
+"の冷たい海での調査と研究に費やした後、Gozman は大陸の東海岸に到着し、その後、"
+"nereids の小さな共同体が住む川の河口にある小さな湾にたどり着きました。\n"
+"Gozman の計算では、当時、人類が Irdya 大陸の東限と認識していた Bitter Swamp "
+"は、同じ大陸の東岸と西岸のほぼ中間地点に位置するのではないかと推測されまし"
+"た。そこで彼は、少人数のグループの人選を行いました。Guberto Piegafetta 大尉の"
+"指揮のもと、Nereids の支援を受けてこの川を遡上し、西にある川の源流までの距離"
+"を確定しようとしたのです。Gozman 提督としては、自分の船の状況が、南への旅を続"
+"けるには危険すぎると考えて、再び北へ向かうことに変更し、最初の行程と同じルー"
+"トを辿って Elensefar に戻ることにしたのですが、このルートは既に知られていて、"
+"ある意味、このほうが安全だったのです！\n"
+"Abelardo Gozman 提督は、Wesnoth 暦 523年の晩夏に到達していた Elensefar への帰"
+"還を果たして、名誉と栄光を手に入れました。しかし、何より、副官 Guberto "
+"Piegafetta が2ヶ月前に Weldyn に到着していたという事実に衝撃を受けたのでし"
+"た。\n"
+"実は Pieggetta は琥珀川（名称の由来は、いずれ明らかになります）を遡上し、この"
+"川が Bitter Swamp を源流としている事実のみならず、少なくとも彼が用いた程度の"
+"小さな船なら、沼の近くまで容易に航行できることを発見していたのです。\n"
+"Pieggetta は、琥珀川が横断する原野にとって非常に重要となる二つのことを持ち帰"
+"りました。一つは、 Nereids たちが湾の底の小石の中からよく見つけていた黄金の琥"
+"珀の小片です。そしてもう一つは、彼が横断した土地は原野であり住人がいないこ"
+"と、しかも、誰も主権を主張していないという情報でした。"
 
 #: A_Little_Adventure/utils/ALA_story.cfg:19
 msgid ""
@@ -2877,33 +2790,25 @@ msgid ""
 "experienced a long period of prosperity, becoming a town so important as to "
 "deserve the title of Capital of the wilds, until... fashion changed!"
 msgstr ""
-"Mentre la mancanza di sovranità sulle terre selvagge interessò "
-"immediatamente la casa regnante di Wesnoth, l'ambra interessò immediatamente "
-"i mercanti di Soradoc. Costoro stabilirono un avamposto dove il fiume "
-"dell'Ambra cessava di essere navigabile e dall'avamposto iniziarono a "
-"inviare barche alla Baia dei Nereidi; l'avamposto divenne presto una "
-"prospera città che fu chiamata Amoran.\n"
-"I problemi iniziarono presto con il commercio dell'ambra: gli orchi che "
-"vivevano tra il fiume dell'Ambra e la foresta di Lintanir non vedevano con "
-"favore tutto quel traffico delle barche wesnothiane lungo il fiume, e si "
-"comportavarono come gli orchi sono abituati ad agire in questi casi. Ci "
-"furono diverse vittime da entrambe le parti, incursioni, guerriglia, "
-"spedizioni punitive e rappresaglie. Alla fine, quando i proventi del "
-"traffico dell'ambra lungo il fiume erano diventati insufficienti a sostenere "
-"le spese militari necessarie per mantenerlo in vita, fu raggiunto un "
-"compromesso con gli orchi.\n"
-"Gli orchi riconobbero la sovranità di Wesnoth sulle terre selvagge tra la "
-"Palude Amara e le coste orientali del continente, a sud del fiume "
-"dell'Ambra, ma Wesnoth dovette garantire la neutralità del fiume ed entrambe "
-"le parti si impegnarono a vietare sul fiume la navigazione di qualsiasi tipo "
-"e per qualsiasi scopo. Nel 536 YW gli stessi trattati furono riconosciuti "
-"validi anche dalla neonata Alleanza del Nord.\n"
-"Quindi fu stabilita una rotta per carovane, un percorso che seguiva, più o "
-"meno, il corso del fiume Amber attraverso le Terre Selvagge, e l'ambra tornò "
-"per arrivare ad Amoran, e da qui all'intero regno di Wesnoth. Amoran visse "
-"un lungo periodo di prosperità, diventando una città così importante da "
-"meritare il titolo di Capitale delle terre selvagge, finché ... la moda "
-"cambiò!"
+"その原野に主権が無いことは、すぐに Wesnoth の統治者に興味を抱かせ、琥珀はすぐ"
+"に Soradoc の商人に興味を抱かせました。彼らは琥珀川の、船で遡上可能な限界点と"
+"なる上流地点に前哨基地を設置して、その基地から Nereid’s 湾に船を送りはじめま"
+"した。やがて前哨基地は Amoran と名付けられ、繁栄した町となりました。\n"
+"問題は、琥珀の取引開始直後に発生しました。琥珀川と Lintanir の森の間に住む"
+"オークは、Wesnoth 人の船が川を航行することを快く思っておらず、そこで彼らは、"
+"こういう場合のオークの常套手段を用いたのです。ゲリラ的な襲撃、制裁的な遠征、"
+"報復行動などで、双方に犠牲者が出ていました。結局、川を往来して得られる琥珀の"
+"収入では、その存続に要する軍事費を賄えないようになり、双方で妥協点を模索する"
+"ことになりました。\n"
+"オークは Bitter Swamp と大陸東部沿岸の間の原野、および、琥珀川の南岸部でも "
+"Wesnoth の主権を承認しましたが、 Wesnoth は川が中立であることを保証する義務が"
+"負わされ、種類や目的を問わず、双方ともに川での船舶使用禁止を誓約し合ったので"
+"す。Wesnoth 暦 536年には、前年に結成された北部同盟にもこの条約が有効であるこ"
+"とが認められました。\n"
+"こうしてキャラバンのルートは確立されました。原野を流れる琥珀川沿いの道路で "
+"Amoran へと琥珀は持ち帰られて、そこから Wesnoth 王国全体へと運ばれました。"
+"Amoran は長い間繁栄を続け、原野の都という名を冠するに値するほど重要な町となり"
+"ました... 時代が変わるまでは！"
 
 #. I don't think "dignifiedly" is an actual word, but I know what he means and can't think of any better word to use, so it can stay for now:
 #: A_Little_Adventure/utils/ALA_story.cfg:27
@@ -2937,35 +2842,29 @@ msgid ""
 "otherwise, in no way could Amoran have survived to those calamitous events! "
 "Instead it survived, and... another day, another time, the wind changed!"
 msgstr ""
-"I nobili e i ricchi di Wesnoth si stancarono dell'ambra e, per la loro "
-"gioia, la vanità delle loro gentili consorti e il piacere delle loro "
-"appassionate amanti, iniziarono a preferire le multicolori pietre preziose "
-"che i nani estraevano dalle loro montagne, che oltretutto arrivavano nelle "
-"loro mani più facilmente e con meno vicissitudini dell'ambra.\n"
-"Con il declino e infine la cessazione del traffico dell'ambra, anche Amoran "
-"declinò, lentamente e dignitosamente come una vecchia signora. La "
-"popolazione gradualmente diminuì, i commerci finirono, i muri di pietra "
-"divennero troppo costosi da mantenere e dove crollarono furono sostituiti da "
-"palizzate di legno. La guarnigione, un tempo numerosa, venne ridotta a un "
-"pugno di soldati, scelti accuratamente tra coloro che, per mancanza di "
-"denaro e di appoggi, avevano meno mezzi per opporsi all'assegnazione di una "
-"destinazione così spiacevole. I campi coltivati ​​divennero l'unica fonte di "
-"ricchezza degli abitanti, e ci fu un diradamento delle monete in "
-"circolazione, e anche i mercanti si diradarono.\n"
-"L'unico elemento del paesaggio antropologico a non subire un drammatico "
-"declino furono i briganti, divenuti però più disperati, e quindi più feroci "
-"di prima!\n"
-"Amoran mantenne il titolo di capitale, ma fu effettivamente soggetta "
-"all'autorità della più importante città di Soradoc, ma Soradoc era lontana, "
-"e Amoran era oltre la palude, oltre le colline, oltre, soprattutto, "
-"l'interesse delle autorità di Soradoc ... quindi immaginate quanto fosse "
-"distante Amoran dagli interessi di coloro che governavano Weldyn.\n"
-"La città, ora ridotta a un villaggio, era diventata così irrilevante da non "
-"essere stata colpita nemmeno dalla grande invasione di non morti del 625 YW, "
-"anche se questa sembrava essere cominciata nelle vicine Eastmark Hills. "
-"Questa fu una buona cosa, perché, altrimenti, in nessun modo Amoran sarebbe "
-"sopravvissuta a quegli eventi calamitosi! Invece era sopravvissuta, e ... un "
-"altro giorno, un'altra volta, il vento cambiò!"
+"やがてWesnoth の貴族と富豪は琥珀に飽きるようになりました。そして自らの喜びの"
+"ため、愛する妻の虚栄心のため、そして、口うるさい恋人の喜びのため、ドワーフが"
+"山から引き抜いてくる多色の貴石を好み始めました。入手できる琥珀よりも簡単に、"
+"波風が立つことなく手に入りました。\n"
+"琥珀の交易が衰退し、ついには途絶えたことで、Amoran もまた、衰退していきまし"
+"た、老婦人のようにゆっくりと気品を持って。人口はしだいに減少し交易は終了。石"
+"垣は維持費が高くなってしまい、崩れたところは木製の柵に置き換えられました。か"
+"つていた多くの守備隊も、一握りの兵士に縮小されました。彼らは、金や地位のな"
+"い、こんな不愉快な土地へ任命されても反対する手段のない者たちの中から慎重に選"
+"ばれていました。住民の唯一の富の元となったのは耕作地で、貨幣の流通は先細り"
+"し、商人もまばらな状態になりました。\n"
+"人類学的景観の中で、唯一劇的な衰退の影響を受けなかった集団は山賊たちでした。"
+"しかし、山賊はより絶望的となったがゆえに、以前にも増して凶暴になっていまし"
+"た。\n"
+"Amoran は都の地位を保ちつつも、より重要な都市 Soradoc の権威に事実上服してい"
+"ましたが、Soradoc は遠く、しかもAmoran は沼地の向こうで、丘の向こうで、何より"
+"も Soradoc の権力者の関心の遠い向こう側にありました... Weldyn の統治者の関心"
+"から Amoran が、いかに遠いものとなったかをどうか想像してみてください。\n"
+"この町は、今や鄙びた村ですが、Wesnoth 暦 625年のアンデッドの大侵攻に影響され"
+"ないほど、重要性を失っていました、たとえそれが近くの Eastmark Hills で始まっ"
+"たようであっても。それは幸運なことでした。なぜなら、そうでなければ Amoran "
+"は、あの痛ましい事件で生き残ることなどなかったからです。そして、生き残ったこ"
+"とで... ある日ある時、風向きが変わりました！"
 
 #. First scenario, before any gameplay, so we can be sure "sergeant" is correct here:
 #: A_Little_Adventure/utils/ALA_story.cfg:36
@@ -2985,19 +2884,18 @@ msgid ""
 "opportunity finally presented itself, but it didn't have a beautiful face at "
 "all."
 msgstr ""
-"Questa è la storia di un coraggioso giovane di nome Glauco, la cui nuova "
-"nomina a sergente fu controbilanciata con l'invio, come comandante, alla "
-"misera guarnigione di Amoran. Altri si sarebbero disperati, e non a torto, "
-"Glauco, invece, si rese conto che per un sergente senza nome e senza soldi, "
-"quale egli era, quel comando poteva essere l'occasione della sua vita per "
-"farsi un nome!\n"
-"Partì pieno di entusiasmo e giunse a destinazione pieno di idee, tutte "
-"impraticabili, maturate in due settimane di viaggio. Appena arrivato, e dopo "
-"lo scoraggiamento iniziale che gli diede l'aspetto rassegnato della città e "
-"la misera composizione della guarnigione posta sotto il suo comando, si "
-"rimboccò le maniche e si disse: Dimostrerò il mio valore, al prima "
-"occasione! Dopo alcuni mesi molto lunghi e molto noiosi, finalmente "
-"l'opportunità si presentò, ma non aveva per niente un bell'aspetto."
+"これは、Glauco という果敢な若者の物語です。彼は新たに軍曹に指名され、 Amoran "
+"の貧弱な守備隊に派遣されました。厳しい任地ですが、その埋め合わせとして司令官"
+"の地位が与えられました。他の者なら絶望したことでしょう、しかし、Glauco は違い"
+"ました。彼のように無名で富もない軍曹にとって、この命令は名を成す絶好の機会に"
+"なり得ると感じたのです。\n"
+"彼は意気込んで出発し、目的地には2週間後に到着しましたが、その間に彼の中で熟成"
+"させたアイデアいっぱいの状態でした。実現不可能なものばかりでしたが。到着する"
+"や否や...、最初は落胆しました。というのも、町には諦めの雰囲気が満ち、自分の指"
+"揮下に置かれた守備隊の惨めな構成を知ったからです。しかし彼は、袖をまくり上"
+"げ、自分に言い聞かせました。時が来たら、自分の価値を示してみせる！、と。とて"
+"も長く、とても退屈な数ヶ月が経過して遂に、その機会が顔を見せました... が、そ"
+"の顔は決して美しいものではありませんでした。"
 
 #. yes, the third sentence here is kind of a run-on; suggestions on how to reword it are welcome:
 #: A_Little_Adventure/utils/ALA_story.cfg:43
@@ -3010,13 +2908,12 @@ msgid ""
 "which, as everyone knew, Dadoc took refuge to lick his wounds, as in this "
 "case, or to enjoy the fruits of his raids."
 msgstr ""
-"Dopo aver sconfitto Grunto l'Orco, Glauco pensò che fosse ora di regolare i "
-"conti con Dadoc e la sua banda. L'arrivo di Geobard con ordini da Wesnoth "
-"permise a Glauco di lasciare ai loro lavori contadini e taglialegna e di "
-"arruolare altri soldati. Quando sentì di avere abbastanza soldati, cioè "
-"quando non aveva più soldi a disposizione, si incamminò verso la foresta in "
-"cui, come tutti sapevano, Dadoc era uso rifugiarsi per leccarsi le ferite, "
-"come in questo caso, oppure per godersi i frutti delle sue incursioni."
+"Glauco はオークの Grunto を倒し、そして思いました。Dadoc 一団との決着をつける"
+"ときが来たと。Wesnoth の命令を受けた Geobard の到着により、Glauco は農民や木"
+"こりを元の仕事に戻し、他の兵士を雇用できるようになりました。兵士の数が十分と"
+"感じると、つまり、これ以上お金が使えなくなったときは森に向かって進軍しまし"
+"た。周知のごとく、森はDacoc が傷を舐めて癒すために、もしくは略奪の甘い果実を"
+"楽しむために避難する場所でした。"
 
 #. TODO: check "sergeant" usage:
 #: A_Little_Adventure/utils/ALA_story.cfg:48
@@ -3028,12 +2925,11 @@ msgid ""
 "someone in a similar green jumble. 'Meanwhile, let's mount a camp for the "
 "night,' he told himself, 'Tomorrow we'll see what to do.'"
 msgstr ""
-"Ma, partito con molto entusiasmo, il nostro sergente perse gran parte della "
-"sua baldanza quando si trovò ai margini della foresta; non c'era traccia di "
-"sentieri da nessuna parte, e i tronchi degli alberi erano così fitti da "
-"sembrare i muri di una fortezza, così sorse il problema di come trovare "
-"qualcuno in un simile guazzabuglio verde; \"Intanto montiamo un campo per la "
-"notte\", si disse \"Domani vedremo cosa fare\"."
+"しかし、張り切って出発した軍曹でしたが、森の端にいることに気づくと、すっかり"
+"大胆さを失ってしまいました。道の痕跡はどこにもなく、木の幹は要塞の壁のように"
+"太く、似たような緑色が雑然とする中で誰かを探すにはどうすればよいのか、疑問が"
+"わいたのです。「とりあえず、今夜は野営しよう」と自分に言い聞かせました。「明"
+"日になれば、何をすべきか、はっきりする」。"
 
 #. TODO: check "sergeant" usage:
 #: A_Little_Adventure/utils/ALA_story.cfg:54
@@ -3049,16 +2945,14 @@ msgid ""
 "sergeant. A campaign in hostile territory, against forces with only partly-"
 "known numbers, was, however, risky and full of unknowns."
 msgstr ""
-"Con la banda di Dadoc fuori dai giochi, e incoraggiato dalla vittoria "
-"ottenuta e dalle sue prerogative di nuovo comandante, Glauco decise di "
-"affrontare almeno uno degli altri problemi di Amoran, ovvero Grunto l'orco; "
-"poiché Grunto non era un membro delle tribù associate all'alleanza del nord, "
-"era improbabile che altri capi orchi lo aiutassero, specialmente ora che era "
-"già stato sconfitto nella battaglia precedente, e quindi aveva visto la sua "
-"reputazione finire, come si dice tra gli orchi, in una latrina dei troll. "
-"Tuttavia, diventare ottimista voleva dire diventare stupido, per il giovane "
-"sergente; una campagna in territorio ostile, contro forze di entità solo in "
-"parte nota, era comunque rischiosa e piena di incognite."
+"Dadoc 一団が戦線を離脱して、勝利と指揮官としての新たな特権を得た Glauco は、"
+"少なくとも Amoran の他の問題の一つ、すなわちオークの Grunto と対決することを"
+"決意しました。Grunto は北部同盟の部族ではないため、オークの他の首領が彼を助け"
+"ることはないでしょう。特に前の戦いで既に敗戦していたので、評判が落ちたことが"
+"分かったのです。オークの間で言われているように、トロルの便所で。しかし、若い"
+"軍曹にとって、大胆になることは愚かになるという意味ではありません。しかし、敵"
+"地での作戦は、兵数が一部しか分からない軍隊との戦いであって、危険で不確実な要"
+"素ばかりでした。"
 
 #: A_Little_Adventure/utils/ALA_story.cfg:58
 msgid ""
@@ -3074,18 +2968,14 @@ msgid ""
 "garrison was left to Amoran, so that it would recover from the fatigue of "
 "the previous battle and watch over the town against any nasty surprises!"
 msgstr ""
-"Così Glauco decise di affidarsi solo a soldati di profesione, che non "
-"sarebbero caduti nel panico di fronte all'apparizione dei feroci orchi. "
-"Quando finalmente attraversò il guado di Amoran, non solo aveva con sé "
-"truppe affidabili (anche se non troppo esperte), ma aveva anche svuotato "
-"completamente le casse della guarnigione, come le sue tasche. D'altra parte, "
-"avendo reclamato la ricompensa sulla testa di Dadoc, il giovane coraggioso "
-"aveva preferito investirla in lance, archi da guerra e armature, piuttosto "
-"che spendere quell'oro in modi più piacevoli ma, vista l'impresa in cui era "
-"scivolato , anche meno utili per tenere la testa sul collo. Per prudenza, "
-"ciò che restava della guarnigione originaria fu lasciato ad Amoran, perché "
-"si riprendesse dalle fatiche della battaglia precedente e vigilasse sulla "
-"città da eventuali brutte sorprese!"
+"そこで Glauco は、オークの猛威に対峙しても慌てることのない熟達した兵士だけを"
+"頼ることにしました。Amoran の浅瀬を遂に越えたとき、信頼に足る部隊（経験豊富で"
+"はない）を手にしただけでなく、守備隊の金庫も完全に空っぽにしていました、まる"
+"で自分のポケットのように。一方、Dadoc の首によって報酬を得た大胆な若者は、そ"
+"の金をもっと楽しいことに使うことより、ランスや弓矢、鎧に金をかけることを好み"
+"ましたが、この冒険中に取り去ったことを考えると、自分の首を守るためにはあまり"
+"役に立たなかったようです。慎重を期して、当初の守備隊の残りは Amoran に残して"
+"戦いの疲労回復を優先させ、不測の事態から町を危険から守らせることにしました！"
 
 #: A_Little_Adventure/utils/ALA_story.cfg:62
 msgid ""
@@ -3095,11 +2985,10 @@ msgid ""
 "though the orcish tribe was small, it might have been too big for the men "
 "led by Glauco!"
 msgstr ""
-"Grunto era il capo di una tribù più piccola delle sue ambizioni e il suo "
-"territorio era così piccolo che ci vollero solo pochi giorni prima che le "
-"truppe del Glauco arrivassero in vista del forte degli orchi. La battaglia "
-"poteva iniziare, ma anche se la tribù degli orchi era piccola, poteva essere "
-"troppo grande per gli uomini guidati da Glauco!"
+"Grunto は彼の野望を叶えるには小さすぎる部族の首領で、領土も非常に狭く、"
+"Glauco の部隊がオークの砦が見える場所に到着するまでには数日しかかかりませんで"
+"した。戦いは始められましたが、いくら小さなオーク族とはいえ、Glauco が率いる男"
+"たちにとっては大きすぎたかもしれません！"
 
 #: A_Little_Adventure/utils/ALA_story.cfg:66
 msgid ""
@@ -3113,16 +3002,12 @@ msgid ""
 "to guarantee the security of the borders, that no boat could go up or down "
 "the river."
 msgstr ""
-"Avendo sconfitto orchi e banditi, Amoran avrebbe potuto godere di un periodo "
-"di tranquillità, almeno fino a quando altri capi orchi non avessero deciso "
-"di stabilirsi nelle terre di Grunto, o fino a quando non fosse sorto un "
-"nuovo capo di banditi. Glauco pensò che era il momento giusto per tentare di "
-"ristabilire la via dell'ambra. La questione era: come farlo! Il fiume Amber "
-"era profondo e navigabile dalla costa orientale del continente fino ad "
-"Amoran, ma serviva anche da confine con i territori degli orchi, e i "
-"trattati stipulati con l'Alleanza del Nord prevedevano, per garantire la "
-"sicurezza dei confini, che nessuna barca potesse risalire o discendere il "
-"fiume."
+"オークや盗賊を倒したことで、Amoran は暫くの間、静かな生活を送ることでしょう。"
+"少なくとも、オークの別の首領が Grunto の地に移ることにするか、新しい盗賊のボ"
+"スが現れるまで。Glauco は、今こそ琥珀街道の再開に取り組むべき時だと考えていま"
+"した。問題は、その方法です。琥珀川は大陸の東海岸から Amoran まで水深があって"
+"航行可能ですが、オークの領土との国境でもあり、安全を保証するために川には船を"
+"航行させてはならないという、北部同盟との条約がありました。"
 
 #: A_Little_Adventure/utils/ALA_story.cfg:70
 msgid ""
@@ -3135,14 +3020,12 @@ msgid ""
 "an idea to get around all these problems, only that this idea required that "
 "contacts with the Eastern Nereids would be restored."
 msgstr ""
-"L'unica alternativa era la vecchia pista carovaniera, che per la maggior "
-"parte del suo viaggio costeggiava il corso del fiume; ma la pista era in "
-"condizioni disastrose, le stazioni erano state abbandonate per decenni e non "
-"si sapeva nulla del loro stato, anche se si intuiva facilmente che non "
-"sarebbe stato buono; in breve, ristabilire la rotta delle carovane sarebbe "
-"costato una fortuna che il governo di Wesnoth non avrebbe stanziato; Ma "
-"Glauco aveva un'idea per aggirare tutti questi problemi, solo che questa "
-"idea richiedeva che fossero ripristinati i contatti con i Nereidi orientali."
+"唯一の選択肢は、かつて川での航行を支えていた古いキャラバンルートでしたが、道"
+"路は悲惨な状態でしたし、駅は数十年前に見捨てられていて状況は不明でしたが、良"
+"好でないことは容易に判断できました。要するに、キャラバンルートを再開させるに"
+"は、Wesnoth 当局には実現できないほどの大金が必要という状況でした。しかし "
+"Glauco には、これらの問題を回避できる、ある発想がありました。ただそれには、東"
+"方の Nereids と接触する必要がありました。"
 
 #: A_Little_Adventure/utils/ALA_story.cfg:74
 msgid ""
@@ -3154,13 +3037,11 @@ msgid ""
 "station, and they discovered that the station was still inhabited, but it "
 "would have been better if it had not been so."
 msgstr ""
-"L'unico modo per contattare i nereidi orientali era attraversare le terre "
-"selvagge; Glauco, con le risorse di cui poteva disporre, mise insieme una "
-"piccola spedizione, reclutò $trapper_name come guida, ed entrò nelle terre "
-"dell'est seguendo le residue tracce sopravvissute al degrado della Via "
-"dell'Ambra; pochi giorni dopo giunsero in vista di una delle stazioni più "
-"importanti, e scoprirono che la stazione era ancora abitata, ma sarebbe "
-"stato meglio se non fosse stato così."
+"東方の Nereids と接触する方法は、原野を横断することだけでした。Glauco は自分"
+"用の資金で小さな遠征隊を招集し、案内人に $trapper_name を雇い、琥珀街道の劣化"
+"に耐えた痕跡の名残を伝いながら、東の土地へと入っていきました。数日後、一行は"
+"最も重要な駅の一つを目にしました。誰かが居ることが分かりましたが、居ないほう"
+"がよかったことでしょう。"
 
 #: A_Little_Adventure/utils/ALA_story.cfg:78
 msgid ""
@@ -3171,12 +3052,11 @@ msgid ""
 "those steps that the ancient Amber Road used to travel in the past. But in "
 "the past those hills had been inhabited, and now they were inhabited again."
 msgstr ""
-"Ora solo un ostacolo separa la compagnia del Glauco dal mare: una catena di "
-"basse colline che il fiume sfiorava letteralmente con la sua sponda "
-"meridionale; non potendo superare il fiume, ed essendo troppo lungo "
-"aggirarle da sud, Glauco decise di passarci attraverso, seguendo i passi di "
-"uella che in passato era l'antica Strada dell'Ambra. Ma in passato quelle "
-"colline erano state abitate, e ora erano abitate di nuovo."
+"さて、Glauco 一行を海から隔てている唯一の障害は、川が文字通り南岸で接している"
+"低い丘の連なりで、川を越えることはできませんでした。また、南側から入り込むに"
+"は遠すぎるため、Glauco は丘を通って、かつて使われていた旧琥珀街道の階段を探す"
+"ことにしました。しかし、昔、その丘に住人が居ましたが、今、再び住んでいまし"
+"た。"
 
 #: A_Little_Adventure/utils/ALA_story.cfg:82
 msgid ""
@@ -3187,12 +3067,11 @@ msgid ""
 "river; the problem was, for a change, that they were not alone, and as the "
 "famous proverb says... it would has been better if they had been."
 msgstr ""
-"Infine, il sempre più eterogeneo gruppo dei nostri eroi raggiunse la fine "
-"del fiume, sulle calde rive dell'estremo oriente del Grande Continente. Come "
-"era nelle aspettative e nelle speranze del giovane comandante, i nereidi "
-"orientali abitavano ancora la laguna appena a sud della foce del fiume; il "
-"problema era, tanto per cambiare, che non erano soli, e come dice il famoso "
-"proverbio ... sarebbe stato meglio se lo fossero stati."
+"ますます人材が多様化した我らが英雄の一団は、遂に、川の終点、Irdya 大陸の東端"
+"の暖かな海岸へとたどり着きました。若い指揮官の期待と希望通り、東の Nereids は"
+"河口のすぐ南にある礁湖に今も暮らしていました。問題は、彼らが孤独ではないとい"
+"うことでした。有名な諺にもあるように... 孤独であったなら、もっとよかったの"
+"に。"
 
 #: A_Little_Adventure/utils/ALA_story.cfg:86
 msgid ""
@@ -3204,14 +3083,12 @@ msgid ""
 "west; could attract people endowed with courage and spirit of initiative, "
 "qualities that, for Glauco, were worth more than a few pieces of gold."
 msgstr ""
-"Dopo aver sconfitto i sauri e ristabilito i rapporti commerciali con i "
-"Nereidi, Glauco poteva finalmente tornare ad Amoran portando con sé tante "
-"buone notizie. Pensare che la città potesse rivivere il suo passato "
-"splendore non era ancora possibile, ma, oltre al rinnovato traffico "
-"dell'ambra, le terre selvagge erano un poco'meno selvagge di prima, e questo "
-"poteva attirare coloni da occidente; poteva attirare persone dotate di "
-"coraggio e spirito di iniziativa, qualità che, per Glauco, valevano più di "
-"poche monete d'oro."
+"トカゲ族を倒し、Nereids との交易関係を再建して、Glauco は遂に、多くの朗報を携"
+"えて Amoran へ帰還できました。町がかつての栄華を取り戻せると考えるのは、未だ"
+"不可能だけど、琥珀交易の復活を除くと、ほんの少しだけこの原野の未開度が減少し"
+"たことで、西からの移住や開拓の関心を高められるし、勇気や行動力、素質を持つ"
+"人々が興味を持ってくれることでしょう。素質、それは、Glauco にとっては金貨数枚"
+"などより大きな価値を持っていました。"
 
 #. the "short space of a few days previously" is a reference back to the first scenario,
 #. not the length of the more-recent journey to the coast and back (which took longer):
@@ -3225,12 +3102,11 @@ msgid ""
 "and the number of huts surrounding it announced the presence of a "
 "considerable number of orcs."
 msgstr ""
-"Ma, giunto in città, Glauco vide che qualcuno, con molto spirito combattivo "
-"e spirito di iniziativa, era già arrivato, ma non aveva portato nulla che la "
-"brava e pacifica gente di Amoran potesse davvero apprezzare. Dove il piccolo "
-"accampamento della tribù di Grunto era sorto per breve tempo pochi giorni "
-"prima, ora c'era una solida fortezza orchesca, e il numero di capanne che la "
-"circondavano annunciava la presenza di un numero considerevole di orchi."
+"しかし、町へ到着した Glauco は気付かざるを得ませんでした。闘志と使命感にあふ"
+"れる者は既に到着していましたが、善良で平和な Amoran の住人が喜ぶようなもの"
+"は、何一つもたらさなかったのだ、と。数日前に Grunto 族が作ったわずかな野営地"
+"があった小さな場所には、今ではオークの強固な要塞が建ち、それを囲む小屋の数"
+"は、相当数のオークの存在を告げていました。"
 
 #: A_Little_Adventure/utils/ALA_story.cfg:97
 msgid ""
@@ -3239,10 +3115,9 @@ msgid ""
 "that Glubtrub and his ogres, struck by the sudden curiosity to see how a "
 "human town was made, were still with him."
 msgstr ""
-"All'improvviso, Glauco fu estremamente felice che gli uomini che aveva con "
-"lui avessero accumulato una buona dose di esperienza di combattimento; ed "
-"era altrettanto felice che Glubtrub e i suoi ogre, colti dall'improvvisa "
-"curiosità di vedere come fosse fatta una città umana, fossero ancora con lui."
+"部下たちが戦闘経験をうまく積み上げてきたことに、Glauco は不意に無上の喜びを感"
+"じました。そしてとても嬉しいことに、人間の町はどうなってるのか突然に興味を"
+"持った Glubtrub と仲間のオーガたちが同行していました。"
 
 #: A_Little_Adventure/utils/ALA_story.cfg:102
 msgid ""
@@ -3252,11 +3127,10 @@ msgid ""
 "happening, without his knowledge, in lands that, often, even he didn't "
 "remember being subject to his crown."
 msgstr ""
-"La notizia della sconfitta di Gan-Tarkas raggiunse rapidamente prima Soradoc "
-"e poi  Weldyn; altrettanto velocemente Glauco fu convocato nella capitale, "
-"dove il re voleva sapere, per parola e per segno, perché avvenimenti così "
-"clamorosi stavano accadendo, a sua insaputa, in terre che, spesso, nemmeno "
-"lui ricordava che fossero soggette alla sua corona."
+"Gan-Tarkas 討伐の知らせは瞬く間に Soradoc へ、それから Weldyn へと伝えられ"
+"て、Glauco は早速、帝都へと召喚されました。帝都では王が言葉と雰囲気で知りた"
+"がっていました。こんなに大きな出来事が、王権下に服していたことさえ忘れていた"
+"ような土地で起きていたのですから。"
 
 #. FIXME: Glauco has probably advanced past "sergeant" by now...
 #: A_Little_Adventure/utils/ALA_story.cfg:107
@@ -3273,17 +3147,16 @@ msgid ""
 "of it, did it with enthusiasm, because he had grown fond of the place, and "
 "the large cities of the west seemed now, to him, suffocating."
 msgstr ""
-"Glauco e Geobard si recarono nella capitale per riferire, di quanto era "
-"accaduto, al loro augusto ed un poco distratto sovrano. Quando la missione "
-"fu compiuta, il sergente Glauco si trovò promosso generale senza essere "
-"stato prima ufficiale. Quando il re gli chiese a quale guarnigione voleva "
-"essere assegnato, egli rispose, dopo una breve riflessione - Amoran andrà "
-"bene, c'è ancora molto lavoro da fare, e non mi piace lasciare le cose a "
-"metà -\n"
-"E c'erano molte cose da fare ad Amoran, ma Glauco, che fu anche nominato "
-"governatore civile della città e di tutte le terre selvagge ad est, lo fece "
-"con entusiasmo, perché si era affezionato a quel luogo, e le grandi città "
-"dell'ovest ora gli sembravano soffocanti."
+"Glauco と Geobard は帝都へと向かい、威厳はあるけれど少し取り乱している君主"
+"に、事の次第を報告しました。この任務を終えたとき、Glauco 軍曹は下位の士官とな"
+"ることなく大将に昇進していました。王が、どの地への配属を希望するかを訊ねる"
+"と、彼は少し考えて答えました... \" 再度、Amoran へお願いします、遂行すべきこ"
+"とがたくさんあります。また、仕事半ばのまま離れることは、好きではありませ"
+"ん。\" と。\n"
+"たしかに Amoran にはすべきことがたくさん有りました、しかし Glauco は、 "
+"Amoran 及び、その東部の全原野の民政長官にも任命され、熱心に従事しました。とい"
+"うのも、彼はこの地をすっかり気に入り、彼にとって西の大都市は、今や息苦しく思"
+"えたからです。"
 
 #. FIXME: run-on:
 #: A_Little_Adventure/utils/ALA_story.cfg:113
@@ -3298,16 +3171,13 @@ msgid ""
 "land was so great and the colonists were still few, but it was enough "
 "because the decadence of Amoran would undergo a quiet but constant rebirth."
 msgstr ""
-"Il rinnovato commercio dell'ambra non portò alla cittadina tutti i benefici "
-"che Glauco aveva sperato, ma il mercato che vi si teneva due volte l'anno, "
-"in primavera e in autunno, quando i Nereidi risalivano il fiume, diffuse "
-"lentamente la notorietà del luogo in tutto il regno e nelle terre "
-"dell'alleanza del nord, finendo così per attirare coloni desiderosi di nuovi "
-"spazi e disposti a spendere fatica e sudore per costruire qualcosa; le terre "
-"selvagge divennero un po' meno selvagge e un po' più abitate; niente di che, "
-"per carità, la terra era così grande e i coloni ancora pochi, ma bastò "
-"perché la decadenza di Amoran si trasformasse in una rinascita tranquilla ma "
-"costante."
+"再開した琥珀貿易が町にもたらしたものは、Glauco が望んだほどではありませんでし"
+"たが、Nereids が川を遡上して開かれる春と秋の市は、この地についての名声を王国"
+"全体と北部同盟の土地に徐々に広めていました。こうして、新天地を切望する者や、"
+"何かを作るためには努力と汗を惜しまない者を引き寄せることとなったのです。原野"
+"は少しずつ野蛮さが薄れ、住人も少し増えました。でも、大地はとても広大で、移住"
+"民はまだわずかでしたが、Amoran の廃退は静かに絶え間なく治療され、町が再生して"
+"いく、それで十分でした。"
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/utils/ALA_story.cfg:119
@@ -3316,8 +3186,8 @@ msgid ""
 "he became the trustworthy man of the count, as well as the same of many of "
 "the ladies of the court."
 msgstr ""
-"Geobard fu promosso dallo stesso re, quindi tornò a Soradoc, dove divenne "
-"l'uomo di fiducia del conte, così come di molte delle dame di corte."
+"Geobard 国王自身によって昇進を受けて Soradoc へ戻り、伯爵の信頼を得ました。ま"
+"た、宮廷の多くの女性からも同様の信頼を受けられる存在となりました。"
 
 #. [message]: speaker=Glubtrub
 #: A_Little_Adventure/utils/ALA_story.cfg:126
@@ -3330,13 +3200,11 @@ msgid ""
 "tribe was, in the following years, extraordinarily peaceful, for a tribe of "
 "Ogre at least."
 msgstr ""
-"A Glubtrub e alla tribù della vecchia stazione di posta fu data la "
-"concessione perpetua del territorio in cui vivevano, e solo ai Nereidi fu "
-"dato il permesso di attraversare quel territorio senza l'esplicito consenso "
-"dell'Ogre; inoltre, poiché si sapeva che chi avesse attaccato gli ogre "
-"avrebbe dovuto vedersela con il temuto sterminatore degli Orchi di nome "
-"Glauco, la vita della tribù fu, negli anni successivi, straordinariamente "
-"pacifica, almeno per una tribù di Ogre."
+"Glubtrub と古い宿場の部族には、彼らが暮らしてきた領域に対し恒久的な利権が与え"
+"られ、Nereids だけが、オーガの明確な同意なしにその領域を行き来することを許可"
+"されました。それに加えて、オーガを攻撃した者は Glauco という恐怖のオーク駆除"
+"者を相手にしなければならないと知られていたため、その後の部族の生活は、少なく"
+"ともオーガ族としては驚くほど平穏なものでした。"
 
 #. [message]: speaker=Glubtrub
 #: A_Little_Adventure/utils/ALA_story.cfg:130
@@ -3346,10 +3214,10 @@ msgid ""
 "Glubtrub the Great, but the progressive expansion of his waistline finally "
 "earned him the name of the Glubtrub the Enormous."
 msgstr ""
-"A causa di tanta prosperità, sempre secondo il giudizio di un ogre, Glubtrub "
-"sarebbe stato ricordato, nella piccola storia della sua tribù, come Glubtrub "
-"il Grande, ma il progressivo allargamento del suo girovita gli valse alla "
-"fine il nome di Glubtrub l'Enorme."
+"オーガの繁栄は、常に、あるオーガの判断に従ったことがもたらしたので、Glubtrub "
+"は部族の小さな歴史の中では、”偉大なる Glubtrub” と記憶されてきたはずなのです"
+"が、彼の腹部が次第に拡大していき、それで、遂には ”巨大なる Glubtrub” と呼ばれ"
+"るようになったのでした。"
 
 #. [message]: speaker=Croquet
 #: A_Little_Adventure/utils/ALA_story.cfg:138
@@ -3358,10 +3226,9 @@ msgid ""
 "returned to Amoran whenever he wanted to drink a good beer with friends and "
 "to tell some strange facts that he thought Glauco might be interested in."
 msgstr ""
-"Croquet ritornò alla sua vita nei boschi, insieme alla sua \"ragazza\", ma "
-"faceva capolino ad Amoran ogni volta che voleva bere una buona birra con gli "
-"amici e raccontare alcuni fatti strani che pensava che Glauco potesse "
-"trovare interessanti."
+"Croquet は ”彼女” と一緒に森での生活に戻りましたが、友人たちと素敵なビールを"
+"飲みたいときや、Glauco が興味を持ちそうな不思議なことを話したいときには、いつ"
+"でも Amoran へ戻ってきました。"
 
 #. [message]: speaker=Croquet
 #: A_Little_Adventure/utils/ALA_story.cfg:145
@@ -3371,10 +3238,10 @@ msgid ""
 "equally good company, and Glauco, every time he saw him coming, was careful "
 "not to let him never miss one or the other."
 msgstr ""
-"Croquet ritornò alla sua vita nei boschi, ma era triste senza la sua "
-"'ragazza', così tornava ad Amoran ogni volta che voleva una buona birra e "
-"altrettanto buona compagnia, e Glauco, ogni volta che lo vedeva apparire, "
-"faceva attenzione che non gli mancasse né l'una né l'altra."
+"Croquet は森での生活に戻りましたが、 ”彼女” なしでは寂しくて、友人たちと素敵"
+"なビールを飲みたいときや、同じくらいに素敵な仲間と会いたくなったときには、い"
+"つでも Amoran へ戻ってきました。Glauco は、彼がやってくるときは、彼を見落とさ"
+"ないよう、気をつけていました。"
 
 #. [message]: speaker=Fangy
 #: A_Little_Adventure/utils/ALA_story.cfg:152
@@ -3386,12 +3253,12 @@ msgid ""
 "prohibition of killing wolves in the territories subject to him, if not for "
 "personal defense, under penalty of expulsion from the territory."
 msgstr ""
-"Fangy era rimasta con Glauco fino alla fine della battaglia contro Gan-"
-"Tarkas, semplicemente perché era quello che avrebbe fatto Croquet; poi "
-"scomparve e nessuno la vide mai più! Glauco, appena divenuto governatore "
-"civile di tutti i territori dell'est, in ricordo del vecchio cacciatore di "
-"animali, decretò il divieto assoluto di uccidere i lupi nei territori a lui "
-"soggetti, se non per difesa personale, pena l'espulsione dal territorio."
+"Fangy は Gan-Tarkas との戦いが終わるまで Glauco と行動を共にしていましたが、"
+"Croquet ならそうしただろうから、というそれだけの理由からでしたが、やがて彼女"
+"は姿を消し、二度と彼女を見ることはありませんでした。Glauco は、東方全土の民政"
+"総督になったときには老いた罠猟師を偲び、彼の管理下の領地では狼を殺すことを絶"
+"対禁止とし、個人防衛のためでなく殺した場合は領地から追放される罰則を定めまし"
+"た。"
 
 #. [message]: speaker=Divaid
 #. I'm not sure if "yahoos" is meant in the sense of "yokels/bumpkins/goofballs" (i.e. a person) or "shouts of glee" (i.e. a noise);
@@ -3405,12 +3272,11 @@ msgid ""
 "ready to hover in the sky and put his very sharp sight at disposal to find "
 "what or who had been missing."
 msgstr ""
-"Divaid e Ranfy tornarono nei loro boschi, borbottando di aver aiutato i "
-"Wesnothiani a riempirgli la casa di zoticoni occidentali; ma non dovevano "
-"pensarlo davvero, poiché quando qualcuno perdeva qualcosa, o si perdeva in "
-"quei territori sconosciuti, Ranfy era sempre pronto a librarsi nel cielo e "
-"metteva a disposizione la sua vista acutissima per trovare cosa o chi era "
-"scomparso."
+"Divaid と Ranfy は、あの Wesnoth 人たちは、家の中が西の無作法者でいっぱいにな"
+"るのを手伝いやがった、とブツブツ言いながら森へと戻っていきました。でもそれ"
+"は、彼にとって、いつもの挨拶みたいなものでした。なぜなら、誰かが見知らぬ場所"
+"で何かを落としたり、誰かを見失ったり、または迷子になったときには、Ranfy がい"
+"つでも空を飛んで、その鋭い視力で、何でも探し出せる用意をしていたからです。"
 
 #. [message]: speaker=Divaid
 #: A_Little_Adventure/utils/ALA_story.cfg:169
@@ -3420,10 +3286,10 @@ msgid ""
 "company, and Glauco, every time he saw him coming, was careful not to let "
 "him never miss one or the other."
 msgstr ""
-"Divaid ritornò alla sua vita nei boschi, ma era triste senza il suo amico, "
-"così tornava ad Amoran ogni volta che voleva una buona birra e altrettanto "
-"buona compagnia, e Glauco, ogni volta che lo vedeva apparire, faceva "
-"attenzione che non gli mancasse né l'una né l'altra."
+"Divaid は森での生活に戻りましたが、彼の友人なしでは寂しくて、友人たちと素敵な"
+"ビールを飲みたいときや、同じくらいに素敵な仲間と会いたくなったときには、いつ"
+"でも Amoran へ戻ってきました。Glauco は、彼がやってくるときは、彼を見落とさな"
+"いよう、気をつけていました。"
 
 #. [message]: speaker=Ranfy
 #: A_Little_Adventure/utils/ALA_story.cfg:176
@@ -3436,13 +3302,12 @@ msgid ""
 "but rather the best sentries that Amoran could have, and soon the gryphons "
 "were considered citizens of Amoran like everyone else."
 msgstr ""
-"Ranfy scomparve immediatamente dopo la fine della battaglia contro Gan-"
-"Tarkas. Tornò due mesi dopo, con un compagno, e fece il suo nido sull'unica "
-"torre rimasta delle antiche mura di Amoran. I cittadini inizialmente erano "
-"spaventati, inoltre molti di loro non avevano mai visto un grifone prima, ma "
-"Glauco li rassicurò spiegando che i grifoni non erano un pericolo, ma "
-"piuttosto le migliori sentinelle che Amoran potesse avere, e presto i "
-"grifoni furono considerati cittadini di Amoran come tutti gli altri."
+"Ranfy は Gan-Tarkas との戦いが終わった直後から姿を消していました。2ヵ月後、仲"
+"間を連れて戻ってきた彼は、Amoran の古い城壁で唯一残っていた塔の上に巣を作りま"
+"した。市民たちは最初は怖がっていたし、そもそも、グリフォンを初めて見た市民も"
+"多かったのです。 Glauco は、グリフォンは危険な存在ではなく Amoran にとって最"
+"高の衛兵であると説明して市民を安心させ、やがてグリフォンは他の市民同様、 "
+"Amoran の市民として扱われるようになりました。"
 
 #. [message]: speaker=Mimord
 #: A_Little_Adventure/utils/ALA_story.cfg:183
@@ -3451,9 +3316,9 @@ msgid ""
 "for the north, looking for his old companions; in the end, even he didn't "
 "like being alone; with whom could you brawl if you are alone?"
 msgstr ""
-"Mimord rimase ad Amoran per un breve periodo; poi cominciò ad annoiarsi e "
-"partì per il nord, alla ricerca dei suoi vecchi compagni; alla fine anche a "
-"lui non piaceva stare da solo; con chi puoi litigare quando sei da solo?"
+"Mimord はしばらく Amoran にいましたが、やがて退屈になってきたので、昔の仲間を"
+"捜しに、北へ旅立っていきました。結局、彼も一人は嫌だったのでしょう。一人ぼっ"
+"ちのときに、喧嘩をしたい相手は誰なのでしょうね？"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_story.cfg:190
@@ -3462,9 +3327,10 @@ msgid ""
 "those who were called to manage a territory so vast in which they still "
 "lived many strange, wonderful and horrible creatures."
 msgstr ""
-"Glauco ed i suoi amici ebbero altre avventure in seguito, come era "
-"inevitabile per chi era chiamato a gestire un territorio così vasto in cui "
-"vivevano ancora tante creature strane, meravigliose e orribili."
+"やがて、Glauco と友人たちは、新たな冒険に旅立つことになりました。しかし、これ"
+"ほど広大な領地を管理するように呼ばれた者にとって、それは必然的なことでした。"
+"まだまだ多くの見知らぬ素晴らしい、そして恐ろしい化け物が住んでいる土地なので"
+"すから。"
 
 #. [message]: speaker=Glauco
 #. https://tvtropes.org/pmwiki/pmwiki.php/Main/FinaleTitleDrop
@@ -3475,11 +3341,7 @@ msgid ""
 "to those who asked him how he managed to become an important man, he always "
 "began by saying - Oh, that time was just a little adventure -"
 msgstr ""
-"A Glauco dispiaceva affatto, nella sua serena vecchiaia, raccontare le sue "
-"avventure a chiunque glielo chiedesse, figli, nipoti o pronipoti che "
-"fossero; ma a chi gli chiedeva come fosse riuscito a diventare un uomo "
-"importante, iniziava sempre dicendo - Oh, quella volta fu solo una piccola "
-"avventura -"
-
-#~ msgid "The only \\"
-#~ msgstr "The only \\"
+"Glauco は、心穏やかな老人となり、全く関心がありませんでした。息子や甥や、ひ孫"
+"などの誰に聞かれても、自分の冒険について話すことに。でも、どうやって有名に"
+"なったのか尋ねられると、決まって、こう切り出すのでした。\n"
+"「ああ、あの時は、\"ちょっとした冒険\" だったのさ」"
