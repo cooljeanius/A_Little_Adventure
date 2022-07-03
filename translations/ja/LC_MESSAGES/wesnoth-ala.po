@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-07-02 02:46 UTC\n"
-"PO-Revision-Date: 2022-07-01 22:48-0400\n"
-"Last-Translator: Eric Gallager <egall@gwmail.gwu.edu>\n"
+"PO-Revision-Date: 2022-07-03 09:49+0900\n"
+"Last-Translator: konami,k <konamit2008@gmail.com>\n"
 "Language-Team: \n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
@@ -886,13 +886,6 @@ msgstr "女オーガ"
 #. [unit_type]: id=She Ogre, race=ogre
 #. reworded a bit:
 #: A_Little_Adventure/units/She_Ogre.cfg:24
-#, fuzzy
-#| msgid ""
-#| "A bit less stupid than their male counterparts, the ogre females spend "
-#| "the first part of their lives learning how use herbs and minerals to cure "
-#| "wound and poisons, and secondly, how to apply this knowledge to the male "
-#| "ogres. They don't like iron weapons, but rather, they efficently use "
-#| "small but hard clubs of wood, and leather slings, to defend themselves."
 msgid ""
 "A bit less stupid than their male counterparts, the ogre females spend the "
 "first part of their lives learning how use herbs and minerals to cure wound "
@@ -985,10 +978,8 @@ msgstr "くそっ！仇をとってやるかなら、俺の Fangy ！"
 
 #. [message]: speaker=Divaid
 #: A_Little_Adventure/utils/ALA_deaths.cfg:164
-#, fuzzy
-#| msgid "Damned $second_unit.race|s! I'll avenge you, my friend!"
 msgid "Damn bastards! I'll avenge you, my friend!"
-msgstr "クソ $second_unit.race|s め！仇を取ってやるからな、友よ!"
+msgstr "クソ野郎どもめ！仇を取ってやるからな、友よ!"
 
 #. [message]: speaker=Mimord
 #: A_Little_Adventure/utils/ALA_deaths.cfg:179
@@ -1585,17 +1576,10 @@ msgstr "強く言っていいんだよ、可愛いなぁ！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:369
-#, fuzzy
-#| msgid "What's the situation, "
 msgid "What's the situation?"
-msgstr "どういう状況だ、 "
+msgstr "どういう状況だ？"
 
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:371
-#, fuzzy
-#| msgid ""
-#| "I would say it's bad, but I'm afraid it's awful; The old caravan station "
-#| "was partially swallowed up by the river, and it seems that a group of "
-#| "Nagas have nestled there."
 msgid ""
 "I would say it's bad, but I'm afraid it's awful. The old caravan station was "
 "partially swallowed up by the river, and it seems that a group of Nagas have "
@@ -1605,10 +1589,6 @@ msgstr ""
 "そこにナーガの一団が巣食っているようです。"
 
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:373
-#, fuzzy
-#| msgid ""
-#| "Also, on the hills just to the south there are small buildings, and from "
-#| "the stench that comes out I would say they are Ogre huts."
 msgid ""
 "Also, on the hills just to the south, there are small buildings, and from "
 "the stench that comes out I would say they are Ogre huts."
@@ -1668,13 +1648,9 @@ msgstr ""
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:387
-#, fuzzy
-#| msgid ""
-#| "We'll have to take the risk. Let us prepare, men; it will be a tough "
-#| "fight!"
 msgid "We'll have to take the risk. Get ready, men, it will be a tough fight!"
 msgstr ""
-"リスクはあるが、やるしかない。準備するぞ、男たちよ。きつい戦いになるぞ！"
+"リスクはあるが、やるしかない。準備はいいか、男たちよ。きつい戦いになるぞ！"
 
 #. [message]: speaker=Kssihiss
 #. see https://tvtropes.org/pmwiki/pmwiki.php/Main/SssssnakeTalk ("reconquessst" = "reconquer"):
@@ -2063,12 +2039,9 @@ msgstr "うわっ！コウモリ、醜い。 Glubtrub は、コウモリきら�
 #. [message]: speaker=Glauco
 #. this said "pet" originally, but... I don't think the bats are actually pets though?
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:562
-#, fuzzy
-#| msgid ""
-#| "How you can have fear of a pet that's so much smaller than you, Glubtrub?"
 msgid ""
 "How are you afraid of an animal that's so much smaller than you, Glubtrub?"
-msgstr "こんなに小さい動物を怖がるなんて、Glubtrub 、どういうことなんだ？"
+msgstr "自分よりも随分小さい動物を怖がるなんて、Glubtrub 、どうしたんだ？"
 
 #. [message]: speaker=Glubtrub
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:567
@@ -2097,35 +2070,25 @@ msgstr "なあ、おい！足りてないものに不満は言わんぞ！"
 #. [message]: speaker=Joralda
 #. The colors refer to the flags that flutter.
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:597
-#, fuzzy
-#| msgid ""
-#| "Welcome, foreigners! It's been a long time since we last saw the colors "
-#| "of Wesnoth around here! Joralda is curious to find out why I come back to "
-#| "see them right now."
 msgid ""
 "Welcome, foreigners! It's been a long time since we last saw the colors of "
 "Wesnoth around here! We wonder why you came back to us right now."
 msgstr ""
 "よくぞいらした、異邦の方々！この辺りで Wesnoth の色は久しくお目にかかりません"
-"でしたよ！なぜ、私 Joralda が彼らに会いに戻って来るのか、私自身がすぐにも知り"
-"たいのです。"
+"でしたよ！どうして、あなた方が戻っていらしたのか、不思議に思っているところで"
+"す。"
 
 #. [message]: speaker=Glauco
 #. This is about as well as I can reword this:
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:602
-#, fuzzy
-#| msgid ""
-#| "My greetings! I'm the commander Glauco, from Amoran; I came here to "
-#| "reopen the old Amber Road! There is someone in Wesnoth who came back from "
-#| "here who is mighty interested in it!"
 msgid ""
 "My greetings! I'm the commander Glauco, from Amoran. I came here to reopen "
 "the old Amber Road! There is someone in Wesnoth who came back from here who "
 "is mighty interested in it!"
 msgstr ""
-"ご挨拶を申し上げます。私は司令官の Glauco という者で、Amoran から来ました。旧"
-"琥珀街道を再開するためにやって来ました！ Wesnoth には、この地から戻った人の中"
-"に、この道にとても関心をお持ちの方がおいでなんですね！"
+"ご挨拶を申し上げます。私は司令官の Glauco という者で、Amoran から参りました。"
+"旧琥珀街道を再開するために参上したのです！ Wesnoth には、この地から戻った人の"
+"中に、この道にとても関心をお持ちの方がおいでなんですね！"
 
 #. [message]: speaker=Joralda
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:606
@@ -2241,10 +2204,8 @@ msgstr "トカゲを潰す、オゥオゥオゥ！　Glubtrub も分かるよ！
 
 #. [message]: speaker=Mimord
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:660
-#, fuzzy
-#| msgid "Finally, a bit of movement for my ax!"
 msgid "Finally, a bit of exercise for my axe!"
-msgstr "やっと、オレの斧に出番が回ってきそうだな！"
+msgstr "やっと、オレの斧の手慣らしができそうだな！"
 
 #. [message]: speaker=Giksy
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:670
@@ -2595,10 +2556,8 @@ msgstr ""
 
 #. [message]: speaker=Geobard
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:856
-#, fuzzy
-#| msgid "Woe coming from the river, commander!"
 msgid "There's woe coming to us from the river, commander!"
-msgstr "川から頭痛の種がやってきました、司令官！"
+msgstr "川から災難というか、頭痛の種がやってきます、司令官！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:860
