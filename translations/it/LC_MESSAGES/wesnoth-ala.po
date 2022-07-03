@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-07-03 17:40 UTC\n"
+"POT-Creation-Date: 2022-07-03 18:41 UTC\n"
 "PO-Revision-Date: 2022-07-01 22:50-0400\n"
 "Last-Translator: Eric Gallager <egall@gwmail.gwu.edu>\n"
 "Language-Team: \n"
@@ -125,13 +125,15 @@ msgid "Japanese Translation"
 msgstr "Traduzione in giapponese"
 
 #. [scenario]: id=01_The_Attack_to_Amoran
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:6
+#. "on" would probably work better as a preposition here than "to",
+#. but "to" is already baked into the file path, and I don't want to break anything, so it can stay for now:
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:8
 msgid "The Attack to Amoran"
 msgstr "L'Attacco ad Amoran"
 
 #. [side]: type=Sergeant, id=Glauco
 #. [side]: id=Glauco, type=General
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:41
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:43
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:42
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:44
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:45
@@ -144,27 +146,27 @@ msgstr "Wesnothiani"
 
 #. [side]: type=Orcish Warrior, id=Grunto
 #. [side]: type=Orcish Warlord, id=Gan-Tarkas
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:98
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:100
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:60
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:110
 msgid "Orcs"
 msgstr "Orchi"
 
 #. [side]: type=Bandit, id=Dadoc
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:122
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:124
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:57
 msgid "Bandits"
 msgstr "Banditi"
 
 #. [objective]: condition=win
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:148
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:264
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:150
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:266
 msgid "Defeat one enemy leader"
 msgstr "Sconfiggi un comandante nemico"
 
 #. [objective]: condition=lose
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:152
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:268
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:154
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:270
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:296
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:75
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:246
@@ -178,31 +180,31 @@ msgid "Death of Glauco"
 msgstr "Morte di Glauco"
 
 #. [event]
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:198
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:200
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:60
 msgid "The Ford of Amoran"
 msgstr "Il Guado di Amoran"
 
 #. [event]
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:199
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:201
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:61
 msgid "Amoran"
 msgstr "Amoran"
 
 #. [event]
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:200
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:202
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:62
 msgid "The Estdoor bridge"
 msgstr "Il ponte di Porta dell'est"
 
 #. [message]: speaker=narrator
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:228
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:230
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:249
 msgid "Welcome to Amoran, the last town toward Est"
 msgstr "Benvenuti ad Amoran, l'ultima città prima dell'Est"
 
 #. [objective]: condition=lose
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:272
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:274
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:300
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:79
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:250
@@ -216,24 +218,24 @@ msgid "Death of Geobard"
 msgstr "Morte di Geobard"
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:286
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:288
 msgid "Both orcs and bandits have fled! Looks like we won this battle!"
 msgstr ""
 "Sia gliorchi che i banditi sono scappati! Sembra che abbiamo vinto questa "
 "battaglia!"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:290
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:292
 msgid "Not bad, but not enough!"
 msgstr "Non male, ma non abbastanza!"
 
 #. [message]: speaker=second_unit
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:308
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:310
 msgid "Die, damned orc!"
 msgstr "Muori, dannato orco!"
 
 #. [message]: speaker=Dadoc
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:312
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:314
 msgid ""
 "That stupid orc got himself killed, I'm not going to come to the same end as "
 "him. Let's retire, guys, we'll be back on another occasion, with stronger "
@@ -243,12 +245,12 @@ msgstr ""
 "Ritiriamoci, ragazzi, torneremo in un'altra occasione, con alleati più forti!"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:330
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:332
 msgid "The right fate for a wrong man!"
 msgstr "Il giusto destino per in uomo sbagliato!"
 
 #. [message]: speaker=Grunto
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:334
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:336
 msgid ""
 "Here's what happens to humans who are too weak! Let's go, guys, we have "
 "nothing more to do here, for today at least!"
@@ -257,7 +259,7 @@ msgstr ""
 "non abbiamo più nulla da fare qui, almeno per oggi!"
 
 #. [message]: speaker=narrator
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:352
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:354
 msgid ""
 "After many days of battle, the civilians enlisted, not used to fighting, "
 "began to desert, frightened and exhausted! The large voids that opened in "
@@ -270,7 +272,7 @@ msgstr ""
 "coloro che ancora insistevano a combattere, e presto fu la fine!"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:358
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:360
 msgid ""
 "I failed my first command! Better to die here than return to Wesnoth like a "
 "loser!"
@@ -2439,8 +2441,50 @@ msgid "Let's try to talk to him, and hear what he wants."
 msgstr "Proviamo a parlargli e sentiamo cosa vuole."
 
 #. [message]: speaker=Glauco
-#. TODO: use Glauco's actual rank; he's probably advanced past "sergeant" by now:
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:739
+#. this is the farthest Glauco can advance:
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:750
+#, fuzzy
+#| msgid ""
+#| "I'm the sergeant Glauco, military commander of the city of Amoran! I ask "
+#| "to speak with the warlord called Gan-Tarkas."
+msgid ""
+"I'm the grand marshal Glauco, military commander of the city of Amoran! I "
+"ask to speak with the warlord called Gan-Tarkas."
+msgstr ""
+"Sono il sergente Glauco, comandante militare della città di Amoran! Chiedo "
+"di parlare con il signore della guerra chiamato Gan-Tarkas."
+
+#. [message]: speaker=Glauco
+#. "general" in the sense of the military rank; this is as far as Glauco has usually made it for me:
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:758
+#, fuzzy
+#| msgid ""
+#| "I'm the sergeant Glauco, military commander of the city of Amoran! I ask "
+#| "to speak with the warlord called Gan-Tarkas."
+msgid ""
+"I'm the general Glauco, military commander of the city of Amoran! I ask to "
+"speak with the warlord called Gan-Tarkas."
+msgstr ""
+"Sono il sergente Glauco, comandante militare della città di Amoran! Chiedo "
+"di parlare con il signore della guerra chiamato Gan-Tarkas."
+
+#. [message]: speaker=Glauco
+#. if the player hasn't been using Glauco much for combat, he might still be a lieutenant (has happened to me before):
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:766
+#, fuzzy
+#| msgid ""
+#| "I'm the sergeant Glauco, military commander of the city of Amoran! I ask "
+#| "to speak with the warlord called Gan-Tarkas."
+msgid ""
+"I'm the lieutenant Glauco, military commander of the city of Amoran! I ask "
+"to speak with the warlord called Gan-Tarkas."
+msgstr ""
+"Sono il sergente Glauco, comandante militare della città di Amoran! Chiedo "
+"di parlare con il signore della guerra chiamato Gan-Tarkas."
+
+#. [message]: speaker=Glauco
+#. if none of the other cases match, assume he's still a sergeant, as that was the default assumption before this switch statement was added:
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:773
 msgid ""
 "I'm the sergeant Glauco, military commander of the city of Amoran! I ask to "
 "speak with the warlord called Gan-Tarkas."
@@ -2449,7 +2493,7 @@ msgstr ""
 "di parlare con il signore della guerra chiamato Gan-Tarkas."
 
 #. [message]: speaker=Gan-Tarkas
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:744
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:780
 msgid ""
 "What an honor, commander Glauco! Your fame as an exterminator of snakes "
 "precedes you, and, as somebody tells to me, also your fame as an "
@@ -2464,7 +2508,7 @@ msgstr ""
 "razza.) </span> In che modo posso rispondere a tale onore?"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:748
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:784
 msgid ""
 "Well, your fame, Gan-Tarkas, is much older than mine, and it's such that it "
 "makes me wonder what may have brought such a warlord down here."
@@ -2473,7 +2517,7 @@ msgstr ""
 "che mi chiedo cosa possa aver portato un tale signore della guerra quaggiù."
 
 #. [message]: speaker=Gan-Tarkas
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:752
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:788
 msgid ""
 "The answer is easy: Amoran brought me down here. Oh, not that there has ever "
 "been anything that deserved my interest in those four falling houses in the "
@@ -2486,7 +2530,7 @@ msgstr ""
 "di orchi! Erano senza spina dorsale, certo, ma erano pur sempre orchi."
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:756
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:792
 msgid ""
 "We had the right to do what we did! Grunto attacked us first, and without "
 "any provocation on our part."
@@ -2495,7 +2539,7 @@ msgstr ""
 "per primo e senza alcuna provocazione da parte nostra."
 
 #. [message]: speaker=Gan-Tarkas
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:760
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:796
 msgid ""
 "Of course he did it. Ah! Ah! Ah! I ordered him to do it! And now you should "
 "open your ears very well, little man, because my words could be the last you "
@@ -2506,7 +2550,7 @@ msgstr ""
 "potrebbero essere le ultime che sentirai nella tua vita!"
 
 #. [message]: speaker=Gan-Tarkas
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:764
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:800
 msgid ""
 "I'm not interested in Amoran, I'm interested in the whole eastern territory, "
 "from here to the coast! But I can't take it until Wesnoth thinks that "
@@ -2521,7 +2565,7 @@ msgstr ""
 "comunque non c'era alcun vessillo wesnothiano."
 
 #. [message]: speaker=Gan-Tarkas
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:768
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:804
 msgid ""
 "But you put the sticks between my wheels twice, first when you defeated "
 "Grunto and his human ally Dadoc, and then you started to go to the east."
@@ -2531,7 +2575,7 @@ msgstr ""
 "andare verso est."
 
 #. [message]: speaker=Gan-Tarkas
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:772
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:808
 msgid ""
 "I immediately understood that you were going there for the amber, and for "
 "that reason I waited for you here; I'm sorry, but you and all your friends "
@@ -2546,7 +2590,7 @@ msgstr ""
 #. [message]: speaker=Gan-Tarkas
 #. I thought the usage of "indemnify" here was wrong at first, but then I checked and I guess it works like this after all...
 #. it still might be worth rewording anyways, though.
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:778
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:814
 msgid ""
 "I know well they will be angry for the destruction of Amoran, but I'll "
 "retire immediately, I will make an act of contrition, I will say that I "
@@ -2564,7 +2608,7 @@ msgstr ""
 "mia tribù diventerà la più potente tribù di orchi dell'intero continente!"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:782
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:818
 msgid ""
 "But I'll put my stick between your wheels for the third time, you damned "
 "orc, because I won't allow you to cross the ford and destroy my town!"
@@ -2573,7 +2617,7 @@ msgstr ""
 "perché non ti permetterò di attraversare il guado e distruggere la mia città!"
 
 #. [message]: speaker=Gan-Tarkas
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:786
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:822
 msgid ""
 "Ah! Ah! Ah! Foul human! You really think that the great Gan-Tarkas needs "
 "your ford to overpass a river? I've been preparing myself for months, and "
@@ -2586,12 +2630,12 @@ msgstr ""
 "affrontarmi! Ah! Ah! Ah!"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:793
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:829
 msgid "Let's get some extra fortifications set up, men!"
 msgstr ""
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:806
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:843
 msgid ""
 "Look! He prepared some boats loaded with boulders to sink into the river to "
 "create a passage! It must have taken months to plan and prepare this battle; "
@@ -2607,7 +2651,7 @@ msgstr ""
 "occasione!"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:810
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:847
 msgid ""
 "And we will be just as worthy, but with our value and our weapons! Men and "
 "ogre, let us show the great Gan-Tarkas that this time he did his accounts "
@@ -2618,12 +2662,12 @@ msgstr ""
 "i suoi conti!"
 
 #. [message]: speaker=Glubtrub
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:814
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:851
 msgid "Wait! Big problem! Glubtrub to know not to make accounts!"
 msgstr "Aspettare! Grosso Problema! Glubtrub non sapere fare conti!"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:818
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:855
 msgid ""
 "No problem, my friend! You simply have to squash more orcs that you can see! "
 "Today we count so!"
@@ -2633,17 +2677,17 @@ msgstr ""
 
 #. [message]: speaker=Glubtrub
 #. Glubtrub is an ogre so he can make up words like that; an "accounter" is one who "accounts"
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:824
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:861
 msgid "Yes... big nice... Glubtrub great accounter of squash!"
 msgstr "Si... grande bello... Glubtrub grande contatore di spiaccicamenti!"
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:831
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:868
 msgid "Beware! They are doing the same thing on the other side!"
 msgstr "Attenti! Stanno facendo la stessa cosa dall'altra parte!"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:835
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:872
 msgid ""
 "So he forced us to divide our forces; he's really giving us a tactical "
 "lesson; let him see that we learn quickly!"
@@ -2652,7 +2696,7 @@ msgstr ""
 "lezione tattica; facciamogli vedere che impariamo velocemente!"
 
 #. [message]: speaker=Hisskss
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:848
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:885
 msgid ""
 "Here I am, Gan-Tarkass, I came to help you, asss I promisssed, to avenge my "
 "brother Ksshiss, killed by thisss mammalsss! And I alssso put my gold at "
@@ -2663,21 +2707,21 @@ msgstr ""
 "anche il mio oro a tua disposizione!"
 
 #. [message]: speaker=Gan-Tarkas
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:852
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:889
 msgid ""
 "I assure you that I'll make a good use of it, and your brother will be "
 "avenged!"
 msgstr "Ti assicuro che ne farò un buon uso, e tuo fratello sarà vendicato!"
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:856
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:893
 #, fuzzy
 #| msgid "Woe coming from the river, commander!"
 msgid "There's woe coming to us from the river, commander!"
 msgstr "Nemici in arrivo dal fiume, comandante!"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:860
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:897
 msgid ""
 "I saw them! But we can only fight against them; at least it will be an "
 "opportunity to get rid of the Nagas once and for all!"
@@ -2686,7 +2730,7 @@ msgstr ""
 "avremo l'opportunità di sbarazzarci dei Naga una volta per tutte!"
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:864
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:901
 msgid ""
 "Here's to hoping it isn't the opportunity for the nagas to get rid of us!"
 msgstr "Sperando che non sia l'opportunità per i Naga di sbarazzarsi di noi!"
