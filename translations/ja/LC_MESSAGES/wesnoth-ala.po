@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-07-03 18:41 UTC\n"
+"POT-Creation-Date: 2022-07-03 19:07 UTC\n"
 "PO-Revision-Date: 2022-07-03 09:49+0900\n"
 "Last-Translator: konami,k <konamit2008@gmail.com>\n"
 "Language-Team: \n"
@@ -167,7 +167,7 @@ msgstr "敵のリーダーを１人倒す"
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:61
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:106
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:42
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:452
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:455
 msgid "Death of Glauco"
 msgstr "Glauco の死"
 
@@ -191,7 +191,7 @@ msgstr "Eastdoor 橋"
 
 #. [message]: speaker=narrator
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:230
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:249
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:252
 msgid "Welcome to Amoran, the last town toward Est"
 msgstr "国の最東端の街、Amoran へようこそ"
 
@@ -205,7 +205,7 @@ msgstr "国の最東端の街、Amoran へようこそ"
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:65
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:110
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:46
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:456
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:459
 msgid "Death of Geobard"
 msgstr "Geobard の死"
 
@@ -464,9 +464,10 @@ msgstr ""
 
 #. [objective]: condition=lose
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:219
+#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:73
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:114
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:50
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:460
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:463
 msgid "Death of Glubtrub"
 msgstr "Glubtrub の死"
 
@@ -496,26 +497,26 @@ msgid "Glauco reaches the signpost over the mountains"
 msgstr "Glauco が山越えの標識に到達する"
 
 #. [message]: speaker=narrator
-#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:314
+#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:318
 msgid "Wesnoth Kingdom - Caravan Station n° 1"
 msgstr "Wesnoth 王国 キャラバン駅 No.1"
 
 #. [message]: speaker=Mimord
 #. I'm assuming the "wrap" referred to here is an article of clothing:
-#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:360
+#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:364
 msgid ""
 "Damned wolves, I thought I had taught you not to come into my house! Well, "
 "I'll make a wrap out of your fur!"
 msgstr "くそ狼め、俺の家に入るなと教えたはずだ！お前の毛皮で包んでやる！"
 
 #. [message]: speaker=Croquet
-#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:365
+#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:369
 msgid "Hey you! Get your hands off my little Fangy!"
 msgstr "おい、お前！俺の Fangy ちゃんに触るな！"
 
 #. [message]: speaker=Mimord
 #. a "capon" is a rooster that has been castrated or neutered:
-#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:378
+#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:382
 msgid ""
 "Ugly bird! Wolves and bats were not enough around here? I'll wring your neck "
 "like a capon!"
@@ -524,18 +525,18 @@ msgstr ""
 "みたいに首を絞めてやる！"
 
 #. [message]: speaker=Divaid
-#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:383
+#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:387
 msgid "Don't you dare to touch my friend Ranfy, tattooed midget!"
 msgstr "俺の友達の Ranfy に触るんじゃねえよ、刺青の小人め！"
 
 #. [message]: speaker=unit
-#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:395
+#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:399
 msgid "Urca! House inhabited!"
 msgstr "うわっ！　誰か住んでる！"
 
 #. [message]: speaker=Mimord
 #. This is about as well as I think I can reword this; I'm not quite sure what he meant by completing his home, but the final sentence is supposed to be a clever way to call the ogre "brainless":
-#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:400
+#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:404
 msgid ""
 "That's right, stupid ogre! And we were only missing you to complete my home! "
 "Well, if I break your head I will not do much damage, as you don't hold "
@@ -546,24 +547,24 @@ msgstr ""
 "空っぽだからな！"
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:405
+#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:409
 msgid "Wait, that ogre is with us!"
 msgstr "待て、仲間の中にはオーガも居るんだぞ！"
 
 #. [message]: speaker=unit
-#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:411
+#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:415
 msgid "Hey! There's somebody here!"
 msgstr "おい！誰かここにいるぞ！"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:434
+#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:438
 msgid ""
 "We passed those hills, finally! We can continue on to reach the nereids now!"
 msgstr ""
 "やっと丘を越えられた！ これで nereids（ merfolk の一集団）のところへ行けるな!"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:460
+#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:464
 msgid ""
 "All these attacks are exhausting us; we won't be able to cross the hills! We "
 "must retreat; the mission failed!"
@@ -591,8 +592,13 @@ msgstr "Nereids（ Merkfolk ）"
 msgid "Squash... or... Defeat the Saurian Chief"
 msgstr "トカゲの首領を倒す"
 
+#. [note]
+#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:119
+msgid "The death of $trapper_name will no longer cause defeat."
+msgstr ""
+
 #. [message]: speaker=Giksy
-#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:212
+#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:216
 msgid ""
 "Let's ssshow them the little sssurprissse that we had prepared for the "
 "fisssh if they had decided to recover the issland!"
@@ -601,7 +607,7 @@ msgstr ""
 "プライズを見セーてやろうぜ！"
 
 #. [message]: speaker=Giksy
-#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:224
+#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:228
 msgid ""
 "Thingsss are not going well! Ssshamansss, sssummon other sssnakesss from the "
 "sssea!"
@@ -610,18 +616,18 @@ msgstr ""
 "セー、シャー！"
 
 #. [message]: speaker=Joralda
-#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:231
+#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:235
 msgid ""
 "More monsters are coming from the north; they're like the ones from before!"
 msgstr "北からもっとモンスターがやってきてる、似たような奴らばかりだ！"
 
 #. [message]: speaker=Giksy
-#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:239
+#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:243
 msgid "We need of ohtersss sssea companionsss, sssummon all them!"
 msgstr "他の海の仲間も必要だ、全員を、ショー喚シーろ、シャー！"
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:247
+#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:251
 msgid ""
 "I hope these are the last ones! They make me feel seasick with all their "
 "contortions!"
@@ -629,17 +635,17 @@ msgstr ""
 "こいつらで最後だといいんだが！クネクネねじ曲がって、船酔いしそうな気分だ！"
 
 #. [message]: speaker=Giksy
-#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:258
+#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:262
 msgid "Aaah... I'll... never... sssee... my... treasssure... again..."
 msgstr "アァ... もう... 二度とないのか... 俺様の宝物を... 見ることは..."
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:291
+#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:295
 msgid "Oh no, without the nereids' help, it was all in vain! I failed!"
 msgstr "ダ、ダメだ、nereid の助けなしには、すべて水泡に帰してしまう。負けた！"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:302
+#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:306
 msgid "It's useless, and we cannot prevail! We failed!"
 msgstr "無駄だ、勝てるわけがない！負けた！"
 
@@ -654,47 +660,47 @@ msgid "Defeat Gan-Tarkas"
 msgstr "Gan-Tarkas を倒す"
 
 #. [message]: speaker=Gan-Tarkas
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:308
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:311
 msgid "Widen the path across the river again, and then everyone attack!"
 msgstr "川を渡る道をもう一度広げるんだ、そうして全員攻撃だ！"
 
 #. [objective]: condition=win
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:448
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:451
 msgid "Defeat all enemy leaders"
 msgstr "敵のリーダーをすべて倒す"
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:480
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:483
 msgid "Those damned are all dead or escaped! Finally we finished!"
 msgstr "あの忌々しい奴らは、全滅したか逃げ出したかだ！　遂に終わった！"
 
 #. [message]: speaker=Gan-Tarkas
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:496
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:499
 msgid "Impossible!"
 msgstr "あり得ん！"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:500
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:503
 msgid "With your end, orc, Amoran can and will have a new start!"
 msgstr "オークさんよ、お前らが消えて、Amoran は新しいスタートを切れるんだよ！"
 
 #. [message]: speaker=Glubtrub
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:515
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:518
 msgid "To remain only to squash big snake!"
 msgstr "大きなヘビ潰すためだけに、オレ、残る！"
 
 #. [message]: speaker=Hisskss
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:531
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:534
 msgid "Hissss!"
 msgstr "シャーーーッ！"
 
 #. [message]: speaker=Glubtrub
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:539
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:542
 msgid "Other snake make flat-flat! Oh! Oh! Oh!"
 msgstr "他のヘビ、みんな静かにしてるでしょ、こら！オゥオゥオゥ！"
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:548
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:551
 msgid "And now let's finish taking care of his friend, Gan-Tarkas!"
 msgstr "さて、それじゃ、彼のご友人、 Gan-Tarkas を始末する番だ！"
 
