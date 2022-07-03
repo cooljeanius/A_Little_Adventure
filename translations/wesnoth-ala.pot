@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-07-02 02:51 UTC\n"
+"POT-Creation-Date: 2022-07-03 17:40 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -148,7 +148,7 @@ msgstr ""
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:75
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:246
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:114
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:206
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:207
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:61
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:106
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:42
@@ -186,7 +186,7 @@ msgstr ""
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:79
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:250
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:118
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:210
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:211
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:65
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:110
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:46
@@ -364,7 +364,7 @@ msgstr ""
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:309
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:320
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:321
 msgid "Damn! This battle is dragging on too long, the men are exhausted! We must retreat, the mission failed!"
 msgstr ""
 
@@ -393,25 +393,26 @@ msgstr ""
 
 #. [objective]: condition=win
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:110
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:202
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:203
 msgid "Defeat Kssihiss"
 msgstr ""
 
 #. [objective]: condition=lose
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:122
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:214
+#. $trapper_name is now part of this string at the request of the Japanese translator:
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:123
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:215
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:69
-msgid "Death of "
+msgid "Death of $trapper_name"
 msgstr ""
 
 #. [message]: speaker=Glubtrub
 #. "Wetspot" is ogre-speak for "Wesnoth"; I will try to ensure it's capitalized consistently:
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:181
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:182
 msgid "What this confusion? Men colored like Wetspot and snake to fight? Ogres to come too, good chance to squash all!"
 msgstr ""
 
 #. [objective]: condition=lose
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:218
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:219
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:114
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:50
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:460
@@ -419,12 +420,12 @@ msgid "Death of Glubtrub"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:264
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:265
 msgid "Wesnoth Kingdom - Caravan Station n° 2"
 msgstr ""
 
 #. [message]: speaker=Kssihiss
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:275
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:276
 msgid "Damned humansss... Hiss!"
 msgstr ""
 
