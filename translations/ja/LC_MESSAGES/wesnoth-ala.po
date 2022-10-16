@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-07-03 19:07 UTC\n"
+"POT-Creation-Date: 2022-10-16 03:14 UTC\n"
 "PO-Revision-Date: 2022-07-09 14:06+0900\n"
 "Last-Translator: konami,k <konamit2008@gmail.com>\n"
 "Language-Team: \n"
@@ -152,13 +152,13 @@ msgstr "山賊"
 
 #. [objective]: condition=win
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:150
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:266
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:267
 msgid "Defeat one enemy leader"
 msgstr "敵のリーダーを１人倒す"
 
 #. [objective]: condition=lose
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:154
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:270
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:271
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:296
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:75
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:246
@@ -196,7 +196,7 @@ msgid "Welcome to Amoran, the last town toward Est"
 msgstr "国の最東端の街、Amoran へようこそ"
 
 #. [objective]: condition=lose
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:274
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:275
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:300
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:79
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:250
@@ -210,22 +210,22 @@ msgid "Death of Geobard"
 msgstr "Geobard の死"
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:288
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:289
 msgid "Both orcs and bandits have fled! Looks like we won this battle!"
 msgstr "オークも山賊も逃げ出したぞ！我々はこの戦いに勝ったようです!"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:292
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:293
 msgid "Not bad, but not enough!"
 msgstr "悪くはないが、物足りないな！"
 
 #. [message]: speaker=second_unit
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:310
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:311
 msgid "Die, damned orc!"
 msgstr "死ね、忌々しいオークめ！"
 
 #. [message]: speaker=Dadoc
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:314
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:315
 msgid ""
 "That stupid orc got himself killed, I'm not going to come to the same end as "
 "him. Let's retire, guys, we'll be back on another occasion, with stronger "
@@ -235,12 +235,12 @@ msgstr ""
 "げようぜ、またにしよう、もっとツエーのを連れてきてやる！"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:332
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:333
 msgid "The right fate for a wrong man!"
 msgstr "悪い奴らの、悪くない結末だな！"
 
 #. [message]: speaker=Grunto
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:336
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:337
 msgid ""
 "Here's what happens to humans who are too weak! Let's go, guys, we have "
 "nothing more to do here, for today at least!"
@@ -249,7 +249,7 @@ msgstr ""
 "何もすることがないからな！"
 
 #. [message]: speaker=narrator
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:354
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:355
 msgid ""
 "After many days of battle, the civilians enlisted, not used to fighting, "
 "began to desert, frightened and exhausted! The large voids that opened in "
@@ -261,7 +261,7 @@ msgstr ""
 "ませ、遂には終焉を迎えたのでした！"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:360
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:361
 msgid ""
 "I failed my first command! Better to die here than return to Wesnoth like a "
 "loser!"

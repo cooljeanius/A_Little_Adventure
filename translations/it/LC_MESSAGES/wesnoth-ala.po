@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-07-03 19:07 UTC\n"
+"POT-Creation-Date: 2022-10-16 03:14 UTC\n"
 "PO-Revision-Date: 2022-07-01 22:50-0400\n"
 "Last-Translator: Eric Gallager <egall@gwmail.gwu.edu>\n"
 "Language-Team: \n"
@@ -160,13 +160,13 @@ msgstr "Banditi"
 
 #. [objective]: condition=win
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:150
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:266
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:267
 msgid "Defeat one enemy leader"
 msgstr "Sconfiggi un comandante nemico"
 
 #. [objective]: condition=lose
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:154
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:270
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:271
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:296
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:75
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:246
@@ -204,7 +204,7 @@ msgid "Welcome to Amoran, the last town toward Est"
 msgstr "Benvenuti ad Amoran, l'ultima città prima dell'Est"
 
 #. [objective]: condition=lose
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:274
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:275
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:300
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:79
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:250
@@ -218,24 +218,24 @@ msgid "Death of Geobard"
 msgstr "Morte di Geobard"
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:288
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:289
 msgid "Both orcs and bandits have fled! Looks like we won this battle!"
 msgstr ""
 "Sia gliorchi che i banditi sono scappati! Sembra che abbiamo vinto questa "
 "battaglia!"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:292
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:293
 msgid "Not bad, but not enough!"
 msgstr "Non male, ma non abbastanza!"
 
 #. [message]: speaker=second_unit
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:310
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:311
 msgid "Die, damned orc!"
 msgstr "Muori, dannato orco!"
 
 #. [message]: speaker=Dadoc
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:314
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:315
 msgid ""
 "That stupid orc got himself killed, I'm not going to come to the same end as "
 "him. Let's retire, guys, we'll be back on another occasion, with stronger "
@@ -245,12 +245,12 @@ msgstr ""
 "Ritiriamoci, ragazzi, torneremo in un'altra occasione, con alleati più forti!"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:332
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:333
 msgid "The right fate for a wrong man!"
 msgstr "Il giusto destino per in uomo sbagliato!"
 
 #. [message]: speaker=Grunto
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:336
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:337
 msgid ""
 "Here's what happens to humans who are too weak! Let's go, guys, we have "
 "nothing more to do here, for today at least!"
@@ -259,7 +259,7 @@ msgstr ""
 "non abbiamo più nulla da fare qui, almeno per oggi!"
 
 #. [message]: speaker=narrator
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:354
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:355
 msgid ""
 "After many days of battle, the civilians enlisted, not used to fighting, "
 "began to desert, frightened and exhausted! The large voids that opened in "
@@ -272,7 +272,7 @@ msgstr ""
 "coloro che ancora insistevano a combattere, e presto fu la fine!"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:360
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:361
 msgid ""
 "I failed my first command! Better to die here than return to Wesnoth like a "
 "loser!"
