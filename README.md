@@ -1,5 +1,6 @@
 # A_Little_Adventure
-A Wesnoth user-made campaign, forked to add an EASY difficulty
+A Wesnoth user-made campaign originally by Argesilao, forked to add an EASY
+difficulty
 
 A young Wesnothian army officer is sent to command a tiny garrison in an
 insignificant town in the wilds of the far east; unexpectedly he will manage
