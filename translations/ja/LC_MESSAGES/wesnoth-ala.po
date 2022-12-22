@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-12-22 05:55 UTC\n"
-"PO-Revision-Date: 2022-07-09 14:06+0900\n"
+"PO-Revision-Date: 2022-12-22 19:01+0900\n"
 "Last-Translator: konami,k <konamit2008@gmail.com>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.1\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #. [campaign]: id=A_little_Adventure
 #. Strings from utils/ALA_Deaths.cfg used to get put in the potfile
@@ -175,7 +175,7 @@ msgstr "Glauco の死"
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:159
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:292
 msgid "Which leader you defeat will determine your next scenario."
-msgstr ""
+msgstr "どちらのリーダーを倒すかで次のシナリオが決まります。"
 
 #. [event]
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:205
@@ -232,6 +232,9 @@ msgid ""
 "I'd better start planning my escape, in case he's unable to fulfill his half "
 "of the pact..."
 msgstr ""
+"まずいぞ、あの Grunto が包囲され始めてる！ 奴がいないと作戦は成り立たない、俺"
+"たちもそろそろ脱出計画を立てないと......奴が約束を果たせなかったときに備えよ"
+"う。"
 
 #. [message]: speaker=second_unit
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:345
@@ -254,6 +257,8 @@ msgid ""
 "That human we were supposed to work with doesn't look like he'll be able to "
 "fulfill his half of the pact! We just might have to leave if he fails us..."
 msgstr ""
+"一緒に仕事をするはずだったあの人間どもは、交わした約束の半分も果たせそうにな"
+"いじゃねえか！このまま奴らが負けたら、俺たちも退散しなきゃなんねえ..."
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:406
@@ -514,10 +519,8 @@ msgstr "モンスター"
 
 #. [objective]: condition=win
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:62
-#, fuzzy
-#| msgid "Glauco reaches the signpost over the mountains"
 msgid "Glauco reaches the waypoint (marked by a monolith) over the mountains"
-msgstr "Glauco が山越えの標識に到達する"
+msgstr "Glauco が山越えの目標地点（東端のモノリス）に到達する"
 
 #. [message]: speaker=narrator
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:323
@@ -791,7 +794,7 @@ msgstr ""
 #. [unit_type]: id=City Militia, race=human
 #: A_Little_Adventure/units/City_Militia.cfg:6
 msgid "City Militia"
-msgstr ""
+msgstr "市民兵"
 
 #. [unit_type]: id=City Militia, race=human
 #: A_Little_Adventure/units/City_Militia.cfg:22
@@ -799,11 +802,13 @@ msgid ""
 "City militia is composed from citizens of Wesnothian towns. Their role is "
 "usually just policing the cities and guarding the walls."
 msgstr ""
+"市民兵は Wesnoth の市民で構成されています。彼らの役割は、通常は街の取り締まり"
+"と城壁の警備だけです。"
 
 #. [attack]: type=pierce
 #: A_Little_Adventure/units/City_Militia.cfg:40
 msgid "spear"
-msgstr ""
+msgstr "槍"
 
 #. [unit_type]: id=EXI_Ogregreat, race=ogre
 #: A_Little_Adventure/units/Great_Ogre.cfg:5
@@ -1018,7 +1023,7 @@ msgid ""
 "You led us where you promised, hunter, and we'll make sure your end was not "
 "in vain!"
 msgstr ""
-"約束した場所に案内してくれたな、狩人よ、君の最期を決して無駄にはしない！"
+"約束した場所に導いてくれたよな、狩人よ、君の最期を決して無駄にはしない！"
 
 #. [message]: speaker=Croquet
 #: A_Little_Adventure/utils/ALA_deaths.cfg:151
@@ -1095,12 +1100,10 @@ msgstr "軍曹、どうしましょう？ オークと山賊が同時に襲っ�
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:41
-#, fuzzy
-#| msgid "If necessary we'll call the peasants and the woodsmen to help us."
 msgid ""
 "If necessary, we'll call the peasants, the woodsmen, and the militia to help "
 "us."
-msgstr "必要なら農民や木こりたちを招集するまでだ。"
+msgstr "必要なら農民や木こり、市民兵たちを招集するまでだ。"
 
 #. [message]: speaker=Grunto
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:45
@@ -1117,13 +1120,13 @@ msgid ""
 "Remember the pacts, orc; I take the food and all the valuables, you take all "
 "the slaves!"
 msgstr ""
-"契約を忘れたか、オーク。俺は食料と貴重品をすべて頂戴して、お前には奴隷を全部"
+"約束を忘れたか、オーク。俺は食料と貴重品をすべて頂戴して、お前には奴隷を全部"
 "やるってな！"
 
 #. [message]: speaker=Grunto
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:55
 msgid "Those are the pacts, and now let's do it!"
-msgstr "そう決めたさ、さあ、その契約を実行しようぜ！"
+msgstr "そう決めたさ、さあ、その約束を実行しようぜ！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:59
@@ -1519,8 +1522,9 @@ msgid ""
 "I didn't mean that, you idiot! I wanted to say: why you haven't yet "
 "slaughtered them?"
 msgstr ""
-"そんなこと言ってるんじゃない、このトンマ！オレが言いたいのな、<b>どうして、お"
-"前たちは、奴らを、殺さないんだ</b> ってことだ。分かったか？"
+"そんなこと言ってるんじゃない、このトンマ！オレが言いたいのはな、<b>どうして、"
+"お前たちは、奴らを、殺さないんだ</b> ってことだ。お・分・か・り・に、な・り・"
+"ま・し・た・か？"
 
 #. [message]: speaker=Olly
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:292
@@ -2738,44 +2742,6 @@ msgstr ""
 "果は相手の次のターンで消滅します。"
 
 #: A_Little_Adventure/utils/ALA_story.cfg:8
-#, fuzzy
-#| msgid ""
-#| "Few, even among the greatest dignitaries of the realm, know that "
-#| "Wesnoth's eastern borders extend far beyond the Eastmark Hills!\n"
-#| "All began when the Queen Li'sar, newly established on the throne, "
-#| "organized a series of expeditions that circumnavigated the continent of "
-#| "Irdya to determine its extension and establish the conformation of his "
-#| "coasts. One of these expeditions, commanded by the Admiral Abelardo "
-#| "Gozman, left Elensefar in the spring of 520 YW, heading north. After a "
-#| "journey of almost 2 years, almost all of them spent making surveys and "
-#| "doing research in the cold seas of the north, Gozman reached the eastern "
-#| "coasts of the continent, and then a small bay, at the mouth of a river, "
-#| "inhabited by a little community of nereids.\n"
-#| "The calculations made by Gozman made him suspect that the Bitter Swamp, "
-#| "that at the time represented the eastern limit of the human knowledge of "
-#| "the continent of Irdya, had to be, more or less, halfway between the "
-#| "eastern and the western coasts of the same continent. Then he chose a "
-#| "small group of men who, under the command of Captain Guberto Piegafetta "
-#| "and with the help of the Nereids, ascended the river to establish how far "
-#| "it was, to the west, its source. Gozman, for his part, considering the "
-#| "situation of the ships at his disposal too compromised to face who knows "
-#| "what situations continuing the journey to the south, resumed the road "
-#| "north, to return to Elensefar retracing the same route made the first "
-#| "leg, a route already known and so, in some sense, safer!\n"
-#| "Admiral Abelardo Gozman managed to return to Elensefar, where he arrived "
-#| "in the late summer of 523 YW, and when he arrived he found honors and "
-#| "glory, but above all he found the astonishing news that his lieutenant "
-#| "Guberto Piegafetta had arrived in Weldyn a couple of months before.\n"
-#| "Piegafetta, in fact, going up the Amber River (which we'll see later why "
-#| "it was so called), had discovered not only that the river was born from "
-#| "the Bitter Swamp, but it was also easily navigable almost to the swamp, "
-#| "at least for a small boat like the one he used to ascent it.\n"
-#| "Piegafetta took with him two things that became of great importance for "
-#| "the wild lands crossed by the Amber River: the first was a certain number "
-#| "of pieces of golden amber that the nereids were used to finding among the "
-#| "pebbles in the bottom of their bay; the second thing was the news that "
-#| "the lands he had crossed were wild, uninhabited and, above all, not "
-#| "claimed by anyone."
 msgid ""
 "Few, even among the greatest dignitaries of the realm, know that Wesnoth's "
 "eastern borders extend far beyond the Estmark Hills!\n"
@@ -2815,7 +2781,7 @@ msgid ""
 "anyone."
 msgstr ""
 "王国の高官でさえほとんど知らないこと、それは、\\Wesnoth の東方の境界線が、 "
-"Eastmark Hills を遥かに越えて広がっていることです。\n"
+"Estmark Hills を遥かに越えて広がっていることです。\n"
 "すべての始まりは、新たに王位に就いた女王 Li'sar が Irdya 大陸を一周する遠征隊"
 "を組織し、領土の拡大を決定したことと海岸線の形を確定したことが発端でした。遠"
 "征隊の一つは Abelardo Gozman 提督が率いていましたが、Wesnoth 暦 520年の春に "
@@ -2892,37 +2858,6 @@ msgstr ""
 
 #. I don't think "dignifiedly" is an actual word, but I know what he means and can't think of any better word to use, so it can stay for now:
 #: A_Little_Adventure/utils/ALA_story.cfg:27
-#, fuzzy
-#| msgid ""
-#| "Wesnoth's nobles and rich grew tired of amber, and for their own delight, "
-#| "the vanity of their kind consorts, and the pleasure of their keen lovers, "
-#| "they began to prefer the multi-colored precious stones that the dwarves "
-#| "pulled out of their mountains, and that were gotten more easily and with "
-#| "fewer vicissitudes than the amber coming into their hands.\n"
-#| "With the decline, and finally the cessation, of the traffic of the amber, "
-#| "Amoran also declined, as slowly and dignifiedly as an old lady. The "
-#| "population gradually decreased, the trades ended, the stone walls became "
-#| "too expensive to maintain, and where they collapsed they were replaced by "
-#| "wooden palisades. The garrison, once numerous, was reduced to a handful "
-#| "of soldiers, carefully chosen among those who, for lack of money and of "
-#| "rank, had fewer means to oppose the assignment of such a disagreeable "
-#| "destination. The cultivated fields became the only source of wealth of "
-#| "the inhabitants, and there was a thinning-out of the coins in "
-#| "circulation, and also the merchants thinned out.\n"
-#| "The only element of the anthropological landscape not to suffer a "
-#| "dramatic decline were the brigands, who became, however, more desperate, "
-#| "and therefore more ferocious than before!\n"
-#| "Amoran retained the title of capital, but was effectively subjected to "
-#| "the authority of the more important city of Soradoc, but Soradoc was far "
-#| "away, and Amoran was beyond the swamp, beyond the hills, beyond, above "
-#| "all, the interest of the Soradoc's authorities... so imagine how distant "
-#| "Amoran became from the interest of those who governed Weldyn.\n"
-#| "The town, now reduced to a village, had become so unimportant that it "
-#| "wasn't affected by the great invasion of undead of 625 YW, even if it "
-#| "seemed to have been born in the nearby Eastmark Hills. That was a good "
-#| "thing, because, otherwise, in no way could Amoran have survived to those "
-#| "calamitous events! Instead it survived, and... another day, another time, "
-#| "the wind changed!"
 msgid ""
 "Wesnoth's nobles and rich grew tired of amber, and for their own delight, "
 "the vanity of their kind consorts, and the pleasure of their keen lovers, "
@@ -2972,10 +2907,10 @@ msgstr ""
 "も Soradoc の権力者の関心の遠い向こう側にありました... Weldyn の統治者の関心"
 "から Amoran が、いかに遠いものとなったかをどうか想像してみてください。\n"
 "この町は、今や鄙びた村ですが、Wesnoth 暦 625年のアンデッドの大侵攻に影響され"
-"ないほど、重要性を失っていました、たとえそれが近くの Eastmark Hills で始まっ"
-"たようであっても。それは幸運なことでした。なぜなら、そうでなければ Amoran "
-"は、あの痛ましい事件で生き残ることなどなかったからです。そして、生き残ったこ"
-"とで... ある日ある時、風向きが変わりました！"
+"ないほど、重要性を失っていました、たとえそれが近くの Estmark Hills で始まった"
+"ようであっても。それは幸運なことでした。なぜなら、そうでなければ Amoran は、"
+"あの痛ましい事件で生き残ることなどなかったからです。そして、生き残ったこと"
+"で... ある日ある時、風向きが変わりました！"
 
 #. First scenario, before any gameplay, so we can be sure "sergeant" is correct here:
 #: A_Little_Adventure/utils/ALA_story.cfg:36
