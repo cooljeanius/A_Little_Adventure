@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-12-15 04:34 UTC\n"
+"POT-Creation-Date: 2022-12-22 05:55 UTC\n"
 "PO-Revision-Date: 2022-11-01 19:13+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
@@ -130,7 +130,7 @@ msgstr "Amoran pod útokem"
 #. [side]: type=Sergeant, id=Glauco
 #. [side]: id=Glauco, type=General
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:43
-#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:42
+#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:43
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:44
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:45
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:39
@@ -150,20 +150,20 @@ msgstr "Skřeti"
 
 #. [side]: type=Bandit, id=Dadoc
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:124
-#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:57
+#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:58
 msgid "Bandits"
 msgstr "Bandité"
 
 #. [objective]: condition=win
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:150
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:267
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:279
 msgid "Defeat one enemy leader"
 msgstr "Poraz jednoho z nepřátelských vůdců"
 
 #. [objective]: condition=lose
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:154
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:271
-#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:303
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:283
+#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:321
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:81
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:252
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:114
@@ -175,34 +175,40 @@ msgstr "Poraz jednoho z nepřátelských vůdců"
 msgid "Death of Glauco"
 msgstr "Glauko zemře"
 
+#. [note]
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:159
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:292
+msgid "Which leader you defeat will determine your next scenario."
+msgstr ""
+
 #. [event]
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:200
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:205
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:60
 msgid "The Ford of Amoran"
 msgstr "Amoranský brod"
 
 #. [event]
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:201
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:206
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:61
 msgid "Amoran"
 msgstr "Amoran"
 
 #. [event]
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:202
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:207
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:62
 msgid "The Estdoor bridge"
 msgstr "most Východní brány"
 
 # Nedoslovné, ale asi nejlepší, co dokážu vymyslet.
 #. [message]: speaker=narrator
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:230
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:235
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:264
 msgid "Welcome to Amoran, the last town toward Est"
 msgstr "Vítejte v Amoranu, posledním městě před Východní divočinou"
 
 #. [objective]: condition=lose
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:275
-#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:307
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:287
+#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:325
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:85
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:256
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:118
@@ -215,22 +221,30 @@ msgid "Death of Geobard"
 msgstr "Geobard zemře"
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:289
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:309
 msgid "Both orcs and bandits have fled! Looks like we won this battle!"
 msgstr "Skřeti i bandité uprchli! Vypadá to, že jsme tuto bitvu vyhráli!"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:293
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:313
 msgid "Not bad, but not enough!"
 msgstr "To není špatné, ale nestačí to."
 
+#. [message]: speaker=Dadoc
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:334
+msgid ""
+"Yikes, they're closing in on that Grunto! The plan won't work without him; "
+"I'd better start planning my escape, in case he's unable to fulfill his half "
+"of the pact..."
+msgstr ""
+
 #. [message]: speaker=second_unit
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:311
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:345
 msgid "Die, damned orc!"
 msgstr "Zemři, proklatý skřete!"
 
 #. [message]: speaker=Dadoc
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:315
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:349
 msgid ""
 "That stupid orc got himself killed, I'm not going to come to the same end as "
 "him. Let's retire, guys, we'll be back on another occasion, with stronger "
@@ -239,13 +253,20 @@ msgstr ""
 "Ten hloupý skřet si sám přivodil smrt. Nehodlám skončit jako on. Stáhněme "
 "se, chlapci, vrátíme se při jiné příležitosti a se silnějšími spojenci!"
 
+#. [message]: speaker=Grunto
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:395
+msgid ""
+"That human we were supposed to work with doesn't look like he'll be able to "
+"fulfill his half of the pact! We just might have to leave if he fails us..."
+msgstr ""
+
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:333
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:406
 msgid "The right fate for a wrong man!"
 msgstr "Správný osud pro špatného chlapa!"
 
 #. [message]: speaker=Grunto
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:337
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:410
 msgid ""
 "Here's what happens to humans who are too weak! Let's go, guys, we have "
 "nothing more to do here, for today at least!"
@@ -254,7 +275,7 @@ msgstr ""
 "nemáme co dělat, aspoň pro dnešek!"
 
 #. [message]: speaker=narrator
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:355
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:453
 msgid ""
 "After many days of battle, the civilians enlisted, not used to fighting, "
 "began to desert, frightened and exhausted! The large voids that opened in "
@@ -267,7 +288,7 @@ msgstr ""
 "brzy byl konec!"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:361
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:459
 msgid ""
 "I failed my first command! Better to die here than return to Wesnoth like a "
 "loser!"
@@ -281,60 +302,60 @@ msgid "Battle with the Bandits"
 msgstr "Bitva s bandity"
 
 #. [attack]: type=blade
-#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:282
+#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:300
 msgid "claws"
 msgstr "drápy"
 
 #. [objective]: condition=win
-#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:299
+#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:317
 msgid "Defeat of Dadoc"
 msgstr "Poraz Dadoka"
 
 #. [objective]: condition=lose
-#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:311
+#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:329
 msgid "Death of Divaid"
 msgstr "Divaid zemře"
 
 #. [objective]: condition=lose
-#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:315
+#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:333
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:89
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:264
 msgid "End of turns"
 msgstr "Vyprší počet kol"
 
 #. [message]: speaker=Ranfy
-#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:352
+#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:370
 msgid "Kreeee!"
 msgstr "Kráááá!"
 
 #. [message]: speaker=Divaid
-#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:356
+#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:374
 msgid "Ranfy found somebody!"
 msgstr "Ranfy někoho našel!"
 
 #. [message]: speaker=unit
-#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:362
+#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:380
 msgid "There's someone here!"
 msgstr "Někdo tu je!"
 
 # Originál je trochu divný.
 #. [message]: id=Glauco
-#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:410
+#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:428
 msgid "There he is! Don't lose sight of it another time!"
 msgstr "Tady je! Neztraťte ho z očí!"
 
 #. [message]: id=Dadoc
-#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:414
+#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:432
 msgid "Find me don't mean catch me!"
 msgstr "Najít mě neznamená chytit mě!"
 
 #. [message]: speaker=Ranfy
-#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:435
+#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:454
 msgid "Kraii?"
 msgstr "Kráá?"
 
 #. [message]: speaker=Divaid
-#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:439
+#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:458
 msgid ""
 "Ranfy found a little bit of gold in that uninhabited house! Probably it was "
 "hidden by some bandit."
@@ -343,22 +364,22 @@ msgstr ""
 "bandita."
 
 #. [message]: speaker=unit
-#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:445
+#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:464
 msgid "There's some gold hidden here! Not much, but better than nothing."
 msgstr "Je tu schované nějaké zlato! Ne mnoho, ale lepší než nic."
 
 #. [message]: speaker=Dadoc
-#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:465
+#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:485
 msgid "End of run... for me..."
 msgstr "Skřípli... mě..."
 
 #. [message]: speaker=Divaid
-#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:475
+#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:495
 msgid "Good work, Ranfy!"
 msgstr "Dobrá práce, Ranfy!"
 
 #. [message]: speaker=second_unit
-#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:481
+#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:501
 msgid ""
 "This is the reward for your crimes, you dirty bandit Dadoc, in the name of "
 "all the people of this land!"
@@ -367,19 +388,19 @@ msgstr ""
 "lidí této země!"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:491
+#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:511
 msgid ""
 "Amoran is more safe, now! This will give us the time to take care of "
 "something else!"
 msgstr "Amoran je teď bezpečnější! To nám dá čas věnovat se něčemu jinému!"
 
 #. [message]: speaker=Dadoc
-#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:513
+#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:538
 msgid "Farewell, men of Wesnoth, Dadoc will remain a free man! AH AH AH!"
 msgstr "Sbohem, wesnothští mužové, Dadok zůstane volný jako pták! HA HA HA!"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:517
+#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:542
 msgid "Damn, he escaped us. We must return to Amoran as failures!"
 msgstr "Sakra, utekl nám. Musíme se vrátit do Amoranu jako poražení!"
 
@@ -502,7 +523,9 @@ msgstr "Monstra"
 
 #. [objective]: condition=win
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:62
-msgid "Glauco reaches the signpost over the mountains"
+#, fuzzy
+#| msgid "Glauco reaches the signpost over the mountains"
+msgid "Glauco reaches the waypoint (marked by a monolith) over the mountains"
 msgstr "Glauko dosáhne rozcestníku na druhé straně hor"
 
 #. [message]: speaker=narrator
@@ -688,32 +711,32 @@ msgid "Those damned are all dead or escaped! Finally we finished!"
 msgstr "Ti zatracenci jsou všichni mrtví nebo uprchli! Konečně jsme hotovi!"
 
 #. [message]: speaker=Gan-Tarkas
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:524
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:525
 msgid "Impossible!"
 msgstr "Nemožný!"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:528
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:529
 msgid "With your end, orc, Amoran can and will have a new start!"
 msgstr "S tvým koncem, skřete, může a bude mít Amoran novou budoucnost!"
 
 #. [message]: speaker=Glubtrub
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:543
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:544
 msgid "To remain only to squash big snake!"
 msgstr "Jen velký had zbývat rozmáčknout!"
 
 #. [message]: speaker=Hisskss
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:559
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:560
 msgid "Hissss!"
 msgstr "Assss!"
 
 #. [message]: speaker=Glubtrub
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:567
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:568
 msgid "Other snake make flat-flat! Oh! Oh! Oh!"
 msgstr "Další had ležet jak kláda! Hó! Hó! Hó!"
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:576
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:577
 msgid "And now let's finish taking care of his friend, Gan-Tarkas!"
 msgstr "A teď to pojďme dokončit s jeho kámošem Gan-Tarkasem!"
 
@@ -2736,9 +2759,47 @@ msgstr ""
 "kola zasažené jednotky."
 
 #: A_Little_Adventure/utils/ALA_story.cfg:8
+#, fuzzy
+#| msgid ""
+#| "Few, even among the greatest dignitaries of the realm, know that "
+#| "Wesnoth's eastern borders extend far beyond the Eastmark Hills!\n"
+#| "All began when the Queen Li'sar, newly established on the throne, "
+#| "organized a series of expeditions that circumnavigated the continent of "
+#| "Irdya to determine its extension and establish the conformation of his "
+#| "coasts. One of these expeditions, commanded by the Admiral Abelardo "
+#| "Gozman, left Elensefar in the spring of 520 YW, heading north. After a "
+#| "journey of almost 2 years, almost all of them spent making surveys and "
+#| "doing research in the cold seas of the north, Gozman reached the eastern "
+#| "coasts of the continent, and then a small bay, at the mouth of a river, "
+#| "inhabited by a little community of nereids.\n"
+#| "The calculations made by Gozman made him suspect that the Bitter Swamp, "
+#| "that at the time represented the eastern limit of the human knowledge of "
+#| "the continent of Irdya, had to be, more or less, halfway between the "
+#| "eastern and the western coasts of the same continent. Then he chose a "
+#| "small group of men who, under the command of Captain Guberto Piegafetta "
+#| "and with the help of the Nereids, ascended the river to establish how far "
+#| "it was, to the west, its source. Gozman, for his part, considering the "
+#| "situation of the ships at his disposal too compromised to face who knows "
+#| "what situations continuing the journey to the south, resumed the road "
+#| "north, to return to Elensefar retracing the same route made the first "
+#| "leg, a route already known and so, in some sense, safer!\n"
+#| "Admiral Abelardo Gozman managed to return to Elensefar, where he arrived "
+#| "in the late summer of 523 YW, and when he arrived he found honors and "
+#| "glory, but above all he found the astonishing news that his lieutenant "
+#| "Guberto Piegafetta had arrived in Weldyn a couple of months before.\n"
+#| "Piegafetta, in fact, going up the Amber River (which we'll see later why "
+#| "it was so called), had discovered not only that the river was born from "
+#| "the Bitter Swamp, but it was also easily navigable almost to the swamp, "
+#| "at least for a small boat like the one he used to ascent it.\n"
+#| "Piegafetta took with him two things that became of great importance for "
+#| "the wild lands crossed by the Amber River: the first was a certain number "
+#| "of pieces of golden amber that the nereids were used to finding among the "
+#| "pebbles in the bottom of their bay; the second thing was the news that "
+#| "the lands he had crossed were wild, uninhabited and, above all, not "
+#| "claimed by anyone."
 msgid ""
 "Few, even among the greatest dignitaries of the realm, know that Wesnoth's "
-"eastern borders extend far beyond the Eastmark Hills!\n"
+"eastern borders extend far beyond the Estmark Hills!\n"
 "All began when the Queen Li'sar, newly established on the throne, organized "
 "a series of expeditions that circumnavigated the continent of Irdya to "
 "determine its extension and establish the conformation of his coasts. One of "
@@ -2861,6 +2922,37 @@ msgstr ""
 
 #. I don't think "dignifiedly" is an actual word, but I know what he means and can't think of any better word to use, so it can stay for now:
 #: A_Little_Adventure/utils/ALA_story.cfg:27
+#, fuzzy
+#| msgid ""
+#| "Wesnoth's nobles and rich grew tired of amber, and for their own delight, "
+#| "the vanity of their kind consorts, and the pleasure of their keen lovers, "
+#| "they began to prefer the multi-colored precious stones that the dwarves "
+#| "pulled out of their mountains, and that were gotten more easily and with "
+#| "fewer vicissitudes than the amber coming into their hands.\n"
+#| "With the decline, and finally the cessation, of the traffic of the amber, "
+#| "Amoran also declined, as slowly and dignifiedly as an old lady. The "
+#| "population gradually decreased, the trades ended, the stone walls became "
+#| "too expensive to maintain, and where they collapsed they were replaced by "
+#| "wooden palisades. The garrison, once numerous, was reduced to a handful "
+#| "of soldiers, carefully chosen among those who, for lack of money and of "
+#| "rank, had fewer means to oppose the assignment of such a disagreeable "
+#| "destination. The cultivated fields became the only source of wealth of "
+#| "the inhabitants, and there was a thinning-out of the coins in "
+#| "circulation, and also the merchants thinned out.\n"
+#| "The only element of the anthropological landscape not to suffer a "
+#| "dramatic decline were the brigands, who became, however, more desperate, "
+#| "and therefore more ferocious than before!\n"
+#| "Amoran retained the title of capital, but was effectively subjected to "
+#| "the authority of the more important city of Soradoc, but Soradoc was far "
+#| "away, and Amoran was beyond the swamp, beyond the hills, beyond, above "
+#| "all, the interest of the Soradoc's authorities... so imagine how distant "
+#| "Amoran became from the interest of those who governed Weldyn.\n"
+#| "The town, now reduced to a village, had become so unimportant that it "
+#| "wasn't affected by the great invasion of undead of 625 YW, even if it "
+#| "seemed to have been born in the nearby Eastmark Hills. That was a good "
+#| "thing, because, otherwise, in no way could Amoran have survived to those "
+#| "calamitous events! Instead it survived, and... another day, another time, "
+#| "the wind changed!"
 msgid ""
 "Wesnoth's nobles and rich grew tired of amber, and for their own delight, "
 "the vanity of their kind consorts, and the pleasure of their keen lovers, "
@@ -2887,7 +2979,7 @@ msgid ""
 "became from the interest of those who governed Weldyn.\n"
 "The town, now reduced to a village, had become so unimportant that it wasn't "
 "affected by the great invasion of undead of 625 YW, even if it seemed to "
-"have been born in the nearby Eastmark Hills. That was a good thing, because, "
+"have been born in the nearby Estmark Hills. That was a good thing, because, "
 "otherwise, in no way could Amoran have survived to those calamitous events! "
 "Instead it survived, and... another day, another time, the wind changed!"
 msgstr ""
