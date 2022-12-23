@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-12-23 07:43 UTC\n"
-"PO-Revision-Date: 2022-12-22 19:01+0900\n"
+"PO-Revision-Date: 2022-12-23 22:44+0900\n"
 "Last-Translator: konami,k <konamit2008@gmail.com>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -643,8 +643,6 @@ msgstr "北からもっとモンスターがやってきてる、似たような
 
 #. [message]: speaker=Giksy
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:283
-#, fuzzy
-#| msgid "We need of ohtersss sssea companionsss, sssummon all them!"
 msgid "We need of othersss sssea companionsss, sssummon them all!"
 msgstr "他の海の仲間も必要だ、全員を、ショー喚シーろ、シャー！"
 
@@ -2659,10 +2657,8 @@ msgstr "我々がナーガに追い払われるきっかけにならないこと
 
 #. [message]: speaker=narrator
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:909
-#, fuzzy
-#| msgid "Welcome to Amoran, the last town toward Est"
 msgid "Welcome to Amoran, the last Wesnothian town to the east"
-msgstr "国の最東端の街、Amoran へようこそ"
+msgstr "Wesnoth 人の最東端の街、Amoran へようこそ"
 
 #. [time]: id=dawn_12h
 #: A_Little_Adventure/utils/ALA_schedules.cfg:21
