@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-12-22 05:55 UTC\n"
+"POT-Creation-Date: 2022-12-23 07:43 UTC\n"
 "PO-Revision-Date: 2022-12-22 19:01+0900\n"
 "Last-Translator: konami,k <konamit2008@gmail.com>\n"
 "Language-Team: \n"
@@ -152,28 +152,28 @@ msgstr "山賊"
 
 #. [objective]: condition=win
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:150
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:279
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:275
 msgid "Defeat one enemy leader"
 msgstr "敵のリーダーを１人倒す"
 
 #. [objective]: condition=lose
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:154
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:283
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:279
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:321
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:81
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:252
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:114
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:207
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:151
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:244
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:66
-#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:111
+#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:144
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:42
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:480
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:476
 msgid "Death of Glauco"
 msgstr "Glauco の死"
 
 #. [note]
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:159
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:292
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:288
 msgid "Which leader you defeat will determine your next scenario."
 msgstr "どちらのリーダーを倒すかで次のシナリオが決まります。"
 
@@ -195,38 +195,32 @@ msgstr "Amoran"
 msgid "The Estdoor bridge"
 msgstr "Eastdoor 橋"
 
-#. [message]: speaker=narrator
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:235
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:264
-msgid "Welcome to Amoran, the last town toward Est"
-msgstr "国の最東端の街、Amoran へようこそ"
-
 #. [objective]: condition=lose
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:287
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:283
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:325
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:85
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:256
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:118
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:211
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:155
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:248
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:70
-#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:115
+#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:148
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:46
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:484
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:480
 msgid "Death of Geobard"
 msgstr "Geobard の死"
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:309
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:305
 msgid "Both orcs and bandits have fled! Looks like we won this battle!"
 msgstr "オークも山賊も逃げ出したぞ！我々はこの戦いに勝ったようです!"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:313
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:309
 msgid "Not bad, but not enough!"
 msgstr "悪くはないが、物足りないな！"
 
 #. [message]: speaker=Dadoc
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:334
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:330
 msgid ""
 "Yikes, they're closing in on that Grunto! The plan won't work without him; "
 "I'd better start planning my escape, in case he's unable to fulfill his half "
@@ -237,12 +231,12 @@ msgstr ""
 "う。"
 
 #. [message]: speaker=second_unit
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:345
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:341
 msgid "Die, damned orc!"
 msgstr "死ね、忌々しいオークめ！"
 
 #. [message]: speaker=Dadoc
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:349
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:345
 msgid ""
 "That stupid orc got himself killed, I'm not going to come to the same end as "
 "him. Let's retire, guys, we'll be back on another occasion, with stronger "
@@ -252,7 +246,7 @@ msgstr ""
 "げようぜ、またにしよう、もっとツエーのを連れてきてやる！"
 
 #. [message]: speaker=Grunto
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:395
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:391
 msgid ""
 "That human we were supposed to work with doesn't look like he'll be able to "
 "fulfill his half of the pact! We just might have to leave if he fails us..."
@@ -261,12 +255,12 @@ msgstr ""
 "いじゃねえか！このまま奴らが負けたら、俺たちも退散しなきゃなんねえ..."
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:406
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:402
 msgid "The right fate for a wrong man!"
 msgstr "悪い奴らの、悪くない結末だな！"
 
 #. [message]: speaker=Grunto
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:410
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:406
 msgid ""
 "Here's what happens to humans who are too weak! Let's go, guys, we have "
 "nothing more to do here, for today at least!"
@@ -275,7 +269,7 @@ msgstr ""
 "何もすることがないからな！"
 
 #. [message]: speaker=narrator
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:453
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:449
 msgid ""
 "After many days of battle, the civilians enlisted, not used to fighting, "
 "began to desert, frightened and exhausted! The large voids that opened in "
@@ -287,7 +281,7 @@ msgstr ""
 "ませ、遂には終焉を迎えたのでした！"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:459
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:455
 msgid ""
 "I failed my first command! Better to die here than return to Wesnoth like a "
 "loser!"
@@ -338,44 +332,44 @@ msgid "There's someone here!"
 msgstr "誰かいる！"
 
 #. [message]: id=Glauco
-#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:428
+#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:430
 msgid "There he is! Don't lose sight of it another time!"
 msgstr "奴がいるぞ！今度は見失うなよ！"
 
 #. [message]: id=Dadoc
-#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:432
+#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:434
 msgid "Find me don't mean catch me!"
 msgstr "見つかっても捕まりゃしないぜ！"
 
 #. [message]: speaker=Ranfy
-#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:454
+#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:457
 msgid "Kraii?"
 msgstr "クラィー？"
 
 #. [message]: speaker=Divaid
-#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:458
+#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:461
 msgid ""
 "Ranfy found a little bit of gold in that uninhabited house! Probably it was "
 "hidden by some bandit."
 msgstr "Ranfy があの無人の家で少量の gold を見つけたぞ。"
 
 #. [message]: speaker=unit
-#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:464
+#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:467
 msgid "There's some gold hidden here! Not much, but better than nothing."
 msgstr "ここに gold が隠してあるんだ！少量だけど無いよりマシだ。"
 
 #. [message]: speaker=Dadoc
-#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:485
+#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:488
 msgid "End of run... for me..."
 msgstr "こんな結末なのか、俺様は..."
 
 #. [message]: speaker=Divaid
-#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:495
+#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:498
 msgid "Good work, Ranfy!"
 msgstr "やるじゃねえか、Ranfy！"
 
 #. [message]: speaker=second_unit
-#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:501
+#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:504
 msgid ""
 "This is the reward for your crimes, you dirty bandit Dadoc, in the name of "
 "all the people of this land!"
@@ -384,19 +378,19 @@ msgstr ""
 "いて！"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:511
+#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:514
 msgid ""
 "Amoran is more safe, now! This will give us the time to take care of "
 "something else!"
 msgstr "Amoran はもっと安全だ。さあ、これで他のことに時間が回せるぞ!"
 
 #. [message]: speaker=Dadoc
-#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:538
+#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:541
 msgid "Farewell, men of Wesnoth, Dadoc will remain a free man! AH AH AH!"
 msgstr "あばよ、 Wesnoth の野郎ども、Dadoc 様は自由に生きてやる！ガッハッハ！"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:542
+#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:545
 msgid "Damn, he escaped us. We must return to Amoran as failures!"
 msgstr "クッソー、逃げられた。失敗したまま Amoran に戻らねばならんとは！"
 
@@ -433,7 +427,7 @@ msgstr "死ね、オーク、Amoran の民のために！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:315
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:321
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:379
 msgid ""
 "Damn! This battle is dragging on too long, the men are exhausted! We must "
 "retreat, the mission failed!"
@@ -448,39 +442,39 @@ msgstr "ナーガの巣窟"
 
 #. [side]: type=Naga Myrmidon, id=Kssihiss
 #. [side]: type=Naga Myrmidon
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:66
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:88
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:122
 msgid "Nagas"
 msgstr "ナーガ"
 
 #. [attack]: type=blade
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:87
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:124
 #: A_Little_Adventure/units/Great_Ogre.cfg:39
 msgid "cleaver"
 msgstr "肉切り庖丁"
 
 #. [side]: type=EXI_Ogregreat, id=Glubtrub
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:94
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:131
 msgid "Ogres"
 msgstr "オーガ"
 
 #. [objective]: condition=win
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:110
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:203
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:147
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:240
 msgid "Defeat Kssihiss"
 msgstr "Kssihiss を倒す"
 
 #. [objective]: condition=lose
 #. $trapper_name is now part of this string at the request of the Japanese translator:
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:123
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:215
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:160
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:252
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:74
 msgid "Death of $trapper_name"
 msgstr "$trapper_name の死"
 
 #. [message]: speaker=Glubtrub
 #. "Wetspot" is ogre-speak for "Wesnoth"; I will try to ensure it's capitalized consistently:
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:182
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:219
 msgid ""
 "What this confusion? Men colored like Wetspot and snake to fight? Ogres to "
 "come too, good chance to squash all!"
@@ -489,21 +483,21 @@ msgstr ""
 "つぶす、チャンス！"
 
 #. [objective]: condition=lose
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:219
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:256
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:78
-#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:119
+#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:152
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:50
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:488
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:484
 msgid "Death of Glubtrub"
 msgstr "Glubtrub の死"
 
 #. [message]: speaker=narrator
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:265
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:302
 msgid "Wesnoth Kingdom - Caravan Station n° 2"
 msgstr "Wesnoth 王国 キャラバン駅 No.2"
 
 #. [message]: speaker=Kssihiss
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:276
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:334
 msgid "Damned humansss... Hiss!"
 msgstr "忌々しい人間ども... シャーッ！"
 
@@ -523,26 +517,26 @@ msgid "Glauco reaches the waypoint (marked by a monolith) over the mountains"
 msgstr "Glauco が山越えの目標地点（東端のモノリス）に到達する"
 
 #. [message]: speaker=narrator
-#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:323
+#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:326
 msgid "Wesnoth Kingdom - Caravan Station n° 1"
 msgstr "Wesnoth 王国 キャラバン駅 No.1"
 
 #. [message]: speaker=Mimord
 #. I'm assuming the "wrap" referred to here is an article of clothing:
-#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:369
+#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:372
 msgid ""
 "Damned wolves, I thought I had taught you not to come into my house! Well, "
 "I'll make a wrap out of your fur!"
 msgstr "くそ狼め、俺の家に入るなと教えたはずだ！お前の毛皮で包んでやる！"
 
 #. [message]: speaker=Croquet
-#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:374
+#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:377
 msgid "Hey you! Get your hands off my little Fangy!"
 msgstr "おい、お前！俺の Fangy ちゃんに触るな！"
 
 #. [message]: speaker=Mimord
 #. a "capon" is a rooster that has been castrated or neutered:
-#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:387
+#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:390
 msgid ""
 "Ugly bird! Wolves and bats were not enough around here? I'll wring your neck "
 "like a capon!"
@@ -551,18 +545,18 @@ msgstr ""
 "みたいに首を絞めてやる！"
 
 #. [message]: speaker=Divaid
-#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:392
+#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:395
 msgid "Don't you dare to touch my friend Ranfy, tattooed midget!"
 msgstr "俺の友達の Ranfy に触るんじゃねえよ、刺青の小人め！"
 
 #. [message]: speaker=unit
-#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:404
+#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:407
 msgid "Urca! House inhabited!"
 msgstr "うわっ！　誰か住んでる！"
 
 #. [message]: speaker=Mimord
 #. This is about as well as I think I can reword this; I'm not quite sure what he meant by completing his home, but the final sentence is supposed to be a clever way to call the ogre "brainless":
-#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:409
+#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:412
 msgid ""
 "That's right, stupid ogre! And we were only missing you to complete my home! "
 "Well, if I break your head I will not do much damage, as you don't hold "
@@ -573,24 +567,24 @@ msgstr ""
 "空っぽだからな！"
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:414
+#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:417
 msgid "Wait, that ogre is with us!"
 msgstr "待て、仲間の中にはオーガも居るんだぞ！"
 
 #. [message]: speaker=unit
-#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:420
+#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:423
 msgid "Hey! There's somebody here!"
 msgstr "おい！誰かここにいるぞ！"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:443
+#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:446
 msgid ""
 "We passed those hills, finally! We can continue on to reach the nereids now!"
 msgstr ""
 "やっと丘を越えられた！ これで nereids（ merfolk の一集団）のところへ行けるな!"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:469
+#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:475
 msgid ""
 "All these attacks are exhausting us; we won't be able to cross the hills! We "
 "must retreat; the mission failed!"
@@ -603,28 +597,28 @@ msgid "The Lizard's Islands"
 msgstr "トカゲの島"
 
 #. [side]: type=Saurian Flanker, id=Giksy
-#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:60
+#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:83
 msgid "Saurian"
 msgstr "トカゲ族"
 
 #. [side]: type=Merman Triton, id=Joralda
-#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:80
+#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:103
 msgid "Nereids"
 msgstr "Nereids（ Merkfolk ）"
 
 #. [objective]: condition=win
 #. The inclusion of "Squash" as a synonym for "Defeat" in this objective is for the benefit of Glubtrub:
-#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:107
+#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:140
 msgid "Squash... or... Defeat the Saurian Chief"
 msgstr "トカゲの首領を倒す"
 
 #. [note]
-#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:124
+#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:157
 msgid "The death of $trapper_name will no longer cause defeat."
 msgstr "$trapper_name の死は敗北条件ではなくなりました。"
 
 #. [message]: speaker=Giksy
-#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:221
+#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:256
 msgid ""
 "Let's ssshow them the little sssurprissse that we had prepared for the "
 "fisssh if they had decided to recover the issland!"
@@ -633,7 +627,7 @@ msgstr ""
 "プライズを見セーてやろうぜ！"
 
 #. [message]: speaker=Giksy
-#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:233
+#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:268
 msgid ""
 "Thingsss are not going well! Ssshamansss, sssummon other sssnakesss from the "
 "sssea!"
@@ -642,18 +636,20 @@ msgstr ""
 "セー、シャー！"
 
 #. [message]: speaker=Joralda
-#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:240
+#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:275
 msgid ""
 "More monsters are coming from the north; they're like the ones from before!"
 msgstr "北からもっとモンスターがやってきてる、似たような奴らばかりだ！"
 
 #. [message]: speaker=Giksy
-#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:248
-msgid "We need of ohtersss sssea companionsss, sssummon all them!"
+#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:283
+#, fuzzy
+#| msgid "We need of ohtersss sssea companionsss, sssummon all them!"
+msgid "We need of othersss sssea companionsss, sssummon them all!"
 msgstr "他の海の仲間も必要だ、全員を、ショー喚シーろ、シャー！"
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:256
+#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:291
 msgid ""
 "I hope these are the last ones! They make me feel seasick with all their "
 "contortions!"
@@ -661,17 +657,17 @@ msgstr ""
 "こいつらで最後だといいんだが！クネクネねじ曲がって、船酔いしそうな気分だ！"
 
 #. [message]: speaker=Giksy
-#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:267
+#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:302
 msgid "Aaah... I'll... never... sssee... my... treasssure... again..."
 msgstr "アァ... もう... 二度とないのか... 俺様の宝物を... 見ることは..."
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:300
+#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:335
 msgid "Oh no, without the nereids' help, it was all in vain! I failed!"
 msgstr "ダ、ダメだ、nereid の助けなしには、すべて水泡に帰してしまう。負けた！"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:311
+#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:346
 msgid "It's useless, and we cannot prevail! We failed!"
 msgstr "無駄だ、勝てるわけがない！負けた！"
 
@@ -686,47 +682,47 @@ msgid "Defeat Gan-Tarkas"
 msgstr "Gan-Tarkas を倒す"
 
 #. [message]: speaker=Gan-Tarkas
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:336
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:332
 msgid "Widen the path across the river again, and then everyone attack!"
 msgstr "川を渡る道をもう一度広げるんだ、そうして全員攻撃だ！"
 
 #. [objective]: condition=win
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:476
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:472
 msgid "Defeat all enemy leaders"
 msgstr "敵のリーダーをすべて倒す"
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:508
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:504
 msgid "Those damned are all dead or escaped! Finally we finished!"
 msgstr "あの忌々しい奴らは、全滅したか逃げ出したかだ！　遂に終わった！"
 
 #. [message]: speaker=Gan-Tarkas
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:525
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:521
 msgid "Impossible!"
 msgstr "あり得ん！"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:529
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:525
 msgid "With your end, orc, Amoran can and will have a new start!"
 msgstr "オークさんよ、お前らが消えて、Amoran は新しいスタートを切れるんだよ！"
 
 #. [message]: speaker=Glubtrub
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:544
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:540
 msgid "To remain only to squash big snake!"
 msgstr "大きなヘビ潰すためだけに、オレ、残る！"
 
 #. [message]: speaker=Hisskss
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:560
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:556
 msgid "Hissss!"
 msgstr "シャーーーッ！"
 
 #. [message]: speaker=Glubtrub
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:568
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:564
 msgid "Other snake make flat-flat! Oh! Oh! Oh!"
 msgstr "他のヘビ、みんな静かにしてるでしょ、こら！オゥオゥオゥ！"
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:577
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:573
 msgid "And now let's finish taking care of his friend, Gan-Tarkas!"
 msgstr "さて、それじゃ、彼のご友人、 Gan-Tarkas を始末する番だ！"
 
@@ -835,7 +831,7 @@ msgid "Matronly Ogre"
 msgstr "肥熟オーガ"
 
 #. [unit_type]: id=Matronly Ogresses, race=ogre
-#: A_Little_Adventure/units/Matronly_Ogresses.cfg:24
+#: A_Little_Adventure/units/Matronly_Ogresses.cfg:25
 msgid ""
 "As they grow older, she-ogres gain weight, so they lose the agility "
 "necessary to use slings, but, in exchange, they gain the capability to use "
@@ -848,7 +844,7 @@ msgstr ""
 "ます。"
 
 #. [attack]: type=impact
-#: A_Little_Adventure/units/Matronly_Ogresses.cfg:44
+#: A_Little_Adventure/units/Matronly_Ogresses.cfg:45
 #: A_Little_Adventure/units/She_Ogre.cfg:44
 msgid "club"
 msgstr "棍棒"
@@ -2661,6 +2657,13 @@ msgid ""
 "Here's to hoping it isn't the opportunity for the nagas to get rid of us!"
 msgstr "我々がナーガに追い払われるきっかけにならないことを祈りましょう！"
 
+#. [message]: speaker=narrator
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:909
+#, fuzzy
+#| msgid "Welcome to Amoran, the last town toward Est"
+msgid "Welcome to Amoran, the last Wesnothian town to the east"
+msgstr "国の最東端の街、Amoran へようこそ"
+
 #. [time]: id=dawn_12h
 #: A_Little_Adventure/utils/ALA_schedules.cfg:21
 msgid "Dawn"
@@ -2741,7 +2744,7 @@ msgstr ""
 "この攻撃の威力は大きく、相手は意識が朦朧として ZOC を維持できなくなります。効"
 "果は相手の次のターンで消滅します。"
 
-#: A_Little_Adventure/utils/ALA_story.cfg:8
+#: A_Little_Adventure/utils/ALA_story.cfg:10
 msgid ""
 "Few, even among the greatest dignitaries of the realm, know that Wesnoth's "
 "eastern borders extend far beyond the Estmark Hills!\n"
@@ -2808,7 +2811,7 @@ msgstr ""
 "珀の小片です。そしてもう一つは、彼が横断した土地は原野であり住人がいないこ"
 "と、しかも、誰も主権を主張していないという情報でした。"
 
-#: A_Little_Adventure/utils/ALA_story.cfg:19
+#: A_Little_Adventure/utils/ALA_story.cfg:21
 msgid ""
 "While the lack of a sovereignty over the wild lands immediately interested "
 "the reigning house of Wesnoth, the amber immediately interested the "
@@ -2857,7 +2860,7 @@ msgstr ""
 "ました... 時代が変わるまでは！"
 
 #. I don't think "dignifiedly" is an actual word, but I know what he means and can't think of any better word to use, so it can stay for now:
-#: A_Little_Adventure/utils/ALA_story.cfg:27
+#: A_Little_Adventure/utils/ALA_story.cfg:29
 msgid ""
 "Wesnoth's nobles and rich grew tired of amber, and for their own delight, "
 "the vanity of their kind consorts, and the pleasure of their keen lovers, "
@@ -2913,7 +2916,7 @@ msgstr ""
 "で... ある日ある時、風向きが変わりました！"
 
 #. First scenario, before any gameplay, so we can be sure "sergeant" is correct here:
-#: A_Little_Adventure/utils/ALA_story.cfg:36
+#: A_Little_Adventure/utils/ALA_story.cfg:38
 msgid ""
 "This is the story of a bold young man named Glauco, whose fresh nomination "
 "as a sergeant counterbalanced the sending, as commander, to the meager "
@@ -2944,7 +2947,7 @@ msgstr ""
 "の顔は決して美しいものではありませんでした。"
 
 #. yes, the third sentence here is kind of a run-on; suggestions on how to reword it are welcome:
-#: A_Little_Adventure/utils/ALA_story.cfg:43
+#: A_Little_Adventure/utils/ALA_story.cfg:45
 msgid ""
 "Having defeated Grunto the Orc, Glauco thought it was time to settle the "
 "accounts with Dadoc and his band. The arrival of Geobard with orders of "
@@ -2962,7 +2965,7 @@ msgstr ""
 "楽しむために避難する場所でした。"
 
 #. TODO: check "sergeant" usage:
-#: A_Little_Adventure/utils/ALA_story.cfg:48
+#: A_Little_Adventure/utils/ALA_story.cfg:50
 msgid ""
 "But, having departed with plenty of enthusiasm, our sergeant lost much of "
 "his boldness when he found himself on the edge of the forest; there was no "
@@ -2978,7 +2981,7 @@ msgstr ""
 "日になれば、何をすべきか、はっきりする」。"
 
 #. TODO: check "sergeant" usage:
-#: A_Little_Adventure/utils/ALA_story.cfg:54
+#: A_Little_Adventure/utils/ALA_story.cfg:56
 msgid ""
 "With Dadoc's gang out of the games, and emboldened by the victory obtained "
 "and by his new commander prerogatives, Glauco decided to face at least one "
@@ -3000,7 +3003,7 @@ msgstr ""
 "地での作戦は、兵数が一部しか分からない軍隊との戦いであって、危険で不確実な要"
 "素ばかりでした。"
 
-#: A_Little_Adventure/utils/ALA_story.cfg:58
+#: A_Little_Adventure/utils/ALA_story.cfg:60
 msgid ""
 "So Glauco decided only to rely on professional soldiers, who would not fall "
 "in panic in the face of the fierce appearance of the orcs. When he finally "
@@ -3023,7 +3026,7 @@ msgstr ""
 "役に立たなかったようです。慎重を期して、当初の守備隊の残りは Amoran に残して"
 "戦いの疲労回復を優先させ、不測の事態から町を危険から守らせることにしました！"
 
-#: A_Little_Adventure/utils/ALA_story.cfg:62
+#: A_Little_Adventure/utils/ALA_story.cfg:64
 msgid ""
 "Grunto was the chief of a tribe smaller than his ambitions, and its "
 "territory was so small that it took only a few days for the Glauco's troops "
@@ -3036,7 +3039,7 @@ msgstr ""
 "した。戦いは始められましたが、いくら小さなオーク族とはいえ、Glauco が率いる男"
 "たちにとっては大きすぎたかもしれません！"
 
-#: A_Little_Adventure/utils/ALA_story.cfg:66
+#: A_Little_Adventure/utils/ALA_story.cfg:68
 msgid ""
 "Having defeated orcs and bandits, Amoran would have a period of quiet life, "
 "at least until some orcish chiefs decided to settle on the lands of Grunto, "
@@ -3055,7 +3058,7 @@ msgstr ""
 "航行可能ですが、オークの領土との国境でもあり、安全を保証するために川には船を"
 "航行させてはならないという、北部同盟との条約がありました。"
 
-#: A_Little_Adventure/utils/ALA_story.cfg:70
+#: A_Little_Adventure/utils/ALA_story.cfg:72
 msgid ""
 "The only alternative was the old caravan track, which for most of its "
 "journey supported the course of the river; but the track was in disastrous "
@@ -3073,7 +3076,7 @@ msgstr ""
 "Glauco には、これらの問題を回避できる、ある発想がありました。ただそれには、東"
 "方の Nereids と接触する必要がありました。"
 
-#: A_Little_Adventure/utils/ALA_story.cfg:74
+#: A_Little_Adventure/utils/ALA_story.cfg:76
 msgid ""
 "The only way to contact the eastern nereids was to cross the wildlands; "
 "Glauco, with the resources he could dispose, put together a small "
@@ -3089,7 +3092,7 @@ msgstr ""
 "最も重要な駅の一つを目にしました。誰かが居ることが分かりましたが、居ないほう"
 "がよかったことでしょう。"
 
-#: A_Little_Adventure/utils/ALA_story.cfg:78
+#: A_Little_Adventure/utils/ALA_story.cfg:80
 msgid ""
 "Now the only obstacle separating Glauco's company from the sea was: a chain "
 "of low hills that the river literally grazed with its southern shore; not "
@@ -3104,7 +3107,7 @@ msgstr ""
 "ことにしました。しかし、昔、その丘に住人が居ましたが、今、再び住んでいまし"
 "た。"
 
-#: A_Little_Adventure/utils/ALA_story.cfg:82
+#: A_Little_Adventure/utils/ALA_story.cfg:84
 msgid ""
 "Finally, the increasingly heterogeneous group of our heroes reached the end "
 "of the river, on the warm shores of the far east of the continent of Irdya. "
@@ -3119,7 +3122,7 @@ msgstr ""
 "うことでした。有名な諺にもあるように... 孤独であったなら、もっとよかったの"
 "に。"
 
-#: A_Little_Adventure/utils/ALA_story.cfg:86
+#: A_Little_Adventure/utils/ALA_story.cfg:88
 msgid ""
 "Having defeated the Saurians and re-established the trade relations with the "
 "Nereids, Glauco could finally return to Amoran bringing with him a lot of "
@@ -3138,7 +3141,7 @@ msgstr ""
 
 #. the "short space of a few days previously" is a reference back to the first scenario,
 #. not the length of the more-recent journey to the coast and back (which took longer):
-#: A_Little_Adventure/utils/ALA_story.cfg:92
+#: A_Little_Adventure/utils/ALA_story.cfg:94
 msgid ""
 "But, having come to the town, Glauco had to see that someone, with a lot of "
 "fighting spirit and sense of initiative, had already arrived, but had not "
@@ -3154,7 +3157,7 @@ msgstr ""
 "があった小さな場所には、今ではオークの強固な要塞が建ち、それを囲む小屋の数"
 "は、相当数のオークの存在を告げていました。"
 
-#: A_Little_Adventure/utils/ALA_story.cfg:97
+#: A_Little_Adventure/utils/ALA_story.cfg:99
 msgid ""
 "Suddenly, Glauco was extremely happy that the men he had with him had "
 "accumulated a good amount of combat experience; and he was as much happy "
@@ -3165,7 +3168,7 @@ msgstr ""
 "じました。そしてとても嬉しいことに、人間の町はどうなってるのか突然に興味を"
 "持った Glubtrub と仲間のオーガたちが同行していました。"
 
-#: A_Little_Adventure/utils/ALA_story.cfg:102
+#: A_Little_Adventure/utils/ALA_story.cfg:104
 msgid ""
 "The news of the defeat of Gan-Tarkas quickly reached before Soradoc and then "
 "Weldyn; just as quickly Glauco was summoned to the capital city, where the "
@@ -3179,7 +3182,7 @@ msgstr ""
 "ような土地で起きていたのですから。"
 
 #. FIXME: Glauco has probably advanced past "sergeant" by now...
-#: A_Little_Adventure/utils/ALA_story.cfg:107
+#: A_Little_Adventure/utils/ALA_story.cfg:109
 msgid ""
 "Glauco and Geobard went to the capital to report, on what had happened, to "
 "their august and a little distracted sovereign. When the mission was "
@@ -3205,7 +3208,7 @@ msgstr ""
 "えたからです。"
 
 #. FIXME: run-on:
-#: A_Little_Adventure/utils/ALA_story.cfg:113
+#: A_Little_Adventure/utils/ALA_story.cfg:115
 msgid ""
 "The renewed amber trade did not bring to the town all the benefits that "
 "Glauco had hoped, but the market that was held there twice a year, in spring "
@@ -3226,7 +3229,7 @@ msgstr ""
 "いく、それで十分でした。"
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/utils/ALA_story.cfg:119
+#: A_Little_Adventure/utils/ALA_story.cfg:121
 msgid ""
 "Geobard was promoted by the King himself, so he returned to Soradoc, where "
 "he became the trustworthy man of the count, as well as the same of many of "
@@ -3236,7 +3239,7 @@ msgstr ""
 "た、宮廷の多くの女性からも同様の信頼を受けられる存在となりました。"
 
 #. [message]: speaker=Glubtrub
-#: A_Little_Adventure/utils/ALA_story.cfg:126
+#: A_Little_Adventure/utils/ALA_story.cfg:128
 msgid ""
 "To Glubtrub and the tribe of the old post station were given perpetual "
 "concession to the territory in which they lived, and only the Nereids were "
@@ -3253,7 +3256,7 @@ msgstr ""
 "ともオーガ族としては驚くほど平穏なものでした。"
 
 #. [message]: speaker=Glubtrub
-#: A_Little_Adventure/utils/ALA_story.cfg:130
+#: A_Little_Adventure/utils/ALA_story.cfg:132
 msgid ""
 "Because of so much prosperity, always according to an ogre judgment, "
 "Glubtrub would have been remembered, in the small history of his tribe, as "
@@ -3266,7 +3269,7 @@ msgstr ""
 "るようになったのでした。"
 
 #. [message]: speaker=Croquet
-#: A_Little_Adventure/utils/ALA_story.cfg:138
+#: A_Little_Adventure/utils/ALA_story.cfg:140
 msgid ""
 "Croquet returned to his life in the woods, along with his 'girlfriend', but "
 "returned to Amoran whenever he wanted to drink a good beer with friends and "
@@ -3277,7 +3280,7 @@ msgstr ""
 "でも Amoran へ戻ってきました。"
 
 #. [message]: speaker=Croquet
-#: A_Little_Adventure/utils/ALA_story.cfg:145
+#: A_Little_Adventure/utils/ALA_story.cfg:147
 msgid ""
 "Croquet returned to his life in the woods, but he was sad without his "
 "'girlfriend', so he returned to Amoran whenever he wanted a good beer and "
@@ -3290,7 +3293,7 @@ msgstr ""
 "ないよう、気をつけていました。"
 
 #. [message]: speaker=Fangy
-#: A_Little_Adventure/utils/ALA_story.cfg:152
+#: A_Little_Adventure/utils/ALA_story.cfg:154
 msgid ""
 "Fangy had stayed with Glauco until the end of the battle against Gan-Tarkas, "
 "simply because that was what Croquet would do; then she disappeared, and no "
@@ -3309,7 +3312,7 @@ msgstr ""
 #. [message]: speaker=Divaid
 #. I'm not sure if "yahoos" is meant in the sense of "yokels/bumpkins/goofballs" (i.e. a person) or "shouts of glee" (i.e. a noise);
 #. I'm not sure what is meant by "nosecrops" either:
-#: A_Little_Adventure/utils/ALA_story.cfg:162
+#: A_Little_Adventure/utils/ALA_story.cfg:164
 msgid ""
 "Divaid and Ranfy returned to their woods, mumbling that they had helped the "
 "Wesnothians to fill their house of westerner yahoos; but they didn't really "
@@ -3325,7 +3328,7 @@ msgstr ""
 "つでも空を飛んで、その鋭い視力で、何でも探し出せる用意をしていたからです。"
 
 #. [message]: speaker=Divaid
-#: A_Little_Adventure/utils/ALA_story.cfg:169
+#: A_Little_Adventure/utils/ALA_story.cfg:171
 msgid ""
 "Divaid returned to his life in the woods, but he was sad without his friend, "
 "so he returned to Amoran whenever he wanted a good beer and equally good "
@@ -3338,7 +3341,7 @@ msgstr ""
 "いよう、気をつけていました。"
 
 #. [message]: speaker=Ranfy
-#: A_Little_Adventure/utils/ALA_story.cfg:176
+#: A_Little_Adventure/utils/ALA_story.cfg:178
 msgid ""
 "Ranfy disappeared immediately after the end of the battle against Gan-"
 "Tarkas. He returned two months later, with a companion, and made his nest "
@@ -3356,7 +3359,7 @@ msgstr ""
 "Amoran の市民として扱われるようになりました。"
 
 #. [message]: speaker=Mimord
-#: A_Little_Adventure/utils/ALA_story.cfg:183
+#: A_Little_Adventure/utils/ALA_story.cfg:185
 msgid ""
 "Mimord remained in Amoran for a short time; then began to get bored and left "
 "for the north, looking for his old companions; in the end, even he didn't "
@@ -3367,7 +3370,7 @@ msgstr ""
 "ちのときに、喧嘩をしたい相手は誰なのでしょうね？"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_story.cfg:190
+#: A_Little_Adventure/utils/ALA_story.cfg:192
 msgid ""
 "Glauco and his friends had other adventures later, as was inevitable for "
 "those who were called to manage a territory so vast in which they still "
@@ -3380,7 +3383,7 @@ msgstr ""
 
 #. [message]: speaker=Glauco
 #. https://tvtropes.org/pmwiki/pmwiki.php/Main/FinaleTitleDrop
-#: A_Little_Adventure/utils/ALA_story.cfg:195
+#: A_Little_Adventure/utils/ALA_story.cfg:197
 msgid ""
 "Glauco did not mind at all, in his serene old age, to tell his adventures to "
 "anyone asked him, sons, nephews, or great-grandchildren that they were; but "
