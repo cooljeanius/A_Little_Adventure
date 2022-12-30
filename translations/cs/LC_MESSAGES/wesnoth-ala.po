@@ -806,7 +806,7 @@ msgid ""
 "City militia is composed from citizens of Wesnothian towns. Their role is "
 "usually just policing the cities and guarding the walls."
 msgstr ""
-"Městská milice se skládá z občanů wesnothských měst. Jejich úlohou je "
+"Městská milice se skládá z občanů wesnothských měst. Její úlohou je "
 "obvykle jen udržovat v městech pořádek a hlídat jejich hradby."
 
 #. [attack]: type=pierce
