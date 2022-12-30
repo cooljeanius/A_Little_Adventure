@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-12-27 10:48 UTC\n"
-"PO-Revision-Date: 2022-11-01 19:13+0100\n"
+"PO-Revision-Date: 2022-12-30 19:10+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #. [campaign]: id=A_little_Adventure
 #. Strings from utils/ALA_Deaths.cfg used to get put in the potfile
@@ -179,7 +179,7 @@ msgstr "Glauko zemře"
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:159
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:288
 msgid "Which leader you defeat will determine your next scenario."
-msgstr ""
+msgstr "Tvůj další scénář bude určen tím, kterého vůdce porazíš."
 
 #. [event]
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:205
@@ -230,6 +230,9 @@ msgid ""
 "I'd better start planning my escape, in case he's unable to fulfill his half "
 "of the pact..."
 msgstr ""
+"Ale fuj, už se skoro dostali Gruntovi na kobylku! Plán bez něj nebude "
+"fungovat. Pro případ, že nebude schopen splnit svou část dohody, bych raději "
+"měl začít plánovat svůj útěk..."
 
 #. [message]: speaker=second_unit
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:341
@@ -252,6 +255,9 @@ msgid ""
 "That human we were supposed to work with doesn't look like he'll be able to "
 "fulfill his half of the pact! We just might have to leave if he fails us..."
 msgstr ""
+"Ten člověk, s kterým jsme měli zmáknout tuhle prácičku, nevypadá, že bude "
+"schopen splnit svou část dohody! Pokud nás zklame, budem možná muset "
+"odejít..."
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:402
@@ -516,10 +522,8 @@ msgstr "Monstra"
 
 #. [objective]: condition=win
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:62
-#, fuzzy
-#| msgid "Glauco reaches the signpost over the mountains"
 msgid "Glauco reaches the waypoint (marked by a monolith) over the mountains"
-msgstr "Glauko dosáhne rozcestníku na druhé straně hor"
+msgstr "Glauko dosáhne místa (označeného monolitem) na druhé straně hor"
 
 #. [message]: speaker=narrator
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:326
@@ -652,8 +656,6 @@ msgstr "Ze severu přicházejí další monstra! Jsou stejná jako ta předchoz�
 
 #. [message]: speaker=Giksy
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:283
-#, fuzzy
-#| msgid "We need of ohtersss sssea companionsss, sssummon all them!"
 msgid "We need of othersss sssea companionsss, sssummon them all!"
 msgstr "Potřřebujeme dalšší mořřsské ssspoleččníky, sssvolejte je vššechny!"
 
@@ -796,7 +798,7 @@ msgstr ""
 #. [unit_type]: id=City Militia, race=human
 #: A_Little_Adventure/units/City_Militia.cfg:6
 msgid "City Militia"
-msgstr ""
+msgstr "Městská milice"
 
 #. [unit_type]: id=City Militia, race=human
 #: A_Little_Adventure/units/City_Militia.cfg:22
@@ -804,11 +806,13 @@ msgid ""
 "City militia is composed from citizens of Wesnothian towns. Their role is "
 "usually just policing the cities and guarding the walls."
 msgstr ""
+"Městská milice se skládá z občanů wesnothských měst. Jejich úlohou je "
+"obvykle jen udržovat v městech pořádek a hlídat jejich hradby."
 
 #. [attack]: type=pierce
 #: A_Little_Adventure/units/City_Militia.cfg:40
 msgid "spear"
-msgstr ""
+msgstr "kopí"
 
 #. [unit_type]: id=EXI_Ogregreat, race=ogre
 #: A_Little_Adventure/units/Great_Ogre.cfg:5
@@ -1096,12 +1100,10 @@ msgstr ""
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:41
-#, fuzzy
-#| msgid "If necessary we'll call the peasants and the woodsmen to help us."
 msgid ""
 "If necessary, we'll call the peasants, the woodsmen, and the militia to help "
 "us."
-msgstr "V případě potřeby povoláme sedláky a lesníky, aby nám pomohli."
+msgstr "V případě potřeby si povoláme na pomoc sedláky a milici."
 
 #. [message]: speaker=Grunto
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:45
@@ -2671,13 +2673,10 @@ msgid ""
 "Here's to hoping it isn't the opportunity for the nagas to get rid of us!"
 msgstr "Doufám, že to nebude příležitost pro nágy, aby se zbavily nás!"
 
-# Nedoslovné, ale asi nejlepší, co dokážu vymyslet.
 #. [message]: speaker=narrator
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:910
-#, fuzzy
-#| msgid "Welcome to Amoran, the last town toward Est"
 msgid "Welcome to Amoran, the last Wesnothian town to the east"
-msgstr "Vítejte v Amoranu, posledním městě před Východní divočinou"
+msgstr "Vítejte v Amoranu, posledním wesnothském městě na východě"
 
 #. [time]: id=dawn_12h
 #: A_Little_Adventure/utils/ALA_schedules.cfg:21
@@ -2763,44 +2762,6 @@ msgstr ""
 "kola zasažené jednotky."
 
 #: A_Little_Adventure/utils/ALA_story.cfg:10
-#, fuzzy
-#| msgid ""
-#| "Few, even among the greatest dignitaries of the realm, know that "
-#| "Wesnoth's eastern borders extend far beyond the Eastmark Hills!\n"
-#| "All began when the Queen Li'sar, newly established on the throne, "
-#| "organized a series of expeditions that circumnavigated the continent of "
-#| "Irdya to determine its extension and establish the conformation of his "
-#| "coasts. One of these expeditions, commanded by the Admiral Abelardo "
-#| "Gozman, left Elensefar in the spring of 520 YW, heading north. After a "
-#| "journey of almost 2 years, almost all of them spent making surveys and "
-#| "doing research in the cold seas of the north, Gozman reached the eastern "
-#| "coasts of the continent, and then a small bay, at the mouth of a river, "
-#| "inhabited by a little community of nereids.\n"
-#| "The calculations made by Gozman made him suspect that the Bitter Swamp, "
-#| "that at the time represented the eastern limit of the human knowledge of "
-#| "the continent of Irdya, had to be, more or less, halfway between the "
-#| "eastern and the western coasts of the same continent. Then he chose a "
-#| "small group of men who, under the command of Captain Guberto Piegafetta "
-#| "and with the help of the Nereids, ascended the river to establish how far "
-#| "it was, to the west, its source. Gozman, for his part, considering the "
-#| "situation of the ships at his disposal too compromised to face who knows "
-#| "what situations continuing the journey to the south, resumed the road "
-#| "north, to return to Elensefar retracing the same route made the first "
-#| "leg, a route already known and so, in some sense, safer!\n"
-#| "Admiral Abelardo Gozman managed to return to Elensefar, where he arrived "
-#| "in the late summer of 523 YW, and when he arrived he found honors and "
-#| "glory, but above all he found the astonishing news that his lieutenant "
-#| "Guberto Piegafetta had arrived in Weldyn a couple of months before.\n"
-#| "Piegafetta, in fact, going up the Amber River (which we'll see later why "
-#| "it was so called), had discovered not only that the river was born from "
-#| "the Bitter Swamp, but it was also easily navigable almost to the swamp, "
-#| "at least for a small boat like the one he used to ascent it.\n"
-#| "Piegafetta took with him two things that became of great importance for "
-#| "the wild lands crossed by the Amber River: the first was a certain number "
-#| "of pieces of golden amber that the nereids were used to finding among the "
-#| "pebbles in the bottom of their bay; the second thing was the news that "
-#| "the lands he had crossed were wild, uninhabited and, above all, not "
-#| "claimed by anyone."
 msgid ""
 "Few, even among the greatest dignitaries of the realm, know that Wesnoth's "
 "eastern borders extend far beyond the Estmark Hills!\n"
@@ -2926,37 +2887,6 @@ msgstr ""
 
 #. I don't think "dignifiedly" is an actual word, but I know what he means and can't think of any better word to use, so it can stay for now:
 #: A_Little_Adventure/utils/ALA_story.cfg:29
-#, fuzzy
-#| msgid ""
-#| "Wesnoth's nobles and rich grew tired of amber, and for their own delight, "
-#| "the vanity of their kind consorts, and the pleasure of their keen lovers, "
-#| "they began to prefer the multi-colored precious stones that the dwarves "
-#| "pulled out of their mountains, and that were gotten more easily and with "
-#| "fewer vicissitudes than the amber coming into their hands.\n"
-#| "With the decline, and finally the cessation, of the traffic of the amber, "
-#| "Amoran also declined, as slowly and dignifiedly as an old lady. The "
-#| "population gradually decreased, the trades ended, the stone walls became "
-#| "too expensive to maintain, and where they collapsed they were replaced by "
-#| "wooden palisades. The garrison, once numerous, was reduced to a handful "
-#| "of soldiers, carefully chosen among those who, for lack of money and of "
-#| "rank, had fewer means to oppose the assignment of such a disagreeable "
-#| "destination. The cultivated fields became the only source of wealth of "
-#| "the inhabitants, and there was a thinning-out of the coins in "
-#| "circulation, and also the merchants thinned out.\n"
-#| "The only element of the anthropological landscape not to suffer a "
-#| "dramatic decline were the brigands, who became, however, more desperate, "
-#| "and therefore more ferocious than before!\n"
-#| "Amoran retained the title of capital, but was effectively subjected to "
-#| "the authority of the more important city of Soradoc, but Soradoc was far "
-#| "away, and Amoran was beyond the swamp, beyond the hills, beyond, above "
-#| "all, the interest of the Soradoc's authorities... so imagine how distant "
-#| "Amoran became from the interest of those who governed Weldyn.\n"
-#| "The town, now reduced to a village, had become so unimportant that it "
-#| "wasn't affected by the great invasion of undead of 625 YW, even if it "
-#| "seemed to have been born in the nearby Eastmark Hills. That was a good "
-#| "thing, because, otherwise, in no way could Amoran have survived to those "
-#| "calamitous events! Instead it survived, and... another day, another time, "
-#| "the wind changed!"
 msgid ""
 "Wesnoth's nobles and rich grew tired of amber, and for their own delight, "
 "the vanity of their kind consorts, and the pleasure of their keen lovers, "
@@ -3438,8 +3368,8 @@ msgid ""
 "ready to hover in the sky and put his very sharp sight at disposal to find "
 "what or who had been missing."
 msgstr ""
-"Divaid a Ranfy se vrátili do svých lesů, brblajíce, že pomohli západním "
-"wesnothským neurvalcům vyhrabat se z bídy. Ale ve skutečnosti to bylo jen "
+"Divaid a Ranfy se vrátili do svých lesů, brblajíce, jak pomohli wesnothským "
+"naplnit ega jejich zápaďáckým fanfarónstvím. Ale ve skutečnosti to bylo jen "
 "takové mumlání pod fousy pro zachování formy. Protože když bylo něco "
 "ztraceno nebo se někdo ztratil v těch neznámých územích, Ranfy byl vždy "
 "připraven vznést se k obloze a dát k dispozici svůj velmi ostrý zrak, aby "
