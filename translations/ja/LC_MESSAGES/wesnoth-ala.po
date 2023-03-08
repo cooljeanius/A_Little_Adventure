@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-12-27 10:48 UTC\n"
+"POT-Creation-Date: 2023-03-08 03:32 UTC\n"
 "PO-Revision-Date: 2022-12-23 22:44+0900\n"
 "Last-Translator: konami,k <konamit2008@gmail.com>\n"
 "Language-Team: \n"
@@ -98,21 +98,26 @@ msgstr "素晴らしいオーガキャラクターのデザインと構成"
 
 #. [about]
 #: A_Little_Adventure/_main.cfg:83
+msgid "She-Ogre portrait"
+msgstr ""
+
+#. [about]
+#: A_Little_Adventure/_main.cfg:90
 msgid "Special thanks for tips and help"
 msgstr "戴いた助言や支援に特に感謝いたします"
 
 #. [about]
-#: A_Little_Adventure/_main.cfg:96
+#: A_Little_Adventure/_main.cfg:103
 msgid "Italian Translation"
 msgstr "イタリア語翻訳"
 
 #. [about]
-#: A_Little_Adventure/_main.cfg:103
+#: A_Little_Adventure/_main.cfg:110
 msgid "Czech Translation"
 msgstr "チェコ語翻訳"
 
 #. [about]
-#: A_Little_Adventure/_main.cfg:111
+#: A_Little_Adventure/_main.cfg:118
 msgid "Japanese Translation"
 msgstr "日本語翻訳"
 
@@ -427,7 +432,7 @@ msgstr "死ね、オーク、Amoran の民のために！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:315
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:423
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:428
 msgid ""
 "Damn! This battle is dragging on too long, the men are exhausted! We must "
 "retreat, the mission failed!"
@@ -491,13 +496,18 @@ msgstr ""
 msgid "Death of Glubtrub"
 msgstr "Glubtrub の死"
 
+#. [message]: race=ogre
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:316
+msgid "Yes! Squash skull of snake! Is time!"
+msgstr ""
+
 #. [message]: speaker=narrator
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:346
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:351
 msgid "Wesnoth Kingdom - Caravan Station n° 2"
 msgstr "Wesnoth 王国 キャラバン駅 No.2"
 
 #. [message]: speaker=Kssihiss
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:378
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:383
 msgid "Damned humansss... Hiss!"
 msgstr "忌々しい人間ども... シャーッ！"
 
