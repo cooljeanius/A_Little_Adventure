@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-03-08 03:32 UTC\n"
-"PO-Revision-Date: 2022-12-23 22:44+0900\n"
+"PO-Revision-Date: 2023-03-10 20:19+0900\n"
 "Last-Translator: konami,k <konamit2008@gmail.com>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -99,7 +99,7 @@ msgstr "素晴らしいオーガキャラクターのデザインと構成"
 #. [about]
 #: A_Little_Adventure/_main.cfg:83
 msgid "She-Ogre portrait"
-msgstr ""
+msgstr "女オーガのポートレイト"
 
 #. [about]
 #: A_Little_Adventure/_main.cfg:90
@@ -499,7 +499,7 @@ msgstr "Glubtrub の死"
 #. [message]: race=ogre
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:316
 msgid "Yes! Squash skull of snake! Is time!"
-msgstr ""
+msgstr "よーし！ 蛇どもの頭蓋骨、ぶっ潰すヨ！　今だヨ！"
 
 #. [message]: speaker=narrator
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:351
