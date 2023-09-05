@@ -508,7 +508,7 @@ msgstr "Glubtrub zemře"
 #. [message]: race=ogre
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:316
 msgid "Yes! Squash skull of snake! Is time!"
-msgstr "Jo! Je čas mačkat hadí lebka!"
+msgstr "Jó! Je čas mačkat hadí lebka!"
 
 #. [message]: speaker=narrator
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:351
