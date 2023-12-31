@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-03-08 03:32 UTC\n"
+"POT-Creation-Date: 2023-12-31 04:31 UTC\n"
 "PO-Revision-Date: 2023-03-10 20:19+0900\n"
 "Last-Translator: konami,k <konamit2008@gmail.com>\n"
 "Language-Team: \n"
@@ -18,48 +18,48 @@ msgstr ""
 #. before strings from this file at one point, so see the translation
 #. comments from that file for a note that applies to the campaign
 #. as a whole.
-#: A_Little_Adventure/_main.cfg:17
+#: A_Little_Adventure/_main.cfg:18
 msgid "A Little Adventure"
 msgstr "ちょっとした冒険"
 
 #. [campaign]: id=A_little_Adventure
-#: A_Little_Adventure/_main.cfg:18
+#: A_Little_Adventure/_main.cfg:19
 msgid "ALA"
 msgstr "ALA"
 
 #. [difficulty]
-#: A_Little_Adventure/_main.cfg:27
+#: A_Little_Adventure/_main.cfg:28
 msgid "Sergeant"
 msgstr "軍曹"
 
 #. [difficulty]
-#: A_Little_Adventure/_main.cfg:28
+#: A_Little_Adventure/_main.cfg:29
 msgid "Easy"
 msgstr "易しい"
 
 #. [difficulty]
-#: A_Little_Adventure/_main.cfg:33
+#: A_Little_Adventure/_main.cfg:34
 msgid "Lieutenant"
 msgstr "副官"
 
 #. [difficulty]
-#: A_Little_Adventure/_main.cfg:34
+#: A_Little_Adventure/_main.cfg:35
 msgid "Normal"
 msgstr "普通"
 
 #. [difficulty]
-#: A_Little_Adventure/_main.cfg:39
+#: A_Little_Adventure/_main.cfg:40
 msgid "General"
 msgstr "将軍"
 
 #. [difficulty]
-#: A_Little_Adventure/_main.cfg:40
+#: A_Little_Adventure/_main.cfg:41
 msgid "Difficult"
 msgstr "難しい"
 
 #. [campaign]: id=A_little_Adventure
 #. the "young Wesnothian army officer" is Glauco (male); the "he" refers to him:
-#: A_Little_Adventure/_main.cfg:45
+#: A_Little_Adventure/_main.cfg:46
 msgid ""
 "A young Wesnothian army officer is sent to command a tiny garrison in an "
 "insignificant town in the wilds of the far east; unexpectedly he will manage "
@@ -71,7 +71,7 @@ msgstr ""
 "し、やがて、町の経済再生に取り組むことになるのだった！ "
 
 #. [campaign]: id=A_little_Adventure
-#: A_Little_Adventure/_main.cfg:45
+#: A_Little_Adventure/_main.cfg:46
 msgid ""
 "\n"
 "\t\n"
@@ -82,42 +82,42 @@ msgstr ""
 "(初心者レベル、6シナリオ+1エピローグ)"
 
 #. [about]
-#: A_Little_Adventure/_main.cfg:56
+#: A_Little_Adventure/_main.cfg:57
 msgid "Campaign Design, prose and story Edits"
 msgstr "キャンペーン・デザイン、散文、ストーリー編集"
 
 #. [about]
-#: A_Little_Adventure/_main.cfg:66
+#: A_Little_Adventure/_main.cfg:67
 msgid "Campaign Maintenance"
 msgstr "キャンペーン・メンテナンス"
 
 #. [about]
-#: A_Little_Adventure/_main.cfg:76
+#: A_Little_Adventure/_main.cfg:77
 msgid "Great Ogre character design and configuration"
 msgstr "素晴らしいオーガキャラクターのデザインと構成"
 
 #. [about]
-#: A_Little_Adventure/_main.cfg:83
+#: A_Little_Adventure/_main.cfg:84
 msgid "She-Ogre portrait"
 msgstr "女オーガのポートレイト"
 
 #. [about]
-#: A_Little_Adventure/_main.cfg:90
+#: A_Little_Adventure/_main.cfg:91
 msgid "Special thanks for tips and help"
 msgstr "戴いた助言や支援に特に感謝いたします"
 
 #. [about]
-#: A_Little_Adventure/_main.cfg:103
+#: A_Little_Adventure/_main.cfg:104
 msgid "Italian Translation"
 msgstr "イタリア語翻訳"
 
 #. [about]
-#: A_Little_Adventure/_main.cfg:110
+#: A_Little_Adventure/_main.cfg:111
 msgid "Czech Translation"
 msgstr "チェコ語翻訳"
 
 #. [about]
-#: A_Little_Adventure/_main.cfg:118
+#: A_Little_Adventure/_main.cfg:119
 msgid "Japanese Translation"
 msgstr "日本語翻訳"
 
@@ -141,6 +141,17 @@ msgstr "Amoran への攻撃"
 msgid "Wesnothians"
 msgstr "Wesnoth 人"
 
+#. [side]: type=Sergeant, id=Glauco
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:51
+#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:32
+#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:36
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:36
+#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:30
+#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:28
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:78
+msgid "Glauco"
+msgstr ""
+
 #. [side]: type=Orcish Warrior, id=Grunto
 #. [side]: type=Orcish Warlord, id=Gan-Tarkas
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:100
@@ -149,11 +160,25 @@ msgstr "Wesnoth 人"
 msgid "Orcs"
 msgstr "オーク"
 
+#. [side]: type=Orcish Warrior, id=Grunto
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:108
+#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:53
+#, fuzzy
+#| msgid "Defeat Grunto"
+msgid "Grunto"
+msgstr "Grunto を倒す"
+
 #. [side]: type=Bandit, id=Dadoc
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:124
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:58
 msgid "Bandits"
 msgstr "山賊"
+
+#. [side]: type=Bandit, id=Dadoc
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:132
+#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:50
+msgid "Dadoc"
+msgstr ""
 
 #. [objective]: condition=win
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:150
@@ -183,6 +208,26 @@ msgid "Which leader you defeat will determine your next scenario."
 msgstr "どちらのリーダーを倒すかで次のシナリオが決まります。"
 
 #. [event]
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:166
+msgid "Titus"
+msgstr ""
+
+#. [event]
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:167
+msgid "Caius"
+msgstr ""
+
+#. [event]
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:168
+msgid "Sempronius"
+msgstr ""
+
+#. [event]
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:169
+msgid "Petronius"
+msgstr ""
+
+#. [event]
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:205
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:60
 msgid "The Ford of Amoran"
@@ -199,6 +244,13 @@ msgstr "Amoran"
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:62
 msgid "The Estdoor bridge"
 msgstr "Eastdoor 橋"
+
+#. [unit]: type=Dragoon, type=Cavalryman, id=Geobard
+#: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:256
+#, fuzzy
+#| msgid "Death of Geobard"
+msgid "Geobard"
+msgstr "Geobard の死"
 
 #. [objective]: condition=lose
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:283
@@ -298,6 +350,16 @@ msgstr ""
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:4
 msgid "Battle with the Bandits"
 msgstr "山賊との戦い"
+
+#. [unit]: type=Trapper, id=Divaid
+#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:265
+msgid "Divaid"
+msgstr ""
+
+#. [unit]: type=Gryphon, id=Ranfy
+#: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:288
+msgid "Ranfy"
+msgstr ""
 
 #. [attack]: type=blade
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:300
@@ -410,6 +472,55 @@ msgstr "オークとの戦い"
 msgid "Defeat Grunto"
 msgstr "Grunto を倒す"
 
+#. [event]
+#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:101
+msgid "Perticus"
+msgstr ""
+
+#. [event]
+#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:102
+msgid "Paroclo"
+msgstr ""
+
+#. [event]
+#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:103
+msgid "Octavio"
+msgstr ""
+
+#. [event]
+#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:104
+#, fuzzy
+#| msgid "Defeat Grunto"
+msgid "Geruntius"
+msgstr "Grunto を倒す"
+
+#. [event]
+#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:105
+msgid "Virgulio"
+msgstr ""
+
+#. [event]
+#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:106
+msgid "Closofeo"
+msgstr ""
+
+#. [event]
+#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:116
+msgid "Olly"
+msgstr ""
+
+#. [unit]: type=Trapper, id=Croquet
+#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:195
+#, fuzzy
+#| msgid "Death of Croquet"
+msgid "Croquet"
+msgstr "Croquet の死"
+
+#. [unit]: type=Great Wolf, id=Fangy
+#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:217
+msgid "Fangy"
+msgstr ""
+
 #. [attack]: type=blade
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:228
 msgid "fangs"
@@ -446,15 +557,29 @@ msgid "The Naga's Nest"
 msgstr "ナーガの巣窟"
 
 #. [side]: type=Naga Myrmidon, id=Kssihiss
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:54
+#, fuzzy
+#| msgid "Defeat Kssihiss"
+msgid "Kssihiss"
+msgstr "Kssihiss を倒す"
+
+#. [side]: type=Naga Myrmidon, id=Kssihiss
 #. [side]: type=Naga Myrmidon
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:88
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:122
 msgid "Nagas"
 msgstr "ナーガ"
 
+#. [side]: type=EXI_Ogregreat, id=Glubtrub
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:98
+#, fuzzy
+#| msgid "Death of Glubtrub"
+msgid "Glubtrub"
+msgstr "Glubtrub の死"
+
 #. [attack]: type=blade
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:132
-#: A_Little_Adventure/units/Great_Ogre.cfg:39
+#: A_Little_Adventure/units/Great_Ogre.cfg:27
 msgid "cleaver"
 msgstr "肉切り庖丁"
 
@@ -527,26 +652,31 @@ msgid "Glauco reaches the waypoint (marked by a monolith) over the mountains"
 msgstr "Glauco が山越えの目標地点（東端のモノリス）に到達する"
 
 #. [message]: speaker=narrator
-#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:326
+#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:324
 msgid "Wesnoth Kingdom - Caravan Station n° 1"
 msgstr "Wesnoth 王国 キャラバン駅 No.1"
 
+#. [unit]: id=Mimord, type=Dwarvish Berserker
+#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:342
+msgid "Mimord"
+msgstr ""
+
 #. [message]: speaker=Mimord
 #. I'm assuming the "wrap" referred to here is an article of clothing:
-#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:372
+#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:370
 msgid ""
 "Damned wolves, I thought I had taught you not to come into my house! Well, "
 "I'll make a wrap out of your fur!"
 msgstr "くそ狼め、俺の家に入るなと教えたはずだ！お前の毛皮で包んでやる！"
 
 #. [message]: speaker=Croquet
-#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:377
+#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:375
 msgid "Hey you! Get your hands off my little Fangy!"
 msgstr "おい、お前！俺の Fangy ちゃんに触るな！"
 
 #. [message]: speaker=Mimord
 #. a "capon" is a rooster that has been castrated or neutered:
-#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:390
+#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:388
 msgid ""
 "Ugly bird! Wolves and bats were not enough around here? I'll wring your neck "
 "like a capon!"
@@ -555,18 +685,18 @@ msgstr ""
 "みたいに首を絞めてやる！"
 
 #. [message]: speaker=Divaid
-#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:395
+#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:393
 msgid "Don't you dare to touch my friend Ranfy, tattooed midget!"
 msgstr "俺の友達の Ranfy に触るんじゃねえよ、刺青の小人め！"
 
 #. [message]: speaker=unit
-#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:407
+#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:405
 msgid "Urca! House inhabited!"
 msgstr "うわっ！　誰か住んでる！"
 
 #. [message]: speaker=Mimord
 #. This is about as well as I think I can reword this; I'm not quite sure what he meant by completing his home, but the final sentence is supposed to be a clever way to call the ogre "brainless":
-#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:412
+#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:410
 msgid ""
 "That's right, stupid ogre! And we were only missing you to complete my home! "
 "Well, if I break your head I will not do much damage, as you don't hold "
@@ -577,24 +707,24 @@ msgstr ""
 "空っぽだからな！"
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:417
+#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:415
 msgid "Wait, that ogre is with us!"
 msgstr "待て、仲間の中にはオーガも居るんだぞ！"
 
 #. [message]: speaker=unit
-#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:423
+#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:421
 msgid "Hey! There's somebody here!"
 msgstr "おい！誰かここにいるぞ！"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:446
+#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:444
 msgid ""
 "We passed those hills, finally! We can continue on to reach the nereids now!"
 msgstr ""
 "やっと丘を越えられた！ これで nereids（ merfolk の一集団）のところへ行けるな!"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:475
+#: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:473
 msgid ""
 "All these attacks are exhausting us; we won't be able to cross the hills! We "
 "must retreat; the mission failed!"
@@ -607,9 +737,19 @@ msgid "The Lizard's Islands"
 msgstr "トカゲの島"
 
 #. [side]: type=Saurian Flanker, id=Giksy
+#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:45
+msgid "Giksy"
+msgstr ""
+
+#. [side]: type=Saurian Flanker, id=Giksy
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:83
 msgid "Saurian"
 msgstr "トカゲ族"
+
+#. [side]: type=Merman Triton, id=Joralda
+#: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:94
+msgid "Joralda"
+msgstr ""
 
 #. [side]: type=Merman Triton, id=Joralda
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:103
@@ -689,10 +829,60 @@ msgstr "最後の戦い"
 msgid "Defeat Gan-Tarkas"
 msgstr "Gan-Tarkas を倒す"
 
+#. [side]: type=Orcish Warlord, id=Gan-Tarkas
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:99
+#, fuzzy
+#| msgid "Defeat Gan-Tarkas"
+msgid "Gan-Tarkas"
+msgstr "Gan-Tarkas を倒す"
+
+#. [event]
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:156
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:163
+msgid "Trug"
+msgstr ""
+
+#. [event]
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:157
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:164
+msgid "Bolg"
+msgstr ""
+
+#. [event]
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:158
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:165
+msgid "Snak"
+msgstr ""
+
+#. [event]
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:159
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:166
+msgid "Zagr"
+msgstr ""
+
+#. [event]
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:160
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:167
+msgid "Lugh"
+msgstr ""
+
+#. [event]
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:161
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:168
+msgid "Beri"
+msgstr ""
+
 #. [message]: speaker=Gan-Tarkas
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:332
 msgid "Widen the path across the river again, and then everyone attack!"
 msgstr "川を渡る道をもう一度広げるんだ、そうして全員攻撃だ！"
+
+#. [unit]: type=Naga Myrmidon, id=Hisskss
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:436
+#, fuzzy
+#| msgid "Hissss!"
+msgid "Hisskss"
+msgstr "シャーーーッ！"
 
 #. [objective]: condition=win
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:472
@@ -745,35 +935,36 @@ msgid "Merman Brawler"
 msgstr "Merman Brawler"
 
 #. [unit_type]: id=Merman Brawler, race=merman
-#. Brawlers are also in Dead Water; try to keep the description similar:
+#. new description from Gyra_Solune: https://forums.wesnoth.org/viewtopic.php?p=600216#p600216
 #: A_Little_Adventure/units/Brawler.cfg:19
 msgid ""
-"Exceptionally large and strong mermen are sometimes more comfortable with "
-"their own fists and tails than with other weapons."
+"Some schools of merfolk combat are dedicated to perfecting unarmed combat "
+"over the use of spear and trident. These practitioners make greater use of "
+"their body’s capabilities, favoring a technique using their tails to stagger "
+"and dizzy opponents, before finishing them off with a flurry of devastating "
+"punches."
 msgstr ""
-"並外れた大きさと強さを持つマーマンは、時に他の武器よりも、自分の拳や尻尾を気"
-"持ちよく使いこなします。"
 
 #. [attack]: type=impact
-#: A_Little_Adventure/units/Brawler.cfg:36
-#: A_Little_Adventure/units/Citizen.cfg:36
+#: A_Little_Adventure/units/Brawler.cfg:24
+#: A_Little_Adventure/units/Citizen.cfg:24
 msgid "fist"
 msgstr "拳"
 
 #. [attack]: type=impact
-#: A_Little_Adventure/units/Brawler.cfg:44
+#: A_Little_Adventure/units/Brawler.cfg:32
 msgid "tail"
 msgstr "尾びれ"
 
 #. [set_variable]
-#: A_Little_Adventure/units/Brawler.cfg:112
-#: A_Little_Adventure/units/Brawler.cfg:174
+#: A_Little_Adventure/units/Brawler.cfg:100
+#: A_Little_Adventure/units/Brawler.cfg:162
 msgid "female^stunned"
 msgstr "アッ"
 
 #. [set_variable]
-#: A_Little_Adventure/units/Brawler.cfg:118
-#: A_Little_Adventure/units/Brawler.cfg:180
+#: A_Little_Adventure/units/Brawler.cfg:106
+#: A_Little_Adventure/units/Brawler.cfg:168
 msgid "stunned"
 msgstr "ウッ"
 
@@ -783,17 +974,15 @@ msgid "Merman Citizen"
 msgstr "マーマンの民"
 
 #. [unit_type]: id=Merman Citizen, race=merman
-#. Merman Citizens are also in Dead Water; try to keep the description similar:
+#. new description from Gyra_Solune: https://forums.wesnoth.org/viewtopic.php?p=600216#p600216
 #: A_Little_Adventure/units/Citizen.cfg:19
 msgid ""
-"Mermen are mostly peaceful, but will fight to defend their homes. In this "
-"situation, even mermen with no weapons or training can be dangerous."
+"While the merfolk kingdoms are not usually warlike, their citizens "
+"nonetheless are all trained in the basics of combat should their city come "
+"under attack. As metal weaponry is scarce due to the inability to forge "
+"underwater, every merman is taught how to fight with their bare fists, to "
+"surprising effect."
 msgstr ""
-"マーマンの民（Merman Citizen）\n"
-"\n"
-"マーマンはとても平和を指向する種族ですが、家・家族を守るために戦うこともあり"
-"ます。そうした状況では、武器を持たない、もしくは訓練を受けていないマーマンで"
-"あっても危険な存在になります。"
 
 #. [unit_type]: id=City Militia, race=human
 #: A_Little_Adventure/units/City_Militia.cfg:6
@@ -810,7 +999,7 @@ msgstr ""
 "と城壁の警備だけです。"
 
 #. [attack]: type=pierce
-#: A_Little_Adventure/units/City_Militia.cfg:40
+#: A_Little_Adventure/units/City_Militia.cfg:28
 msgid "spear"
 msgstr "槍"
 
@@ -852,8 +1041,8 @@ msgstr ""
 "ます。"
 
 #. [attack]: type=impact
-#: A_Little_Adventure/units/Matronly_Ogresses.cfg:45
-#: A_Little_Adventure/units/She_Ogre.cfg:44
+#: A_Little_Adventure/units/Matronly_Ogresses.cfg:33
+#: A_Little_Adventure/units/She_Ogre.cfg:32
 msgid "club"
 msgstr "棍棒"
 
@@ -959,7 +1148,7 @@ msgstr ""
 "スリングで自分の身を守ります。"
 
 #. [attack]: type=impact
-#: A_Little_Adventure/units/She_Ogre.cfg:53
+#: A_Little_Adventure/units/She_Ogre.cfg:41
 msgid "sling"
 msgstr "スリング"
 
@@ -2687,47 +2876,47 @@ msgid "Late Morning"
 msgstr "午前"
 
 #. [time]: id=midday_12h
-#: A_Little_Adventure/utils/ALA_schedules.cfg:50
+#: A_Little_Adventure/utils/ALA_schedules.cfg:53
 msgid "Midday"
 msgstr "真昼"
 
 #. [time]: id=early_afternoon_12h
-#: A_Little_Adventure/utils/ALA_schedules.cfg:59
+#: A_Little_Adventure/utils/ALA_schedules.cfg:62
 msgid "Early Afternoon"
 msgstr "昼過ぎ"
 
 #. [time]: id=late_afternoon_12h
-#: A_Little_Adventure/utils/ALA_schedules.cfg:68
+#: A_Little_Adventure/utils/ALA_schedules.cfg:71
 msgid "Late Afternoon"
 msgstr "昼下がり"
 
 #. [time]: id=dusk_12h
-#: A_Little_Adventure/utils/ALA_schedules.cfg:77
+#: A_Little_Adventure/utils/ALA_schedules.cfg:80
 msgid "Dusk"
 msgstr "夕暮れ"
 
 #. [time]: id=first_watch_12h
-#: A_Little_Adventure/utils/ALA_schedules.cfg:88
+#: A_Little_Adventure/utils/ALA_schedules.cfg:91
 msgid "First Watch"
 msgstr "薄暮"
 
 #. [time]: id=second_watch_12h
-#: A_Little_Adventure/utils/ALA_schedules.cfg:100
+#: A_Little_Adventure/utils/ALA_schedules.cfg:103
 msgid "Second Watch"
 msgstr "夜"
 
 #. [time]: id=midnight_12h
-#: A_Little_Adventure/utils/ALA_schedules.cfg:112
+#: A_Little_Adventure/utils/ALA_schedules.cfg:115
 msgid "Midnight"
 msgstr "深夜 12 時"
 
 #. [time]: id=third_watch_12h
-#: A_Little_Adventure/utils/ALA_schedules.cfg:124
+#: A_Little_Adventure/utils/ALA_schedules.cfg:127
 msgid "Third Watch"
 msgstr "真夜中過ぎ"
 
 #. [time]: id=fourth_watch_12h
-#: A_Little_Adventure/utils/ALA_schedules.cfg:136
+#: A_Little_Adventure/utils/ALA_schedules.cfg:139
 msgid "Fourth Watch"
 msgstr "薄明"
 
@@ -3401,3 +3590,20 @@ msgstr ""
 "などの誰に聞かれても、自分の冒険について話すことに。でも、どうやって有名に"
 "なったのか尋ねられると、決まって、こう切り出すのでした。\n"
 "「ああ、あの時は、\"ちょっとした冒険\" だったのさ」"
+
+#~ msgid ""
+#~ "Exceptionally large and strong mermen are sometimes more comfortable with "
+#~ "their own fists and tails than with other weapons."
+#~ msgstr ""
+#~ "並外れた大きさと強さを持つマーマンは、時に他の武器よりも、自分の拳や尻尾を"
+#~ "気持ちよく使いこなします。"
+
+#~ msgid ""
+#~ "Mermen are mostly peaceful, but will fight to defend their homes. In this "
+#~ "situation, even mermen with no weapons or training can be dangerous."
+#~ msgstr ""
+#~ "マーマンの民（Merman Citizen）\n"
+#~ "\n"
+#~ "マーマンはとても平和を指向する種族ですが、家・家族を守るために戦うこともあ"
+#~ "ります。そうした状況では、武器を持たない、もしくは訓練を受けていないマーマ"
+#~ "ンであっても危険な存在になります。"
