@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-12-31 04:31 UTC\n"
-"PO-Revision-Date: 2023-03-10 20:19+0900\n"
+"PO-Revision-Date: 2024-01-01 17:47+0900\n"
 "Last-Translator: konami,k <konamit2008@gmail.com>\n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #. [campaign]: id=A_little_Adventure
 #. Strings from utils/ALA_Deaths.cfg used to get put in the potfile
@@ -150,7 +150,7 @@ msgstr "Wesnoth 人"
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:28
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:78
 msgid "Glauco"
-msgstr ""
+msgstr "Glauco"
 
 #. [side]: type=Orcish Warrior, id=Grunto
 #. [side]: type=Orcish Warlord, id=Gan-Tarkas
@@ -163,10 +163,8 @@ msgstr "オーク"
 #. [side]: type=Orcish Warrior, id=Grunto
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:108
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:53
-#, fuzzy
-#| msgid "Defeat Grunto"
 msgid "Grunto"
-msgstr "Grunto を倒す"
+msgstr "Grunto"
 
 #. [side]: type=Bandit, id=Dadoc
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:124
@@ -178,7 +176,7 @@ msgstr "山賊"
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:132
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:50
 msgid "Dadoc"
-msgstr ""
+msgstr "Dadoc"
 
 #. [objective]: condition=win
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:150
@@ -210,22 +208,22 @@ msgstr "どちらのリーダーを倒すかで次のシナリオが決まりま
 #. [event]
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:166
 msgid "Titus"
-msgstr ""
+msgstr "Titus"
 
 #. [event]
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:167
 msgid "Caius"
-msgstr ""
+msgstr "Caius"
 
 #. [event]
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:168
 msgid "Sempronius"
-msgstr ""
+msgstr "Sempronius"
 
 #. [event]
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:169
 msgid "Petronius"
-msgstr ""
+msgstr "Petronius"
 
 #. [event]
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:205
@@ -247,10 +245,8 @@ msgstr "Eastdoor 橋"
 
 #. [unit]: type=Dragoon, type=Cavalryman, id=Geobard
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:256
-#, fuzzy
-#| msgid "Death of Geobard"
 msgid "Geobard"
-msgstr "Geobard の死"
+msgstr "Geobard"
 
 #. [objective]: condition=lose
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:283
@@ -354,12 +350,12 @@ msgstr "山賊との戦い"
 #. [unit]: type=Trapper, id=Divaid
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:265
 msgid "Divaid"
-msgstr ""
+msgstr "Divaid"
 
 #. [unit]: type=Gryphon, id=Ranfy
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:288
 msgid "Ranfy"
-msgstr ""
+msgstr "Ranfy"
 
 #. [attack]: type=blade
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:300
@@ -475,51 +471,47 @@ msgstr "Grunto を倒す"
 #. [event]
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:101
 msgid "Perticus"
-msgstr ""
+msgstr "Perticus"
 
 #. [event]
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:102
 msgid "Paroclo"
-msgstr ""
+msgstr "Paroclo"
 
 #. [event]
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:103
 msgid "Octavio"
-msgstr ""
+msgstr "Octavio"
 
 #. [event]
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:104
-#, fuzzy
-#| msgid "Defeat Grunto"
 msgid "Geruntius"
-msgstr "Grunto を倒す"
+msgstr "Geruntius"
 
 #. [event]
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:105
 msgid "Virgulio"
-msgstr ""
+msgstr "Virgulio"
 
 #. [event]
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:106
 msgid "Closofeo"
-msgstr ""
+msgstr "Closofeo"
 
 #. [event]
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:116
 msgid "Olly"
-msgstr ""
+msgstr "Olly"
 
 #. [unit]: type=Trapper, id=Croquet
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:195
-#, fuzzy
-#| msgid "Death of Croquet"
 msgid "Croquet"
-msgstr "Croquet の死"
+msgstr "Croquet"
 
 #. [unit]: type=Great Wolf, id=Fangy
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:217
 msgid "Fangy"
-msgstr ""
+msgstr "Fangy"
 
 #. [attack]: type=blade
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:228
@@ -558,10 +550,8 @@ msgstr "ナーガの巣窟"
 
 #. [side]: type=Naga Myrmidon, id=Kssihiss
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:54
-#, fuzzy
-#| msgid "Defeat Kssihiss"
 msgid "Kssihiss"
-msgstr "Kssihiss を倒す"
+msgstr "Kssihiss"
 
 #. [side]: type=Naga Myrmidon, id=Kssihiss
 #. [side]: type=Naga Myrmidon
@@ -572,10 +562,8 @@ msgstr "ナーガ"
 
 #. [side]: type=EXI_Ogregreat, id=Glubtrub
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:98
-#, fuzzy
-#| msgid "Death of Glubtrub"
 msgid "Glubtrub"
-msgstr "Glubtrub の死"
+msgstr "Glubtrub"
 
 #. [attack]: type=blade
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:132
@@ -659,7 +647,7 @@ msgstr "Wesnoth 王国 キャラバン駅 No.1"
 #. [unit]: id=Mimord, type=Dwarvish Berserker
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:342
 msgid "Mimord"
-msgstr ""
+msgstr "Mimord"
 
 #. [message]: speaker=Mimord
 #. I'm assuming the "wrap" referred to here is an article of clothing:
@@ -739,7 +727,7 @@ msgstr "トカゲの島"
 #. [side]: type=Saurian Flanker, id=Giksy
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:45
 msgid "Giksy"
-msgstr ""
+msgstr "Giksy"
 
 #. [side]: type=Saurian Flanker, id=Giksy
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:83
@@ -749,12 +737,12 @@ msgstr "トカゲ族"
 #. [side]: type=Merman Triton, id=Joralda
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:94
 msgid "Joralda"
-msgstr ""
+msgstr "Joralda"
 
 #. [side]: type=Merman Triton, id=Joralda
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:103
 msgid "Nereids"
-msgstr "Nereids（ Merkfolk ）"
+msgstr "Nereids（ Merfolk ）"
 
 #. [objective]: condition=win
 #. The inclusion of "Squash" as a synonym for "Defeat" in this objective is for the benefit of Glubtrub:
@@ -831,46 +819,44 @@ msgstr "Gan-Tarkas を倒す"
 
 #. [side]: type=Orcish Warlord, id=Gan-Tarkas
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:99
-#, fuzzy
-#| msgid "Defeat Gan-Tarkas"
 msgid "Gan-Tarkas"
-msgstr "Gan-Tarkas を倒す"
+msgstr "Gan-Tarkas"
 
 #. [event]
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:156
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:163
 msgid "Trug"
-msgstr ""
+msgstr "Trug"
 
 #. [event]
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:157
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:164
 msgid "Bolg"
-msgstr ""
+msgstr "Bolg"
 
 #. [event]
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:158
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:165
 msgid "Snak"
-msgstr ""
+msgstr "Snak"
 
 #. [event]
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:159
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:166
 msgid "Zagr"
-msgstr ""
+msgstr "Zagr"
 
 #. [event]
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:160
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:167
 msgid "Lugh"
-msgstr ""
+msgstr "Lugh"
 
 #. [event]
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:161
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:168
 msgid "Beri"
-msgstr ""
+msgstr "Beri"
 
 #. [message]: speaker=Gan-Tarkas
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:332
@@ -879,10 +865,8 @@ msgstr "川を渡る道をもう一度広げるんだ、そうして全員攻撃
 
 #. [unit]: type=Naga Myrmidon, id=Hisskss
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:436
-#, fuzzy
-#| msgid "Hissss!"
 msgid "Hisskss"
-msgstr "シャーーーッ！"
+msgstr "シャーーーッ"
 
 #. [objective]: condition=win
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:472
@@ -944,6 +928,10 @@ msgid ""
 "and dizzy opponents, before finishing them off with a flurry of devastating "
 "punches."
 msgstr ""
+"マーフォークの兵士の一派には、槍やトライデントを使用しない非武装戦闘を目指す"
+"者たちもいます。それらの修練者は身体能力を高度に有効活用します。そうです、尾"
+"ヒレを使って敵をよろめフラつかせておき、壊滅的なパンチの連打を浴びせるので"
+"す。"
 
 #. [attack]: type=impact
 #: A_Little_Adventure/units/Brawler.cfg:24
@@ -983,6 +971,10 @@ msgid ""
 "underwater, every merman is taught how to fight with their bare fists, to "
 "surprising effect."
 msgstr ""
+"マーフォーク王国の民は、平時であれば戦争を好む民族ではないとは言っても、自分"
+"たちの街が攻撃を受けた際に備えて、全員が基本的な戦闘訓練を受けています。水中"
+"での鍛造は不可能なため金属製の武器は希少で、誰しもが素の拳を使った攻撃方法を"
+"教わり、驚異的な効果を上げています。"
 
 #. [unit_type]: id=City Militia, race=human
 #: A_Little_Adventure/units/City_Militia.cfg:6
