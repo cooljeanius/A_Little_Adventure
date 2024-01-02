@@ -740,7 +740,7 @@ msgstr "Ještěří ostrovy"
 #. [side]: type=Saurian Flanker, id=Giksy
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:45
 msgid "Giksy"
-msgstr "Giksy"
+msgstr "Džiksy"
 
 #. [side]: type=Saurian Flanker, id=Giksy
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:83
@@ -3304,7 +3304,7 @@ msgstr ""
 "kopírovala tok řeky. Ale stezka byla v katastrofálním stavu, stanice byly "
 "desítky let opuštěné a o jejich stavu se nic nevědělo, i když se dalo lehce "
 "předpokládat, že dobrý nebude. Zkrátka obnovení karavanní stezky by stálo "
-"jmění, které by wesnothská vláda nepřidělila. Ale Glauco měl nápad, jak "
+"jmění, které by wesnothská vláda nepřidělila. Ale Glauko měl nápad, jak "
 "obejít všechny tyto problémy, jen ten nápad vyžadoval obnovení kontaktů s "
 "východními nereidami."
 
@@ -3597,7 +3597,7 @@ msgstr ""
 "Ranfy zmizel hned poté, co skončila bitva proti Gan-Tarkasovi. O dva měsíce "
 "později se vrátil, a ne sám. Udělal si hnízdo na jediné věži, která zbyla ze "
 "starých zdí Amoranu. Občané byli zpočátku vyděšení, zvlášť když mnozí z nich "
-"nikdy předtím gryfy neviděli. Ale Glauco je uklidnil vysvětlením, že gryfové "
+"nikdy předtím gryfy neviděli. Ale Glauko je uklidnil vysvětlením, že gryfové "
 "nepředstavují nebezpečí, ale spíše nejlepší stráže, které by Amoran mohl "
 "mít. Brzy byli gryfové považováni za občany Amoranu jako každý jiný."
 
