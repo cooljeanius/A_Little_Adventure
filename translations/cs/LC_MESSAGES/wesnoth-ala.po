@@ -1,12 +1,12 @@
-# Petr Šlejhar (Septim), 2022 – 2023
-# Michal Žejdl <lachim@emer.cz>, 2022
+# Petr Šlejhar (Septim), 2022 – 2024
+# Michal Žejdl <lachim@emer.cz>, 2022, 2024
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-12-31 04:31 UTC\n"
-"PO-Revision-Date: 2023-09-05 16:18+0200\n"
+"PO-Revision-Date: 2024-01-02 14:53+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
-"X-Generator: Poedit 3.3.2\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #. [campaign]: id=A_little_Adventure
 #. Strings from utils/ALA_Deaths.cfg used to get put in the potfile
@@ -154,7 +154,7 @@ msgstr "Wesnoťané"
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:28
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:78
 msgid "Glauco"
-msgstr ""
+msgstr "Glauko"
 
 #. [side]: type=Orcish Warrior, id=Grunto
 #. [side]: type=Orcish Warlord, id=Gan-Tarkas
@@ -167,10 +167,8 @@ msgstr "Skřeti"
 #. [side]: type=Orcish Warrior, id=Grunto
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:108
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:53
-#, fuzzy
-#| msgid "Defeat Grunto"
 msgid "Grunto"
-msgstr "Poraz Grunta"
+msgstr "Grunto"
 
 #. [side]: type=Bandit, id=Dadoc
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:124
@@ -182,7 +180,7 @@ msgstr "Bandité"
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:132
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:50
 msgid "Dadoc"
-msgstr ""
+msgstr "Dadok"
 
 #. [objective]: condition=win
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:150
@@ -214,22 +212,22 @@ msgstr "Tvůj další scénář bude určen tím, kterého vůdce porazíš."
 #. [event]
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:166
 msgid "Titus"
-msgstr ""
+msgstr "Titus"
 
 #. [event]
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:167
 msgid "Caius"
-msgstr ""
+msgstr "Kaius"
 
 #. [event]
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:168
 msgid "Sempronius"
-msgstr ""
+msgstr "Sempronius"
 
 #. [event]
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:169
 msgid "Petronius"
-msgstr ""
+msgstr "Petronius"
 
 #. [event]
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:205
@@ -251,10 +249,8 @@ msgstr "most Východní brány"
 
 #. [unit]: type=Dragoon, type=Cavalryman, id=Geobard
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:256
-#, fuzzy
-#| msgid "Death of Geobard"
 msgid "Geobard"
-msgstr "Geobard zemře"
+msgstr "Geobard"
 
 #. [objective]: condition=lose
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:283
@@ -360,12 +356,12 @@ msgstr "Bitva s bandity"
 #. [unit]: type=Trapper, id=Divaid
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:265
 msgid "Divaid"
-msgstr ""
+msgstr "Divaid"
 
 #. [unit]: type=Gryphon, id=Ranfy
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:288
 msgid "Ranfy"
-msgstr ""
+msgstr "Ranfy"
 
 #. [attack]: type=blade
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:300
@@ -484,51 +480,47 @@ msgstr "Poraz Grunta"
 #. [event]
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:101
 msgid "Perticus"
-msgstr ""
+msgstr "Pertikus"
 
 #. [event]
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:102
 msgid "Paroclo"
-msgstr ""
+msgstr "Paroklo"
 
 #. [event]
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:103
 msgid "Octavio"
-msgstr ""
+msgstr "Oktavio"
 
 #. [event]
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:104
-#, fuzzy
-#| msgid "Defeat Grunto"
 msgid "Geruntius"
-msgstr "Poraz Grunta"
+msgstr "Geruntius"
 
 #. [event]
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:105
 msgid "Virgulio"
-msgstr ""
+msgstr "Virgulio"
 
 #. [event]
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:106
 msgid "Closofeo"
-msgstr ""
+msgstr "Klosofeo"
 
 #. [event]
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:116
 msgid "Olly"
-msgstr ""
+msgstr "Olly"
 
 #. [unit]: type=Trapper, id=Croquet
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:195
-#, fuzzy
-#| msgid "Death of Croquet"
 msgid "Croquet"
-msgstr "Kroket zemře"
+msgstr "Kroket"
 
 #. [unit]: type=Great Wolf, id=Fangy
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:217
 msgid "Fangy"
-msgstr ""
+msgstr "Fangy"
 
 #. [attack]: type=blade
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:228
@@ -567,10 +559,8 @@ msgstr "Doupě nág"
 
 #. [side]: type=Naga Myrmidon, id=Kssihiss
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:54
-#, fuzzy
-#| msgid "Defeat Kssihiss"
 msgid "Kssihiss"
-msgstr "Poraz Kssihisse"
+msgstr "Kssihiss"
 
 #. [side]: type=Naga Myrmidon, id=Kssihiss
 #. [side]: type=Naga Myrmidon
@@ -581,10 +571,8 @@ msgstr "Nágy"
 
 #. [side]: type=EXI_Ogregreat, id=Glubtrub
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:98
-#, fuzzy
-#| msgid "Death of Glubtrub"
 msgid "Glubtrub"
-msgstr "Glubtrub zemře"
+msgstr "Glubtrub"
 
 #. [attack]: type=blade
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:132
@@ -668,7 +656,7 @@ msgstr "království Wesnoth – přepřahací stanice č. 1"
 #. [unit]: id=Mimord, type=Dwarvish Berserker
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:342
 msgid "Mimord"
-msgstr ""
+msgstr "Mimord"
 
 #. [message]: speaker=Mimord
 #. I'm assuming the "wrap" referred to here is an article of clothing:
@@ -752,7 +740,7 @@ msgstr "Ještěří ostrovy"
 #. [side]: type=Saurian Flanker, id=Giksy
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:45
 msgid "Giksy"
-msgstr ""
+msgstr "Giksy"
 
 #. [side]: type=Saurian Flanker, id=Giksy
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:83
@@ -762,7 +750,7 @@ msgstr "Ještěráci"
 #. [side]: type=Merman Triton, id=Joralda
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:94
 msgid "Joralda"
-msgstr ""
+msgstr "Joralda"
 
 #. [side]: type=Merman Triton, id=Joralda
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:103
@@ -844,46 +832,44 @@ msgstr "Poraz Gan-Tarkase"
 
 #. [side]: type=Orcish Warlord, id=Gan-Tarkas
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:99
-#, fuzzy
-#| msgid "Defeat Gan-Tarkas"
 msgid "Gan-Tarkas"
-msgstr "Poraz Gan-Tarkase"
+msgstr "Gan-Tarkas"
 
 #. [event]
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:156
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:163
 msgid "Trug"
-msgstr ""
+msgstr "Trug"
 
 #. [event]
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:157
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:164
 msgid "Bolg"
-msgstr ""
+msgstr "Bolg"
 
 #. [event]
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:158
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:165
 msgid "Snak"
-msgstr ""
+msgstr "Snak"
 
 #. [event]
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:159
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:166
 msgid "Zagr"
-msgstr ""
+msgstr "Zagr"
 
 #. [event]
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:160
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:167
 msgid "Lugh"
-msgstr ""
+msgstr "Lugh"
 
 #. [event]
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:161
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:168
 msgid "Beri"
-msgstr ""
+msgstr "Beri"
 
 #. [message]: speaker=Gan-Tarkas
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:332
@@ -892,10 +878,8 @@ msgstr "Rozšiřte znovu cestu přes řeku a pak všichni zaútočte!"
 
 #. [unit]: type=Naga Myrmidon, id=Hisskss
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:436
-#, fuzzy
-#| msgid "Hissss!"
 msgid "Hisskss"
-msgstr "Assss!"
+msgstr "Hisskiss"
 
 #. [objective]: condition=win
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:472
@@ -957,6 +941,10 @@ msgid ""
 "and dizzy opponents, before finishing them off with a flurry of devastating "
 "punches."
 msgstr ""
+"Některé bojové školy mořských lidí se věnují zdokonalování boje beze zbraně "
+"oproti použití kopí či trojzubce. Tito cvičenci více využívají schopnosti "
+"svého těla. K rozkolísání a omračování svých soupeřů upřednostňují techniku "
+"využívající ran ocasy aby je poté dorazili přívalem ničivých pěstních úderů."
 
 #. [attack]: type=impact
 #: A_Little_Adventure/units/Brawler.cfg:24
@@ -996,6 +984,11 @@ msgid ""
 "underwater, every merman is taught how to fight with their bare fists, to "
 "surprising effect."
 msgstr ""
+"I když jsou království mořských lidí obvykle mírumilovná, jejich obyvatelé "
+"jsou přesto všichni vycvičeni v základech boje, pro případ, že by se jejich "
+"město dostalo pod útok. Vzhledem k tomu, že kovové zbraně jsou vzácné kvůli "
+"nemožnosti provádět pod vodou kovářské práce, učí se každý mořský muž "
+"bojovat holými pěstmi, což bývá překvapivě účinné."
 
 #. [unit_type]: id=City Militia, race=human
 #: A_Little_Adventure/units/City_Militia.cfg:6
