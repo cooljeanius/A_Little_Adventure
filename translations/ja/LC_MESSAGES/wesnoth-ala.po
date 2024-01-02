@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-12-31 04:31 UTC\n"
+"POT-Creation-Date: 2024-01-02 18:25 UTC\n"
 "PO-Revision-Date: 2024-01-01 19:23+0900\n"
 "Last-Translator: konami,k <konamit2008@gmail.com>\n"
 "Language-Team: \n"
@@ -197,7 +197,7 @@ msgstr "敵のリーダーを１人倒す"
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:66
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:144
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:42
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:476
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:477
 msgid "Death of Glauco"
 msgstr "Glauco の死"
 
@@ -262,7 +262,7 @@ msgstr "Geobard の死"
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:70
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:148
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:46
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:480
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:481
 msgid "Death of Geobard"
 msgstr "Geobard の死"
 
@@ -617,7 +617,7 @@ msgstr ""
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:78
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:152
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:50
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:484
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:485
 msgid "Death of Glubtrub"
 msgstr "Glubtrub の死"
 
@@ -878,47 +878,48 @@ msgid "Widen the path across the river again, and then everyone attack!"
 msgstr "川を渡る道をもう一度広げるんだ、そうして全員攻撃だ！"
 
 #. [unit]: type=Naga Myrmidon, id=Hisskss
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:436
+#. name of a Naga Myrmidon unit (note the "k"):
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:437
 msgid "Hisskss"
 msgstr "Hisskss"
 
 #. [objective]: condition=win
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:472
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:473
 msgid "Defeat all enemy leaders"
 msgstr "敵のリーダーをすべて倒す"
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:504
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:505
 msgid "Those damned are all dead or escaped! Finally we finished!"
 msgstr "あの忌々しい奴らは、全滅したか逃げ出したかだ！　遂に終わった！"
 
 #. [message]: speaker=Gan-Tarkas
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:521
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:522
 msgid "Impossible!"
 msgstr "あり得ん！"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:525
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:526
 msgid "With your end, orc, Amoran can and will have a new start!"
 msgstr "オークさんよ、お前らが消えて、Amoran は新しいスタートを切れるんだよ！"
 
 #. [message]: speaker=Glubtrub
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:540
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:541
 msgid "To remain only to squash big snake!"
 msgstr "大きなヘビ潰すためだけに、オレ、残る！"
 
 #. [message]: speaker=Hisskss
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:556
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:557
 msgid "Hissss!"
 msgstr "シャーーーッ！"
 
 #. [message]: speaker=Glubtrub
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:564
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:565
 msgid "Other snake make flat-flat! Oh! Oh! Oh!"
 msgstr "他のヘビ、みんな静かにしてるでしょ、こら！オゥオゥオゥ！"
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:573
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:574
 msgid "And now let's finish taking care of his friend, Gan-Tarkas!"
 msgstr "さて、それじゃ、彼のご友人、 Gan-Tarkas を始末する番だ！"
 
