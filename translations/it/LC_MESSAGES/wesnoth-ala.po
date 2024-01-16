@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-01-16 00:58 UTC\n"
-"PO-Revision-Date: 2022-07-01 22:50-0400\n"
+"PO-Revision-Date: 2024-01-15 20:20-0500\n"
 "Last-Translator: Eric Gallager <egall@gwmail.gwu.edu>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.1\n"
+"X-Generator: Poedit 3.3.2\n"
 
 #. [campaign]: id=A_little_Adventure
 #. Strings from utils/ALA_Deaths.cfg used to get put in the potfile
@@ -158,7 +158,7 @@ msgstr "Wesnothiani"
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:28
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:78
 msgid "Glauco"
-msgstr ""
+msgstr "Glauco"
 
 #. [side]: type=Orcish Warrior, id=Grunto
 #. [side]: type=Orcish Warlord, id=Gan-Tarkas
@@ -171,10 +171,8 @@ msgstr "Orchi"
 #. [side]: type=Orcish Warrior, id=Grunto
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:108
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:53
-#, fuzzy
-#| msgid "Defeat Grunto"
 msgid "Grunto"
-msgstr "Sconfiggi Grunto"
+msgstr "Grunto"
 
 #. [side]: type=Bandit, id=Dadoc
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:124
@@ -255,10 +253,8 @@ msgstr "Il ponte di Porta dell'est"
 
 #. [unit]: type=Dragoon, type=Cavalryman, id=Geobard
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:256
-#, fuzzy
-#| msgid "Death of Geobard"
 msgid "Geobard"
-msgstr "Morte di Geobard"
+msgstr "Geobard"
 
 #. [objective]: condition=lose
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:283
@@ -500,10 +496,8 @@ msgstr ""
 
 #. [event]
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:104
-#, fuzzy
-#| msgid "Defeat Grunto"
 msgid "Geruntius"
-msgstr "Sconfiggi Grunto"
+msgstr "Geruntius"
 
 #. [event]
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:105
@@ -522,10 +516,8 @@ msgstr ""
 
 #. [unit]: type=Trapper, id=Croquet
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:195
-#, fuzzy
-#| msgid "Death of Croquet"
 msgid "Croquet"
-msgstr "Morte di Croquet"
+msgstr "Croquet"
 
 #. [unit]: type=Great Wolf, id=Fangy
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:217
@@ -569,10 +561,8 @@ msgstr "Il Nido dei Naga"
 
 #. [side]: type=Naga Myrmidon, id=Kssihiss
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:54
-#, fuzzy
-#| msgid "Defeat Kssihiss"
 msgid "Kssihiss"
-msgstr "Sconfiggi KssHiss"
+msgstr "KssiHiss"
 
 #. [side]: type=Naga Myrmidon, id=Kssihiss
 #. [side]: type=Naga Myrmidon
@@ -583,10 +573,8 @@ msgstr "Naga"
 
 #. [side]: type=EXI_Ogregreat, id=Glubtrub
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:98
-#, fuzzy
-#| msgid "Death of Glubtrub"
 msgid "Glubtrub"
-msgstr "Morte di Glubtrub"
+msgstr "Glubtrub"
 
 #. [attack]: type=blade
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:132
@@ -855,10 +843,8 @@ msgstr "Sconfiggi Gan-Tarkas"
 
 #. [side]: type=Orcish Warlord, id=Gan-Tarkas
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:99
-#, fuzzy
-#| msgid "Defeat Gan-Tarkas"
 msgid "Gan-Tarkas"
-msgstr "Sconfiggi Gan-Tarkas"
+msgstr "Gan-Tarkas"
 
 #. [event]
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:156
@@ -904,10 +890,8 @@ msgstr "Allargate ancora il ponte attraverso il fiume e poi tutti all'attacco!"
 #. [unit]: type=Naga Myrmidon, id=Hisskss
 #. name of a Naga Myrmidon unit (note the "k"):
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:437
-#, fuzzy
-#| msgid "Hissss!"
 msgid "Hisskss"
-msgstr "Hissss!"
+msgstr "Hisskss"
 
 #. [objective]: condition=win
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:473
@@ -1202,9 +1186,8 @@ msgstr "Aiah! Fare male!"
 #: A_Little_Adventure/utils/ALA_deaths.cfg:74
 #: A_Little_Adventure/utils/ALA_deaths.cfg:115
 #, fuzzy
-#| msgid "I got caught... damned... "
 msgid "I got caught... damned..."
-msgstr "Ti ho preso… dannato… "
+msgstr "Ti ho preso… dannato…"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_deaths.cfg:78
@@ -1888,9 +1871,8 @@ msgstr "Puoi dirlo forte, mia cara!"
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:369
 #, fuzzy
-#| msgid "What's the situation, "
 msgid "What's the situation?"
-msgstr "Com'è la situazione, "
+msgstr "Com'è la situazione?"
 
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:371
 #, fuzzy
