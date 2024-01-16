@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-01-16 00:58 UTC\n"
-"PO-Revision-Date: 2024-01-15 20:12-0500\n"
-"Last-Translator: Eric Gallager <egall@gwmail.gwu.edu>\n"
+"PO-Revision-Date: 2024-01-16 10:53+0900\n"
+"Last-Translator: konami,k <konamit2008@gmail.com>\n"
 "Language-Team: \n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.3.2\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #. [campaign]: id=A_little_Adventure
 #. Strings from utils/ALA_Deaths.cfg used to get put in the potfile
@@ -929,6 +929,10 @@ msgid ""
 "and dizzy opponents, before finishing them off with a flurry of devastating "
 "punches."
 msgstr ""
+"マーフォークの兵士の一派には、槍やトライデントを使用しない非武装戦闘を目指す"
+"者たちもいます。それらの修練者は身体能力を高度に有効活用します。そうです、尾"
+"ヒレを使って敵をよろめフラつかせておき、壊滅的なパンチの連打を浴びせるので"
+"す。"
 
 #. [attack]: type=impact
 #: A_Little_Adventure/units/Brawler.cfg:24
@@ -968,6 +972,10 @@ msgid ""
 "underwater, every merman is taught how to fight with their bare fists, to "
 "surprising effect."
 msgstr ""
+"マーフォーク王国の民は、平時であれば戦争を好む民族ではないとは言っても、自分"
+"たちの街が攻撃を受けた際に備えて、全員が基本的な戦闘訓練を受けています。水中"
+"での鍛造は不可能なため金属製の武器は希少で、誰しもが素の拳を使った攻撃方法を"
+"教わり、驚異的な効果を上げています。"
 
 #. [unit_type]: id=City Militia, race=human
 #: A_Little_Adventure/units/City_Militia.cfg:6
