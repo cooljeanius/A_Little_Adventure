@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-01-02 18:25 UTC\n"
+"POT-Creation-Date: 2024-01-16 00:58 UTC\n"
 "PO-Revision-Date: 2024-01-01 19:23+0900\n"
 "Last-Translator: konami,k <konamit2008@gmail.com>\n"
 "Language-Team: \n"
@@ -98,7 +98,9 @@ msgstr "素晴らしいオーガキャラクターのデザインと構成"
 
 #. [about]
 #: A_Little_Adventure/_main.cfg:84
-msgid "She-Ogre portrait"
+#, fuzzy
+#| msgid "She-Ogre portrait"
+msgid "She-Ogre and Matronly Ogre portraits"
 msgstr "女オーガのポートレイト"
 
 #. [about]

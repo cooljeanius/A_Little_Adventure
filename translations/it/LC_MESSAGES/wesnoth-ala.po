@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-01-02 18:24 UTC\n"
+"POT-Creation-Date: 2024-01-16 00:58 UTC\n"
 "PO-Revision-Date: 2022-07-01 22:50-0400\n"
 "Last-Translator: Eric Gallager <egall@gwmail.gwu.edu>\n"
 "Language-Team: \n"
@@ -106,7 +106,7 @@ msgstr "Grande Ogre progetto e configurazione"
 
 #. [about]
 #: A_Little_Adventure/_main.cfg:84
-msgid "She-Ogre portrait"
+msgid "She-Ogre and Matronly Ogre portraits"
 msgstr ""
 
 #. [about]
