@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-01-16 05:21 UTC\n"
-"PO-Revision-Date: 2024-01-02 14:53+0100\n"
+"PO-Revision-Date: 2024-04-22 22:30+0200\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -102,10 +102,8 @@ msgstr "Návrh a konfigurace jednotky obrovitého obra"
 
 #. [about]
 #: A_Little_Adventure/_main.cfg:84
-#, fuzzy
-#| msgid "She-Ogre portrait"
 msgid "She-Ogre and Matronly Ogre portraits"
-msgstr "Portrét obryně"
+msgstr "Portrét obryně a obří matróny"
 
 #. [about]
 #: A_Little_Adventure/_main.cfg:91
@@ -947,7 +945,7 @@ msgstr ""
 "Některé bojové školy mořských lidí se věnují zdokonalování boje beze zbraně "
 "oproti použití kopí či trojzubce. Tito cvičenci více využívají schopnosti "
 "svého těla. K rozkolísání a omračování svých soupeřů upřednostňují techniku "
-"využívající ran ocasy aby je poté dorazili přívalem ničivých pěstních úderů."
+"využívající ran ocasy, aby je poté dorazili přívalem ničivých pěstních úderů."
 
 #. [attack]: type=impact
 #: A_Little_Adventure/units/Brawler.cfg:24
@@ -988,7 +986,7 @@ msgid ""
 "surprising effect."
 msgstr ""
 "I když jsou království mořských lidí obvykle mírumilovná, jejich obyvatelé "
-"jsou přesto všichni vycvičeni v základech boje, pro případ, že by se jejich "
+"jsou přesto všichni vycvičeni v základech boje pro případ, že by se jejich "
 "město dostalo pod útok. Vzhledem k tomu, že kovové zbraně jsou vzácné kvůli "
 "nemožnosti provádět pod vodou kovářské práce, učí se každý mořský muž "
 "bojovat holými pěstmi, což bývá překvapivě účinné."
@@ -3645,21 +3643,3 @@ msgstr ""
 "pravnukům. Ale všem, kteří se ho ptali, jak se mu podařilo stát se důležitým "
 "mužem, vždy začínal odpovídat slovy – Ach, tenkrát to bylo jen takové malé "
 "dobrodružství..."
-
-#~ msgid ""
-#~ "Exceptionally large and strong mermen are sometimes more comfortable with "
-#~ "their own fists and tails than with other weapons."
-#~ msgstr ""
-#~ "Výjimečně velcí a silní mořští jedinci se někdy víc spoléhají na své "
-#~ "pěsti a ocasy než na jiné zbraně."
-
-#~ msgid ""
-#~ "Mermen are mostly peaceful, but will fight to defend their homes. In this "
-#~ "situation, even mermen with no weapons or training can be dangerous."
-#~ msgstr ""
-#~ "Mořští lidé jsou většinou mírumilovní, své domovy ale budou bránit. V "
-#~ "takové situaci může být i neozbrojený a netrénovaný mořský člověk "
-#~ "nebezpečný."
-
-#~ msgid "Death of "
-#~ msgstr "Zemře postava jménem "
