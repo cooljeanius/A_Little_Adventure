@@ -1,3 +1,4 @@
+---
 name: lint
 
 on: [push, pull_request]
@@ -10,19 +11,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-      with:
-        path: add-ons
-    - name: Lint WML
-      uses: czyzby/wesnoth-wml-linter@v1
-      with:
-        wesnoth-version: ${{ env.WESNOTH_VERSION }}
-        spellcheck: false
-        lint-flags: -K
-    - name: Verify images
-      uses: czyzby/wesnoth-png-optimizer@v1
-      if: always()
-      with:
-        wesnoth-version: ${{ env.WESNOTH_VERSION }}
-        threshold: 11
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          path: add-ons
+      - name: Lint WML
+        uses: czyzby/wesnoth-wml-linter@v1
+        with:
+          wesnoth-version: ${{ env.WESNOTH_VERSION }}
+          spellcheck: false
+          lint-flags: -K
+      - name: Verify images
+        uses: czyzby/wesnoth-png-optimizer@v1
+        if: always()
+        with:
+          wesnoth-version: ${{ env.WESNOTH_VERSION }}
+          threshold: 11
