@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-10-21 05:09 UTC\n"
+"POT-Creation-Date: 2024-10-21 07:09 UTC\n"
 "PO-Revision-Date: 2024-01-16 10:53+0900\n"
 "Last-Translator: konami,k <konamit2008@gmail.com>\n"
 "Language-Team: \n"
@@ -190,8 +190,8 @@ msgstr "敵のリーダーを１人倒す"
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:321
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:84
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:263
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:159
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:252
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:160
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:256
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:67
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:144
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:42
@@ -253,8 +253,8 @@ msgstr "Geobard"
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:325
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:88
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:267
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:163
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:256
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:164
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:260
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:71
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:148
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:46
@@ -535,7 +535,7 @@ msgstr "死ね、オーク、Amoran の民のために！"
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:326
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:428
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:433
 msgid ""
 "Damn! This battle is dragging on too long, the men are exhausted! We must "
 "retreat, the mission failed!"
@@ -555,44 +555,44 @@ msgstr "Kssihiss"
 
 #. [side]: type=Naga Myrmidon, id=Kssihiss
 #. [side]: type=Naga Myrmidon
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:88
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:89
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:122
 msgid "Nagas"
 msgstr "ナーガ"
 
 #. [side]: type=EXI_Ogregreat, id=Glubtrub
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:98
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:99
 msgid "Glubtrub"
 msgstr "Glubtrub"
 
 #. [attack]: type=blade
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:132
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:133
 #: A_Little_Adventure/units/Great_Ogre.cfg:27
 msgid "cleaver"
 msgstr "肉切り庖丁"
 
 #. [side]: type=EXI_Ogregreat, id=Glubtrub
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:139
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:140
 msgid "Ogres"
 msgstr "オーガ"
 
 #. [objective]: condition=win
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:155
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:248
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:156
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:252
 msgid "Defeat Kssihiss"
 msgstr "Kssihiss を倒す"
 
 #. [objective]: condition=lose
 #. $trapper_name is now part of this string at the request of the Japanese translator:
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:168
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:260
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:169
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:264
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:75
 msgid "Death of $trapper_name"
 msgstr "$trapper_name の死"
 
 #. [message]: speaker=Glubtrub
 #. "Wetspot" is ogre-speak for "Wesnoth"; I will try to ensure it's capitalized consistently:
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:227
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:231
 msgid ""
 "What this confusion? Men colored like Wetspot and snake to fight? Ogres to "
 "come too, good chance to squash all!"
@@ -601,7 +601,7 @@ msgstr ""
 "つぶす、チャンス！"
 
 #. [objective]: condition=lose
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:264
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:268
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:79
 #: A_Little_Adventure/scenarios/05_The_Lizards_Islands.cfg:152
 #: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:50
@@ -610,17 +610,17 @@ msgid "Death of Glubtrub"
 msgstr "Glubtrub の死"
 
 #. [message]: race=ogre, gender=female
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:316
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:320
 msgid "Yes! Squash skull of snake! Is time!"
 msgstr "よーし！ 蛇どもの頭蓋骨、ぶっ潰すヨ！　今だヨ！"
 
 #. [message]: speaker=narrator
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:351
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:356
 msgid "Wesnoth Kingdom - Caravan Station n° 2"
 msgstr "Wesnoth 王国 キャラバン駅 No.2"
 
 #. [message]: speaker=Kssihiss
-#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:383
+#: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:388
 msgid "Damned humansss... Hiss!"
 msgstr "忌々しい人間ども... シャーッ！"
 
@@ -674,7 +674,9 @@ msgstr ""
 
 #. [message]: speaker=Divaid
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:394
-msgid "Don't you dare to touch my friend Ranfy, tattooed midget!"
+#, fuzzy
+#| msgid "Don't you dare to touch my friend Ranfy, tattooed midget!"
+msgid "Don't you dare try to touch my friend Ranfy, you tattooed midget!"
 msgstr "俺の友達の Ranfy に触るんじゃねえよ、刺青の小人め！"
 
 #. [message]: speaker=unit
@@ -1823,11 +1825,11 @@ msgid "You can say it strong, my dear!"
 msgstr "強く言っていいんだよ、可愛いなぁ！"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:370
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:371
 msgid "What's the situation?"
 msgstr "どういう状況だ？"
 
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:372
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:373
 msgid ""
 "I would say it's bad, but I'm afraid it's awful. The old caravan station was "
 "partially swallowed up by the river, and it seems that a group of Nagas have "
@@ -1836,7 +1838,7 @@ msgstr ""
 "悪いと言いますか、酷い状況です。昔のキャラバンの駅の一部が川に飲み込まれて、"
 "そこにナーガの一団が巣食っているようです。"
 
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:374
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:375
 msgid ""
 "Also, on the hills just to the south, there are small buildings, and from "
 "the stench that comes out I would say they are Ogre huts."
@@ -1845,7 +1847,7 @@ msgstr ""
 "小屋と思われます。"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:379
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:380
 msgid ""
 "We could bypass them, but my project for the new Amber Path requires the "
 "river to be free! Mmmh... Rather, isn't it strange that Ogres are allies "
@@ -1860,7 +1862,7 @@ msgstr ""
 "としか同盟を結ばず、支援する場合は貴金属を要求する。だから、決して貴金属を持"
 "たないオーガは対象外らしい。"
 
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:381
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:382
 msgid ""
 "And who said they were allies? Isn't it said that the dove is nestling near "
 "the falcon's nest? I know well all the beings living in the wilderness of "
@@ -1878,11 +1880,11 @@ msgstr ""
 "い不快感を持たずに済むんだろうな。"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:384
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:385
 msgid "So is it possible that we should face only the Nagas?"
 msgstr "ならば、ナーガと対決するだけで済むということか？"
 
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:386
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:387
 msgid ""
 "Ogres will not move a finger to help the Nagas, on this I will bet my last "
 "arrow, but I can not rule out that they'll think of taking advantage of our "
@@ -1895,14 +1897,14 @@ msgstr ""
 "撃してくる可能性も否定できんが... あの脳ミソで複雑な計画は立てられねえよ。"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:389
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:390
 msgid "We'll have to take the risk. Get ready, men, it will be a tough fight!"
 msgstr ""
 "リスクはあるが、やるしかない。準備はいいか、男たちよ。きつい戦いになるぞ！"
 
 #. [message]: speaker=Kssihiss
 #. see https://tvtropes.org/pmwiki/pmwiki.php/Main/SssssnakeTalk ("reconquessst" = "reconquer"):
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:400
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:401
 msgid ""
 "Humansss? After all thisss time they wantsss to reconquessst this place? "
 "They'll find only their deathsss!"
@@ -1913,7 +1915,7 @@ msgstr ""
 #. [message]: speaker=Kssihiss
 #. The original author probably meant "land mammal" here, but "lard mammal" makes sense, too, and is funnier.
 #. It's not necessary to preserve this pun in your own language, though, if it doesn't work:
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:409
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:410
 msgid ""
 "Ssstupid lard mammal, ssstay out of thisss ssstory or you won't be able to "
 "get out!"
@@ -1922,7 +1924,7 @@ msgstr ""
 "なっちまえ、でないと、ショー涯、出られなくなるぞ、シャーッ！"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:413
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:414
 msgid ""
 "Wait, ogre, we didn't come here to fight with you, but only to fight the "
 "nagas occupying our ancient station!"
@@ -1933,7 +1935,7 @@ msgstr ""
 #. [message]: speaker=Glubtrub
 #. "Wetspot" is ogre-speak for "Wesnoth"; I will try to ensure it's capitalized consistently.
 #. Also, I'm unsure if by "puppies" he means that ogres keep dogs as pets, or if that's an affectionate way of referring to Young Ogres?
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:419
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:420
 msgid ""
 "Glubtrub to hate snake! Little fat to eat and bad! They to kill our puppies "
 "when they to play near ruins! But soldier with colors of Wetspot never to be "
@@ -1944,7 +1946,7 @@ msgstr ""
 "兵隊 、オーガと昔、友達ちがう... きっと... よく覚えてない！"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:423
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:424
 msgid ""
 "Well, I promise you that Wesnoth's soldiers will not fight against the ogres "
 "of the Glubtrub tribe if you help us to defeat the Nagas; in fact, now I "
@@ -1960,14 +1962,14 @@ msgstr ""
 #. but instead normally the word "to" also gets left out of the infinitives. However, I am leaving the word "to" in
 #. all of the ogre-spoken infinitives in this campaign, as it is a funny mistake to make, and only the kind of mistake
 #. that a non-native speaker could make, which the ogres technically count as:
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:431
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:432
 msgid ""
 "Understand little, but... meanwhile to squash snakes, to understand well "
 "after!"
 msgstr "少し分かる、だけど... 今は、ヘビ潰す。あとで、よく分かる！"
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:435
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:436
 msgid ""
 "(<i>To Glauco</i>) I don't understand! Weren't we supposed to free the amber "
 "way? With the ogres settled here, how are we going to do this?"
@@ -1976,7 +1978,7 @@ msgstr ""
 "のですか？ここにオーガが住んでる状況で、計画をどう進めるんです？"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:439
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:440
 msgid ""
 "If the ogre tribe becomes our allies, not only will they not be an obstacle, "
 "but they will even be a benefit, because they'll protect this territory from "
@@ -1988,7 +1990,7 @@ msgstr ""
 "が不可欠だ。"
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:443
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:444
 msgid ""
 "You have led us well, and I'll trust you even now, also because the help of "
 "Ogres, today, is necessary! In that nest there are more Naga than we "
@@ -1999,13 +2001,13 @@ msgstr ""
 "装している上に経験豊富ですから！"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:450
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:451
 msgid "The station is free, and the river, too! Good work, my soldiers!"
 msgstr "駅は綺麗だし、川も澄んでいる！よく頑張ったな、我が兵士たちよ！"
 
 #. [message]: speaker=Glubtrub
 #. I'm assuming he means "sole" as in "the sole of a shoe" here?
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:455
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:456
 msgid ""
 "Nice! Snakes make flat like sole into the river, flat-flat! You like me, man "
 "of Wetspot! I to come with you, and together to come to squash world!"
@@ -2015,7 +2017,7 @@ msgstr ""
 "ンコにする、一緒に行く！"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:459
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:460
 msgid ""
 "Err... yes, you are like me, too, very much, Glubtrub, but I don't go "
 "around... to squash; I'm on a mission with a specific purpose... in general, "
@@ -2027,7 +2029,7 @@ msgstr ""
 
 #. [message]: speaker=Glubtrub
 #. again, "Wetspot" is Glubtrub's ogre-ish way of mispronouncing "Wesnoth":
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:464
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:465
 msgid ""
 "More better! To like more to eat and to sleep than to fight! But... how to "
 "be enemies of Wetspot? Be edible?"
@@ -2037,7 +2039,7 @@ msgstr ""
 
 #. [message]: speaker=Glauco
 #. The ogre's speech patterns are starting to rub off on Glauco:
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:469
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:470
 msgid ""
 "So... therefore... not usually... I believe. However, the enemies of "
 "Wetspot... er Wesnoth, would be those who live in the territory of Wesnoth "
@@ -2050,7 +2052,7 @@ msgstr ""
 
 #. [message]: speaker=Glubtrub
 #. "OH OH OH!" might actually be better as "HO HO HO!" to indicate laughter, but that style of laughing is usually reserved for Santa Claus in English:
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:474
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:475
 msgid ""
 "...to understand... nothing! But more better so, I not used to understand "
 "things, OH OH OH! We to do so, you to say me who is enemy of Wetspot, and I "
@@ -2063,7 +2065,7 @@ msgstr ""
 #. [message]: speaker=Glauco
 #. "Beh" is just a sound, but I suppose it could also be a portmanteau of
 #. "Bah" (sound of dismissal/frustration) and "Meh" (sound of indifference/uncaringness):
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:481
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:482
 msgid ""
 "Beh, I suppose that can be acceptable in this way! Glad to have you with us, "
 "Glubtrub, your strength will be useful to us!"
@@ -2071,7 +2073,7 @@ msgstr ""
 "まぁ、そういう感じでいいと思うよ！仲間になれてうれしいよ、 Glubtrub 、君の剛"
 "腕さは、きっと役に立つ！"
 
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:486
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:487
 msgid ""
 "Well, gentlemen, since you don't want to spend a few weeks climbing the "
 "mountains further south (which I think is a good idea since the wilds become "
@@ -2083,7 +2085,7 @@ msgstr ""
 "の反対側に行ける道を探さねばならん。"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:489
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:490
 msgid ""
 "What's the problem? The season is good, the weather is beautiful, and these "
 "hills were safe when the amber caravans passed through them!"
@@ -2091,7 +2093,7 @@ msgstr ""
 "何か問題があるのか？季節は良いし天気も良い。それに、琥珀のキャラバンが通って"
 "いた頃は、ここらの丘は安全だったぞ！"
 
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:491
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:492
 msgid ""
 "Too bad that those times are over before you were born, commander! In the "
 "past the road was quiet because the few remaining dwarves lived in the mines "
@@ -2107,11 +2109,11 @@ msgstr ""
 "フも踵を返していなくなったってわけさ！"
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:494
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:495
 msgid "Better, so they will not try to charge us any toll!"
 msgstr "その方がいい、ドワーフたちは我々に通行料を請求しようとしないでしょう！"
 
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:496
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:497
 msgid ""
 "Worse, you'll want to say! The abandoned mines have become the wolves' den, "
 "including the Dire Wolves, and during the day they come out to attack "
@@ -2127,13 +2129,13 @@ msgstr ""
 "のさ、もちろん、コウモリで最悪の種類も含めてな！"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:499
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:500
 msgid ""
 "Of course! At least now we know why these place is called the Bloody Hills!"
 msgstr ""
 "なるほどな！少なくとも今、ここがなぜ”流血の丘”と呼ばれるのか分かったな！"
 
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:501
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:502
 msgid ""
 "Not at all! The name dates back to centuries ago, when the dwarves began to "
 "exploit the iron deposits under the hills; the scraps of their excavations "
@@ -2147,16 +2149,16 @@ msgstr ""
 "け早く突っ切ったほうがいいと思うぜ！"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:504
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:505
 msgid "It seems like a great idea to me!"
 msgstr "それが一番よさそうだな！"
 
 #. [message]: speaker=Glubtrub
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:508
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:509
 msgid "Glubtrub to think the same!"
 msgstr "Glubtrub 、同じ、考える！"
 
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:510
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:511
 msgid ""
 "Well then! There is a monolith, beyond these hills, that should show us "
 "where the old Amber Road takes up again! We just have to get there!"
@@ -2166,7 +2168,7 @@ msgstr ""
 
 #. [message]: speaker=Mimord
 #. "By my grandfather's beard!" is a humorous dwarvish idiom meant to signify the swearing of an oath:
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:517
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:518
 msgid ""
 "By my grandfather's beard! Some humans, and even... Wesnothian soldiers? "
 "What the hell are you doing here?"
@@ -2175,7 +2177,7 @@ msgstr ""
 "てんだ？"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:521
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:522
 #, fuzzy
 #| msgid ""
 #| "My name is Glauco! I'm the commander of the Amoran's garrison, and I'm "
@@ -2191,7 +2193,7 @@ msgstr ""
 "から立ち去ったと思っていたが。"
 
 #. [message]: speaker=Mimord
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:525
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:526
 msgid ""
 "They did so, in fact! There is only me, Mimord, here! I stayed here because "
 "the others said I was a troublemaker, so when they left I said, 'If I stay "
@@ -2205,7 +2207,7 @@ msgstr ""
 "除いてな！あー、退屈だぜ..."
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:530
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:531
 msgid ""
 "Ehm... Beh... We're sorry to have bothered you, but as you can see, we "
 "already have our troubles and we don't want to have other troubles with you! "
@@ -2216,7 +2218,7 @@ msgstr ""
 "気でな。"
 
 #. [message]: speaker=Mimord
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:534
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:535
 msgid ""
 "One moment... can I came with you? I've never seen the sea before, and "
 "besides... I'm sick of always having only the beasts to fight with around "
@@ -2231,13 +2233,13 @@ msgstr ""
 "ぶぞ！なあ、オレを雇ってくれ、おい... 50 gold でどうだ！"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:538
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:539
 msgid "In truth... we try to avoid problems when possible."
 msgstr "本音を言うと... なるべくトラブルは避けたい。"
 
 #. [message]: speaker=Mimord
 #. "By my sister's mustache" is another humorous dwarvish idiom meant to signify the swearing of an oath:
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:543
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:544
 #, fuzzy
 #| msgid ""
 #| "By my sister's moustache, that is a truly ridiculous statement, commander "
@@ -2254,7 +2256,7 @@ msgstr ""
 "切りたい誰かさんの口から出た話はよ！なあ、オレの言ってること、分かってるだ"
 "ろ？　あーあ、アンタの勝ちだ、タダで付いてくよ、死ぬほど暇なんだよ。"
 
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:545
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:546
 msgid ""
 "The dwarf is not all wrong! In my opinion it will do more good than bad if "
 "he comes with us! Although we should almost be near at the sea, we don't "
@@ -2265,7 +2267,7 @@ msgstr ""
 "に... いざとなれば Amoran に帰ることもあるし。"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:548
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:549
 msgid ""
 "Then you can come with us, Mimord, but I will decide who to... attack, "
 "understood?"
@@ -2275,7 +2277,7 @@ msgstr ""
 
 #. [message]: speaker=Mimord
 #. "By my cousin's hammer" is one more humorous dwarvish idiom meant to signify the swearing of an oath:
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:553
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:554
 msgid ""
 "Understood! You did a great deal, commander Glauco! But, by my cousin's "
 "hammer, you're one tough merchant, to get my services for nothing... my "
@@ -2286,7 +2288,7 @@ msgstr ""
 "た... 褒めてるんだぜ、ほんとに。"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:557
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:558
 msgid ""
 "Actually I don't... oh well, forget it and let's reach that monolith beyond "
 "the hills."
@@ -2295,29 +2297,29 @@ msgstr ""
 
 #. [message]: speaker=Glubtrub
 #. I am actually not quite sure what Glubtrub means by "Urca"; it could just be a sound of exclamation, like "Urk!" or "Ack!" or something:
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:565
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:566
 msgid "Urca! Bats ugly, Glubtrub to hate bats!"
 msgstr "うわっ！コウモリ、醜い。 Glubtrub は、コウモリきらい！"
 
 #. [message]: speaker=Glauco
 #. this said "pet" originally, but... I don't think the bats are actually pets though?
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:570
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:571
 msgid ""
 "How are you afraid of an animal that's so much smaller than you, Glubtrub?"
 msgstr "自分よりも随分小さい動物を怖がるなんて、Glubtrub 、どうしたんだ？"
 
 #. [message]: speaker=Glubtrub
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:575
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:576
 msgid "No to have fear, but bats to have ugly taste! Bleah!"
 msgstr "怖い、無い。でも、コウモリ醜い、気味悪い！ブーー！"
 
 #. [message]: speaker=Divaid
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:582
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:583
 msgid "And just so we won't miss anything, here are the wolves!"
 msgstr "それと、見落とさないよう紹介しておくぞ、さあ、オオカミちゃんたちだ！"
 
 #. [message]: speaker=Croquet
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:586
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:587
 msgid ""
 "And just so we won't miss anything, here are the wolves! Beh, maybe Fangy "
 "could find a cute one and enlarge the family!"
@@ -2326,13 +2328,13 @@ msgstr ""
 "Fangy が可愛い子ちゃんを見つけて、家族を増やすかもな！"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:590
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:591
 msgid "Well, hey! I'm not complaining about what is lacking!"
 msgstr "なあ、おい！足りてないものに不満は言わんぞ！"
 
 #. [message]: speaker=Joralda
 #. The colors refer to the flags that flutter.
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:605
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:606
 msgid ""
 "Welcome, foreigners! It's been a long time since we last saw the colors of "
 "Wesnoth around here! We wonder why you came back to us right now."
@@ -2343,7 +2345,7 @@ msgstr ""
 
 #. [message]: speaker=Glauco
 #. This is about as well as I can reword this:
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:610
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:611
 msgid ""
 "My greetings! I'm the commander Glauco, from Amoran. I came here to reopen "
 "the old Amber Road! There is someone in Wesnoth who came back from here who "
@@ -2354,7 +2356,7 @@ msgstr ""
 "中に、この道にとても関心をお持ちの方がおいでなんですね！"
 
 #. [message]: speaker=Joralda
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:614
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:615
 msgid ""
 "As you are here, I deduce that you have already gotten rid of the Nagas that "
 "had gone up the river years ago: and the presence of an ogre in your row "
@@ -2367,7 +2369,7 @@ msgstr ""
 "ではないかと、それを心配しています。"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:618
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:619
 msgid ""
 "Oh, for that, we are already used to facing problems of any kind! What's the "
 "ones here?"
@@ -2376,7 +2378,7 @@ msgstr ""
 "か？"
 
 #. [message]: speaker=Joralda
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:628
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:629
 msgid ""
 "The deposits of amber, on the island opposite the mouth of the river, are no "
 "longer controlled by the Nereids, but by the saurians! And they make our "
@@ -2389,7 +2391,7 @@ msgstr ""
 
 #. [message]: speaker=Glubtrub
 #. "leatherish" was originally "coriaceous" but that doesn't seem like a word that an ogre would know:
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:634
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:635
 msgid ""
 "Urca! Lizards more worst mess, more leatherish of snakes to chew, more hard "
 "squash them, small, fast, sting with lance and makes strange things with "
@@ -2399,7 +2401,7 @@ msgstr ""
 "のはもっと大変、小さくて、速くて、ランスで刺す。冷たい光で変なもの作る！"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:638
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:639
 msgid ""
 "Yet, without the possibility of having amber, all the efforts made to get "
 "here have been in vain! But how did they settle on your islands?"
@@ -2409,7 +2411,7 @@ msgstr ""
 "か？"
 
 #. [message]: speaker=Joralda
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:642
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:643
 msgid ""
 "During the coldest seasons, sometimes, we move to a bay further south for a "
 "month or two, when the water here becomes too cold, just like the last "
@@ -2429,7 +2431,7 @@ msgstr ""
 "中で一番小さな集落なのです。"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:646
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:647
 msgid ""
 "If we help you to reconquer the island, are you willing to go up the river, "
 "say once or twice a year, to bring amber to Amoran? You can do it without "
@@ -2445,7 +2447,7 @@ msgstr ""
 "陸地点を設けても、オーガが安全を保証してくれることでしょう。"
 
 #. [message]: speaker=Joralda
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:650
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:651
 msgid ""
 "Of course, you are breaking through an open door. It was Wesnoth who stopped "
 "being interested in amber, decades ago, but it has been always a good "
@@ -2456,22 +2458,22 @@ msgstr ""
 "の人々へ琥珀をもたらすことは、私たちにとって、今も有益な事業なんです！"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:654
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:655
 msgid "Then, there is only one thing left to do!"
 msgstr "じゃあ、残る問題は、一点だけですね！"
 
 #. [message]: speaker=Glubtrub
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:664
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:665
 msgid "To squash lizards, Oh Oh Oh! Even Glubtrub understand!"
 msgstr "トカゲを潰す、オゥオゥオゥ！　Glubtrub も分かるよ！"
 
 #. [message]: speaker=Mimord
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:668
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:669
 msgid "Finally, a bit of exercise for my axe!"
 msgstr "やっと、オレの斧の手慣らしができそうだな！"
 
 #. [message]: speaker=Giksy
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:678
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:679
 msgid ""
 "Fisssh and mammalsss together, to take our treasssure, I bet! The only metal "
 "that they will have will be the iron of our ssspearsss!"
@@ -2480,23 +2482,23 @@ msgstr ""
 "アイツらが持ってる唯一の金属は、俺たちの槍の鉄と化スだろう、シャー！"
 
 #. [message]: speaker=Joralda
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:685
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:686
 msgid "Look to north, friends, those big green snakes are poisonous!"
 msgstr ""
 "北を見てください、お友達の皆さん。あの大きな緑色の蛇は毒を持っているんです！"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:690
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:691
 msgid "And the thing that is big but gray, is poisonous too?"
 msgstr "それと、大きいけれど灰色の物、ヤツも毒を持っているのでしょうか？"
 
 #. [message]: speaker=Joralda
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:694
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:695
 msgid "No, those gray ones don't need to use poison!"
 msgstr "いいえ、あの灰色のは毒を使う必要がないのです！"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:698
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:699
 msgid ""
 "Understood! Guys, pay attention to all three of the big snakes; they are "
 "much worse than the nagas!"
@@ -2505,12 +2507,12 @@ msgstr ""
 "だぞ！"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:706
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:707
 msgid "Finally we won, and finally we can go back to Amoran!"
 msgstr "遂に勝利した、そして遂に、Amoran に戻れる！"
 
 #. [message]: speaker=Joralda
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:710
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:711
 msgid ""
 "Not before having properly celebrated this victory! Your help has spared "
 "much grief to my people, and we must show you our gratitude for this; we "
@@ -2523,13 +2525,13 @@ msgstr ""
 "えています。"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:714
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:715
 msgid "With great pleasure, and not only mine, right Glubtrub?"
 msgstr "なんと喜ばしいことでしょう。私だけでなく Glubtrub も、だよな？"
 
 #. [message]: speaker=Glubtrub
 #. "work with belly" = eat:
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:719
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:720
 msgid ""
 "Very much true! Stop to work with arms! Now to work with belly! Oh! Oh! Oh!"
 msgstr ""
@@ -2537,12 +2539,12 @@ msgstr ""
 "オゥ！オゥ！"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:726
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:727
 msgid "What happened here? Where did all those orcs come from?"
 msgstr "ここで何があったのだ？あのオーク達は一体どこから？"
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:730
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:731
 msgid ""
 "One moment, I know those blue and yellow banners! That's the Gan-Tarkas "
 "tribe! In Weldyn that name is well known! He is one of the most powerful and "
@@ -2558,7 +2560,7 @@ msgstr ""
 "ら、何か特別な目的があるはずで、休暇のためではないでしょう。"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:734
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:735
 msgid ""
 "But if he had warlike intent, why didn't he take advantage of our absence to "
 "put such an intent into practice? He has a huge army with him and he would "
@@ -2568,7 +2570,7 @@ msgstr ""
 "が。奴には大規模な軍隊があるから、容易に勝利できるだろうに。"
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:738
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:739
 msgid ""
 "If that's the case, with the army he seems to have, he could easily win even "
 "now. Gan-Tarkas is not the usual tribe-head... and maybe I understand! He "
@@ -2583,13 +2585,13 @@ msgstr ""
 "すよ。"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:742
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:743
 msgid "Let's try to talk to him, and hear what he wants."
 msgstr "奴と話をしてみよう、望みが何か尋ねてみる。"
 
 #. [message]: speaker=Glauco
 #. this is the farthest Glauco can advance:
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:759
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:760
 msgid ""
 "I'm the grand marshal Glauco, military commander of the city of Amoran! I "
 "ask to speak with the warlord called Gan-Tarkas."
@@ -2599,7 +2601,7 @@ msgstr ""
 
 #. [message]: speaker=Glauco
 #. "general" in the sense of the military rank; this is as far as Glauco has usually made it for me:
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:767
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:768
 msgid ""
 "I'm the general Glauco, military commander of the city of Amoran! I ask to "
 "speak with the warlord called Gan-Tarkas."
@@ -2609,7 +2611,7 @@ msgstr ""
 
 #. [message]: speaker=Glauco
 #. if the player hasn't been using Glauco much for combat, he might still be a lieutenant (has happened to me before):
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:775
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:776
 msgid ""
 "I'm the lieutenant Glauco, military commander of the city of Amoran! I ask "
 "to speak with the warlord called Gan-Tarkas."
@@ -2619,7 +2621,7 @@ msgstr ""
 
 #. [message]: speaker=Glauco
 #. if none of the other cases match, assume he's still a sergeant, as that was the default assumption before this switch statement was added:
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:782
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:783
 msgid ""
 "I'm the sergeant Glauco, military commander of the city of Amoran! I ask to "
 "speak with the warlord called Gan-Tarkas."
@@ -2628,7 +2630,7 @@ msgstr ""
 "い。尋ねたいことがある。"
 
 #. [message]: speaker=Gan-Tarkas
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:789
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:790
 msgid ""
 "What an honor, commander Glauco! Your fame as an exterminator of snakes "
 "precedes you, and, as somebody tells to me, also your fame as an "
@@ -2642,7 +2644,7 @@ msgstr ""
 "た）</span>そのような栄誉に、私はどう応えればよいかな？"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:793
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:794
 msgid ""
 "Well, your fame, Gan-Tarkas, is much older than mine, and it's such that it "
 "makes me wonder what may have brought such a warlord down here."
@@ -2651,7 +2653,7 @@ msgstr ""
 "ら。そんな武将が、またどうしてこんなところにいるのか謎ですな。"
 
 #. [message]: speaker=Gan-Tarkas
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:797
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:798
 msgid ""
 "The answer is easy: Amoran brought me down here. Oh, not that there has ever "
 "been anything that deserved my interest in those four falling houses in the "
@@ -2664,7 +2666,7 @@ msgstr ""
 "もオーク族には違いない。"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:801
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:802
 msgid ""
 "We had the right to do what we did! Grunto attacked us first, and without "
 "any provocation on our part."
@@ -2673,7 +2675,7 @@ msgstr ""
 "こちらが挑発したわけでもないのに。"
 
 #. [message]: speaker=Gan-Tarkas
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:805
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:806
 msgid ""
 "Of course he did it. Ah! Ah! Ah! I ordered him to do it! And now you should "
 "open your ears very well, little man, because my words could be the last you "
@@ -2683,7 +2685,7 @@ msgstr ""
 "の言葉は、おまえが人生最後に聞くものになるかもしれんぞ！"
 
 #. [message]: speaker=Gan-Tarkas
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:809
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:810
 msgid ""
 "I'm not interested in Amoran, I'm interested in the whole eastern territory, "
 "from here to the coast! But I can't take it until Wesnoth thinks that "
@@ -2698,7 +2700,7 @@ msgstr ""
 "たはずだ、ここに Wesnoth 人の旗はどこにもないぞ、と言ってな。"
 
 #. [message]: speaker=Gan-Tarkas
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:813
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:814
 msgid ""
 "But you put the sticks between my wheels twice, first when you defeated "
 "Grunto and his human ally Dadoc, and then you started to go to the east."
@@ -2708,7 +2710,7 @@ msgstr ""
 "だ。"
 
 #. [message]: speaker=Gan-Tarkas
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:817
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:818
 msgid ""
 "I immediately understood that you were going there for the amber, and for "
 "that reason I waited for you here; I'm sorry, but you and all your friends "
@@ -2723,7 +2725,7 @@ msgstr ""
 #. [message]: speaker=Gan-Tarkas
 #. I thought the usage of "indemnify" here was wrong at first, but then I checked and I guess it works like this after all...
 #. it still might be worth rewording anyways, though.
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:823
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:824
 msgid ""
 "I know well they will be angry for the destruction of Amoran, but I'll "
 "retire immediately, I will make an act of contrition, I will say that I "
@@ -2741,7 +2743,7 @@ msgstr ""
 "れるために。こうして我が一族は大陸一の、オークで最も強力な一族となるのだ！"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:827
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:828
 msgid ""
 "But I'll put my stick between your wheels for the third time, you damned "
 "orc, because I won't allow you to cross the ford and destroy my town!"
@@ -2751,7 +2753,7 @@ msgstr ""
 "をな！"
 
 #. [message]: speaker=Gan-Tarkas
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:831
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:832
 msgid ""
 "Ah! Ah! Ah! Foul human! You really think that the great Gan-Tarkas needs "
 "your ford to overpass a river? I've been preparing myself for months, and "
@@ -2764,12 +2766,12 @@ msgstr ""
 "足だったな。アッハッハッハ！"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:838
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:839
 msgid "Let's get some extra fortifications set up, men!"
 msgstr "よし、もっと堅固に防備を固めるぞ、男ども！"
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:852
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:853
 msgid ""
 "Look! He prepared some boats loaded with boulders to sink into the river to "
 "create a passage! It must have taken months to plan and prepare this battle; "
@@ -2784,7 +2786,7 @@ msgstr ""
 "流すことさえ企んでいたのです！"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:856
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:857
 msgid ""
 "And we will be just as worthy, but with our value and our weapons! Men and "
 "ogre, let us show the great Gan-Tarkas that this time he did his accounts "
@@ -2795,12 +2797,12 @@ msgstr ""
 "奴が計算を間違ったということを！"
 
 #. [message]: speaker=Glubtrub
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:860
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:861
 msgid "Wait! Big problem! Glubtrub to know not to make accounts!"
 msgstr "待って！ 問題ある、とっても！ Glubtrub、計算の仕方、知らないよ！"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:864
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:865
 msgid ""
 "No problem, my friend! You simply have to squash more orcs that you can see! "
 "Today we count so!"
@@ -2810,17 +2812,17 @@ msgstr ""
 
 #. [message]: speaker=Glubtrub
 #. Glubtrub is an ogre so he can make up words like that; an "accounter" is one who "accounts"
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:870
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:871
 msgid "Yes... big nice... Glubtrub great accounter of squash!"
 msgstr "分かった... 大きくいい... Glubtrub は、たくさん潰す計算係だぞ！"
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:877
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:878
 msgid "Beware! They are doing the same thing on the other side!"
 msgstr "注意してください！奴ら、別のところでも同じ作業をしています！"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:881
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:882
 msgid ""
 "So he forced us to divide our forces; he's really giving us a tactical "
 "lesson; let him see that we learn quickly!"
@@ -2829,7 +2831,7 @@ msgstr ""
 "的に試そうとしている。我々の対応の早さを見せてやろうじゃないか！"
 
 #. [message]: speaker=Hisskss
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:894
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:895
 msgid ""
 "Here I am, Gan-Tarkass, I came to help you, asss I promisssed, to avenge my "
 "brother Ksshiss, killed by thisss mammalsss! And I alssso put my gold at "
@@ -2840,7 +2842,7 @@ msgstr ""
 "をスーきに使っていいぞ！ シャー！！"
 
 #. [message]: speaker=Gan-Tarkas
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:898
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:899
 msgid ""
 "I assure you that I'll make a good use of it, and your brother will be "
 "avenged!"
@@ -2849,12 +2851,12 @@ msgstr ""
 "してやる！きっとな！"
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:902
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:903
 msgid "There's woe coming to us from the river, commander!"
 msgstr "川から災難というか、頭痛の種がやってきます、司令官！"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:906
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:907
 msgid ""
 "I saw them! But we can only fight against them; at least it will be an "
 "opportunity to get rid of the Nagas once and for all!"
@@ -2863,13 +2865,13 @@ msgstr ""
 "を一旦追い払うきっかけになるだろう！"
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:910
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:911
 msgid ""
 "Here's to hoping it isn't the opportunity for the nagas to get rid of us!"
 msgstr "我々がナーガに追い払われるきっかけにならないことを祈りましょう！"
 
 #. [message]: speaker=narrator
-#: A_Little_Adventure/utils/ALA_dialogues.cfg:918
+#: A_Little_Adventure/utils/ALA_dialogues.cfg:919
 msgid "Welcome to Amoran, the last Wesnothian town to the east"
 msgstr "Wesnoth 人の最東端の街、Amoran へようこそ"
 
