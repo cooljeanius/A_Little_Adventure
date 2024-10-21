@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-09-22 00:01 UTC\n"
+"POT-Creation-Date: 2024-10-21 05:09 UTC\n"
 "PO-Revision-Date: 2024-01-16 10:53+0900\n"
 "Last-Translator: konami,k <konamit2008@gmail.com>\n"
 "Language-Team: \n"
@@ -188,8 +188,8 @@ msgstr "敵のリーダーを１人倒す"
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:154
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:279
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:321
-#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:81
-#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:252
+#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:84
+#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:263
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:159
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:252
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:67
@@ -251,8 +251,8 @@ msgstr "Geobard"
 #. [objective]: condition=lose
 #: A_Little_Adventure/scenarios/01_The_Attack_to_Amoran.cfg:283
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:325
-#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:85
-#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:256
+#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:88
+#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:267
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:163
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:256
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:71
@@ -374,8 +374,8 @@ msgstr "Divaid の死"
 
 #. [objective]: condition=lose
 #: A_Little_Adventure/scenarios/02a_Battle_with_the_Bandits.cfg:333
-#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:89
-#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:264
+#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:92
+#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:275
 msgid "End of turns"
 msgstr "時間切れ"
 
@@ -463,78 +463,78 @@ msgid "Battle with the Orcs"
 msgstr "オークとの戦い"
 
 #. [objective]: condition=win
-#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:77
-#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:248
+#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:80
+#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:259
 msgid "Defeat Grunto"
 msgstr "Grunto を倒す"
 
 #. [event]
-#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:101
+#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:104
 msgid "Perticus"
 msgstr "Perticus"
 
 #. [event]
-#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:102
+#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:105
 msgid "Paroclo"
 msgstr "Paroclo"
 
 #. [event]
-#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:103
+#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:106
 msgid "Octavio"
 msgstr "Octavio"
 
 #. [event]
-#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:104
+#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:107
 msgid "Geruntius"
 msgstr "Geruntius"
 
 #. [event]
-#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:105
+#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:108
 msgid "Virgulio"
 msgstr "Virgulio"
 
 #. [event]
-#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:106
+#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:109
 msgid "Closofeo"
 msgstr "Closofeo"
 
 #. [event]
-#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:116
+#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:119
 msgid "Olly"
 msgstr "Olly"
 
 #. [unit]: type=Trapper, id=Croquet
-#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:195
+#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:206
 msgid "Croquet"
 msgstr "Croquet"
 
 #. [unit]: type=Great Wolf, id=Fangy
-#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:217
+#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:228
 msgid "Fangy"
 msgstr "Fangy"
 
 #. [attack]: type=blade
-#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:228
+#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:239
 msgid "fangs"
 msgstr "牙"
 
 #. [objective]: condition=lose
-#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:260
+#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:271
 msgid "Death of Croquet"
 msgstr "Croquet の死"
 
 #. [message]: speaker=Grunto
-#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:287
+#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:298
 msgid "Aaaaah!"
 msgstr "アアアウ!!!"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:294
+#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:305
 msgid "Die, orc, for all of Amoran's people!"
 msgstr "死ね、オーク、Amoran の民のために！"
 
 #. [message]: speaker=Glauco
-#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:315
+#: A_Little_Adventure/scenarios/02b_Battle_with_the_Orcs.cfg:326
 #: A_Little_Adventure/scenarios/03_The_Nagas_Nest.cfg:428
 msgid ""
 "Damn! This battle is dragging on too long, the men are exhausted! We must "
@@ -3194,17 +3194,30 @@ msgstr ""
 
 #. TODO: check "sergeant" usage:
 #: A_Little_Adventure/utils/ALA_story.cfg:57
+#, fuzzy
+#| msgid ""
+#| "With Dadoc's gang out of the games, and emboldened by the victory "
+#| "obtained and by his new commander prerogatives, Glauco decided to face at "
+#| "least one of others Amoran's problems, that's to say Grunto the orc; as "
+#| "Grunto was not a member of the tribes associated with the Northern "
+#| "Alliance, it would be unlikely that other orcish chiefs would help him, "
+#| "especially now that he had already been defeated in the previous battle, "
+#| "and therefore he saw his reputation finish, as it's called among the "
+#| "orcs, in a troll latrine. However, emboldening had not meant that he had "
+#| "become stupid, for the young sergeant. A campaign in hostile territory, "
+#| "against forces with only partly-known numbers, was, however, risky and "
+#| "full of unknowns."
 msgid ""
-"With Dadoc's gang out of the games, and emboldened by the victory obtained "
-"and by his new commander prerogatives, Glauco decided to face at least one "
-"of others Amoran's problems, that's to say Grunto the orc; as Grunto was not "
-"a member of the tribes associated with the Northern Alliance, it would be "
-"unlikely that other orcish chiefs would help him, especially now that he had "
-"already been defeated in the previous battle, and therefore he saw his "
-"reputation finish, as it's called among the orcs, in a troll latrine. "
-"However, emboldening had not meant that he had become stupid, for the young "
-"sergeant. A campaign in hostile territory, against forces with only partly-"
-"known numbers, was, however, risky and full of unknowns."
+"With Dadoc's gang out of the games, and emboldened by the victory he had "
+"obtained, and by his new prerogatives as commander, Glauco decided to face "
+"at least one of others Amoran's problems, which is to say, Grunto the orc. "
+"Since Grunto was not a member of the tribes associated with the Northern "
+"Alliance, it would be unlikely that other orcish chiefs would help him, "
+"especially now that he had already been defeated in the previous battle, and "
+"therefore he saw his reputation decline, as they say among the orcs, into a "
+"troll latrine. However, emboldening had not meant that he had become stupid, "
+"for the young sergeant. A campaign in hostile territory, against forces with "
+"only partly-known numbers, was, however, risky and full of unknowns."
 msgstr ""
 "Dadoc 一団が戦線を離脱して、勝利と指揮官としての新たな特権を得た Glauco は、"
 "少なくとも Amoran の他の問題の一つ、すなわちオークの Grunto と対決することを"
