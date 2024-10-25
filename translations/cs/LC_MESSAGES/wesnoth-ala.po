@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-10-21 07:09 UTC\n"
+"POT-Creation-Date: 2024-10-25 01:31 UTC\n"
 "PO-Revision-Date: 2024-04-22 22:30+0200\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
@@ -905,22 +905,22 @@ msgid "With your end, orc, Amoran can and will have a new start!"
 msgstr "S tvým koncem, skřete, může a bude mít Amoran novou budoucnost!"
 
 #. [message]: speaker=Glubtrub
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:541
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:544
 msgid "To remain only to squash big snake!"
 msgstr "Jen velký had zbývat rozmáčknout!"
 
 #. [message]: speaker=Hisskss
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:557
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:560
 msgid "Hissss!"
 msgstr "Assss!"
 
 #. [message]: speaker=Glubtrub
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:565
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:568
 msgid "Other snake make flat-flat! Oh! Oh! Oh!"
 msgstr "Další had ležet jak kláda! Hó! Hó! Hó!"
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:574
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:577
 msgid "And now let's finish taking care of his friend, Gan-Tarkas!"
 msgstr "A teď to pojďme dokončit s jeho kámošem Gan-Tarkasem!"
 

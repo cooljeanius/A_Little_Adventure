@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-10-21 07:09 UTC\n"
+"POT-Creation-Date: 2024-10-25 01:31 UTC\n"
 "PO-Revision-Date: 2024-01-16 10:53+0900\n"
 "Last-Translator: konami,k <konamit2008@gmail.com>\n"
 "Language-Team: \n"
@@ -892,22 +892,22 @@ msgid "With your end, orc, Amoran can and will have a new start!"
 msgstr "オークさんよ、お前らが消えて、Amoran は新しいスタートを切れるんだよ！"
 
 #. [message]: speaker=Glubtrub
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:541
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:544
 msgid "To remain only to squash big snake!"
 msgstr "大きなヘビ潰すためだけに、オレ、残る！"
 
 #. [message]: speaker=Hisskss
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:557
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:560
 msgid "Hissss!"
 msgstr "シャーーーッ！"
 
 #. [message]: speaker=Glubtrub
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:565
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:568
 msgid "Other snake make flat-flat! Oh! Oh! Oh!"
 msgstr "他のヘビ、みんな静かにしてるでしょ、こら！オゥオゥオゥ！"
 
 #. [message]: speaker=Geobard
-#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:574
+#: A_Little_Adventure/scenarios/06_The_Last_Battle.cfg:577
 msgid "And now let's finish taking care of his friend, Gan-Tarkas!"
 msgstr "さて、それじゃ、彼のご友人、 Gan-Tarkas を始末する番だ！"
 
