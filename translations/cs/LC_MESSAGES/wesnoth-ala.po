@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-10-25 01:31 UTC\n"
-"PO-Revision-Date: 2024-04-22 22:30+0200\n"
+"PO-Revision-Date: 2024-11-22 23:09+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.5\n"
 
 #. [campaign]: id=A_little_Adventure
 #. Strings from utils/ALA_Deaths.cfg used to get put in the potfile
@@ -685,8 +685,6 @@ msgstr ""
 
 #. [message]: speaker=Divaid
 #: A_Little_Adventure/scenarios/04_The_Bloody_Hills.cfg:394
-#, fuzzy
-#| msgid "Don't you dare to touch my friend Ranfy, tattooed midget!"
 msgid "Don't you dare try to touch my friend Ranfy, you tattooed midget!"
 msgstr "Neopovažuj se dotknout mého přítele Ranfyho, ty potetovanej zakrslíku!"
 
@@ -1675,11 +1673,6 @@ msgstr ""
 #. [message]: speaker=Glauco
 #. a "corvée" is when laborers do unpaid work for one specific task:
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:262
-#, fuzzy
-#| msgid ""
-#| "You've got that right, Geobard, this plain is completely bare; but look "
-#| "to the forest to our right! Organize a corvee that takes logs from it to "
-#| "build a fence here."
 msgid ""
 "You've got that right, Geobard, this plain is completely bare; but look to "
 "the forest to our right! Organize a corvée that takes logs from it to build "
@@ -2205,11 +2198,6 @@ msgstr ""
 
 #. [message]: speaker=Glauco
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:522
-#, fuzzy
-#| msgid ""
-#| "My name is Glauco! I'm the commander of the Amoran's garrison, and I'm "
-#| "trying to reach the nereid's bay at the mouth of the Amber River! And who "
-#| "would you be? I thought all the dwarves had left these hills."
 msgid ""
 "My name is Glauco! I'm the commander of the Amoran's garrison, and I'm "
 "trying to reach the nereids' bay at the mouth of the Amber River! And who "
@@ -2266,12 +2254,6 @@ msgstr "Po pravdě... snažíme se problémům vyhýbat, když je to možné."
 #. [message]: speaker=Mimord
 #. "By my sister's mustache" is another humorous dwarvish idiom meant to signify the swearing of an oath:
 #: A_Little_Adventure/utils/ALA_dialogues.cfg:544
-#, fuzzy
-#| msgid ""
-#| "By my sister's moustache, that is a truly ridiculous statement, commander "
-#| "Glauco, from the mouth of someone who wants to cross these territories! "
-#| "Do you know what I tell you? You have won, I'll come with you for free; I "
-#| "am bored to death here."
 msgid ""
 "By my sister's mustache, that is a truly ridiculous statement, commander "
 "Glauco, from the mouth of someone who wants to cross these territories! Do "
@@ -2958,10 +2940,8 @@ msgstr "Čtvrtá hlídka"
 
 #. [damage]: id=tail_stun
 #: A_Little_Adventure/utils/ALA_specials.cfg:8
-#, fuzzy
-#| msgid "tail"
 msgid "tail stun"
-msgstr "ocas"
+msgstr "omráčení ocasem"
 
 #. [damage]: id=tail_stun
 #. the "stun" ability is also in some mainline campaigns, I think; try to keep the translation string similar:
@@ -3232,19 +3212,6 @@ msgstr ""
 
 #. TODO: check "sergeant" usage:
 #: A_Little_Adventure/utils/ALA_story.cfg:57
-#, fuzzy
-#| msgid ""
-#| "With Dadoc's gang out of the games, and emboldened by the victory "
-#| "obtained and by his new commander prerogatives, Glauco decided to face at "
-#| "least one of others Amoran's problems, that's to say Grunto the orc; as "
-#| "Grunto was not a member of the tribes associated with the Northern "
-#| "Alliance, it would be unlikely that other orcish chiefs would help him, "
-#| "especially now that he had already been defeated in the previous battle, "
-#| "and therefore he saw his reputation finish, as it's called among the "
-#| "orcs, in a troll latrine. However, emboldening had not meant that he had "
-#| "become stupid, for the young sergeant. A campaign in hostile territory, "
-#| "against forces with only partly-known numbers, was, however, risky and "
-#| "full of unknowns."
 msgid ""
 "With Dadoc's gang out of the games, and emboldened by the victory he had "
 "obtained, and by his new prerogatives as commander, Glauco decided to face "
@@ -3259,7 +3226,7 @@ msgid ""
 msgstr ""
 "Poté, co se Dadokova banda ocitla mimo hru, se Glauko, povzbuzen dosaženým "
 "vítězstvím a svými novými velitelskými výsadami, rozhodl čelit alespoň "
-"jednomu z dalších problémů Amoranu, a to skřetovi Gruntovi. Protože Grunto "
+"jednomu z dalších problémů Amoranu, tedy skřetovi Gruntovi. Protože Grunto "
 "nebyl členem kmenů spojených se Severní aliancí, bylo nepravděpodobné, že by "
 "mu jiní skřetí náčelníci pomohli. A zvláště teď, když už byl poražen v "
 "předchozí bitvě, a tak mohl vidět, jak jeho pověst mezi skřety padá jak to "
